@@ -1,0 +1,11 @@
+<map id="DeStateDetectContinueDetection" name="DeStateDetectContinueDetection">
+<area shape="rect" id="node2" href="$app-layer-parser_8c.html#aac5503d1811500f82687093b7d85d341" title="get the progress value for a tx/protocol " alt="" coords="281,5,500,32"/>
+<area shape="rect" id="node4" href="$app-layer-parser_8c.html#aa6d2b1e4dcee3616e0fdda0ee96e03f8" title="AppLayerParserGetStateProgress\lCompletionStatus" alt="" coords="281,57,500,98"/>
+<area shape="rect" id="node5" href="$app-layer-parser_8c.html#a6aa2bf85c50af391090247d1416758d8" title="AppLayerParserGetTransaction\lInspectId" alt="" coords="289,122,493,163"/>
+<area shape="rect" id="node6" href="$app-layer-parser_8c.html#a2a0c9e0f732c9fb0240cf2f0b73613f6" title="AppLayerParserGetTx" alt="" coords="315,188,466,215"/>
+<area shape="rect" id="node7" href="$app-layer-parser_8c.html#a8fe15cbcd76f969cc497b74aeb90ee66" title="AppLayerParserGetTxCnt" alt="" coords="305,239,477,265"/>
+<area shape="rect" id="node8" href="$app-layer-parser_8c.html#a0c30716ce0c65eca306be891f35411d2" title="AppLayerParserGetTxDetect\lState" alt="" coords="295,290,486,331"/>
+<area shape="rect" id="node9" href="$app-layer-parser_8c.html#a5d36767e076ef8376251c27326532e55" title="AppLayerParserProtocolSupportsTxs" alt="" coords="272,356,509,383"/>
+<area shape="rect" id="node10" href="$flow_8c.html#afb864b6392ad4eddbdf7092d4ec4e78e" title="FlowGetAppState" alt="" coords="328,407,453,433"/>
+<area shape="rect" id="node3" href="$flow-util_8c.html#a897ee3b52fa7876e9780704dbc2d1b11" title="Function to map the protocol to the defined FLOW_PROTO_* enumeration. " alt="" coords="558,213,709,240"/>
+</map>

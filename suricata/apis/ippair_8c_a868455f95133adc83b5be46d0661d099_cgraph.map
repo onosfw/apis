@@ -1,0 +1,6 @@
+<map id="IPPairClearMemory" name="IPPairClearMemory">
+<area shape="rect" id="node2" href="$ippair-storage_8c.html#a6443a716940550e360ba55ae86933b75" title="IPPairFreeStorage" alt="" coords="190,56,319,83"/>
+<area shape="rect" id="node3" href="$ippair-storage_8c.html#af83d3e0fbb759e3c07a1f75bd6d14b9a" title="IPPairStorageSize" alt="" coords="369,5,498,32"/>
+<area shape="rect" id="node5" href="$util-storage_8c.html#a842a9a77b4fb19baf4b10fc9ed2bd3fb" title="StorageFreeAll" alt="" coords="379,56,487,83"/>
+<area shape="rect" id="node4" href="$util-storage_8c.html#a7cc083db4db0385f32d65439b82827f9" title="get the size of the void array used to store the pointers " alt="" coords="547,5,661,32"/>
+</map>

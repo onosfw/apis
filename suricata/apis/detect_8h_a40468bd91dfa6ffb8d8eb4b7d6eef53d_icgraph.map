@@ -1,0 +1,5 @@
+<map id="SigMatchFree" name="SigMatchFree">
+<area shape="rect" id="node2" href="$detect-ipproto_8h.html#acdb7dd67200614dfae7291b594c13fbd" title="DetectIPProtoRemoveAllSMs" alt="" coords="158,5,354,32"/>
+<area shape="rect" id="node4" href="$detect-parse_8h.html#abd9806753735a8d2e753c1a318dae122" title="SigFree" alt="" coords="223,56,289,83"/>
+<area shape="rect" id="node3" href="$detect-parse_8h.html#ad6353fe80f6b478067071dc1a587f12b" title="parse a signature " alt="" coords="403,5,477,32"/>
+</map>

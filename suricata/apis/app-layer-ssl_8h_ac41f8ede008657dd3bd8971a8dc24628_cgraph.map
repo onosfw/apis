@@ -1,0 +1,39 @@
+<map id="RegisterSSLParsers" name="RegisterSSLParsers">
+<area shape="rect" id="node2" href="$app-layer-parser_8c.html#a88e3531566baa49719a9edd0cb1ef6fa" title="Given a protocol name, checks if the parser is enabled in the conf file. " alt="" coords="208,370,389,411"/>
+<area shape="rect" id="node7" href="$app-layer-parser_8c.html#a4464abdb35bc030e13e77c20fa812e31" title="AppLayerParserRegisterGet\lEventInfo" alt="" coords="206,70,391,111"/>
+<area shape="rect" id="node9" href="$app-layer-parser_8c.html#ab12da1e0fb5d53f08ad527d8c0545edb" title="Register app layer parser for the protocol. " alt="" coords="197,136,400,163"/>
+<area shape="rect" id="node10" href="$app-layer-parser_8c.html#a9d0e2fe5b5c9f000e32a11408336179a" title="AppLayerParserRegisterParser\lAcceptableDataDirection" alt="" coords="197,187,400,229"/>
+<area shape="rect" id="node11" href="$app-layer-parser_8c.html#ad55349f6defb615d8e239052f38005fe" title="AppLayerParserRegisterState\lFuncs" alt="" coords="201,5,396,46"/>
+<area shape="rect" id="node12" href="$app-layer-detect-proto_8c.html#ab97551150b79f956615d499899330c79" title="Given a protocol name, checks if proto detection is enabled in the conf file. " alt="" coords="195,553,402,594"/>
+<area shape="rect" id="node15" href="$app-layer-detect-proto_8c.html#a9883134087a5ccfadb4dbddafa04027c" title="AppLayerProtoDetectPPParse\lConfPorts" alt="" coords="199,305,398,346"/>
+<area shape="rect" id="node16" href="$app-layer-detect-proto_8c.html#ab24c1cac8b75e7744dd57010e310559f" title="register parser at a port " alt="" coords="451,225,666,252"/>
+<area shape="rect" id="node29" href="$app-layer-detect-proto_8c.html#a8b076dfcfe3f401f0eae802ff1b9baca" title="Registers a protocol for protocol detection phase. " alt="" coords="201,487,397,529"/>
+<area shape="rect" id="node30" href="$conf_8c.html#ad05ff3c317a042691169abc26475bb19" title="Retrieve a configuration value as an boolen. " alt="" coords="250,619,347,645"/>
+<area shape="rect" id="node3" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="723,479,826,505"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#aea038f0105b5e6a67a1bf32d2ccf463c" title="RunmodeIsUnittests" alt="" coords="487,428,630,455"/>
+<area shape="rect" id="node32" href="$app-layer-ssl_8c.html#a0a09d7b5f61a54a3000f8cd04efef5a4" title="SSLParseClientRecord" alt="" coords="220,720,377,747"/>
+<area shape="rect" id="node33" href="$app-layer-ssl_8c.html#a0a4508744276d1ee99b85036c152a586" title="SSLParserRegisterTests" alt="" coords="215,771,382,797"/>
+<area shape="rect" id="node34" href="$app-layer-ssl_8c.html#a6e40b1ebb759b05290068d5e9f8feeb0" title="SSLParseServerRecord" alt="" coords="218,821,379,848"/>
+<area shape="rect" id="node35" href="$app-layer-ssl_8c.html#ab74a14a293e59c18286f880e75196bb8" title="SSLStateAlloc" alt="" coords="245,872,352,899"/>
+<area shape="rect" id="node36" href="$app-layer-ssl_8c.html#a918fd748356a7b948ae9ec10c58aa3ba" title="SSLStateFree" alt="" coords="247,923,351,949"/>
+<area shape="rect" id="node37" href="$app-layer-ssl_8c.html#a469cdd0f5b84504786b1e59dbc275b6b" title="SSLStateGetEventInfo" alt="" coords="221,973,376,1000"/>
+<area shape="rect" id="node4" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="956,479,1017,505"/>
+<area shape="rect" id="node5" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="910,356,1063,383"/>
+<area shape="rect" id="node8" href="$flow-util_8c.html#a897ee3b52fa7876e9780704dbc2d1b11" title="Function to map the protocol to the defined FLOW_PROTO_* enumeration. " alt="" coords="483,107,634,133"/>
+<area shape="rect" id="node13" href="$conf_8c.html#abc921a7338a381476e9e40a10e2d543c" title="Check if a value is false. " alt="" coords="503,479,615,505"/>
+<area shape="rect" id="node14" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true. " alt="" coords="505,580,612,607"/>
+<area shape="rect" id="node17" href="$detect-engine-port_8c.html#aa96929b52a485980356a11188a6e9f16" title="Free a DetectPort list and each of its members. " alt="" coords="909,175,1064,201"/>
+<area shape="rect" id="node22" href="$detect-engine-port_8c.html#a323534ecb36a84495cc66cb012411940" title="Function for parsing port strings. " alt="" coords="715,225,834,252"/>
+<area shape="rect" id="node18" href="$detect-engine-port_8c.html#a336d41e96ce6898d02ebecc582cc1557" title="Free a DetectPort and its members. " alt="" coords="1171,175,1282,201"/>
+<area shape="rect" id="node19" href="$detect-engine-siggroup_8c.html#a176702ac4621c9006d89a8d6801d7ce1" title="Free a SigGroupHead and its members. " alt="" coords="1363,175,1496,201"/>
+<area shape="rect" id="node20" href="$detect-engine-mpm_8c.html#a6a1c9264037c5fe5756ea28f6ddab251" title="PatternMatchDestroyGroup" alt="" coords="1544,149,1725,176"/>
+<area shape="rect" id="node21" href="$detect-engine-siggroup_8c.html#a6f6c71bc5fff7f350d164523257ebed1" title="SigGroupHeadInitDataFree" alt="" coords="1545,200,1724,227"/>
+<area shape="rect" id="node23" href="$detect-engine-port_8c.html#a37cc1e56039761193d64fa6feba1909a" title="Helper function for the parsing process. " alt="" coords="883,255,1090,281"/>
+<area shape="rect" id="node24" href="$detect-engine-port_8c.html#a4c38a97f685fd8a69533a53d03e6b487" title="Check if the port group list covers the complete port space. " alt="" coords="1139,277,1315,318"/>
+<area shape="rect" id="node25" href="$detect-engine-port_8c.html#af10d25fa8ab22e964a10f183a9d9cae4" title="Function that return a copy of DetectPort src. " alt="" coords="1169,367,1285,393"/>
+<area shape="rect" id="node27" href="$detect-engine-port_8c.html#a5b98d8d3a7c3a879a0b7bc44b2370ac6" title="Helper function that print the DetectPort info. " alt="" coords="1171,417,1283,444"/>
+<area shape="rect" id="node28" href="$detect-engine-port_8c.html#a99a3e1b81a12b2048ee19c49d3467369" title="Function that compare port groups. " alt="" coords="1170,225,1283,252"/>
+<area shape="rect" id="node26" href="$detect-engine-port_8c.html#a6d5934b74427fee3e9fc25e2070244f4" title="Alloc a DetectPort structure and update counters. " alt="" coords="1378,367,1481,393"/>
+<area shape="rect" id="node31" href="$conf_8c.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="523,631,594,657"/>
+<area shape="rect" id="node38" href="$util-enum_8c.html#a2e507ba652ee97a1236829e43aace073" title="Maps a string name to an enum value from the supplied table. Please specify the last element of any m..." alt="" coords="467,973,650,1000"/>
+</map>

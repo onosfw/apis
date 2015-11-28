@@ -1,0 +1,15 @@
+<map id="HostInitConfig" name="HostInitConfig">
+<area shape="rect" id="node2" href="$util-byte_8c.html#aff93b9381b90e88415cb6f8c5daa8bca" title="ByteExtractStringUint32" alt="" coords="160,5,323,32"/>
+<area shape="rect" id="node4" href="$conf_8c.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="206,56,277,83"/>
+<area shape="rect" id="node8" href="$host_8c.html#a0083d5c83f22783b0935494c693de8ba" title="HostAlloc" alt="" coords="202,107,281,133"/>
+<area shape="rect" id="node9" href="$host-queue_8c.html#a978c5a9a0e59755bf42a474b1c0333b6" title="add a host to a queue " alt="" coords="191,157,292,184"/>
+<area shape="rect" id="node10" href="$host-queue_8c.html#a78b570c5115910704749300af1a98159" title="HostQueueInit" alt="" coords="188,208,295,235"/>
+<area shape="rect" id="node11" href="$host-storage_8c.html#a5483e281f7966e428421b6f0721fd914" title="HostStorageSize" alt="" coords="181,259,302,285"/>
+<area shape="rect" id="node13" href="$util-misc_8c.html#ad06f7f59424271edbb160b18ce10f70b" title="ParseSizeStringU64" alt="" coords="171,309,311,336"/>
+<area shape="rect" id="node14" href="$util-random_8c.html#a4b7c890f27dd0dbc69427497f47429d1" title="create a seed number to pass to rand() , rand_r(), and similars " alt="" coords="167,360,315,387"/>
+<area shape="rect" id="node3" href="$util-byte_8c.html#a43dab0146a4fbdf54e3c1dba707b0534" title="ByteExtractString" alt="" coords="371,5,496,32"/>
+<area shape="rect" id="node5" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="382,56,485,83"/>
+<area shape="rect" id="node6" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="545,31,698,57"/>
+<area shape="rect" id="node7" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="591,81,652,108"/>
+<area shape="rect" id="node12" href="$util-storage_8c.html#a7cc083db4db0385f32d65439b82827f9" title="get the size of the void array used to store the pointers " alt="" coords="376,259,491,285"/>
+</map>

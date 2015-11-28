@@ -1,0 +1,5 @@
+<map id="SCRConfGetReference" name="SCRConfGetReference">
+<area shape="rect" id="node2" href="$util-hash_8c.html#a516b822a1929236ef67859af6812ed98" title="HashTableLookup" alt="" coords="271,5,398,32"/>
+<area shape="rect" id="node3" href="$util-reference-config_8c.html#a3d664177de874fa60a8271c519e63bf1" title="Returns a new SCRConfReference instance. The reference string is converted into lowercase, before being assigned to the instance. " alt="" coords="222,56,447,83"/>
+<area shape="rect" id="node4" href="$util-reference-config_8c.html#ae82ff9cb49f8c3a785f5151c4ae62772" title="Frees a SCRConfReference instance. " alt="" coords="213,107,456,133"/>
+</map>

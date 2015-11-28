@@ -1,0 +1,6 @@
+<map id="HostClearMemory" name="HostClearMemory">
+<area shape="rect" id="node2" href="$host_8h.html#a4da38df867e434a4e5c5f09af2c6662a" title="Cleanup the host engine. " alt="" coords="181,5,280,32"/>
+<area shape="rect" id="node3" href="$host_8c.html#abe1406a89d6ad93b2428882beb665e98" title="HostFree" alt="" coords="193,56,269,83"/>
+<area shape="rect" id="node4" href="$host_8h.html#a607ac192300e83f8971b11f933daa404" title="shutdown the flow engine " alt="" coords="329,56,437,83"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="485,56,536,83"/>
+</map>

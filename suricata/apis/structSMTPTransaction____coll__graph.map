@@ -1,0 +1,14 @@
+<map id="SMTPTransaction_" name="SMTPTransaction_">
+<area shape="rect" id="node2" href="$structAppLayerDecoderEvents__.html" title="Data structure to store app layer decoder events. " alt="" coords="18,387,192,413"/>
+<area shape="rect" id="node3" href="$structMimeDecEntity.html" title="This represents the MIME Entity (or also top level message) in a child&#45;sibling tree. " alt="" coords="232,97,344,124"/>
+<area shape="rect" id="node6" href="$structMimeDecParseState.html" title="Structure contains the current state of the MIME parser. " alt="" coords="217,387,359,413"/>
+<area shape="rect" id="node9" href="$structMimeDecStackNode.html" title="Structure contains boundary and entity for the current node (entity) in the stack. " alt="" coords="217,189,359,216"/>
+<area shape="rect" id="node4" href="$structMimeDecField.html" title="This represents a header field name and associated value. " alt="" coords="169,5,276,32"/>
+<area shape="rect" id="node5" href="$structMimeDecUrl.html" title="This represents a URL value node in a linked list. " alt="" coords="354,5,448,32"/>
+<area shape="rect" id="node7" href="$structDataValue.html" title="Structure contains a list of value and lengths for robust data processing. " alt="" coords="5,295,88,321"/>
+<area shape="rect" id="node8" href="$structMimeDecStack.html" title="Structure holds the top of the stack along with some free reusable nodes. " alt="" coords="232,295,344,321"/>
+<area shape="rect" id="node10" href="$structDetectEngineState__.html" title="DetectEngineState_" alt="" coords="508,387,647,413"/>
+<area shape="rect" id="node11" href="$structDetectEngineStateDirection__.html" title="DetectEngineStateDirection_" alt="" coords="541,295,731,321"/>
+<area shape="rect" id="node12" href="$structDeStateStore__.html" title="DeStateStore_" alt="" coords="582,189,689,216"/>
+<area shape="rect" id="node13" href="$structDeStateStoreItem__.html" title="DeStateStoreItem_" alt="" coords="569,97,703,124"/>
+</map>

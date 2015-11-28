@@ -1,0 +1,8 @@
+<map id="DetectHttpRawHeaderRegister" name="DetectHttpRawHeaderRegister">
+<area shape="rect" id="node2" href="$detect-http-raw-header_8c.html#a06a1da819a6290fb0d19603095fd0e35" title="this function clears the memory of http_raw_header modifier keyword " alt="" coords="271,5,452,32"/>
+<area shape="rect" id="node3" href="$detect-http-raw-header_8c.html#a85abaf55762bbceace060661fa061910" title="DetectHttpRawHeaderRegister\lTests" alt="" coords="259,57,463,98"/>
+<area shape="rect" id="node4" href="$detect-http-raw-header_8c.html#a733f4a31f4ac595a2067fb4f125a74cc" title="The setup function for the http_raw_header keyword for a signature. " alt="" coords="267,123,456,149"/>
+<area shape="rect" id="node5" href="$detect-parse_8c.html#a86273f934370947a29422bbb2fcfe0db" title="DetectEngineContentModifier\lBufferSetup" alt="" coords="513,115,706,157"/>
+<area shape="rect" id="node6" href="$detect-parse_8c.html#a207f50170ee418c4456ec659e8f37520" title="Returns the sm with the largest index (added latest) from all the lists. " alt="" coords="755,93,957,120"/>
+<area shape="rect" id="node7" href="$detect-parse_8c.html#a08dc7e1c9cf1ced8186d8dbd2405b540" title="SigMatchTransferSigMatch\lAcrossLists" alt="" coords="766,145,946,186"/>
+</map>

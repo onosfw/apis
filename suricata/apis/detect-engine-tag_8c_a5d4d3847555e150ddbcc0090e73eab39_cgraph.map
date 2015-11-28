@@ -1,0 +1,6 @@
+<map id="TagTimeoutCheck" name="TagTimeoutCheck">
+<area shape="rect" id="node2" href="$group__hoststorage.html#ga9bbff71a8002ff811f4b58655dad683d" title="Get a value from a given Host storage. " alt="" coords="185,5,327,32"/>
+<area shape="rect" id="node4" href="$group__hoststorage.html#ga59a8081e31daa912236b7ba08a1767b5" title="Store a pointer in a given Host storage. " alt="" coords="185,56,327,83"/>
+<area shape="rect" id="node3" href="$util-storage_8c.html#ae583f91a48fb1da802d6d8aae8efaa45" title="get storage for id " alt="" coords="376,5,491,32"/>
+<area shape="rect" id="node5" href="$util-storage_8c.html#ad7892e8e521cd8a0d46229502659f562" title="set storage for id " alt="" coords="376,56,491,83"/>
+</map>

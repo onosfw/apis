@@ -1,0 +1,39 @@
+<map id="StatsRegisterCounter" name="StatsRegisterCounter">
+<area shape="rect" id="node2" href="$group__decode.html#gaf1bed034bb99c0f39628191847689b3a" title="CaptureStatsSetup" alt="" coords="233,107,367,133"/>
+<area shape="rect" id="node9" href="$group__decode.html#ga30a380d9d448ff265b6b9d5d3f81d4e4" title="DecodeRegisterPerfCounters" alt="" coords="203,284,397,311"/>
+<area shape="rect" id="node28" href="$detect-engine_8h.html#a72c337802af74e71c4ea8fca8a68978c" title="initialize thread specific detection engine context " alt="" coords="210,461,390,488"/>
+<area shape="rect" id="node29" href="$group__afppacket.html#ga63a4c87b1c785d124cbcebe19feb0125" title="Init function for ReceiveAFP. " alt="" coords="223,512,377,539"/>
+<area shape="rect" id="node31" href="$source-erf-dag_8c.html#a6b575ca1df93dcdfe66995849a62b435" title="Initialize the ERF receiver thread, generate a single ErfDagThreadVar structure for each thread..." alt="" coords="215,563,385,589"/>
+<area shape="rect" id="node33" href="$source-pcap_8c.html#ae2500197e003217f72c3f80adeb75b79" title="Init function for ReceivePcap. " alt="" coords="221,613,379,640"/>
+<area shape="rect" id="node35" href="$source-pfring_8c.html#ab74f8ec75fde76ef8ab9ec1b6c7bead1" title="Init function for RecievePfring. " alt="" coords="219,664,381,691"/>
+<area shape="rect" id="node37" href="$stream-tcp_8h.html#a92a4a607332f606574d63bd2ec158ebe" title="StreamTcpThreadInit" alt="" coords="228,715,372,741"/>
+<area shape="rect" id="node3" href="$source-nfq_8c.html#acd1cd050a85be381cc3bbdedf383009b" title="VerdictNFQThreadInit" alt="" coords="479,5,628,32"/>
+<area shape="rect" id="node4" href="$source-nfq_8c.html#a72f89d52fdea56362998f329f2052ddc" title="TmModuleVerdictNFQRegister" alt="" coords="726,5,927,32"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="993,360,1127,387"/>
+<area shape="rect" id="node6" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="1176,360,1275,387"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="1323,335,1472,361"/>
+<area shape="rect" id="node8" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1520,360,1571,387"/>
+<area shape="rect" id="node10" href="$group__afppacket.html#ga1a26fc40f8dfa5016aada1955beb9ec2" title="DecodeAFPThreadInit" alt="" coords="478,56,629,83"/>
+<area shape="rect" id="node12" href="$source-erf-dag_8c.html#a662c7de24bb6f9bfab58dd71cd90590d" title="DecodeErfDagThreadInit" alt="" coords="470,107,637,133"/>
+<area shape="rect" id="node14" href="$source-erf-file_8c.html#adafcbf2338cc6bb37fc789ca962ce5f0" title="Initialize the ERF decoder thread. " alt="" coords="472,157,635,184"/>
+<area shape="rect" id="node16" href="$source-ipfw_8c.html#a050a1a30a989817ff690350617397aa0" title="This function initializes the DecodeThreadVariables. " alt="" coords="474,208,633,235"/>
+<area shape="rect" id="node18" href="$source-napatech_8c.html#a63b6b73db5df2b1201944c46b67bed20" title="NapatechDecodeThreadInit" alt="" coords="463,259,644,285"/>
+<area shape="rect" id="node20" href="$source-nfq_8c.html#a927d58521731b4f905d73d55c650afa0" title="Initialize the NFQ Decode threadvars. " alt="" coords="477,309,630,336"/>
+<area shape="rect" id="node22" href="$source-pcap-file_8c.html#a2829038cb3227afb1c9c41024c3145b3" title="DecodePcapFileThreadInit" alt="" coords="465,360,641,387"/>
+<area shape="rect" id="node24" href="$source-pcap_8c.html#adad64130c7cc6e231d32cdd19302a2a1" title="DecodePcapThreadInit" alt="" coords="476,411,631,437"/>
+<area shape="rect" id="node26" href="$source-pfring_8c.html#ae2135001a6c641f815994e4354f1b502" title="This an Init function for DecodePfring. " alt="" coords="474,461,633,488"/>
+<area shape="rect" id="node11" href="$group__afppacket.html#ga5619eeb40186e176637afb0b010dfd52" title="Registration Function for DecodeAFP. " alt="" coords="725,56,928,83"/>
+<area shape="rect" id="node13" href="$source-erf-dag_8h.html#aa47bd0f6507811ee5e58ddbabe5a9e66" title="Register the ERF file decoder module. " alt="" coords="717,107,936,133"/>
+<area shape="rect" id="node15" href="$source-erf-file_8h.html#a5d63afd9d35d0b55b8ccf9786f4b3119" title="Register the ERF file decoder module. " alt="" coords="719,157,934,184"/>
+<area shape="rect" id="node17" href="$source-ipfw_8h.html#a7ce5e29608a3a5fdbb24698934ccc066" title="Registration Function for DecodeIPFW. " alt="" coords="721,208,932,235"/>
+<area shape="rect" id="node19" href="$source-napatech_8h.html#a3c6286bd204f451242392057ef46bc52" title="Register the Napatech decoder module. " alt="" coords="710,259,943,285"/>
+<area shape="rect" id="node21" href="$source-nfq_8c.html#aae0ce2a417f5740d558f3489af38f402" title="TmModuleDecodeNFQRegister" alt="" coords="724,309,929,336"/>
+<area shape="rect" id="node23" href="$source-pcap-file_8h.html#a2eb0f3cbe2c09246bb9275f85e07806c" title="TmModuleDecodePcapFileRegister" alt="" coords="713,360,941,387"/>
+<area shape="rect" id="node25" href="$source-pcap_8h.html#a60c81766c6d86f298c28b7e6afd4bf93" title="Registration Function for DecodePcap. " alt="" coords="723,411,930,437"/>
+<area shape="rect" id="node27" href="$source-pfring_8h.html#aa66fd20b9ff077eeceaa3b651c66c74d" title="Registration Function for DecodePfring. " alt="" coords="721,461,932,488"/>
+<area shape="rect" id="node30" href="$group__afppacket.html#ga125f047940f8ff0ea8f5295cd2ce7f3e" title="Registration Function for RecieveAFP. " alt="" coords="723,512,930,539"/>
+<area shape="rect" id="node32" href="$source-erf-dag_8h.html#a91e9820c732f0cc1d556b6ae671094b1" title="Register the ERF file receiver (reader) module. " alt="" coords="716,563,937,589"/>
+<area shape="rect" id="node34" href="$source-pcap_8h.html#a3f3510c3241770c5b3cd8fb6df1c4c6c" title="Registration Function for RecievePcap. " alt="" coords="721,613,932,640"/>
+<area shape="rect" id="node36" href="$source-pfring_8h.html#a9de1117ec94d507f460b0ae08ac9036f" title="Registration Function for RecievePfring. " alt="" coords="446,664,661,691"/>
+<area shape="rect" id="node38" href="$stream-tcp_8h.html#ac7570830e107bef9adb9c4a729222114" title="TmModuleStreamTcpRegister" alt="" coords="455,715,651,741"/>
+</map>

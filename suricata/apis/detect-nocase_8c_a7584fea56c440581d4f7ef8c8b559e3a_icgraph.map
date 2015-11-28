@@ -1,0 +1,7 @@
+<map id="DetectNocaseRegister" name="DetectNocaseRegister">
+<area shape="rect" id="node2" href="$detect_8h.html#a21706286b0acefa72fcbdd3b37daa55f" title="SigTableSetup" alt="" coords="208,31,315,57"/>
+<area shape="rect" id="node3" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="364,56,463,83"/>
+<area shape="rect" id="node6" href="$util-running-modes_8h.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title="ListKeywords" alt="" coords="363,5,464,32"/>
+<area shape="rect" id="node4" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="512,5,661,32"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="709,31,760,57"/>
+</map>

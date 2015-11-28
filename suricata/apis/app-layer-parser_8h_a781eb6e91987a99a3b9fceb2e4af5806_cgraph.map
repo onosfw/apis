@@ -1,0 +1,12 @@
+<map id="AppLayerParserParse" name="AppLayerParserParse">
+<area shape="rect" id="node2" href="$app-layer_8c.html#aee0b3432de6ed541981bdf337c841782" title="Given the internal protocol id, returns a string representation of the protocol. " alt="" coords="258,5,422,32"/>
+<area shape="rect" id="node4" href="$app-layer-parser_8c.html#aa72062e79f18f6d030db0ce26eb54307" title="AppLayerParserSetEOF" alt="" coords="259,56,421,83"/>
+<area shape="rect" id="node6" href="$app-layer-parser_8c.html#a473dd94cc4eaaa2c2189f6ac6af19590" title="AppLayerParserStateAlloc" alt="" coords="253,107,427,133"/>
+<area shape="rect" id="node5" href="$app-layer-parser_8c.html#a46f6694519727b6264e667a2048ff5e9" title="AppLayerParserStateSetFlag" alt="" coords="547,145,738,172"/>
+<area shape="rect" id="node7" href="$app-layer-parser_8c.html#a57e41a543e96435dcb36fac0b18a2b76" title="AppLayerParserStreamTruncated" alt="" coords="233,208,447,235"/>
+<area shape="rect" id="node8" href="$flow-util_8c.html#a897ee3b52fa7876e9780704dbc2d1b11" title="Function to map the protocol to the defined FLOW_PROTO_* enumeration. " alt="" coords="567,221,718,248"/>
+<area shape="rect" id="node9" href="$stream-tcp-reassemble_8c.html#a419339627115993b6ef9f55ebbd4365c" title="StreamTcpDisableAppLayer" alt="" coords="247,309,433,336"/>
+<area shape="rect" id="node10" href="$stream-tcp-reassemble_8h.html#a740e5a7f3e6792cf64cfe9926a93abb6" title="Set the No reassembly flag for the given direction in given TCP session. " alt="" coords="203,360,477,387"/>
+<area shape="rect" id="node11" href="$stream-tcp-reassemble_8h.html#aa7a2c8bcfd02ada1794f778c0614d5d1" title="Set the No reassembly flag for the given direction in given TCP session. " alt="" coords="206,411,474,437"/>
+<area shape="rect" id="node3" href="$app-layer-detect-proto_8c.html#a0e4d19271b37f02950a05c8114255b67" title="AppLayerProtoDetectGetProtoName" alt="" coords="525,5,760,32"/>
+</map>

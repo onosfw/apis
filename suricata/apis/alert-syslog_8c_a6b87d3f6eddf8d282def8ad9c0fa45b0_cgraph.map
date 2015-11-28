@@ -1,0 +1,8 @@
+<map id="AlertSyslogInitCtx" name="AlertSyslogInitCtx">
+<area shape="rect" id="node2" href="$conf_8c.html#a4d5920eea97bb4713c41e3ffef423757" title="Lookup the value of a child configuration node by name. " alt="" coords="181,5,368,32"/>
+<area shape="rect" id="node4" href="$util-logopenfile_8c.html#aecf090c1d20b5506b7ad24192dad5514" title="LogFileNewCtx() Get a new LogFileCtx. " alt="" coords="219,56,331,83"/>
+<area shape="rect" id="node5" href="$util-enum_8c.html#a2e507ba652ee97a1236829e43aace073" title="Maps a string name to an enum value from the supplied table. Please specify the last element of any m..." alt="" coords="183,107,366,133"/>
+<area shape="rect" id="node6" href="$util-syslog_8c.html#af89f92e3159212f6b3fa57abfbe821cc" title="returns the syslog facility enum map " alt="" coords="190,157,359,184"/>
+<area shape="rect" id="node7" href="$util-syslog_8c.html#a450d33062729168a9e41774bcd743f6a" title="returns the syslog facility enum map " alt="" coords="185,208,364,235"/>
+<area shape="rect" id="node3" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="417,5,570,32"/>
+</map>

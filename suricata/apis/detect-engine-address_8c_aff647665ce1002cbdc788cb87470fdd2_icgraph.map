@@ -1,0 +1,19 @@
+<map id="DetectAddressInit" name="DetectAddressInit">
+<area shape="rect" id="node2" href="$detect-engine-address_8h.html#a9c7ce9c7f1563c190a26636ecbacad1b" title="Copies the contents of one Address group in DetectAddress and returns a new instance of the DetectAdd..." alt="" coords="201,84,341,111"/>
+<area shape="rect" id="node15" href="$detect-engine-address-ipv4_8h.html#a3c85b240c7c47383d2dbcffe36cdde8d" title="Cut groups and merge sigs. " alt="" coords="192,135,349,161"/>
+<area shape="rect" id="node16" href="$detect-engine-address-ipv6_8h.html#a558db72b9d449017c962d736b762296e" title="DetectAddressCutIPv6" alt="" coords="192,185,349,212"/>
+<area shape="rect" id="node17" href="$detect-engine-address-ipv4_8h.html#a8fb8ca03238582c65f0ee4b722730744" title="Cuts and returns an address range, which is the complement of the address range that is supplied as t..." alt="" coords="181,236,360,263"/>
+<area shape="rect" id="node18" href="$detect-engine-address-ipv6_8h.html#afd3c17e2faa0d54981e06b081b978b14" title="Cuts and returns an address range, which is the complement of the address range that is supplied as t..." alt="" coords="181,287,360,313"/>
+<area shape="rect" id="node3" href="$detect-engine-address_8c.html#a69bbe731d2e859401b2d36174a8bebf2" title="Merge the + and the &#45; list (+ positive match, &#45; &#39;not&#39; match) " alt="" coords="409,7,575,33"/>
+<area shape="rect" id="node6" href="$detect_8c.html#afc77848803e5fcaaf39f90ff860140dc" title="CreateGroupedAddrList" alt="" coords="413,59,571,85"/>
+<area shape="rect" id="node12" href="$detect_8c.html#a0ff85d4d7e9776988c8fe1659f65db89" title="Build the destination address portion of the match tree. " alt="" coords="624,107,827,133"/>
+<area shape="rect" id="node14" href="$detect_8c.html#aa3952cbb6c857eb9d1b9b2fa7689c0e4" title="BuildDestinationAddressHeads\lWithBothPorts" alt="" coords="624,158,827,199"/>
+<area shape="rect" id="node4" href="$detect-engine-address_8h.html#ab3a963e12de032ca4aa2c531a4a0f21d" title="Parses an address group sent as a character string and updates the DetectAddressHead sent as the argu..." alt="" coords="654,5,797,32"/>
+<area shape="rect" id="node5" href="$detect-parse_8c.html#a84a84c4f3fd51f473abc014096a35197" title="Parse address string and update signature. " alt="" coords="901,5,1024,32"/>
+<area shape="rect" id="node7" href="$detect_8c.html#aabe6ab0213639a48e8560e510eb7ca02" title="Fill the global src group head, with the sigs included. " alt="" coords="875,56,1050,83"/>
+<area shape="rect" id="node8" href="$detect_8h.html#a5eab8b8beaf1cc85d8a25a309ea13124" title="Convert the signature list into the runtime match structure. " alt="" coords="1099,81,1205,108"/>
+<area shape="rect" id="node9" href="$detect_8h.html#a8b471081c75864d1c8d4bcb14eaebc3b" title="Load signatures. " alt="" coords="1253,81,1384,108"/>
+<area shape="rect" id="node10" href="$detect-engine_8h.html#aba0e2c94ab90c4390af30af806db271d" title="Reload the detection engine. " alt="" coords="1433,81,1575,108"/>
+<area shape="rect" id="node11" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1624,81,1675,108"/>
+<area shape="rect" id="node13" href="$detect_8c.html#a72fc70b5d12e86ff5827d2d397233773" title="SigAddressPrepareStage3" alt="" coords="875,107,1050,133"/>
+</map>

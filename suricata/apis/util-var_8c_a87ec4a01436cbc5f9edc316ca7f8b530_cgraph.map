@@ -1,0 +1,5 @@
+<map id="GenericVarFree" name="GenericVarFree">
+<area shape="rect" id="node2" href="$flow-bit_8c.html#a9ed70252e069b2b27643afb1f6c5eaa9" title="FlowBitFree" alt="" coords="170,5,262,32"/>
+<area shape="rect" id="node3" href="$flow-var_8c.html#a70f203af22716f9e1457bda1bf11ec2d" title="FlowVarFree" alt="" coords="168,56,264,83"/>
+<area shape="rect" id="node4" href="$pkt-var_8c.html#a21a2ad851a644ccbbe1765532e356838" title="PktVarFree" alt="" coords="172,131,260,157"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="SCHInfoAddHostOSInfo" name="SCHInfoAddHostOSInfo">
+<area shape="rect" id="node2" href="$util-ip_8c.html#a2a09efde53cddf0206995e606d95919b" title="Culls the non&#45;netmask portion of the IP address. For example an IP address 192.168.240.1 would be chopped to 192.168.224.0 against a netmask value of 19. " alt="" coords="474,5,593,32"/>
+<area shape="rect" id="node3" href="$util-host-os-info_8c.html#a95bf87a4a03e80ccc1f1d076ca1b3932" title="Used to add the host&#45;os&#45;info data obtained from the conf. " alt="" coords="219,231,384,257"/>
+<area shape="rect" id="node4" href="$util-radix-tree_8c.html#ac2c959ea4e6b317dd711c344f3971f6a" title="Adds a new IPV4 address to the Radix tree. " alt="" coords="458,65,609,92"/>
+<area shape="rect" id="node5" href="$util-radix-tree_8c.html#a0f850edf0bba7fb85e8f8f4a469fd209" title="Adds a new IPV4 netblock to the Radix tree. " alt="" coords="432,135,635,161"/>
+<area shape="rect" id="node6" href="$util-radix-tree_8c.html#ac5be947029c47580507fbef220981fd1" title="Adds a new IPV6 address to the Radix tree. " alt="" coords="458,223,609,249"/>
+<area shape="rect" id="node7" href="$util-radix-tree_8c.html#a1cc0e9f1e700368b4ba031a48e2a468d" title="Adds a new IPV6 netblock to the Radix tree. " alt="" coords="432,277,635,304"/>
+<area shape="rect" id="node8" href="$util-radix-tree_8c.html#a6b901226de36ffc5d230f652a65a5808" title="Creates a new Radix tree. " alt="" coords="446,331,621,357"/>
+<area shape="rect" id="node9" href="$util-ip_8c.html#a710207041ce1eaa0a22622cf4dcb649d" title="Validates an IPV4 address and returns the network endian arranged version of the IPV4 address..." alt="" coords="460,383,607,409"/>
+<area shape="rect" id="node11" href="$util-ip_8c.html#a797d1e40a1dbb2a50ba33e24c702a256" title="Validates an IPV6 address and returns the network endian arranged version of the IPV6 addresss..." alt="" coords="460,433,607,460"/>
+<area shape="rect" id="node10" href="$win32-misc_8h.html#acdce1d46efd09e8485a2f682b388ebc0" title="inet_pton" alt="" coords="683,408,757,435"/>
+</map>

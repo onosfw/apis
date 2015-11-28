@@ -1,0 +1,6 @@
+<map id="PacketProfileDetectIdToString" name="PacketProfileDetectIdToString">
+<area shape="rect" id="node2" href="$util-profiling_8c.html#a2d33f118b3169a2b000eeb03a39d929d" title="SCProfilingDumpPacketStats" alt="" coords="253,5,448,32"/>
+<area shape="rect" id="node5" href="$util-profiling_8h.html#a19131d1e4739763149fedab6e29d2a73" title="Initialize profiling. " alt="" coords="297,56,404,83"/>
+<area shape="rect" id="node3" href="$util-profiling_8h.html#a880f80692c15f6472daa6abb1940ada2" title="SCProfilingDump" alt="" coords="496,5,619,32"/>
+<area shape="rect" id="node4" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="667,5,717,32"/>
+</map>

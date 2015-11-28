@@ -1,0 +1,42 @@
+<map id="src/detect&#45;engine&#45;template.c" name="src/detect&#45;engine&#45;template.c">
+<area shape="rect" id="node2" href="$suricata-common_8h.html" title="suricata&#45;common.h" alt="" coords="508,88,641,115"/>
+<area shape="rect" id="node46" href="$stream_8h.html" title="stream.h" alt="" coords="239,88,312,115"/>
+<area shape="rect" id="node47" href="$detect-engine-content-inspection_8h.html" title="detect&#45;engine&#45;content\l&#45;inspection.h" alt="" coords="665,81,812,122"/>
+<area shape="rect" id="node48" href="$app-layer-template_8h.html" title="app&#45;layer&#45;template.h" alt="" coords="1749,88,1888,115"/>
+<area shape="rect" id="node4" href="$htp_8h.html" title="htp/htp.h" alt="" coords="1649,171,1721,197"/>
+<area shape="rect" id="node26" href="$threads_8h.html" title="threads.h" alt="" coords="706,544,781,571"/>
+<area shape="rect" id="node29" href="$tm-threads-common_8h.html" title="tm&#45;threads&#45;common.h" alt="" coords="637,171,787,197"/>
+<area shape="rect" id="node30" href="$util-debug_8h.html" title="util&#45;debug.h" alt="" coords="781,320,869,347"/>
+<area shape="rect" id="node32" href="$util-error_8h.html" title="util&#45;error.h" alt="" coords="576,395,656,421"/>
+<area shape="rect" id="node34" href="$util-mem_8h.html" title="util&#45;mem.h" alt="" coords="915,469,997,496"/>
+<area shape="rect" id="node36" href="$detect-engine-alert_8h.html" title="detect&#45;engine&#45;alert.h" alt="" coords="270,171,409,197"/>
+<area shape="rect" id="node43" href="$util-optimize_8h.html" title="util&#45;optimize.h" alt="" coords="366,395,468,421"/>
+<area shape="rect" id="node44" href="$util-path_8h.html" title="util&#45;path.h" alt="" coords="811,171,889,197"/>
+<area shape="rect" id="node45" href="$util-conf_8h.html" title="util&#45;conf.h" alt="" coords="914,171,992,197"/>
+<area shape="rect" id="node7" href="$htp__core_8h.html" title="htp_core.h" alt="" coords="2301,544,2384,571"/>
+<area shape="rect" id="node8" href="$bstr_8h.html" title="bstr.h" alt="" coords="1750,320,1804,347"/>
+<area shape="rect" id="node15" href="$htp__base64_8h.html" title="htp_base64.h" alt="" coords="2046,245,2145,272"/>
+<area shape="rect" id="node16" href="$htp__config_8h.html" title="htp_config.h" alt="" coords="2221,245,2315,272"/>
+<area shape="rect" id="node17" href="$htp__connection__parser_8h.html" title="htp_connection_parser.h" alt="" coords="2339,245,2503,272"/>
+<area shape="rect" id="node18" href="$htp__decompressors_8h.html" title="htp_decompressors.h" alt="" coords="2579,245,2725,272"/>
+<area shape="rect" id="node20" href="$htp__hooks_8h.html" title="htp_hooks.h" alt="" coords="1169,245,1263,272"/>
+<area shape="rect" id="node14" href="$htp__list_8h.html" title="htp_list.h" alt="" coords="2107,469,2181,496"/>
+<area shape="rect" id="node21" href="$htp__multipart_8h.html" title="htp_multipart.h" alt="" coords="1631,245,1739,272"/>
+<area shape="rect" id="node22" href="$htp__table_8h.html" title="htp_table.h" alt="" coords="1594,320,1680,347"/>
+<area shape="rect" id="node23" href="$htp__transaction_8h.html" title="htp_transaction.h" alt="" coords="1287,245,1409,272"/>
+<area shape="rect" id="node24" href="$htp__urlencoded_8h.html" title="htp_urlencoded.h" alt="" coords="1434,245,1555,272"/>
+<area shape="rect" id="node25" href="$htp__utf8__decoder_8h.html" title="htp_utf8_decoder.h" alt="" coords="1119,320,1252,347"/>
+<area shape="rect" id="node13" href="$bstr__builder_8h.html" title="bstr_builder.h" alt="" coords="1909,395,2008,421"/>
+<area shape="rect" id="node27" href="$util-cpu_8h.html" title="util&#45;cpu.h" alt="" coords="707,619,781,645"/>
+<area shape="rect" id="node31" href="$util-enum_8h.html" title="util&#45;enum.h" alt="" coords="782,395,868,421"/>
+<area shape="rect" id="node33" href="$util-debug-filters_8h.html" title="util&#45;debug&#45;filters.h" alt="" coords="893,395,1019,421"/>
+<area shape="rect" id="node35" href="$util-atomic_8h.html" title="util&#45;atomic.h" alt="" coords="907,544,1000,571"/>
+<area shape="rect" id="node37" href="$decode_8h.html" title="decode.h" alt="" coords="5,395,80,421"/>
+<area shape="rect" id="node39" href="$detect_8h.html" title="detect.h" alt="" coords="587,245,656,272"/>
+<area shape="rect" id="node38" href="$threadvars_8h.html" title="threadvars.h" alt="" coords="95,469,189,496"/>
+<area shape="rect" id="node40" href="$flow_8h.html" title="flow.h" alt="" coords="270,320,327,347"/>
+<area shape="rect" id="node41" href="$util-var_8h.html" title="util&#45;var.h" alt="" coords="219,395,291,421"/>
+<area shape="rect" id="node42" href="$detect-tag_8h.html" title="detect&#45;tag.h" alt="" coords="104,395,195,421"/>
+<area shape="rect" id="node49" href="$detect-engine-state_8h.html" title="Data structures and function prototypes for keeping state for the detection engine. " alt="" coords="1747,171,1891,197"/>
+<area shape="rect" id="node50" href="$queue_8h.html" title="queue.h" alt="" coords="1915,171,1983,197"/>
+</map>

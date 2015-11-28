@@ -1,0 +1,9 @@
+<map id="MimeDecParseFullMsg" name="MimeDecParseFullMsg">
+<area shape="rect" id="node2" href="$util-decode-mime_8c.html#a2faafbd219644cee0faed2abf7db9283" title="De&#45;Init parser by freeing up any residual memory. " alt="" coords="222,5,373,32"/>
+<area shape="rect" id="node3" href="$util-decode-mime_8c.html#a82b345284faab53ee752e6bfaccd9b96" title="Frees a mime entity tree. " alt="" coords="228,56,367,83"/>
+<area shape="rect" id="node6" href="$util-decode-mime_8c.html#a3f2408c2ddf523c0db1ba6f35d0c026b" title="Init the parser by allocating memory for the state and top&#45;level entity. " alt="" coords="230,107,365,133"/>
+<area shape="rect" id="node7" href="$util-decode-mime_8c.html#a6480467f6e7b49055a3cbbc0ffc4e2c8" title="Called to indicate that the last message line has been processed and the parsing operation is complet..." alt="" coords="213,157,381,184"/>
+<area shape="rect" id="node8" href="$util-decode-mime_8c.html#a34214d9e481157b3c189073d73cbf8d0" title="Parse a line of a MIME message and update the parser state. " alt="" coords="229,208,365,235"/>
+<area shape="rect" id="node4" href="$util-decode-mime_8c.html#afdb020e7108c91e2c390e8b2ac897a4f" title="Iteratively frees a header field entry list. " alt="" coords="430,31,562,57"/>
+<area shape="rect" id="node5" href="$util-decode-mime_8c.html#a10c2dd1f886e0489f2e3a84e1f84f3bd" title="Iteratively frees a URL entry list. " alt="" coords="435,81,557,108"/>
+</map>

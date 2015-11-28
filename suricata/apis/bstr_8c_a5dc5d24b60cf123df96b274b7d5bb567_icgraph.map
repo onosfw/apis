@@ -1,0 +1,30 @@
+<map id="bstr_add_mem_noex" name="bstr_add_mem_noex">
+<area shape="rect" id="node2" href="$bstr_8h.html#ade081b8669efe02752266ed6e54182f6" title="bstr_add_c_noex" alt="" coords="198,56,319,83"/>
+<area shape="rect" id="node5" href="$bstr_8h.html#a47229ced18780442d24baa2be79ac9a2" title="bstr_add_noex" alt="" coords="205,108,312,135"/>
+<area shape="rect" id="node15" href="$htp__multipart__private_8h.html#ade5c03a799c0f5af2319900fe78a98e0" title="htp_mpartp_parse_header" alt="" coords="385,157,557,184"/>
+<area shape="rect" id="node16" href="$htp__request__generic_8c.html#a221bc903670a4cdea0d68314700db050" title="htp_process_request\l_header_generic" alt="" coords="399,209,542,250"/>
+<area shape="rect" id="node29" href="$htp__response__generic_8c.html#a7c9e1963cfe2008b92889c5e1e4f0bb1" title="htp_process_response\l_header_generic" alt="" coords="394,274,547,315"/>
+<area shape="rect" id="node3" href="$htp__util_8c.html#a556b54577b8787f15a9d98955ba6b1a7" title="htp_unparse_uri_noencode" alt="" coords="382,5,559,32"/>
+<area shape="rect" id="node4" href="$app-layer-htp-libhtp_8h.html#ab196d0f34ce8fcc8b52e56ee6685dc35" title="Generates the normalized uri. " alt="" coords="369,56,573,83"/>
+<area shape="rect" id="node6" href="$bstr__builder_8h.html#aa20111ccd65d633649a4b4cf9b711954" title="bstr_builder_to_str" alt="" coords="406,107,535,133"/>
+<area shape="rect" id="node7" href="$htp__multipart__private_8h.html#adf2e99c5087b2ec07b11bf4df9e2073f" title="htp_mpart_part_finalize_data" alt="" coords="621,56,811,83"/>
+<area shape="rect" id="node12" href="$htp__multipart__private_8h.html#a368c461de4ad8f9d864f5c29968e6f4a" title="htp_mpart_part_handle_data" alt="" coords="623,157,809,184"/>
+<area shape="rect" id="node13" href="$htp__transcoder_8c.html#a86a9a18ddecb35422b934bf270bfccbd" title="htp_transcode_bstr" alt="" coords="649,107,783,133"/>
+<area shape="rect" id="node8" href="$htp__multipart_8h.html#a116c58436d2cbd3fdae8eba1f39d808c" title="htp_mpartp_finalize" alt="" coords="869,56,1003,83"/>
+<area shape="rect" id="node9" href="$htp__private_8h.html#a7ec64e252d77945deded415a91bae392" title="htp_ch_multipart_callback\l_request_body_data" alt="" coords="1061,49,1235,90"/>
+<area shape="rect" id="node10" href="$htp__private_8h.html#a5828725587fa5f395faa80e7d2059194" title="htp_ch_multipart_callback\l_request_headers" alt="" coords="1283,49,1456,90"/>
+<area shape="rect" id="node11" href="$htp__config_8h.html#a476cb8af65fec9a8a59d89b10c8f9880" title="htp_config_register\l_multipart_parser" alt="" coords="1510,49,1642,90"/>
+<area shape="rect" id="node14" href="$htp__transcoder_8c.html#a31718600e56773087712711de6710492" title="htp_transcode_params" alt="" coords="859,107,1013,133"/>
+<area shape="rect" id="node17" href="$htp__config_8h.html#a95de3fba682f24cf2d2e7ce22084ad03" title="htp_config_set_server\l_personality" alt="" coords="861,259,1011,301"/>
+<area shape="rect" id="node28" href="$htp__request__apache__2__2_8c.html#a05cdc9a4a4fc5d37ab2fdf4d83f7ef64" title="htp_process_request\l_header_apache_2_2" alt="" coords="643,259,789,301"/>
+<area shape="rect" id="node18" href="$htp__config_8h.html#a470ac9439e7c4e321cbedcc71ec2a88e" title="htp_config_create" alt="" coords="1085,267,1211,293"/>
+<area shape="rect" id="node19" href="$group__httplayer.html#gaa92380e45cf4da76434cea3e4a6364e9" title="HTPConfigure" alt="" coords="1317,267,1422,293"/>
+<area shape="rect" id="node20" href="$group__httplayer.html#ga23aaf4c00574fa636459e4377429ac13" title="Register the HTTP protocol and state handling functions to APP layer of the engine. " alt="" coords="1505,267,1647,293"/>
+<area shape="rect" id="node21" href="$app-layer-parser_8h.html#ac5c64e1bddd13fdc99168538935cfab5" title="AppLayerParserRegisterProtocol\lParsers" alt="" coords="1697,259,1909,301"/>
+<area shape="rect" id="node22" href="$app-layer_8h.html#a13e4dfafdc60d054467da61ea15744f9" title="Setup the app layer. " alt="" coords="1958,267,2069,293"/>
+<area shape="rect" id="node23" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="2145,216,2244,243"/>
+<area shape="rect" id="node26" href="$util-running-modes_8h.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title="ListKeywords" alt="" coords="2144,317,2245,344"/>
+<area shape="rect" id="node27" href="$util-running-modes_8h.html#ad03a2414917a2fc87f4be0370c4c8fd7" title="ListAppLayerProtocols" alt="" coords="2118,267,2271,293"/>
+<area shape="rect" id="node24" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="2320,267,2469,293"/>
+<area shape="rect" id="node25" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="2517,241,2568,268"/>
+</map>

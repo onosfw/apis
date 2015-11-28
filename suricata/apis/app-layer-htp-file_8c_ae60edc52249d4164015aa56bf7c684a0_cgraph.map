@@ -1,0 +1,4 @@
+<map id="HTPFileStoreChunk" name="HTPFileStoreChunk">
+<area shape="rect" id="node2" href="$util-file_8c.html#aae7a23ed26b0f4ad31bfc4551ce0196a" title="Store a chunk of file data in the flow. The open &quot;flowfile&quot; will be used. " alt="" coords="192,5,307,32"/>
+<area shape="rect" id="node3" href="$util-file_8c.html#a3d85b9941cc60859430414e1394085e1" title="FilePrune" alt="" coords="211,56,288,83"/>
+</map>

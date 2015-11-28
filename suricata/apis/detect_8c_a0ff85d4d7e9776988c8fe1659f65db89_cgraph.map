@@ -1,0 +1,51 @@
+<map id="BuildDestinationAddressHeads" name="BuildDestinationAddressHeads">
+<area shape="rect" id="node2" href="$detect_8c.html#afc77848803e5fcaaf39f90ff860140dc" title="CreateGroupedAddrList" alt="" coords="278,519,437,545"/>
+<area shape="rect" id="node32" href="$detect_8c.html#a5b61533f2fb4103f1e4d783e0e615da9" title="CreateGroupedAddrListCmp\lMpmMinlen" alt="" coords="264,351,451,393"/>
+<area shape="rect" id="node33" href="$detect-engine-address_8c.html#ac63134a217d2afcf8c5c955c2092c9b1" title="Do a sorted insert, where the top of the list should be the biggest network/range. " alt="" coords="553,203,685,229"/>
+<area shape="rect" id="node26" href="$detect-engine-address_8c.html#a356dc6a3cd3b37b0756f67ef5347b958" title="Frees a list of DetectAddress instances. " alt="" coords="1491,208,1669,235"/>
+<area shape="rect" id="node3" href="$detect-engine-address_8c.html#adcd04f89acefed4c42c90138e8d1872d" title="Copies the contents of one Address group in DetectAddress and returns a new instance of the DetectAdd..." alt="" coords="549,595,689,621"/>
+<area shape="rect" id="node34" href="$detect-engine-address_8c.html#a3fae813701993e10b784cfae025ec259" title="Returns a new instance of DetectAddressHead. " alt="" coords="278,620,437,647"/>
+<area shape="rect" id="node35" href="$detect-engine-address_8c.html#aa37efffa1f4103032f7ee1812a8e84d1" title="Used to check if a DetectAddress list contains an instance with a similar DetectAddress. The comparison done is not the one that checks the memory for the same instance, but one that checks that the two instances hold the same content. " alt="" coords="266,468,449,495"/>
+<area shape="rect" id="node36" href="$detect-engine-mpm_8c.html#a5b296eaaaeb2ccc2d2452a210fa626ae" title="Prepare the pattern matcher ctx in a sig group head. " alt="" coords="267,721,447,748"/>
+<area shape="rect" id="node43" href="$detect-engine-siggroup_8c.html#ad89ebd7cf624e4e5745a5079e5436b47" title="Add a Signature to a SigGroupHead. " alt="" coords="272,772,443,799"/>
+<area shape="rect" id="node44" href="$detect-engine-siggroup_8c.html#a6b243c76fe6e50b64f5637e99245d424" title="Create an array with all the internal ids of the sigs that this sig group head will check for..." alt="" coords="256,823,459,849"/>
+<area shape="rect" id="node13" href="$detect-engine-siggroup_8c.html#a176702ac4621c9006d89a8d6801d7ce1" title="Free a SigGroupHead and its members. " alt="" coords="1513,588,1647,615"/>
+<area shape="rect" id="node45" href="$detect-engine-siggroup_8c.html#a7c40270fa5df62381d6601a418cedc29" title="Adds a SigGroupHead to the detection engine context SigGroupHead hash table. " alt="" coords="277,949,438,976"/>
+<area shape="rect" id="node47" href="$detect-engine-siggroup_8c.html#ab3673eb32701ac5b0bef47cb91bf51b1" title="Used to lookup a SigGroupHead hash from the detection engine context SigGroupHead hash table..." alt="" coords="267,1000,447,1027"/>
+<area shape="rect" id="node49" href="$detect-engine-siggroup_8c.html#a88113134b55015fb7067deadaa010f86" title="Updates the SigGroupHead&#45;&gt;sig_cnt with the total count of all the Signatures present in this SigGroup..." alt="" coords="274,1051,441,1077"/>
+<area shape="rect" id="node50" href="$detect-engine-siggroup_8c.html#a41897389907aab4d9dc790092be03700" title="SigGroupHeadStore" alt="" coords="288,1101,427,1128"/>
+<area shape="rect" id="node5" href="$detect-engine-siggroup_8c.html#a51eba76854157da0de4a460887ff391d" title="Copies the bitarray holding the sids from the source SigGroupHead to the destination SigGroupHead..." alt="" coords="1266,512,1430,539"/>
+<area shape="rect" id="node6" href="$detect-engine-port_8c.html#a4a6689fa3d861de5b4d26b120d860d01" title="Copy and insert the new DetectPort, with a copy list of sigs. " alt="" coords="809,525,959,552"/>
+<area shape="rect" id="node18" href="$detect-engine-address_8c.html#a25f8ca3631cd66ca4fff7d18cf0c59af" title="Join two addresses groups together. " alt="" coords="552,443,685,469"/>
+<area shape="rect" id="node23" href="$detect-engine-address_8c.html#a93c2ac0d98f92485bd4697ce4d610344" title="Frees a DetectAddress instance. " alt="" coords="817,272,951,299"/>
+<area shape="rect" id="node27" href="$detect-engine-address_8c.html#a65f3a277db68ea6b72488d074a8135db" title="Same as DetectAddressInsert, but then for inserting a address group object. This also makes sure SigG..." alt="" coords="547,379,690,405"/>
+<area shape="rect" id="node4" href="$detect-engine-address_8c.html#aff647665ce1002cbdc788cb87470fdd2" title="Creates and returns a new instance of a DetectAddress. " alt="" coords="821,627,947,653"/>
+<area shape="rect" id="node7" href="$detect-engine-port_8c.html#ac8b4a84d18e06e0cd29d37d0799a94db" title="Function that return a copy of DetectPort src sigs. " alt="" coords="1045,461,1197,488"/>
+<area shape="rect" id="node9" href="$detect-engine-port_8c.html#a05bf13895dd5fc46b43c7ac182cb4561" title="function for inserting a port group object. This also makes sure SigGroupContainer lists are handled ..." alt="" coords="1062,651,1181,677"/>
+<area shape="rect" id="node8" href="$detect-engine-port_8c.html#a6d5934b74427fee3e9fc25e2070244f4" title="Alloc a DetectPort structure and update counters. " alt="" coords="1297,461,1399,488"/>
+<area shape="rect" id="node10" href="$detect-engine-port_8c.html#a99a3e1b81a12b2048ee19c49d3467369" title="Function that compare port groups. " alt="" coords="1291,613,1405,640"/>
+<area shape="rect" id="node11" href="$detect-engine-port_8c.html#a336d41e96ce6898d02ebecc582cc1557" title="Free a DetectPort and its members. " alt="" coords="1293,563,1403,589"/>
+<area shape="rect" id="node16" href="$detect-engine-port_8c.html#a5b98d8d3a7c3a879a0b7bc44b2370ac6" title="Helper function that print the DetectPort info. " alt="" coords="1292,664,1404,691"/>
+<area shape="rect" id="node17" href="$util-debug_8c.html#ab793aa1c0db8ab4c177d80f79c085297" title="Returns whether debug messages are enabled to be logged or not. " alt="" coords="1275,715,1421,741"/>
+<area shape="rect" id="node12" href="$detect-engine-port_8c.html#aa96929b52a485980356a11188a6e9f16" title="Free a DetectPort list and each of its members. " alt="" coords="1503,537,1657,564"/>
+<area shape="rect" id="node14" href="$detect-engine-mpm_8c.html#a6a1c9264037c5fe5756ea28f6ddab251" title="PatternMatchDestroyGroup" alt="" coords="1717,563,1899,589"/>
+<area shape="rect" id="node15" href="$detect-engine-siggroup_8c.html#a6f6c71bc5fff7f350d164523257ebed1" title="SigGroupHeadInitDataFree" alt="" coords="1719,613,1897,640"/>
+<area shape="rect" id="node19" href="$detect-engine-address-ipv4_8c.html#a2b33923231b3500cd306097144bcf2c1" title="Extends a target address range if the the source address range is wider than the target address range..." alt="" coords="804,373,964,400"/>
+<area shape="rect" id="node20" href="$detect-engine-address-ipv6_8c.html#a5c66f5ced67e0b5cbcf9594b55e84903" title="Extends a target address range if the the source address range is wider than the target address range..." alt="" coords="1041,157,1201,184"/>
+<area shape="rect" id="node21" href="$detect-engine-address-ipv6_8c.html#a04212e72ac187899db41957af8984c24" title="Compares 2 ipv6 addresses and returns if the first address(a) is greater than the second address(b) o..." alt="" coords="1293,157,1403,184"/>
+<area shape="rect" id="node22" href="$detect-engine-address-ipv6_8c.html#a86517d0262298eff245b4a1496b83bdc" title="Compares 2 ipv6 addresses and returns if the first address(a) is less than the second address(b) or n..." alt="" coords="1294,107,1402,133"/>
+<area shape="rect" id="node24" href="$detect-engine-address_8c.html#af82d16bf8b8d0d7ed63920cae0bc8959" title="Frees a DetectAddressHead instance. " alt="" coords="1038,259,1205,285"/>
+<area shape="rect" id="node25" href="$detect-engine-address_8c.html#afb3ca9fc7da5b19ea07bb7943b9f9c09" title="Cleans a DetectAddressHead. The functions frees the 3 address group heads(any, ipv4 and ipv6) inside ..." alt="" coords="1254,259,1442,285"/>
+<area shape="rect" id="node28" href="$detect-engine-address_8c.html#a343973c15967dc80202c9a3efa608dd2" title="Used to compare 2 address ranges. " alt="" coords="815,203,953,229"/>
+<area shape="rect" id="node29" href="$detect-engine-address-ipv4_8c.html#ad9c0fa19660a8bd72cbad5a2f6f2f4e7" title="Compares 2 addresses(address ranges) and returns the relationship between the 2 addresses. " alt="" coords="1039,107,1203,133"/>
+<area shape="rect" id="node30" href="$detect-engine-address-ipv6_8c.html#ae3569606f5343ef35de4b3a3b7db157f" title="Compares 2 addresses(address ranges) and returns the relationship between the 2 addresses. " alt="" coords="1039,56,1203,83"/>
+<area shape="rect" id="node31" href="$detect-engine-address-ipv6_8c.html#a305494565a12e7d6915e92372a4cf151" title="Compares 2 ipv6 addresses and returns if the addresses are equal or not. " alt="" coords="1291,56,1405,83"/>
+<area shape="rect" id="node37" href="$util-mpm_8c.html#afb5aa4b0f7cf1275aa86dab4d294f71a" title="MpmFactoryGetMpmCtxForProfile" alt="" coords="507,696,730,723"/>
+<area shape="rect" id="node38" href="$util-mpm_8c.html#a766e318ffdb5baf247c40689dd85204c" title="MpmFactoryReClaimMpmCtx" alt="" coords="521,747,717,773"/>
+<area shape="rect" id="node40" href="$util-mpm_8c.html#ab16856575428a4ffdc4f96224e466d1e" title="MpmInitCtx" alt="" coords="573,797,664,824"/>
+<area shape="rect" id="node41" href="$detect-engine-mpm_8c.html#af4b70e66b9f05706f9f548b7d0589ac5" title="check if a signature has patterns that are to be inspected against a packets payload (as opposed to t..." alt="" coords="525,848,713,875"/>
+<area shape="rect" id="node42" href="$detect-engine-mpm_8c.html#ad6ed97753161dec50f846ec8641d3567" title="check if a signature has patterns that are to be inspected against the stream payload (as opposed to ..." alt="" coords="524,645,713,672"/>
+<area shape="rect" id="node39" href="$util-mpm_8c.html#a0ab724dbecf6333a743ad353eaae79ab" title="MpmFactoryIsMpmCtxAvailable" alt="" coords="779,747,989,773"/>
+<area shape="rect" id="node46" href="$util-hashlist_8c.html#a1ef8e2e7d8838f6376eeac265d9baa95" title="HashListTableAdd" alt="" coords="554,949,683,976"/>
+<area shape="rect" id="node48" href="$util-hashlist_8c.html#ab31e9d0781f723810287313b67b7b0a1" title="HashListTableLookup" alt="" coords="545,1000,693,1027"/>
+</map>

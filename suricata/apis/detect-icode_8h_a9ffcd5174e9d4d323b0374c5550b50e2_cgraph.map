@@ -1,0 +1,5 @@
+<map id="DetectICodeRegister" name="DetectICodeRegister">
+<area shape="rect" id="node2" href="$detect-icode_8c.html#a6e741317c12c852456cce016ee15bb90" title="this function will free memory associated with DetectICodeData " alt="" coords="228,5,351,32"/>
+<area shape="rect" id="node3" href="$detect-icode_8c.html#a2ac2c549ad465df956f3b4fb1c5e3d26" title="This function is used to match icode rule option set on a packet with those passed via icode: ..." alt="" coords="223,56,355,83"/>
+<area shape="rect" id="node4" href="$detect-icode_8c.html#adf3e2afbb2b92c4f3872e148989b2ddd" title="this function registers unit tests for DetectICode " alt="" coords="200,107,379,133"/>
+</map>

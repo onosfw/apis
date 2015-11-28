@@ -1,0 +1,9 @@
+<map id="StreamTcpSessionClear" name="StreamTcpSessionClear">
+<area shape="rect" id="node2" href="$group__utilpool.html#gabe4882476fd4ad932ba6f76d7a7523a3" title="return data to thread pool " alt="" coords="538,5,665,32"/>
+<area shape="rect" id="node4" href="$stream_8c.html#a33609da2b57ba141192a381cd168f3f0" title="StreamMsgReturnToPool" alt="" coords="517,56,686,83"/>
+<area shape="rect" id="node5" href="$stream-tcp_8c.html#a73b0702f9f4d8ac41c5c439c4bc49c64" title="StreamTcpDecrMemuse" alt="" coords="250,107,414,133"/>
+<area shape="rect" id="node6" href="$stream-tcp-reassemble_8c.html#ad9e5351fc6f108c2c429436b49c8ace3" title="return all segments in this stream into the pool(s) " alt="" coords="219,157,445,184"/>
+<area shape="rect" id="node8" href="$stream-tcp-sack_8c.html#a51d26dd05d0291d0aade3b482c6326d8" title="Free SACK list from a stream. " alt="" coords="251,208,413,235"/>
+<area shape="rect" id="node3" href="$group__utilpool.html#ga6552ceb7e157bc1ccc9de8bc33c0528e" title="PoolReturn" alt="" coords="758,56,845,83"/>
+<area shape="rect" id="node7" href="$stream-tcp-reassemble_8c.html#a11fcdabd0f9f4889f7b15cd098e28c00" title="Function to return the segment back to the pool. " alt="" coords="494,132,709,159"/>
+</map>

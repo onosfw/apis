@@ -1,0 +1,8 @@
+<map id="DetectEngineReloadTenantBlocking" name="DetectEngineReloadTenantBlocking">
+<area shape="rect" id="node2" href="$detect-engine_8c.html#a1721f0d4744638d862904f58dfe27d79" title="DetectLoaderSetupReloadTenant" alt="" coords="238,56,453,83"/>
+<area shape="rect" id="node7" href="$detect-engine-loader_8c.html#a12127187ce8709a5faef68f66be3f3e1" title="wait for loader tasks to complete " alt="" coords="277,107,414,133"/>
+<area shape="rect" id="node3" href="$detect-engine_8c.html#a6e671f3947ad0e32486beb954f7e2bde" title="DetectEngineDeReference" alt="" coords="507,5,685,32"/>
+<area shape="rect" id="node4" href="$detect-engine_8c.html#ad1c855638a7cb0062b0f067717473dc2" title="DetectEngineGetByTenantId" alt="" coords="501,56,691,83"/>
+<area shape="rect" id="node5" href="$detect-engine-loader_8c.html#a1ee88af79fff1e7f4eae147edc4fa1f2" title="DetectLoaderQueueTask" alt="" coords="513,107,679,133"/>
+<area shape="rect" id="node6" href="$detect-engine-loader_8c.html#a4eee2f2b6fa0e44513d457e6096753e3" title="Unpauses all threads present in tv_root. " alt="" coords="739,99,946,141"/>
+</map>

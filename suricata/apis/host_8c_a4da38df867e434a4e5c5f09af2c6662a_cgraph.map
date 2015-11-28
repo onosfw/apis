@@ -1,0 +1,9 @@
+<map id="HostCleanup" name="HostCleanup">
+<area shape="rect" id="node2" href="$host_8c.html#a683e5e0fc80dce344fac3abc3d8a0341" title="HostClearMemory" alt="" coords="153,5,281,32"/>
+<area shape="rect" id="node5" href="$host-storage_8c.html#a8c5e26defafcfcbf9ddfe70bdcdf866d" title="HostFreeStorage" alt="" coords="331,56,453,83"/>
+<area shape="rect" id="node7" href="$host_8c.html#adaca19248df34d449e791d7832368922" title="HostMoveToSpare" alt="" coords="152,107,283,133"/>
+<area shape="rect" id="node3" href="$host-storage_8c.html#a5483e281f7966e428421b6f0721fd914" title="HostStorageSize" alt="" coords="502,5,623,32"/>
+<area shape="rect" id="node4" href="$util-storage_8c.html#a7cc083db4db0385f32d65439b82827f9" title="get the size of the void array used to store the pointers " alt="" coords="672,5,787,32"/>
+<area shape="rect" id="node6" href="$util-storage_8c.html#a842a9a77b4fb19baf4b10fc9ed2bd3fb" title="StorageFreeAll" alt="" coords="509,56,617,83"/>
+<area shape="rect" id="node8" href="$host-queue_8c.html#a978c5a9a0e59755bf42a474b1c0333b6" title="add a host to a queue " alt="" coords="341,107,443,133"/>
+</map>

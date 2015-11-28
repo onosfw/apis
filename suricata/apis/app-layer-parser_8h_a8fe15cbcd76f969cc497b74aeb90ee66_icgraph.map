@@ -1,0 +1,20 @@
+<map id="AppLayerParserGetTxCnt" name="AppLayerParserGetTxCnt">
+<area shape="rect" id="node2" href="$app-layer-parser_8h.html#a8580f53b8295c5ebe6db119a6cf72eda" title="AppLayerParserHasDecoder\lEvents" alt="" coords="559,165,747,206"/>
+<area shape="rect" id="node10" href="$app-layer-parser_8h.html#a7f1dcf0b6977ba926f6fcd8b585aaf09" title="AppLayerParserSetTransaction\lInspectId" alt="" coords="256,216,459,257"/>
+<area shape="rect" id="node12" href="$app-layer-parser_8h.html#ad6f51a14b9525561ce37cbb65160a664" title="active TX retrieval for logging only ops " alt="" coords="819,274,1021,316"/>
+<area shape="rect" id="node13" href="$group__sigstate.html#gaaea2ddcec2d9f3549aea0de468834039" title="Continue DeState detection of the signatures stored in the state. " alt="" coords="545,12,762,39"/>
+<area shape="rect" id="node14" href="$group__sigstate.html#ga4cd5aba6758fd5795f477973b5f2fdfb" title="Match app layer sig list against app state and store relevant match information. " alt="" coords="557,63,750,90"/>
+<area shape="rect" id="node15" href="$group__sigstate.html#gabf15c37dbdf92918d6f107087ff082fb" title="Reset de state for active tx&#39; To be used on detect engine reload. " alt="" coords="263,114,452,140"/>
+<area shape="rect" id="node16" href="$flow-timeout_8h.html#ac27862d3cd1c09847650d2e6c4b230e2" title="Check if a flow needs forced reassembly, or any other processing. " alt="" coords="227,332,487,359"/>
+<area shape="rect" id="node17" href="$output-streaming_8c.html#a9970962efe18bf5ae597f70a19c3ad85" title="Http Body Iterator for logging. " alt="" coords="298,383,417,410"/>
+<area shape="rect" id="node18" href="$app-layer-htp-xff_8h.html#a019a88513f614a8dbe24247d9b0a2c4d" title="Function to return XFF IP if any. The caller needs to lock the flow. " alt="" coords="600,459,707,486"/>
+<area shape="rect" id="node19" href="$app-layer-htp-xff_8h.html#af49719780cb74ccfcef61ef5dc51d26d" title="Function to return XFF IP if any in the selected transaction. The caller needs to lock the flow..." alt="" coords="282,484,433,511"/>
+<area shape="rect" id="node3" href="$detect_8h.html#a61bb19b95a3c2e79149321a3c97f2db0" title="Signature match function. " alt="" coords="851,143,989,170"/>
+<area shape="rect" id="node4" href="$detect_8c.html#aef746f215cb23d3da4e714086e5674ef" title="Detection engine thread wrapper. " alt="" coords="1069,195,1131,222"/>
+<area shape="rect" id="node5" href="$detect_8h.html#ae7a6e0f8b7fbe88c9c7ca064b7892c7c" title="TmModuleDetectRegister" alt="" coords="1179,195,1349,222"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="1398,195,1533,222"/>
+<area shape="rect" id="node7" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="1581,195,1680,222"/>
+<area shape="rect" id="node8" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="1728,231,1877,258"/>
+<area shape="rect" id="node9" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1925,231,1976,258"/>
+<area shape="rect" id="node11" href="$group__sigstate.html#gad76e9cb6462b7784633d17b1347f771b" title="Update the inspect id. " alt="" coords="536,231,771,258"/>
+</map>

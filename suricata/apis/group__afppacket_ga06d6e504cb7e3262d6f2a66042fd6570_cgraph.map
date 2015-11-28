@@ -1,0 +1,7 @@
+<map id="AFPReleasePacket" name="AFPReleasePacket">
+<area shape="rect" id="node2" href="$group__afppacket.html#ga4f0bd058dc53d5665186749eacca95f3" title="AFPReleaseDataFromRing" alt="" coords="192,5,373,32"/>
+<area shape="rect" id="node4" href="$group__decode.html#gad9ba0322fe2563acde4b409301b9a39d" title="Return a packet to where it was allocated. " alt="" coords="207,56,358,83"/>
+<area shape="rect" id="node3" href="$group__afppacket.html#gaa2b4679d27f106a28a2f2f5fcbbe62d4" title="AFPWritePacket" alt="" coords="447,5,567,32"/>
+<area shape="rect" id="node5" href="$group__decode.html#gadbb7a223135dab327a0f78a96f931889" title="Return a malloced packet. " alt="" coords="641,81,730,108"/>
+<area shape="rect" id="node6" href="$tmqh-packetpool_8c.html#aecfd7fbbc040386dbe6546236b7d20b7" title="Return packet to Packet pool. " alt="" coords="422,107,591,133"/>
+</map>

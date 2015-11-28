@@ -1,0 +1,6 @@
+<map id="SigFree" name="SigFree">
+<area shape="rect" id="node2" href="$detect-parse_8h.html#ab1c4ea2e0f7a1a352e3f0859c8519ebd" title="Parse and append a Signature into the Detection Engine Context signature list. " alt="" coords="121,5,285,32"/>
+<area shape="rect" id="node3" href="$detect_8h.html#a1723c47cf927d24858a36ffafa56f8ff" title="SigCleanSignatures" alt="" coords="134,56,271,83"/>
+<area shape="rect" id="node5" href="$detect-parse_8h.html#a2900742893ac94089af261987ae2da53" title="Parses a signature and adds it to the Detection Engine Context. " alt="" coords="173,107,232,133"/>
+<area shape="rect" id="node4" href="$detect-engine_8h.html#a507b6b477b36478010d0946149c2d357" title="Free a DetectEngineCtx:: " alt="" coords="334,56,482,83"/>
+</map>

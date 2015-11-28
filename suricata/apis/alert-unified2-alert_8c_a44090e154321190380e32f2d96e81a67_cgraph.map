@@ -1,0 +1,25 @@
+<map id="TmModuleUnified2AlertRegister" name="TmModuleUnified2AlertRegister">
+<area shape="rect" id="node2" href="$output_8c.html#a616273c18f40bc368b7c3ad79bad6481" title="Register a packet output module. " alt="" coords="262,233,455,260"/>
+<area shape="rect" id="node3" href="$alert-unified2-alert_8c.html#aecf49336059d1ec4b36ff392c4a5dd8d" title="Create a new LogFileCtx from the provided ConfNode. " alt="" coords="291,284,427,311"/>
+<area shape="rect" id="node20" href="$alert-unified2-alert_8c.html#aa047c66ac0c5bda87bc448b9fc9e52cd" title="Thread deinit function. " alt="" coords="273,335,444,361"/>
+<area shape="rect" id="node21" href="$alert-unified2-alert_8c.html#ad091921359d5b99cf2e84f4966187e4d" title="Thread init function. " alt="" coords="281,385,436,412"/>
+<area shape="rect" id="node22" href="$alert-unified2-alert_8c.html#af4d48cc987f9a5bd1073a96caf18c84e" title="Unified2Condition" alt="" coords="296,436,421,463"/>
+<area shape="rect" id="node23" href="$alert-unified2-alert_8c.html#a707a71a696a556258619f502ca695a29" title="Unified2 main entry function. " alt="" coords="304,487,413,513"/>
+<area shape="rect" id="node24" href="$alert-unified2-alert_8c.html#a5536b52aaab85298f821130947b8f555" title="this function registers unit tests for Unified2 " alt="" coords="283,537,435,564"/>
+<area shape="rect" id="node4" href="$util-logopenfile_8c.html#aecf090c1d20b5506b7ad24192dad5514" title="LogFileNewCtx() Get a new LogFileCtx. " alt="" coords="533,5,645,32"/>
+<area shape="rect" id="node5" href="$conf_8c.html#a4d5920eea97bb4713c41e3ffef423757" title="Lookup the value of a child configuration node by name. " alt="" coords="952,208,1139,235"/>
+<area shape="rect" id="node7" href="$util-misc_8c.html#ad06f7f59424271edbb160b18ce10f70b" title="ParseSizeStringU64" alt="" coords="519,360,659,387"/>
+<area shape="rect" id="node8" href="$util-byte_8c.html#aff93b9381b90e88415cb6f8c5daa8bca" title="ByteExtractStringUint32" alt="" coords="508,411,671,437"/>
+<area shape="rect" id="node10" href="$conf_8c.html#abc921a7338a381476e9e40a10e2d543c" title="Check if a value is false. " alt="" coords="533,461,645,488"/>
+<area shape="rect" id="node11" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true. " alt="" coords="992,56,1099,83"/>
+<area shape="rect" id="node12" href="$alert-unified2-alert_8c.html#aece26471fa7813974ae0250cbc959c1e" title="Read the config set the file pointer, open the file. " alt="" coords="504,309,675,336"/>
+<area shape="rect" id="node18" href="$app-layer-htp-xff_8c.html#acd4562af35f33435e8ec7be752120039" title="Function to return XFF configuration from a configuration node. " alt="" coords="532,183,647,209"/>
+<area shape="rect" id="node6" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="1339,208,1493,235"/>
+<area shape="rect" id="node9" href="$util-byte_8c.html#a43dab0146a4fbdf54e3c1dba707b0534" title="ByteExtractString" alt="" coords="751,411,876,437"/>
+<area shape="rect" id="node13" href="$util-time_8c.html#abca16b834f22ae2b71d62fa72618408a" title="TimeGet" alt="" coords="777,309,849,336"/>
+<area shape="rect" id="node14" href="$util-conf_8c.html#a78afc07a179cdd6bd1522f1d5437c46d" title="ConfigGetLogDirectory" alt="" coords="736,360,891,387"/>
+<area shape="rect" id="node15" href="$conf_8c.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="1010,309,1081,336"/>
+<area shape="rect" id="node16" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="1187,284,1290,311"/>
+<area shape="rect" id="node17" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="1385,284,1447,311"/>
+<area shape="rect" id="node19" href="$conf_8c.html#a73d6a0209eea403d96408231d112869e" title="Test if a configuration node has a true value. " alt="" coords="723,157,904,184"/>
+</map>

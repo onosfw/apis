@@ -1,0 +1,51 @@
+<map id="ConfGetNode" name="ConfGetNode">
+<area shape="rect" id="node2" href="$util-action_8h.html#a0e84aa1172457dea2b63819e8504d3dd" title="Load the action order from config. If none is provided, it will be default to ACTION_PASS, ACTION_DROP, ACTION_REJECT, ACTION_ALERT (pass has the highest prio) " alt="" coords="209,5,324,32"/>
+<area shape="rect" id="node3" href="$util-affinity_8h.html#ae1a3c113aa148b64530ae41a0d5aa67f" title="Extract cpu affinity configuration from current config file. " alt="" coords="170,107,363,133"/>
+<area shape="rect" id="node5" href="$runmode-af-packet_8h.html#ad9a3b74a93b01528dc796b7cac4d8649" title="AFPRunModeIsIPS" alt="" coords="198,157,335,184"/>
+<area shape="rect" id="node6" href="$app-layer-parser_8h.html#a88e3531566baa49719a9edd0cb1ef6fa" title="Given a protocol name, checks if the parser is enabled in the conf file. " alt="" coords="176,325,357,366"/>
+<area shape="rect" id="node17" href="$app-layer-detect-proto_8h.html#ab97551150b79f956615d499899330c79" title="Given a protocol name, checks if proto detection is enabled in the conf file. " alt="" coords="163,259,370,301"/>
+<area shape="rect" id="node18" href="$app-layer-detect-proto_8h.html#a9883134087a5ccfadb4dbddafa04027c" title="AppLayerProtoDetectPPParse\lConfPorts" alt="" coords="167,442,366,483"/>
+<area shape="rect" id="node19" href="$util-mpm-b3g_8c.html#af58addb492d261728168450f41ab1430" title="Function to get the user defined values for b3g algorithm from the config file &#39;suricata.yaml&#39;. " alt="" coords="215,609,319,636"/>
+<area shape="rect" id="node20" href="$conf_8h.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="231,1065,302,1092"/>
+<area shape="rect" id="node28" href="$conf_8c.html#a1d952ba60d0cbc20b96cffa1c20fdd07" title="Remove a configuration parameter from the configuration db. " alt="" coords="217,1268,316,1295"/>
+<area shape="rect" id="node29" href="$conf-yaml-loader_8h.html#a9191975dbeaa8aba1b674327b5129fa8" title="Load configuration from a YAML file, insert in tree at &#39;prefix&#39;. " alt="" coords="171,660,362,687"/>
+<area shape="rect" id="node31" href="$defrag-config_8h.html#a6bdbe242c7a3276bc4b00cee9d9f59c9" title="DefragPolicyLoadFromConfig" alt="" coords="170,1319,363,1345"/>
+<area shape="rect" id="node32" href="$detect-engine-address_8h.html#a7b334724d7b8972be5e41e96ac4da12b" title="DetectAddressTestConfVars" alt="" coords="171,1369,362,1396"/>
+<area shape="rect" id="node33" href="$detect-engine_8h.html#a507b6b477b36478010d0946149c2d357" title="Free a DetectEngineCtx:: " alt="" coords="193,1420,341,1447"/>
+<area shape="rect" id="node21" href="$detect-engine_8h.html#a3dd8dd8e9160b754f6be5b7136f5f891" title="setup multi&#45;detect / multi&#45;tenancy " alt="" coords="424,711,627,737"/>
+<area shape="rect" id="node30" href="$detect-engine_8h.html#aba0e2c94ab90c4390af30af806db271d" title="Reload the detection engine. " alt="" coords="675,761,818,788"/>
+<area shape="rect" id="node34" href="$detect-engine-port_8h.html#acadde7836a00e3a3fbf1bb4c6ddb72db" title="DetectPortTestConfVars" alt="" coords="183,1471,350,1497"/>
+<area shape="rect" id="node35" href="$detect-template-buffer_8h.html#a5560c3c83735e9f8dd275d77f66bfd02" title="DetectTemplateBufferRegister" alt="" coords="167,1521,366,1548"/>
+<area shape="rect" id="node36" href="$flow_8c.html#a871212f9b59e814e9b4763644459247b" title="Function to set the default timeout, free function and flow state function for all supported flow_pro..." alt="" coords="203,1572,330,1599"/>
+<area shape="rect" id="node37" href="$group__httplayer.html#gaa92380e45cf4da76434cea3e4a6364e9" title="HTPConfigure" alt="" coords="214,208,319,235"/>
+<area shape="rect" id="node38" href="$util-device_8h.html#a6d8711d3629cd77b6930179828ee1706" title="LiveBuildDeviceListCustom" alt="" coords="175,1623,358,1649"/>
+<area shape="rect" id="node39" href="$runmode-napatech_8c.html#a08164451527c109e56ad5f8948c48a87" title="NapatechRegisterDeviceStreams" alt="" coords="158,1673,375,1700"/>
+<area shape="rect" id="node23" href="$runmode-af-packet_8c.html#aa44206676da7e92c8d5f1b2442dbe2e0" title="extract information from config file " alt="" coords="465,976,585,1003"/>
+<area shape="rect" id="node40" href="$runmode-nflog_8c.html#abec42411a7d672ccccd1a4f85c96b161" title="ParseNflogConfig" alt="" coords="204,1724,329,1751"/>
+<area shape="rect" id="node24" href="$runmode-pcap_8c.html#ae44f9c11ae2bc1ef90b867d62d37e50b" title="ParsePcapConfig" alt="" coords="463,1040,587,1067"/>
+<area shape="rect" id="node25" href="$runmode-pfring_8c.html#af25c5cf0b9226b4ffd932aac132d8895" title="extract information from config file " alt="" coords="461,1104,589,1131"/>
+<area shape="rect" id="node41" href="$log-pcap_8h.html#ad26144ca07c71b51cb95a6c59ac2eebb" title="PcapLogProfileSetup" alt="" coords="195,1775,339,1801"/>
+<area shape="rect" id="node14" href="$app-layer-modbus_8h.html#aa672d3c3fae34a79808da8f9f3043573" title="Function to register the Modbus protocol parsers and other functions. " alt="" coords="444,457,607,484"/>
+<area shape="rect" id="node15" href="$app-layer-ssl_8h.html#ac41f8ede008657dd3bd8971a8dc24628" title="Function to register the SSL protocol parser and other functions. " alt="" coords="455,559,596,585"/>
+<area shape="rect" id="node16" href="$app-layer-template_8h.html#ac39e3903c23aff255a27a6dfcdf2d652" title="RegisterTemplateParsers" alt="" coords="440,508,611,535"/>
+<area shape="rect" id="node4" href="$runmodes_8h.html#a07225b8600c17470752ae849ace81e0f" title="RunModeInitialize" alt="" coords="462,52,589,79"/>
+<area shape="rect" id="node42" href="$runmodes_8h.html#ab3220172f27e0b691de70955e360bf96" title="RunModeInitializeOutputs" alt="" coords="181,1825,353,1852"/>
+<area shape="rect" id="node43" href="$util-host-os-info_8h.html#a78b5426f40b5ab869e7e999ce957aedd" title="Load the host os policy information from the configuration. " alt="" coords="182,1876,351,1903"/>
+<area shape="rect" id="node27" href="$util-debug_8h.html#a7f76e0a2cbc79c8ff3f5450bb02facd7" title="SCLogLoadConfig" alt="" coords="461,1212,589,1239"/>
+<area shape="rect" id="node44" href="$util-profiling_8h.html#a19131d1e4739763149fedab6e29d2a73" title="Initialize profiling. " alt="" coords="213,1927,320,1953"/>
+<area shape="rect" id="node45" href="$util-profiling_8h.html#a017cefafebc2276ebf2bfb916fe0adb8" title="SCProfilingKeywordsGlobalInit" alt="" coords="166,1977,367,2004"/>
+<area shape="rect" id="node46" href="$util-profiling_8h.html#a59cfaf09520d50a5ac1b0f61145dd243" title="SCProfilingRulesGlobalInit" alt="" coords="178,2028,355,2055"/>
+<area shape="rect" id="node47" href="$detect-engine-analyzer_8h.html#a324c316ffb71801a0a1711f85b848c60" title="Sets up the rule analyzer according to the config. " alt="" coords="199,863,334,889"/>
+<area shape="rect" id="node48" href="$detect_8h.html#a8b471081c75864d1c8d4bcb14eaebc3b" title="Load signatures. " alt="" coords="460,812,591,839"/>
+<area shape="rect" id="node22" href="$reputation_8h.html#aeaa24d47d369e2798f14eefe08db0097" title="init reputation " alt="" coords="489,913,562,940"/>
+<area shape="rect" id="node26" href="$stream-tcp_8h.html#ae02dc80698f907951c8c9dc972093fde" title="To initialize the stream global configuration data. " alt="" coords="454,1161,597,1188"/>
+<area shape="rect" id="node49" href="$stream-tcp-reassemble_8c.html#a6e2b5d05e1f2d5b39843319142e436f0" title="StreamTcpReassemblyConfig" alt="" coords="168,2079,365,2105"/>
+<area shape="rect" id="node50" href="$util-mpm-wumanber_8c.html#a0a0e6567d8fb97b36f56d18d6498f125" title="Function to get the user defined values for wumanber algorithm from the config file &#39;suricata..." alt="" coords="214,2129,319,2156"/>
+<area shape="rect" id="node7" href="$group__httplayer.html#gaa9b76d8c59e5673794cbe2656c825d74" title="Clears the HTTP server configuration memory used by HTP library. " alt="" coords="469,153,582,180"/>
+<area shape="rect" id="node8" href="$app-layer-dcerpc_8h.html#af33f01d5d703a6338f092a1a580ca6f4" title="RegisterDCERPCParsers" alt="" coords="438,204,613,231"/>
+<area shape="rect" id="node9" href="$app-layer-dcerpc-udp_8h.html#a021b09039e147eef3be6d453e28105b9" title="RegisterDCERPCUDPParsers" alt="" coords="424,255,627,281"/>
+<area shape="rect" id="node10" href="$app-layer-dns-tcp_8h.html#ac637e7cedd8afd651b1cf217d654d285" title="RegisterDNSTCPParsers" alt="" coords="439,407,611,433"/>
+<area shape="rect" id="node11" href="$app-layer-dns-udp_8h.html#a621fd6c4064a0962df00a7dff98c3e12" title="RegisterDNSUDPParsers" alt="" coords="438,356,613,383"/>
+<area shape="rect" id="node12" href="$app-layer-ftp_8h.html#aad9fd179d26143f516519e8f83a8ec95" title="RegisterFTPParsers" alt="" coords="455,305,596,332"/>
+<area shape="rect" id="node13" href="$group__httplayer.html#ga23aaf4c00574fa636459e4377429ac13" title="Register the HTTP protocol and state handling functions to APP layer of the engine. " alt="" coords="454,103,597,129"/>
+</map>

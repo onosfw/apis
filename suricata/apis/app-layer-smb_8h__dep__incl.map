@@ -1,0 +1,6 @@
+<map id="src/app&#45;layer&#45;smb.h" name="src/app&#45;layer&#45;smb.h">
+<area shape="rect" id="node2" href="$app-layer-parser_8c.html" title="src/app&#45;layer&#45;parser.c" alt="" coords="5,80,152,107"/>
+<area shape="rect" id="node3" href="$app-layer-smb_8c.html" title="SMBv1 parser/decoder. " alt="" coords="177,80,313,107"/>
+<area shape="rect" id="node4" href="$detect-engine-file_8c.html" title="src/detect&#45;engine&#45;file.c" alt="" coords="339,80,493,107"/>
+<area shape="rect" id="node5" href="$detect-engine-state_8c.html" title="State based signature handling. " alt="" coords="518,80,684,107"/>
+</map>

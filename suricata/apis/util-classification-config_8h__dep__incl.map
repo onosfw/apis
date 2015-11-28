@@ -1,0 +1,16 @@
+<map id="src/util&#45;classification&#45;config.h" name="src/util&#45;classification&#45;config.h">
+<area shape="rect" id="node2" href="$alert-fastlog_8c.html" title="src/alert&#45;fastlog.c" alt="" coords="5,104,128,131"/>
+<area shape="rect" id="node3" href="$alert-syslog_8c.html" title="src/alert&#45;syslog.c" alt="" coords="152,104,275,131"/>
+<area shape="rect" id="node4" href="$detect-classtype_8c.html" title="src/detect&#45;classtype.c" alt="" coords="299,104,449,131"/>
+<area shape="rect" id="node5" href="$detect-engine-iponly_8c.html" title="src/detect&#45;engine&#45;iponly.c" alt="" coords="475,104,645,131"/>
+<area shape="rect" id="node6" href="$detect-engine_8c.html" title="src/detect&#45;engine.c" alt="" coords="669,104,803,131"/>
+<area shape="rect" id="node7" href="$detect-msg_8c.html" title="src/detect&#45;msg.c" alt="" coords="827,104,947,131"/>
+<area shape="rect" id="node8" href="$detect-parse_8c.html" title="src/detect&#45;parse.c" alt="" coords="971,104,1097,131"/>
+<area shape="rect" id="node9" href="$detect_8c.html" title="src/detect.c" alt="" coords="1123,104,1213,131"/>
+<area shape="rect" id="node10" href="$log-droplog_8c.html" title="src/log&#45;droplog.c" alt="" coords="1238,104,1356,131"/>
+<area shape="rect" id="node11" href="$output-json-alert_8c.html" title="src/output&#45;json&#45;alert.c" alt="" coords="1381,104,1528,131"/>
+<area shape="rect" id="node12" href="$output-json-drop_8c.html" title="src/output&#45;json&#45;drop.c" alt="" coords="1553,104,1700,131"/>
+<area shape="rect" id="node13" href="$output-json_8c.html" title="src/output&#45;json.c" alt="" coords="1725,104,1843,131"/>
+<area shape="rect" id="node14" href="$suricata_8c.html" title="src/suricata.c" alt="" coords="1868,104,1969,131"/>
+<area shape="rect" id="node15" href="$util-classification-config_8c.html" title="src/util&#45;classification\l&#45;config.c" alt="" coords="1993,97,2135,138"/>
+</map>

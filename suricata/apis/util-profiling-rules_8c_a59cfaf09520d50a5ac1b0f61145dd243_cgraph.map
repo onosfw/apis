@@ -1,0 +1,12 @@
+<map id="SCProfilingRulesGlobalInit" name="SCProfilingRulesGlobalInit">
+<area shape="rect" id="node2" href="$util-byte_8c.html#aff93b9381b90e88415cb6f8c5daa8bca" title="ByteExtractStringUint32" alt="" coords="241,5,404,32"/>
+<area shape="rect" id="node4" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="697,107,799,133"/>
+<area shape="rect" id="node7" href="$util-conf_8c.html#a78afc07a179cdd6bd1522f1d5437c46d" title="ConfigGetLogDirectory" alt="" coords="245,107,400,133"/>
+<area shape="rect" id="node9" href="$conf_8c.html#a73d6a0209eea403d96408231d112869e" title="Test if a configuration node has a true value. " alt="" coords="232,208,413,235"/>
+<area shape="rect" id="node10" href="$conf_8c.html#a4d5920eea97bb4713c41e3ffef423757" title="Lookup the value of a child configuration node by name. " alt="" coords="461,157,648,184"/>
+<area shape="rect" id="node11" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true. " alt="" coords="501,233,608,260"/>
+<area shape="rect" id="node3" href="$util-byte_8c.html#a43dab0146a4fbdf54e3c1dba707b0534" title="ByteExtractString" alt="" coords="492,5,617,32"/>
+<area shape="rect" id="node5" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="849,157,1002,184"/>
+<area shape="rect" id="node6" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="895,107,956,133"/>
+<area shape="rect" id="node8" href="$conf_8c.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="519,107,590,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="DetectPortCopySingle" name="DetectPortCopySingle">
+<area shape="rect" id="node2" href="$detect-engine-port_8c.html#a6d5934b74427fee3e9fc25e2070244f4" title="Alloc a DetectPort structure and update counters. " alt="" coords="237,5,339,32"/>
+<area shape="rect" id="node3" href="$detect-engine-siggroup_8c.html#a51eba76854157da0de4a460887ff391d" title="Copies the bitarray holding the sids from the source SigGroupHead to the destination SigGroupHead..." alt="" coords="206,56,370,83"/>
+</map>

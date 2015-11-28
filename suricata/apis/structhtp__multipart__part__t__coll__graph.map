@@ -1,0 +1,12 @@
+<map id="htp_multipart_part_t" name="htp_multipart_part_t">
+<area shape="rect" id="node3" href="$structhtp__mpartp__t.html" title="htp_mpartp_t" alt="" coords="347,544,446,571"/>
+<area shape="rect" id="node2" href="$structbstr__t.html" title="bstr_t" alt="" coords="118,5,172,32"/>
+<area shape="rect" id="node11" href="$structhtp__file__t.html" title="htp_file_t" alt="" coords="362,105,436,132"/>
+<area shape="rect" id="node4" href="$structhtp__multipart__t.html" title="htp_multipart_t" alt="" coords="378,424,486,451"/>
+<area shape="rect" id="node5" href="$structhtp__cfg__t.html" title="htp_cfg_t" alt="" coords="510,424,586,451"/>
+<area shape="rect" id="node6" href="$structhtp__decoder__cfg__t.html" title="htp_decoder_cfg_t" alt="" coords="469,105,598,132"/>
+<area shape="rect" id="node7" href="$structhtp__hook__t.html" title="htp_hook_t" alt="" coords="622,105,708,132"/>
+<area shape="rect" id="node8" href="$structhtp__list__array__t.html" title="htp_list_array_t" alt="" coords="610,5,720,32"/>
+<area shape="rect" id="node9" href="$structbstr__builder__t.html" title="bstr_builder_t" alt="" coords="610,424,710,451"/>
+<area shape="rect" id="node10" href="$structhtp__table__t.html" title="htp_table_t" alt="" coords="250,105,336,132"/>
+</map>

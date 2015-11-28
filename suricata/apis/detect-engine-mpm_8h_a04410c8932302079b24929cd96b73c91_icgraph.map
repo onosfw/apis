@@ -1,0 +1,9 @@
+<map id="MpmPatternIdStoreGetMaxId" name="MpmPatternIdStoreGetMaxId">
+<area shape="rect" id="node2" href="$detect-content_8h.html#aff0bbd5cea991d256f011e6ffd590e75" title="DetectContentMaxId" alt="" coords="253,107,395,133"/>
+<area shape="rect" id="node7" href="$detect-uricontent_8h.html#a268d5751e54d4269817e1e24cc3e5d1e" title="pass on the uricontent_max_id " alt="" coords="245,183,403,209"/>
+<area shape="rect" id="node3" href="$detect-engine-siggroup_8h.html#a161487a40e7ece497ffdc0b4bc9d83cd" title="Loads all the content ids from all the contents belonging to all the Signatures in this SigGroupHead..." alt="" coords="472,5,653,32"/>
+<area shape="rect" id="node4" href="$detect-engine-siggroup_8h.html#a3aeb6b1efaf36534c21c03539de5d605" title="Loads all the content ids from all the contents belonging to all the Signatures in this SigGroupHead..." alt="" coords="451,56,674,83"/>
+<area shape="rect" id="node5" href="$detect-engine-siggroup_8c.html#af09d0510dfc9af28b4140ad091df2aff" title="Helper function used to print the content ids of all the contents that have been added to the bitarra..." alt="" coords="473,107,653,133"/>
+<area shape="rect" id="node6" href="$detect-engine-siggroup_8c.html#a2683e31b4e3950b37cfe63597d21f288" title="Helper function used to print the total no of contents that have been added to the bitarray for this ..." alt="" coords="462,157,663,184"/>
+<area shape="rect" id="node8" href="$detect-engine-siggroup_8h.html#a5d37d816abe07ce564893c4492ae9266" title="Loads all the uri content ids from all the uri contents belonging to all the Signatures in this SigGr..." alt="" coords="465,208,660,235"/>
+</map>

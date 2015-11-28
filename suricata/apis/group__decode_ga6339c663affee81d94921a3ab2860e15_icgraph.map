@@ -1,0 +1,34 @@
+<map id="DecodeThreadVarsFree" name="DecodeThreadVarsFree">
+<area shape="rect" id="node2" href="$group__afppacket.html#ga3c4a177fe643cfbf02de98b31b9a1563" title="DecodeAFPThreadDeinit" alt="" coords="466,244,633,271"/>
+<area shape="rect" id="node8" href="$source-erf-dag_8c.html#a4d3a683beeb01b9bf7ff6250725af6c3" title="DecodeErfDagThreadDeinit" alt="" coords="221,84,403,111"/>
+<area shape="rect" id="node10" href="$source-erf-file_8c.html#ad490c99f184e1a57d79a381d23658fd3" title="DecodeErfFileThreadDeinit" alt="" coords="223,192,401,219"/>
+<area shape="rect" id="node12" href="$source-ipfw_8c.html#a81efbe592654d1938744b11b53988c30" title="DecodeIPFWThreadDeinit" alt="" coords="225,5,399,32"/>
+<area shape="rect" id="node14" href="$source-nfq_8c.html#ab2b0780dd2b06a06a328601656415f9b" title="DecodeNFQThreadDeinit" alt="" coords="227,755,397,781"/>
+<area shape="rect" id="node16" href="$source-pcap-file_8c.html#afb35954ee3770828d4f43991f0d1447f" title="DecodePcapFileThreadDeinit" alt="" coords="216,828,408,855"/>
+<area shape="rect" id="node18" href="$source-pcap_8c.html#ae70054297eb6079e7d391aa329e92b3e" title="DecodePcapThreadDeinit" alt="" coords="227,657,397,684"/>
+<area shape="rect" id="node20" href="$source-pfring_8c.html#a87b1c0c7fe35d1fce94ad778f80fd5b3" title="DecodePfringThreadDeinit" alt="" coords="225,483,399,509"/>
+<area shape="rect" id="node22" href="$group__decode.html#gac7665e2409fe6cc688c1ba7bead8cc57" title="Alloc and setup DecodeThreadVars. " alt="" coords="231,432,393,459"/>
+<area shape="rect" id="node33" href="$source-napatech_8c.html#a16fe31e46b66b413c5d2f685476da38d" title="NapatechDecodeThreadDeinit" alt="" coords="213,565,411,592"/>
+<area shape="rect" id="node3" href="$group__afppacket.html#ga5619eeb40186e176637afb0b010dfd52" title="Registration Function for DecodeAFP. " alt="" coords="704,345,907,372"/>
+<area shape="rect" id="node4" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="971,396,1106,423"/>
+<area shape="rect" id="node5" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="1155,396,1253,423"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1499,396,1549,423"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="1301,421,1451,448"/>
+<area shape="rect" id="node9" href="$source-erf-dag_8h.html#aa47bd0f6507811ee5e58ddbabe5a9e66" title="Register the ERF file decoder module. " alt="" coords="696,193,915,220"/>
+<area shape="rect" id="node11" href="$source-erf-file_8h.html#a5d63afd9d35d0b55b8ccf9786f4b3119" title="Register the ERF file decoder module. " alt="" coords="698,295,913,321"/>
+<area shape="rect" id="node13" href="$source-ipfw_8h.html#a7ce5e29608a3a5fdbb24698934ccc066" title="Registration Function for DecodeIPFW. " alt="" coords="700,92,911,119"/>
+<area shape="rect" id="node15" href="$source-nfq_8c.html#aae0ce2a417f5740d558f3489af38f402" title="TmModuleDecodeNFQRegister" alt="" coords="703,649,908,676"/>
+<area shape="rect" id="node17" href="$source-pcap-file_8h.html#a2eb0f3cbe2c09246bb9275f85e07806c" title="TmModuleDecodePcapFileRegister" alt="" coords="691,751,919,777"/>
+<area shape="rect" id="node19" href="$source-pcap_8h.html#a60c81766c6d86f298c28b7e6afd4bf93" title="Registration Function for DecodePcap. " alt="" coords="702,548,909,575"/>
+<area shape="rect" id="node21" href="$source-pfring_8h.html#aa66fd20b9ff077eeceaa3b651c66c74d" title="Registration Function for DecodePfring. " alt="" coords="700,396,911,423"/>
+<area shape="rect" id="node23" href="$group__afppacket.html#ga1a26fc40f8dfa5016aada1955beb9ec2" title="DecodeAFPThreadInit" alt="" coords="474,345,625,372"/>
+<area shape="rect" id="node24" href="$source-erf-dag_8c.html#a662c7de24bb6f9bfab58dd71cd90590d" title="DecodeErfDagThreadInit" alt="" coords="466,193,633,220"/>
+<area shape="rect" id="node25" href="$source-erf-file_8c.html#adafcbf2338cc6bb37fc789ca962ce5f0" title="Initialize the ERF decoder thread. " alt="" coords="468,295,631,321"/>
+<area shape="rect" id="node26" href="$source-ipfw_8c.html#a050a1a30a989817ff690350617397aa0" title="This function initializes the DecodeThreadVariables. " alt="" coords="470,92,629,119"/>
+<area shape="rect" id="node27" href="$source-napatech_8c.html#a63b6b73db5df2b1201944c46b67bed20" title="NapatechDecodeThreadInit" alt="" coords="459,447,640,473"/>
+<area shape="rect" id="node29" href="$source-nfq_8c.html#a927d58521731b4f905d73d55c650afa0" title="Initialize the NFQ Decode threadvars. " alt="" coords="473,649,626,676"/>
+<area shape="rect" id="node30" href="$source-pcap-file_8c.html#a2829038cb3227afb1c9c41024c3145b3" title="DecodePcapFileThreadInit" alt="" coords="461,751,637,777"/>
+<area shape="rect" id="node31" href="$source-pcap_8c.html#adad64130c7cc6e231d32cdd19302a2a1" title="DecodePcapThreadInit" alt="" coords="472,548,627,575"/>
+<area shape="rect" id="node32" href="$source-pfring_8c.html#ae2135001a6c641f815994e4354f1b502" title="This an Init function for DecodePfring. " alt="" coords="470,396,629,423"/>
+<area shape="rect" id="node28" href="$source-napatech_8h.html#a3c6286bd204f451242392057ef46bc52" title="Register the Napatech decoder module. " alt="" coords="689,447,922,473"/>
+</map>

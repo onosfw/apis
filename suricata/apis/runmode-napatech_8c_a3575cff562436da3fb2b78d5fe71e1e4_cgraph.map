@@ -1,0 +1,7 @@
+<map id="NapatechConfigParser" name="NapatechConfigParser">
+<area shape="rect" id="node2" href="$conf_8c.html#a0699665aae394f33c9fe33880891c1e7" title="Retrieve a configuration value as an integer. " alt="" coords="209,31,295,57"/>
+<area shape="rect" id="node3" href="$conf_8c.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="345,31,415,57"/>
+<area shape="rect" id="node4" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="465,31,567,57"/>
+<area shape="rect" id="node5" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="617,5,770,32"/>
+<area shape="rect" id="node6" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="663,56,724,83"/>
+</map>

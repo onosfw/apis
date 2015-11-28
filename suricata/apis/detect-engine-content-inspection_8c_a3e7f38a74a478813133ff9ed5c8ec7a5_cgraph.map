@@ -1,0 +1,10 @@
+<map id="DetectEngineContentInspection" name="DetectEngineContentInspection">
+<area shape="rect" id="node2" href="$util-spm-bm_8c.html#a5886feebf61e43a7b217bb942e8451c6" title="Boyer Moore search algorithm Is better as the pattern length increases and for big buffers to search ..." alt="" coords="301,5,393,32"/>
+<area shape="rect" id="node3" href="$util-spm-bm_8c.html#ac0b057b002a1b78afe98bfaf55bfbc01" title="Boyer Moore search algorithm Is better as the pattern length increases and for big buffers to search ..." alt="" coords="278,56,415,83"/>
+<area shape="rect" id="node4" href="$detect-pcre_8c.html#a6ae7853f4c9163cb68d47b7f08b9336f" title="Match a regex on a single payload. " alt="" coords="261,107,432,133"/>
+<area shape="rect" id="node9" href="$detect-replace_8c.html#a743cca1d9869292d42f02b113b8d000e" title="DetectReplaceAddToList" alt="" coords="263,157,431,184"/>
+<area shape="rect" id="node5" href="$pkt-var_8c.html#ae9bb0210402740e68639080fd5aadcd4" title="PktVarAdd" alt="" coords="525,81,611,108"/>
+<area shape="rect" id="node8" href="$detect-flowvar_8c.html#a932d5966f2cd85270cc55391c12c37b6" title="Store flowvar in det_ctx so we can exec it post&#45;match. " alt="" coords="481,132,655,159"/>
+<area shape="rect" id="node6" href="$pkt-var_8c.html#a1faa35c0ef110acba143236b99404ed2" title="PktVarGet" alt="" coords="715,56,797,83"/>
+<area shape="rect" id="node7" href="$pkt-var_8c.html#addc8c2b9e91acb75029ea3dd0eb4a6d5" title="PktVarUpdate" alt="" coords="704,107,808,133"/>
+</map>

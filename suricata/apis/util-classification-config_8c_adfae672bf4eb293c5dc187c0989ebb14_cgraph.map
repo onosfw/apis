@@ -1,0 +1,10 @@
+<map id="SCClassConfInitContextAndLocalResources" name="SCClassConfInitContextAndLocalResources">
+<area shape="rect" id="node2" href="$util-hash_8c.html#a9d52964329648870595ceaf6b2e15ea7" title="HashTableFree" alt="" coords="302,5,413,32"/>
+<area shape="rect" id="node3" href="$util-hash_8c.html#afdcdf86ea96706d879fd214a894aeb07" title="HashTableInit" alt="" coords="306,56,409,83"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#aea038f0105b5e6a67a1bf32d2ccf463c" title="RunmodeIsUnittests" alt="" coords="286,107,429,133"/>
+<area shape="rect" id="node6" href="$util-classification-config_8c.html#af4bd23c8fa4c14f02f815da7579a72fe" title="Used to compare two Classtypes that have been stored in the HashTable. This function is supplied as a..." alt="" coords="261,158,454,199"/>
+<area shape="rect" id="node7" href="$util-classification-config_8c.html#a6a381045dcbd5676589b842f17d06767" title="Used to free the Classification Config Hash Data that was stored in DetectEngineCtx&#45;&gt;class_conf_ht Ha..." alt="" coords="248,224,467,251"/>
+<area shape="rect" id="node9" href="$util-classification-config_8c.html#a22004a0e75f47a551cea5e62a37e0f64" title="Hashing function to be used to hash the Classtype name. Would be supplied as an argument to the HashT..." alt="" coords="246,275,469,301"/>
+<area shape="rect" id="node4" href="$util-hash_8c.html#a2efa72a976a8595198b1c084c18246d4" title="HashTableDefaultCompare" alt="" coords="531,56,711,83"/>
+<area shape="rect" id="node8" href="$util-classification-config_8c.html#a59d380510cde0f10d358d4201b229b52" title="Frees a SCClassConfClasstype instance. " alt="" coords="517,224,725,251"/>
+</map>

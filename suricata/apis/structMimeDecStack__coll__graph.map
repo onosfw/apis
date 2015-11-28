@@ -1,0 +1,6 @@
+<map id="MimeDecStack" name="MimeDecStack">
+<area shape="rect" id="node2" href="$structMimeDecStackNode.html" title="Structure contains boundary and entity for the current node (entity) in the stack. " alt="" coords="77,189,219,216"/>
+<area shape="rect" id="node3" href="$structMimeDecEntity.html" title="This represents the MIME Entity (or also top level message) in a child&#45;sibling tree. " alt="" coords="92,97,204,124"/>
+<area shape="rect" id="node4" href="$structMimeDecField.html" title="This represents a header field name and associated value. " alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node5" href="$structMimeDecUrl.html" title="This represents a URL value node in a linked list. " alt="" coords="190,5,284,32"/>
+</map>

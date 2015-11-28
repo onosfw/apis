@@ -1,0 +1,9 @@
+<map id="HostStorageSize" name="HostStorageSize">
+<area shape="rect" id="node2" href="$host_8h.html#aa2576bade76d460d3d37d61199f57471" title="HostClearMemory" alt="" coords="347,5,475,32"/>
+<area shape="rect" id="node7" href="$host-storage_8h.html#a8c5e26defafcfcbf9ddfe70bdcdf866d" title="HostFreeStorage" alt="" coords="177,56,298,83"/>
+<area shape="rect" id="node8" href="$host_8h.html#a833483b5844832e42f038a581d252e03" title="initialize the configuration " alt="" coords="357,107,464,133"/>
+<area shape="rect" id="node3" href="$host_8c.html#abe1406a89d6ad93b2428882beb665e98" title="HostFree" alt="" coords="534,5,610,32"/>
+<area shape="rect" id="node6" href="$host_8h.html#a4da38df867e434a4e5c5f09af2c6662a" title="Cleanup the host engine. " alt="" coords="523,56,621,83"/>
+<area shape="rect" id="node4" href="$host_8h.html#a607ac192300e83f8971b11f933daa404" title="shutdown the flow engine " alt="" coords="670,31,778,57"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="827,69,877,96"/>
+</map>

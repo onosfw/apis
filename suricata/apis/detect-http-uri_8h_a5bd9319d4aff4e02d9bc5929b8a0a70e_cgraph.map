@@ -1,0 +1,7 @@
+<map id="DetectHttpUriRegister" name="DetectHttpUriRegister">
+<area shape="rect" id="node2" href="$detect-http-uri_8c.html#a305bf8830b70608b985b3922a70d474e" title="Register the UNITTESTS for the http_uri keyword. " alt="" coords="206,5,391,32"/>
+<area shape="rect" id="node3" href="$detect-http-uri_8c.html#a7a9c1beda76aa9a19043ad35b5859dce" title="this function setups the http_uri modifier keyword used in the rule " alt="" coords="230,56,367,83"/>
+<area shape="rect" id="node4" href="$detect-parse_8c.html#a86273f934370947a29422bbb2fcfe0db" title="DetectEngineContentModifier\lBufferSetup" alt="" coords="441,49,634,90"/>
+<area shape="rect" id="node5" href="$detect-parse_8c.html#a207f50170ee418c4456ec659e8f37520" title="Returns the sm with the largest index (added latest) from all the lists. " alt="" coords="683,27,885,53"/>
+<area shape="rect" id="node6" href="$detect-parse_8c.html#a08dc7e1c9cf1ced8186d8dbd2405b540" title="SigMatchTransferSigMatch\lAcrossLists" alt="" coords="694,78,874,119"/>
+</map>

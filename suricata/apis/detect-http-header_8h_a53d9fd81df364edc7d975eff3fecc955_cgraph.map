@@ -1,0 +1,8 @@
+<map id="DetectHttpHeaderRegister" name="DetectHttpHeaderRegister">
+<area shape="rect" id="node2" href="$detect-http-header_8c.html#aac687e92cc48c979f5ac37d66649bbbd" title="this function clears the memory of http_header modifier keyword " alt="" coords="244,5,399,32"/>
+<area shape="rect" id="node3" href="$detect-http-header_8c.html#aa04bb8ce2925ba065d9b20c6ebf04ab2" title="DetectHttpHeaderRegister\lTests" alt="" coords="233,57,410,98"/>
+<area shape="rect" id="node4" href="$detect-http-header_8c.html#a41a3a06d3428b63c35c460671285545b" title="The setup function for the http_header keyword for a signature. " alt="" coords="240,123,403,149"/>
+<area shape="rect" id="node5" href="$detect-parse_8c.html#a86273f934370947a29422bbb2fcfe0db" title="DetectEngineContentModifier\lBufferSetup" alt="" coords="459,115,653,157"/>
+<area shape="rect" id="node6" href="$detect-parse_8c.html#a207f50170ee418c4456ec659e8f37520" title="Returns the sm with the largest index (added latest) from all the lists. " alt="" coords="702,93,903,120"/>
+<area shape="rect" id="node7" href="$detect-parse_8c.html#a08dc7e1c9cf1ced8186d8dbd2405b540" title="SigMatchTransferSigMatch\lAcrossLists" alt="" coords="713,145,893,186"/>
+</map>

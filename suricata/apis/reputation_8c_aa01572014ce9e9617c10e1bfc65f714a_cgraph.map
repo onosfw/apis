@@ -1,0 +1,5 @@
+<map id="SCReputationAddIPV4Data" name="SCReputationAddIPV4Data">
+<area shape="rect" id="node2" href="$util-ip_8c.html#a2a09efde53cddf0206995e606d95919b" title="Culls the non&#45;netmask portion of the IP address. For example an IP address 192.168.240.1 would be chopped to 192.168.224.0 against a netmask value of 19. " alt="" coords="279,5,398,32"/>
+<area shape="rect" id="node3" href="$util-radix-tree_8c.html#ac2c959ea4e6b317dd711c344f3971f6a" title="Adds a new IPV4 address to the Radix tree. " alt="" coords="263,56,414,83"/>
+<area shape="rect" id="node4" href="$util-radix-tree_8c.html#a0f850edf0bba7fb85e8f8f4a469fd209" title="Adds a new IPV4 netblock to the Radix tree. " alt="" coords="237,107,440,133"/>
+</map>

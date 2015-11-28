@@ -1,0 +1,8 @@
+<map id="SCThresholdConfInitContext" name="SCThresholdConfInitContext">
+<area shape="rect" id="node2" href="$util-threshold-config_8c.html#ab079855c56aaab38fe988a3174157d10" title="Releases resources used by the Threshold Config API. " alt="" coords="246,43,453,69"/>
+<area shape="rect" id="node3" href="$util-threshold-config_8c.html#af54d00aabffb6886d0abd52b8c2aafb7" title="Parses the Threshold Config file. " alt="" coords="259,93,440,120"/>
+<area shape="rect" id="node4" href="$util-threshold-config_8c.html#a37cc2640ec2f2810bc2c4956f2ca3330" title="Parses a line from the threshold file and applies it to the detection engine. " alt="" coords="502,5,733,32"/>
+<area shape="rect" id="node5" href="$util-threshold-config_8c.html#a9b5eb59f4666eff0489fd5ca562400f2" title="Checks if a string is a comment or a blank line. " alt="" coords="520,57,715,98"/>
+<area shape="rect" id="node6" href="$util-threshold-config_8c.html#a3ab3f5bbf31f2cda85845463a58701c6" title="Checks if the rule is multiline, by searching an ending slash. " alt="" coords="513,123,722,149"/>
+<area shape="rect" id="node7" href="$util-threshold-config_8c.html#ab1983e59ee931287c446487ed85e5bed" title="Get the config line length to allocate the buffer needed. " alt="" coords="523,173,712,200"/>
+</map>

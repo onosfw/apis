@@ -1,0 +1,25 @@
+<map id="TmModuleLogHttpLogRegister" name="TmModuleLogHttpLogRegister">
+<area shape="rect" id="node2" href="$log-httplog_8c.html#ad7cd837506408c31948a1fbb9722ad67" title="LogHttpLogExitPrintStats" alt="" coords="253,195,424,221"/>
+<area shape="rect" id="node3" href="$log-httplog_8c.html#a715994197d9a53b6d1fe05ce86c74a74" title="LogHttpLogger" alt="" coords="285,245,392,272"/>
+<area shape="rect" id="node4" href="$log-httplog_8c.html#a9e0c1cfb8e305c0ca43322a6a31ec4c5" title="Create a new http log LogFileCtx. " alt="" coords="275,296,403,323"/>
+<area shape="rect" id="node20" href="$log-httplog_8c.html#a295189212ded079885e745e129f66c39" title="LogHttpLogThreadDeinit" alt="" coords="257,347,420,373"/>
+<area shape="rect" id="node22" href="$log-httplog_8c.html#ae8064d0de49861c253b9a11b2cef8336" title="LogHttpLogThreadInit" alt="" coords="265,397,412,424"/>
+<area shape="rect" id="node24" href="$output_8c.html#a4cdf7f95e339aab9e26bc4d9cac586f8" title="Register a tx output module. " alt="" coords="255,448,422,475"/>
+<area shape="rect" id="node5" href="$app-layer-parser_8c.html#a1d68d99b17da0cf02a09e2788750eda5" title="AppLayerParserRegisterLogger" alt="" coords="472,245,675,272"/>
+<area shape="rect" id="node7" href="$conf_8c.html#a4d5920eea97bb4713c41e3ffef423757" title="Lookup the value of a child configuration node by name. " alt="" coords="737,195,924,221"/>
+<area shape="rect" id="node9" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true. " alt="" coords="520,296,627,323"/>
+<area shape="rect" id="node10" href="$util-logopenfile_8c.html#a48dccb24aadffd47f27f2bfe9d5aac0c" title="LogFileFreeCtx() Destroy a LogFileCtx (Close the file and free memory) " alt="" coords="518,347,629,373"/>
+<area shape="rect" id="node12" href="$util-logopenfile_8c.html#aecf090c1d20b5506b7ad24192dad5514" title="LogFileNewCtx() Get a new LogFileCtx. " alt="" coords="517,397,629,424"/>
+<area shape="rect" id="node13" href="$util-logopenfile_8c.html#aa420f59dbec22b32897acb61ccda3b80" title="open a generic output &quot;log file&quot;, which may be a regular file or a socket " alt="" coords="490,144,657,171"/>
+<area shape="rect" id="node17" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="1305,119,1367,145"/>
+<area shape="rect" id="node6" href="$flow-util_8c.html#a897ee3b52fa7876e9780704dbc2d1b11" title="Function to map the protocol to the defined FLOW_PROTO_* enumeration. " alt="" coords="755,245,906,272"/>
+<area shape="rect" id="node8" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="1259,169,1413,196"/>
+<area shape="rect" id="node11" href="$output_8c.html#a28fd4c19cfdd446c2a48a29e0c3c954d" title="Unregister a file rotation flag. " alt="" coords="723,347,939,373"/>
+<area shape="rect" id="node14" href="$util-conf_8c.html#a78afc07a179cdd6bd1522f1d5437c46d" title="ConfigGetLogDirectory" alt="" coords="753,144,908,171"/>
+<area shape="rect" id="node18" href="$util-path_8c.html#a7941df317633e88e4f9bb89806b20691" title="Check if a path is absolute. " alt="" coords="775,93,886,120"/>
+<area shape="rect" id="node19" href="$output_8c.html#a092b7de4262ce0cd8c37fa8bc864f0c9" title="Register a flag for file rotation notification. " alt="" coords="728,43,933,69"/>
+<area shape="rect" id="node15" href="$conf_8c.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="987,144,1058,171"/>
+<area shape="rect" id="node16" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="1107,144,1210,171"/>
+<area shape="rect" id="node21" href="$util-buffer_8c.html#ae2344f2fa62c9d11b8625bfd886866c9" title="MemBufferFree" alt="" coords="517,448,629,475"/>
+<area shape="rect" id="node23" href="$util-buffer_8c.html#a09fe097baa4bcd2890438b02ea67ee3d" title="MemBufferCreateNew" alt="" coords="497,499,649,525"/>
+</map>

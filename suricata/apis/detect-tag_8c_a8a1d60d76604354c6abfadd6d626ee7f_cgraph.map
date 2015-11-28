@@ -1,0 +1,15 @@
+<map id="DetectTagMatch" name="DetectTagMatch">
+<area shape="rect" id="node2" href="$detect-engine-tag_8c.html#a6285dc879a911e137b527d9a04cab0b1" title="This function is used to add a tag to a session (type session) or update it if it&#39;s already installed..." alt="" coords="186,56,281,83"/>
+<area shape="rect" id="node7" href="$detect-engine-tag_8c.html#a4e49ebabf263166aa675f996549ca6b9" title="Add a tag entry for a host. If it already exist, update it. " alt="" coords="173,157,293,184"/>
+<area shape="rect" id="node3" href="$flow-storage_8c.html#a6c4c42d8d7a33d26aecb9341c1eed1e4" title="FlowGetStorageById" alt="" coords="350,56,493,83"/>
+<area shape="rect" id="node5" href="$flow-storage_8c.html#a86d68ba6bba97080667ced2921fc6dd7" title="FlowSetStorageById" alt="" coords="350,5,493,32"/>
+<area shape="rect" id="node4" href="$util-storage_8c.html#ae583f91a48fb1da802d6d8aae8efaa45" title="get storage for id " alt="" coords="549,120,664,147"/>
+<area shape="rect" id="node6" href="$util-storage_8c.html#ad7892e8e521cd8a0d46229502659f562" title="set storage for id " alt="" coords="549,19,664,45"/>
+<area shape="rect" id="node8" href="$host_8c.html#a98f7a1c5351cf64e503718db63581b77" title="HostGetHostFromHash" alt="" coords="341,208,501,235"/>
+<area shape="rect" id="node12" href="$group__hoststorage.html#ga9bbff71a8002ff811f4b58655dad683d" title="Get a value from a given Host storage. " alt="" coords="350,157,493,184"/>
+<area shape="rect" id="node13" href="$host_8c.html#ae1a83c8dcf278f3b546bafdb5a447218" title="HostRelease" alt="" coords="372,259,471,285"/>
+<area shape="rect" id="node14" href="$group__hoststorage.html#ga59a8081e31daa912236b7ba08a1767b5" title="Store a pointer in a given Host storage. " alt="" coords="350,107,493,133"/>
+<area shape="rect" id="node9" href="$host_8c.html#a9e457fc00e7928182853db5d7620df63" title="HostGetKey" alt="" coords="559,247,654,273"/>
+<area shape="rect" id="node11" href="$host_8c.html#ade444d54823b5cb77e9b0b3c21dc1f33" title="HostInit" alt="" coords="573,196,641,223"/>
+<area shape="rect" id="node10" href="$util-hash-lookup3_8c.html#a6b57e35d1649b351ed629d3e022bf85f" title="hashword" alt="" coords="713,247,791,273"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="DNSHasEvents" name="DNSHasEvents">
+<area shape="rect" id="node2" href="$app-layer-dns-tcp_8h.html#ac637e7cedd8afd651b1cf217d654d285" title="RegisterDNSTCPParsers" alt="" coords="173,31,345,57"/>
+<area shape="rect" id="node10" href="$app-layer-dns-udp_8h.html#a621fd6c4064a0962df00a7dff98c3e12" title="RegisterDNSUDPParsers" alt="" coords="171,81,346,108"/>
+<area shape="rect" id="node3" href="$app-layer-parser_8h.html#ac5c64e1bddd13fdc99168538935cfab5" title="AppLayerParserRegisterProtocol\lParsers" alt="" coords="395,49,607,90"/>
+<area shape="rect" id="node4" href="$app-layer_8h.html#a13e4dfafdc60d054467da61ea15744f9" title="Setup the app layer. " alt="" coords="657,56,767,83"/>
+<area shape="rect" id="node5" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="844,107,943,133"/>
+<area shape="rect" id="node8" href="$util-running-modes_8h.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title="ListKeywords" alt="" coords="843,5,944,32"/>
+<area shape="rect" id="node9" href="$util-running-modes_8h.html#ad03a2414917a2fc87f4be0370c4c8fd7" title="ListAppLayerProtocols" alt="" coords="817,56,970,83"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="1019,56,1168,83"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1216,81,1267,108"/>
+</map>

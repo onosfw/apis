@@ -1,0 +1,29 @@
+<map id="TmModuleAlertFastLogRegister" name="TmModuleAlertFastLogRegister">
+<area shape="rect" id="node2" href="$alert-fastlog_8c.html#aa612331360b236f9f0890be9e5555bd2" title="AlertFastLogCondition" alt="" coords="283,107,434,133"/>
+<area shape="rect" id="node3" href="$alert-fastlog_8c.html#a2648eed944f215f06e587018f755a724" title="AlertFastLogExitPrintStats" alt="" coords="270,157,447,184"/>
+<area shape="rect" id="node4" href="$alert-fastlog_8c.html#ab7d2c17e1691ad5c6f80f04070470d44" title="AlertFastLogger" alt="" coords="301,208,416,235"/>
+<area shape="rect" id="node13" href="$alert-fastlog_8c.html#accb9bdcebcbdb53f4a3dd8363dadf6ce" title="Create a new LogFileCtx for &quot;fast&quot; output style. " alt="" coords="291,284,426,311"/>
+<area shape="rect" id="node25" href="$alert-fastlog_8c.html#a87ac152b6102d30f1e7c4a797ee72c80" title="This function registers unit tests for AlertFastLog API. " alt="" coords="269,335,448,361"/>
+<area shape="rect" id="node26" href="$alert-fastlog_8c.html#abf663cb88cc9b5e6e28e3562a6c14d0b" title="AlertFastLogThreadDeinit" alt="" coords="273,385,444,412"/>
+<area shape="rect" id="node27" href="$alert-fastlog_8c.html#a5ae62bbcef37b8d8579f70e594d6bfe9" title="AlertFastLogThreadInit" alt="" coords="281,436,436,463"/>
+<area shape="rect" id="node28" href="$output_8c.html#a616273c18f40bc368b7c3ad79bad6481" title="Register a packet output module. " alt="" coords="262,487,455,513"/>
+<area shape="rect" id="node5" href="$util-time_8c.html#a73a512e6c8e48a595e5f6f7e97a01ce6" title="CreateTimeString" alt="" coords="526,157,650,184"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#a4b40aa623a6feb122601951304064464" title="EngineModeIsIPS" alt="" coords="525,208,651,235"/>
+<area shape="rect" id="node8" href="$util-print_8c.html#a53ca7e33d3d7e3315f3f1d69a8cfe42a" title="print a buffer as hex on a single line " alt="" coords="509,259,667,285"/>
+<area shape="rect" id="node9" href="$util-print_8c.html#a90bfafc4dfabddab2662c4b7bf6f7d03" title="PrintInet" alt="" coords="553,5,623,32"/>
+<area shape="rect" id="node11" href="$util-proto-name_8c.html#aa8b8fad247cec8da242d6d92541d48da" title="Function to check if the received protocol number is valid and do we have corresponding name entry fo..." alt="" coords="520,56,656,83"/>
+<area shape="rect" id="node12" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="1417,309,1479,336"/>
+<area shape="rect" id="node6" href="$util-time_8c.html#a05b89d43affd48f1f37aea766dc80f27" title="SCLocalTime" alt="" coords="777,157,879,184"/>
+<area shape="rect" id="node10" href="$win32-misc_8h.html#a8b4e65d5530474709182ee0d9faa6dda" title="inet_ntop" alt="" coords="791,5,865,32"/>
+<area shape="rect" id="node14" href="$util-logopenfile_8c.html#a48dccb24aadffd47f27f2bfe9d5aac0c" title="LogFileFreeCtx() Destroy a LogFileCtx (Close the file and free memory) " alt="" coords="533,309,643,336"/>
+<area shape="rect" id="node16" href="$util-logopenfile_8c.html#aecf090c1d20b5506b7ad24192dad5514" title="LogFileNewCtx() Get a new LogFileCtx. " alt="" coords="532,360,644,387"/>
+<area shape="rect" id="node17" href="$util-logopenfile_8c.html#aa420f59dbec22b32897acb61ccda3b80" title="open a generic output &quot;log file&quot;, which may be a regular file or a socket " alt="" coords="505,411,671,437"/>
+<area shape="rect" id="node15" href="$output_8c.html#a28fd4c19cfdd446c2a48a29e0c3c954d" title="Unregister a file rotation flag. " alt="" coords="720,284,936,311"/>
+<area shape="rect" id="node18" href="$conf_8c.html#a4d5920eea97bb4713c41e3ffef423757" title="Lookup the value of a child configuration node by name. " alt="" coords="984,385,1171,412"/>
+<area shape="rect" id="node20" href="$util-conf_8c.html#a78afc07a179cdd6bd1522f1d5437c46d" title="ConfigGetLogDirectory" alt="" coords="751,335,905,361"/>
+<area shape="rect" id="node23" href="$util-path_8c.html#a7941df317633e88e4f9bb89806b20691" title="Check if a path is absolute. " alt="" coords="773,436,883,463"/>
+<area shape="rect" id="node24" href="$output_8c.html#a092b7de4262ce0cd8c37fa8bc864f0c9" title="Register a flag for file rotation notification. " alt="" coords="725,487,931,513"/>
+<area shape="rect" id="node19" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="1371,360,1525,387"/>
+<area shape="rect" id="node21" href="$conf_8c.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="1042,335,1113,361"/>
+<area shape="rect" id="node22" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="1219,335,1322,361"/>
+</map>

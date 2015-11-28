@@ -1,0 +1,10 @@
+<map id="HtpTxUserData_" name="HtpTxUserData_">
+<area shape="rect" id="node2" href="$structbstr__t.html" title="bstr_t" alt="" coords="5,304,59,331"/>
+<area shape="rect" id="node3" href="$structAppLayerDecoderEvents__.html" title="Data structure to store app layer decoder events. " alt="" coords="107,304,281,331"/>
+<area shape="rect" id="node4" href="$structHtpBody__.html" title="HtpBody_" alt="" coords="307,304,387,331"/>
+<area shape="rect" id="node5" href="$structHtpBodyChunk__.html" title="HtpBodyChunk_" alt="" coords="226,200,344,227"/>
+<area shape="rect" id="node6" href="$structDetectEngineState__.html" title="DetectEngineState_" alt="" coords="417,304,556,331"/>
+<area shape="rect" id="node7" href="$structDetectEngineStateDirection__.html" title="DetectEngineStateDirection_" alt="" coords="422,200,612,227"/>
+<area shape="rect" id="node8" href="$structDeStateStore__.html" title="DeStateStore_" alt="" coords="463,96,571,123"/>
+<area shape="rect" id="node9" href="$structDeStateStoreItem__.html" title="DeStateStoreItem_" alt="" coords="450,5,584,32"/>
+</map>

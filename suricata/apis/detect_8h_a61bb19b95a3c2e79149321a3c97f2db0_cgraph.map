@@ -1,0 +1,51 @@
+<map id="SigMatchSignatures" name="SigMatchSignatures">
+<area shape="rect" id="node2" href="$app-layer-parser_8c.html#a1b68b6c50518601316ad3fcd0595f7ae" title="AppLayerParserGetStateVersion" alt="" coords="204,79,415,105"/>
+<area shape="rect" id="node3" href="$app-layer-parser_8c.html#a8580f53b8295c5ebe6db119a6cf72eda" title="AppLayerParserHasDecoder\lEvents" alt="" coords="215,130,403,171"/>
+<area shape="rect" id="node10" href="$app-layer-parser_8c.html#a5d36767e076ef8376251c27326532e55" title="AppLayerParserProtocolSupportsTxs" alt="" coords="475,356,712,383"/>
+<area shape="rect" id="node11" href="$group__sigstate.html#gaaea2ddcec2d9f3549aea0de468834039" title="Continue DeState detection of the signatures stored in the state. " alt="" coords="201,297,418,324"/>
+<area shape="rect" id="node16" href="$group__sigstate.html#ga4cd5aba6758fd5795f477973b5f2fdfb" title="Match app layer sig list against app state and store relevant match information. " alt="" coords="213,901,406,928"/>
+<area shape="rect" id="node19" href="$group__sigstate.html#gad37bfa7d57fcfc7c457a1028c0da4f80" title="Check if we need to inspect this state. " alt="" coords="215,349,404,390"/>
+<area shape="rect" id="node20" href="$group__sigstate.html#gad76e9cb6462b7784633d17b1347f771b" title="update flow&#39;s inspection id&#39;s " alt="" coords="192,415,427,441"/>
+<area shape="rect" id="node21" href="$detect-engine-address_8c.html#ae4e549997d38f9c71c391759850aeb87" title="Match a packets address against a signatures addrs array. " alt="" coords="223,465,395,492"/>
+<area shape="rect" id="node22" href="$detect-engine-address_8c.html#a5a6209520e3f9cc6f5dc49785c99fd7c" title="Match a packets address against a signatures addrs array. " alt="" coords="223,516,395,543"/>
+<area shape="rect" id="node23" href="$detect-engine-hcbd_8c.html#afa506fc8bb70de03ef020c98fe38b328" title="DetectEngineCleanHCBDBuffers" alt="" coords="201,567,417,593"/>
+<area shape="rect" id="node24" href="$detect-engine-hhd_8c.html#a19a71d7de1a33d25111a56dd2d39fb89" title="DetectEngineCleanHHDBuffers" alt="" coords="206,617,413,644"/>
+<area shape="rect" id="node25" href="$detect-engine-hsbd_8c.html#a329d79b960f3851d0e9cc6b2df99097c" title="DetectEngineCleanHSBDBuffers" alt="" coords="202,668,417,695"/>
+<area shape="rect" id="node26" href="$detect-engine-payload_8c.html#a8d4a8e4745728305bb0ffac7ca87d90c" title="Do the content inspection &amp; validation for a signature. " alt="" coords="217,719,402,761"/>
+<area shape="rect" id="node27" href="$detect-engine-payload_8c.html#a4a530698ed6792e050c5e19cc7bc8c3d" title="Do the content inspection &amp; validation for a signature for a stream chunk. " alt="" coords="216,785,403,826"/>
+<area shape="rect" id="node28" href="$group__sigstate.html#gae49e923c7e86601c4a96caf9ab2d4f24" title="Reset a DetectEngineState state. " alt="" coords="226,851,393,877"/>
+<area shape="rect" id="node29" href="$group__sigstate.html#gabf15c37dbdf92918d6f107087ff082fb" title="Reset de state for active tx&#39; To be used on detect engine reload. " alt="" coords="215,247,404,273"/>
+<area shape="rect" id="node30" href="$detect-engine-port_8c.html#a637368836f6fa36f6262c68ef87cd42b" title="Function that find the group matching address in a group head. " alt="" coords="512,1787,675,1813"/>
+<area shape="rect" id="node31" href="$detect-engine-proto_8c.html#a2d76d51a313493c5982350b3a08f0666" title="see if a DetectProto contains a certain proto " alt="" coords="506,1547,681,1573"/>
+<area shape="rect" id="node18" href="$detect_8c.html#ac00c13ef5905a82b6726875f9a6b0e69" title="Apply action(s) and Set &#39;drop&#39; sig info, if applicable. " alt="" coords="497,1028,690,1055"/>
+<area shape="rect" id="node32" href="$util-file_8c.html#a8d0027995cc6b94f6d2050ba34d29b65" title="disable file size tracking for this flow " alt="" coords="243,1104,375,1131"/>
+<area shape="rect" id="node33" href="$util-file_8c.html#a2e90fa490c7e99c3f68dc4c5aa5a929d" title="disable file magic lookups for this flow " alt="" coords="248,1155,371,1181"/>
+<area shape="rect" id="node34" href="$util-file_8c.html#a0c4833dca46ad7a04fee0c0fb588a458" title="disable file md5 calc for this flow " alt="" coords="253,1205,365,1232"/>
+<area shape="rect" id="node35" href="$util-file_8c.html#ab065f3a6000cff1ebd420a0d5627a8b4" title="disable file storage for a flow " alt="" coords="245,1256,373,1283"/>
+<area shape="rect" id="node36" href="$util-file_8c.html#aa25274003572b8545e2b3c1da6319919" title="FileForceMagic" alt="" coords="254,1307,365,1333"/>
+<area shape="rect" id="node37" href="$util-file_8c.html#a8ca03542d8c7527dbb8b2da742b00267" title="FileForceMd5" alt="" coords="259,1357,360,1384"/>
+<area shape="rect" id="node38" href="$flow_8c.html#a1135a66e64bd8fe19166c853ea0e7986" title="FlowGetAppProtocol" alt="" coords="238,1408,381,1435"/>
+<area shape="rect" id="node12" href="$flow_8c.html#afb864b6392ad4eddbdf7092d4ec4e78e" title="FlowGetAppState" alt="" coords="531,739,656,765"/>
+<area shape="rect" id="node39" href="$flow_8c.html#aca700f93b37d88672923ffb56949d640" title="get &#39;disruption&#39; flags: GAP/DEPTH/PASS " alt="" coords="228,1509,391,1536"/>
+<area shape="rect" id="node40" href="$flow_8c.html#a31dc69acbfa8279be8ddec1106ee5713" title="Set the IPOnly scanned flag for &#39;direction&#39;. This function handles the locking too. " alt="" coords="242,1560,377,1587"/>
+<area shape="rect" id="node41" href="$util-var_8c.html#a87ec4a01436cbc5f9edc316ca7f8b530" title="GenericVarFree" alt="" coords="253,1635,366,1661"/>
+<area shape="rect" id="node42" href="$detect-engine-iponly_8c.html#aea2959f5eec2fa16158a5f0f3e513423" title="Match a packet against the IP Only detection engine contexts. " alt="" coords="240,1685,379,1712"/>
+<area shape="rect" id="node17" href="$detect-engine-alert_8c.html#ab0e97bac79257b8d920009e1d5ec7161" title="append a signature match to a packet " alt="" coords="526,1685,661,1712"/>
+<area shape="rect" id="node43" href="$detect-engine-alert_8c.html#a464327c97eb2fde5f130af99e80133bc" title="Check the threshold of the sigs that match, set actions, break on pass action This function iterate t..." alt="" coords="242,1003,377,1029"/>
+<area shape="rect" id="node44" href="$detect-engine-mpm_8c.html#af1613cbe5b35302adbf5d0180ecb6cff" title="cleans up the mpm instance after a match " alt="" coords="233,1837,386,1864"/>
+<area shape="rect" id="node45" href="$util-print_8c.html#ae571482664d670a7c18ae627c32f7e25" title="PrintRawDataFp" alt="" coords="250,1888,369,1915"/>
+<area shape="rect" id="node46" href="$detect_8c.html#a894aaf744bdb2a7318e7374f4fb0f8d0" title="Get the SigGroupHead for a packet. " alt="" coords="218,1939,401,1965"/>
+<area shape="rect" id="node47" href="$detect_8c.html#ae13e33dbaf699a01a048a0d3ed8e3d79" title="SigMatchSignaturesRunPost\lMatch" alt="" coords="214,1990,405,2031"/>
+<area shape="rect" id="node48" href="$counters_8c.html#afe875414dd4620c523f895a83d365c4b" title="Adds a value of type uint64_t to the local counter. " alt="" coords="257,2056,361,2083"/>
+<area shape="rect" id="node49" href="$stream_8c.html#a476ab8b77915d3c97c6b9baf83d4b535" title="Return a list of smsgs to the pool. " alt="" coords="214,2107,405,2133"/>
+<area shape="rect" id="node50" href="$detect-engine-mpm_8c.html#ad967a01e8eed928623baf01b7873472b" title="StreamPatternCleanup" alt="" coords="232,2157,387,2184"/>
+<area shape="rect" id="node4" href="$app-layer-parser_8c.html#ad3ee22c73abd55f4010c1661c1c96973" title="AppLayerParserGetDecoder\lEvents" alt="" coords="501,5,686,46"/>
+<area shape="rect" id="node5" href="$app-layer-parser_8c.html#ad1169b8b33ecbf696a4bb4ebf6a73afe" title="AppLayerParserGetEventsByTx" alt="" coords="489,121,697,148"/>
+<area shape="rect" id="node7" href="$app-layer-parser_8c.html#a6aa2bf85c50af391090247d1416758d8" title="AppLayerParserGetTransaction\lInspectId" alt="" coords="491,290,695,331"/>
+<area shape="rect" id="node8" href="$app-layer-parser_8c.html#a8fe15cbcd76f969cc497b74aeb90ee66" title="AppLayerParserGetTxCnt" alt="" coords="507,239,679,265"/>
+<area shape="rect" id="node9" href="$app-layer-parser_8c.html#a835807416df3919a8301a8a5d87dd64a" title="AppLayerParserProtocolIs\lTxEventAware" alt="" coords="506,173,681,214"/>
+<area shape="rect" id="node6" href="$flow-util_8c.html#a897ee3b52fa7876e9780704dbc2d1b11" title="Function to map the protocol to the defined FLOW_PROTO_* enumeration. " alt="" coords="761,297,911,324"/>
+<area shape="rect" id="node13" href="$app-layer-parser_8c.html#a2a0c9e0f732c9fb0240cf2f0b73613f6" title="AppLayerParserGetTx" alt="" coords="518,407,669,433"/>
+<area shape="rect" id="node14" href="$app-layer-parser_8c.html#aac5503d1811500f82687093b7d85d341" title="get the progress value for a tx/protocol " alt="" coords="484,457,703,484"/>
+<area shape="rect" id="node15" href="$app-layer-parser_8c.html#aa6d2b1e4dcee3616e0fdda0ee96e03f8" title="AppLayerParserGetStateProgress\lCompletionStatus" alt="" coords="484,509,703,550"/>
+</map>

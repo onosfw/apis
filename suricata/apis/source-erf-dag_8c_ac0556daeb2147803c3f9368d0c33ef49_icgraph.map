@@ -1,0 +1,9 @@
+<map id="ReceiveErfDagCloseStream" name="ReceiveErfDagCloseStream">
+<area shape="rect" id="node2" href="$source-erf-dag_8c.html#a7a81de3aa3e9f7e1e913fa466ffac214" title="Receives packets from a DAG interface. " alt="" coords="264,5,403,32"/>
+<area shape="rect" id="node8" href="$source-erf-dag_8c.html#ac509521b06c6f028734fbc400910f484" title="Deinitializes the DAG card. " alt="" coords="241,56,426,83"/>
+<area shape="rect" id="node3" href="$source-erf-dag_8h.html#a91e9820c732f0cc1d556b6ae671094b1" title="Register the ERF file receiver (reader) module. " alt="" coords="475,5,696,32"/>
+<area shape="rect" id="node4" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="745,5,879,32"/>
+<area shape="rect" id="node5" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="928,5,1027,32"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1272,5,1323,32"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="1075,31,1224,57"/>
+</map>

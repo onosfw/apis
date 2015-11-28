@@ -1,0 +1,51 @@
+<map id="RunModeIdsNflogRegister" name="RunModeIdsNflogRegister">
+<area shape="rect" id="node2" href="$runmode-nflog_8c.html#a90b0f9d4cb07d2038585ce39116e5f76" title="RunModeIdsNflogAutoFp" alt="" coords="250,628,419,655"/>
+<area shape="rect" id="node46" href="$runmode-nflog_8c.html#a9b4990f82cc0f8efbee908a872849602" title="RunModeIdsNflogSingle" alt="" coords="253,729,416,756"/>
+<area shape="rect" id="node48" href="$runmode-nflog_8c.html#a0da8f2ed9a7af61ccf6dd0c1b2892817" title="RunModeIdsNflogWorkers" alt="" coords="247,679,423,705"/>
+<area shape="rect" id="node50" href="$runmodes_8c.html#a93b05624527eb907a38ca0efab5bcd5c" title="Registers a new runmode. " alt="" coords="229,780,440,807"/>
+<area shape="rect" id="node3" href="$runmode-nflog_8c.html#ae3c177a5577fe247ebe9b1322ce6ff6b" title="NflogConfigGeThreadsCount" alt="" coords="502,628,693,655"/>
+<area shape="rect" id="node4" href="$runmode-nflog_8c.html#abec42411a7d672ccccd1a4f85c96b161" title="ParseNflogConfig" alt="" coords="535,911,660,937"/>
+<area shape="rect" id="node13" href="$runmodes_8c.html#a07225b8600c17470752ae849ace81e0f" title="RunModeInitialize" alt="" coords="534,780,661,807"/>
+<area shape="rect" id="node20" href="$util-runmodes_8c.html#ac48eda3c5f69d700b3d54b55178241c7" title="RunModeSetLiveCaptureAutoFp" alt="" coords="492,349,703,376"/>
+<area shape="rect" id="node45" href="$util-time_8c.html#a4c8898901628befb98548be21b599f14" title="TimeModeSetLive" alt="" coords="534,679,661,705"/>
+<area shape="rect" id="node5" href="$conf_8c.html#ab86b284e0f4390915666fb15b1d09bb7" title="ConfGetChildValueIntWith\lDefault" alt="" coords="776,933,952,974"/>
+<area shape="rect" id="node9" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="1369,831,1471,857"/>
+<area shape="rect" id="node11" href="$conf_8c.html#a440d0a7db98ad1c818882ae03c645a18" title="Lookup for a key value under a specific node. " alt="" coords="775,1100,953,1127"/>
+<area shape="rect" id="node12" href="$util-misc_8c.html#ac799c82481f5e938b2ea704a014c6a0d" title="ParseSizeStringU16" alt="" coords="794,999,934,1025"/>
+<area shape="rect" id="node10" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="1620,965,1681,992"/>
+<area shape="rect" id="node6" href="$conf_8c.html#a0ffa455c86982da0089fbf7b8954ef9d" title="ConfGetChildValueInt" alt="" coords="1069,936,1219,963"/>
+<area shape="rect" id="node7" href="$conf_8c.html#aa780b7af154e82aad22fd1317892da52" title="ConfGetChildValue" alt="" coords="1353,907,1487,933"/>
+<area shape="rect" id="node8" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="1574,831,1727,857"/>
+<area shape="rect" id="node14" href="$conf_8c.html#ad05ff3c317a042691169abc26475bb19" title="Retrieve a configuration value as an boolen. " alt="" coords="815,780,913,807"/>
+<area shape="rect" id="node17" href="$util-affinity_8c.html#ae1a3c113aa148b64530ae41a0d5aa67f" title="Extract cpu affinity configuration from current config file. " alt="" coords="1047,679,1241,705"/>
+<area shape="rect" id="node19" href="$conf_8c.html#a1383ef0374af39daea9af86c53919c02" title="Retrieve a configuration value as a float. " alt="" coords="814,729,914,756"/>
+<area shape="rect" id="node15" href="$conf_8c.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="1109,729,1179,756"/>
+<area shape="rect" id="node16" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true. " alt="" coords="1091,780,1197,807"/>
+<area shape="rect" id="node18" href="$util-affinity_8c.html#ab716a16a85291314f6fd64bdf8366abb" title="find affinity by its name " alt="" coords="1331,679,1509,705"/>
+<area shape="rect" id="node21" href="$util-cpu_8c.html#a4f36ee9e70d73c5d8fb86fa6a86c44e2" title="Get the number of cpus online in the system. " alt="" coords="755,425,973,452"/>
+<area shape="rect" id="node23" href="$util-device_8c.html#a98bf56c79d344f38884b1af3cb36a9ea" title="Get the number of registered devices. " alt="" coords="793,577,935,604"/>
+<area shape="rect" id="node24" href="$tm-threads_8c.html#a6121f124848a0f3961e4eee3faf34f8e" title="TmThreadGetNbThreads" alt="" coords="781,476,947,503"/>
+<area shape="rect" id="node25" href="$util-runmodes_8c.html#af0eec250820d2db9a2bae6f0d620ad35" title="RunmodeSetFlowStreamAsync" alt="" coords="761,527,967,553"/>
+<area shape="rect" id="node27" href="$util-runmodes_8c.html#a489ab6586f887830804c9d396e95c457" title="create a queue string for autofp to pass to the flow queue handler. " alt="" coords="765,5,963,46"/>
+<area shape="rect" id="node29" href="$tm-threads_8c.html#ac0e074117df241b52004b4b1c5228b8e" title="Creates and returns a TV instance for a Packet Processing Thread. This function doesn&#39;t support custo..." alt="" coords="761,71,967,97"/>
+<area shape="rect" id="node36" href="$tm-modules_8c.html#a3a0bd493c799543f1b0b8c7e8c67e283" title="get a tm module ptr by name " alt="" coords="787,121,941,148"/>
+<area shape="rect" id="node37" href="$tm-threads_8c.html#a6cf6491e6eb3b8cd303e0e611091ea1e" title="Appends a new entry to the slots. " alt="" coords="1065,211,1223,237"/>
+<area shape="rect" id="node38" href="$tm-threads_8c.html#ae91e211f1f8350abcd67b23c58dcf577" title="TmThreadSetCPU" alt="" coords="799,273,929,300"/>
+<area shape="rect" id="node39" href="$tm-threads_8c.html#af5c7ad411065ae98710138b400f84633" title="Spawns a thread associated with the ThreadVars instance tv. " alt="" coords="803,324,925,351"/>
+<area shape="rect" id="node42" href="$util-device_8c.html#aeda89d2b7fa6bdef4cfc46d075542e32" title="Get a pointer to the device name at idx. " alt="" coords="793,628,935,655"/>
+<area shape="rect" id="node43" href="$detect-engine_8c.html#ab671a7bd77e40c3d8433ff46bd43374b" title="Check if detection is enabled. " alt="" coords="790,375,938,401"/>
+<area shape="rect" id="node44" href="$runmodes_8c.html#a7d2ba9fcb621395068f1f182b93d98d9" title="SetupOutputs" alt="" coords="813,223,915,249"/>
+<area shape="rect" id="node22" href="$util-cpu_8c.html#a76e3d657a52ccbf2d4c788d1b51a454f" title="Get the number of cpus configured in the system. " alt="" coords="1022,425,1266,452"/>
+<area shape="rect" id="node26" href="$flow-hash_8c.html#a608c7569788adc7c116253c9eae67747" title="FlowDisableTcpReuseHandling" alt="" coords="1041,527,1247,553"/>
+<area shape="rect" id="node28" href="$suricata-common_8h.html#a7e9938e922f1dfd71bc01995bc2b7777" title="strlcat" alt="" coords="1115,12,1173,39"/>
+<area shape="rect" id="node30" href="$tm-threads_8c.html#af78474ba8e49604c9cf705c57cc95f51" title="Creates and returns the TV instance for a new thread. " alt="" coords="1084,117,1204,144"/>
+<area shape="rect" id="node35" href="$tm-threads_8c.html#a7b792091fc079fe5b2cf755e5f53849a" title="TmThreadsRegisterThread" alt="" coords="1055,67,1233,93"/>
+<area shape="rect" id="node31" href="$tm-threads_8c.html#a901bedcd2161f466a67de9a4ad88aba8" title="Set a thread flag. " alt="" coords="1353,92,1487,119"/>
+<area shape="rect" id="node32" href="$tm-queues_8c.html#ace94ae034c7dd71ab2c4057283bb54b5" title="TmqGetQueueByName" alt="" coords="1341,143,1499,169"/>
+<area shape="rect" id="node33" href="$tm-queues_8c.html#a69e4ed1bf80a56d98afbb5992f6c4093" title="TmqCreateQueue" alt="" coords="1357,193,1483,220"/>
+<area shape="rect" id="node34" href="$tm-queuehandlers_8c.html#a9f14e45e62be8d624dc2dfb57c809545" title="TmqhGetQueueHandlerByName" alt="" coords="1315,41,1525,68"/>
+<area shape="rect" id="node40" href="$tm-threads_8c.html#afbb02380645247d1256fe2a20701e92a" title="Waits till the specified flag(s) is(are) set. We don&#39;t bother if the kill flag has been set or not on..." alt="" coords="1068,337,1220,364"/>
+<area shape="rect" id="node41" href="$tm-threads_8c.html#a30ae4af36f2b0389107a54a8dc00691c" title="Appends this TV to tv_root based on its type. " alt="" coords="1081,287,1207,313"/>
+<area shape="rect" id="node47" href="$util-runmodes_8c.html#ab8e9f0da8e016dbd00df5d0b75112432" title="RunModeSetLiveCaptureSingle" alt="" coords="495,729,699,756"/>
+<area shape="rect" id="node49" href="$util-runmodes_8c.html#af172e0dce21aa23e4a6036c741fcb6ca" title="RunModeSetLiveCaptureWorkers" alt="" coords="489,577,706,604"/>
+</map>

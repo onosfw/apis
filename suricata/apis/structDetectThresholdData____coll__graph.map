@@ -1,0 +1,19 @@
+<map id="DetectThresholdData_" name="DetectThresholdData_">
+<area shape="rect" id="node2" href="$structDetectAddressHead__.html" title="DetectAddressHead_" alt="" coords="200,87,347,113"/>
+<area shape="rect" id="node6" href="$structSignature__.html" title="Signature container. " alt="" coords="559,349,643,376"/>
+<area shape="rect" id="node3" href="$structDetectAddress__.html" title="address structure for use in the detection engine. " alt="" coords="1238,148,1354,175"/>
+<area shape="rect" id="node4" href="$structAddress__.html" title="Address_" alt="" coords="1056,5,1133,32"/>
+<area shape="rect" id="node5" href="$structSigGroupHead__.html" title="Container for matching data for a signature group. " alt="" coords="867,395,981,421"/>
+<area shape="rect" id="node15" href="$structDetectPort__.html" title="Port structure for detection engine. " alt="" coords="1049,288,1141,315"/>
+<area shape="rect" id="node7" href="$structSigMatchData__.html" title="Data needed for Match() " alt="" coords="217,607,329,633"/>
+<area shape="rect" id="node8" href="$structSigMatchCtx__.html" title="Used to start a pointer to SigMatch context Should never be dereferenced without casting to something..." alt="" coords="6,549,111,576"/>
+<area shape="rect" id="node13" href="$structSigMatch__.html" title="a single match condition for a signature " alt="" coords="231,504,315,531"/>
+<area shape="rect" id="node9" href="$structIPOnlyCIDRItem__.html" title="IPOnlyCIDRItem_" alt="" coords="209,205,338,232"/>
+<area shape="rect" id="node10" href="$structDetectReference__.html" title="Signature reference list. " alt="" coords="209,295,337,321"/>
+<area shape="rect" id="node11" href="$structDetectMatchAddressIPv4__.html" title="DetectMatchAddressIPv4_" alt="" coords="184,348,363,375"/>
+<area shape="rect" id="node12" href="$structDetectProto__.html" title="DetectProto_" alt="" coords="224,399,323,425"/>
+<area shape="rect" id="node14" href="$structDetectMatchAddressIPv6__.html" title="DetectMatchAddressIPv6_" alt="" coords="184,556,363,583"/>
+<area shape="rect" id="node17" href="$structSigGroupHeadInitData__.html" title="SigGroupHeadInitData_" alt="" coords="1216,357,1376,384"/>
+<area shape="rect" id="node16" href="$structMpmCtx__.html" title="MpmCtx_" alt="" coords="562,649,641,676"/>
+<area shape="rect" id="node18" href="$structSignatureNonMpmStore__.html" title="SignatureNonMpmStore_" alt="" coords="517,400,685,427"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="HttpXFFGetCfg" name="HttpXFFGetCfg">
+<area shape="rect" id="node2" href="$conf_8c.html#a73d6a0209eea403d96408231d112869e" title="Test if a configuration node has a true value. " alt="" coords="168,56,349,83"/>
+<area shape="rect" id="node4" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="633,56,786,83"/>
+<area shape="rect" id="node3" href="$conf_8c.html#a4d5920eea97bb4713c41e3ffef423757" title="Lookup the value of a child configuration node by name. " alt="" coords="397,5,584,32"/>
+<area shape="rect" id="node5" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true. " alt="" coords="437,56,544,83"/>
+</map>

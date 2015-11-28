@@ -1,0 +1,14 @@
+<map id="ConfGetChildValueBoolWithDefault" name="ConfGetChildValueBoolWithDefault">
+<area shape="rect" id="node2" href="$runmode-af-packet_8c.html#aa44206676da7e92c8d5f1b2442dbe2e0" title="extract information from config file " alt="" coords="243,81,363,108"/>
+<area shape="rect" id="node9" href="$runmode-pcap_8c.html#ae44f9c11ae2bc1ef90b867d62d37e50b" title="ParsePcapConfig" alt="" coords="241,183,365,209"/>
+<area shape="rect" id="node3" href="$runmode-af-packet_8h.html#af741b481e72c7d4e52637797fa320ea6" title="RunModeIdsAFPAutoFp" alt="" coords="419,5,583,32"/>
+<area shape="rect" id="node7" href="$runmode-af-packet_8h.html#a4607fda68e0f4b15bc3207cec646da96" title="Single thread version of the AF_PACKET processing. " alt="" coords="422,56,581,83"/>
+<area shape="rect" id="node8" href="$runmode-af-packet_8h.html#a1402fe271c8a1f767de444b2d9535722" title="Workers version of the AF_PACKET processing. " alt="" coords="416,107,587,133"/>
+<area shape="rect" id="node4" href="$runmode-af-packet_8h.html#abf510dda35701437fc571d5b5f0f1f6e" title="RunModeIdsAFPRegister" alt="" coords="640,81,811,108"/>
+<area shape="rect" id="node5" href="$runmodes_8h.html#aa5565123b11fa026e96b91b23db91ba9" title="Register all runmodes in the engine. " alt="" coords="862,120,1053,147"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1101,120,1152,147"/>
+<area shape="rect" id="node10" href="$runmode-pcap_8h.html#a56e3924206404f4dad482c7429a680f1" title="Single thread version of the Pcap live processing. " alt="" coords="420,157,583,184"/>
+<area shape="rect" id="node12" href="$runmode-pcap_8h.html#a5a917ab959eb97ad190049c17ace53be" title="RunModIdsPcapAutoFp set up the following thread packet handlers: " alt="" coords="417,208,585,235"/>
+<area shape="rect" id="node13" href="$runmode-pcap_8c.html#a41a15b254d1b8fbd44f2666e5f6b94a7" title="Workers version of the PCAP LIVE processing. " alt="" coords="414,259,589,285"/>
+<area shape="rect" id="node11" href="$runmode-pcap_8h.html#a16e1fcee3ffd97b1987150fdd11cbbd5" title="RunModeIdsPcapRegister" alt="" coords="638,183,813,209"/>
+</map>

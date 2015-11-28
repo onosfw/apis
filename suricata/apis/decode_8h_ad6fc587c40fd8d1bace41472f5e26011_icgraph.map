@@ -1,0 +1,12 @@
+<map id="DecodeRaw" name="DecodeRaw">
+<area shape="rect" id="node2" href="$group__afppacket.html#gafcbf7219ec47e4cc77337c9f314836e7" title="This function passes off to link type decoders. " alt="" coords="192,5,285,32"/>
+<area shape="rect" id="node8" href="$source-pcap_8c.html#a4472b637a70511616e225fa8563d03bb" title="This function passes off to link type decoders. " alt="" coords="190,56,287,83"/>
+<area shape="rect" id="node10" href="$source-pcap-file_8c.html#a6fe91932d9ed6fee895232a82f65fdda" title="ReceivePcapFileThreadInit" alt="" coords="149,107,328,133"/>
+<area shape="rect" id="node3" href="$group__afppacket.html#ga5619eeb40186e176637afb0b010dfd52" title="Registration Function for DecodeAFP. " alt="" coords="391,5,593,32"/>
+<area shape="rect" id="node4" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="657,56,791,83"/>
+<area shape="rect" id="node5" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="840,56,939,83"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="987,31,1136,57"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1184,56,1235,83"/>
+<area shape="rect" id="node9" href="$source-pcap_8h.html#a60c81766c6d86f298c28b7e6afd4bf93" title="Registration Function for DecodePcap. " alt="" coords="389,56,595,83"/>
+<area shape="rect" id="node11" href="$source-pcap-file_8h.html#a11a753284083f1df62c9709579f10ffb" title="TmModuleReceivePcapFileRegister" alt="" coords="377,107,607,133"/>
+</map>

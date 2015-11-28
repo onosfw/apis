@@ -1,0 +1,5 @@
+<map id="BoyerMooreSearch" name="BoyerMooreSearch">
+<area shape="rect" id="node2" href="$util-spm-bm_8c.html#a5886feebf61e43a7b217bb942e8451c6" title="Boyer Moore search algorithm Is better as the pattern length increases and for big buffers to search ..." alt="" coords="215,5,307,32"/>
+<area shape="rect" id="node3" href="$util-spm-bm_8c.html#a40ec567a71bb907691681f07e25f78ad" title="Free the memory allocated to Booyer Moore context. " alt="" coords="187,56,335,83"/>
+<area shape="rect" id="node4" href="$util-spm-bm_8c.html#aab627387582301c758b20eb1650f4bc0" title="Setup a Booyer Moore context. " alt="" coords="196,107,327,133"/>
+</map>

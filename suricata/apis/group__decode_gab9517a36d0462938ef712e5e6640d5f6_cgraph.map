@@ -1,0 +1,5 @@
+<map id="PacketGetFromQueueOrAlloc" name="PacketGetFromQueueOrAlloc">
+<area shape="rect" id="node2" href="$group__decode.html#gadd3d2505353dbc2b396776da9afbcd74" title="Get a malloced packet. " alt="" coords="253,5,395,32"/>
+<area shape="rect" id="node4" href="$tmqh-packetpool_8c.html#a144d5e3c9b77c7b9fb4a8c369d7dd8cc" title="Get a new packet from the packet pool. " alt="" coords="249,56,399,83"/>
+<area shape="rect" id="node3" href="$group__decode.html#gadbb7a223135dab327a0f78a96f931889" title="Return a malloced packet. " alt="" coords="449,5,538,32"/>
+</map>

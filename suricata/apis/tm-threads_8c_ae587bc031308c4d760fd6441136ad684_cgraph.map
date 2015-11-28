@@ -1,0 +1,21 @@
+<map id="TmThreadsSlotPktAcqLoop" name="TmThreadsSlotPktAcqLoop">
+<area shape="rect" id="node2" href="$suricata_8c.html#a0bfd2bf05c54da8f7fd1c538858e631b" title="Used to indicate that the current task is done. " alt="" coords="295,5,388,32"/>
+<area shape="rect" id="node3" href="$suricata_8c.html#ae44adde25e112c3693ed1cbb5e6597c0" title="EngineKill" alt="" coords="301,56,381,83"/>
+<area shape="rect" id="node4" href="$tmqh-packetpool_8c.html#a31e71693c415a1b0f3820cc0c186808d" title="PacketPoolDestroy" alt="" coords="274,107,409,133"/>
+<area shape="rect" id="node7" href="$tmqh-packetpool_8c.html#a56fafc07686d12d34251bbc629005441" title="PacketPoolInit" alt="" coords="288,157,395,184"/>
+<area shape="rect" id="node9" href="$counters_8c.html#a7252392837ab3054a2a0b0aaf7c06c17" title="StatsSetupPrivate" alt="" coords="277,208,405,235"/>
+<area shape="rect" id="node10" href="$tm-threads_8c.html#a3051b9f7e147aecbdfef8a693987e8f3" title="Check if a thread flag is set. " alt="" coords="494,461,645,488"/>
+<area shape="rect" id="node11" href="$tm-threads_8c.html#aeda67fab252b97fe5f158ba053a45de7" title="Set the thread options (cpu affinitythread). Priority should be already set by pthread_create. " alt="" coords="261,259,421,285"/>
+<area shape="rect" id="node16" href="$tm-threads_8c.html#a901bedcd2161f466a67de9a4ad88aba8" title="Set a thread flag. " alt="" coords="275,360,408,387"/>
+<area shape="rect" id="node17" href="$tm-threads_8c.html#a1a2a3d971bdab1af519d4aabd46b8f5d" title="Unset a thread flag. " alt="" coords="267,411,415,437"/>
+<area shape="rect" id="node18" href="$tm-threads_8c.html#a9dec77fa2aee796d6435afa70f1ee475" title="Tests if the thread represented in the arg has been unpaused or not. " alt="" coords="237,461,445,488"/>
+<area shape="rect" id="node19" href="$tm-threads_8c.html#afbb02380645247d1256fe2a20701e92a" title="Waits till the specified flag(s) is(are) set. We don&#39;t bother if the kill flag has been set or not on..." alt="" coords="265,512,417,539"/>
+<area shape="rect" id="node20" href="$util-signal_8c.html#ace72889703113c3d3185d67fc715461e" title="UtilSignalBlock" alt="" coords="286,563,397,589"/>
+<area shape="rect" id="node5" href="$group__decode.html#gadbb7a223135dab327a0f78a96f931889" title="Return a malloced packet. " alt="" coords="758,107,847,133"/>
+<area shape="rect" id="node6" href="$tmqh-packetpool_8c.html#a144d5e3c9b77c7b9fb4a8c369d7dd8cc" title="Get a new packet from the packet pool. " alt="" coords="494,107,645,133"/>
+<area shape="rect" id="node8" href="$group__decode.html#gadd3d2505353dbc2b396776da9afbcd74" title="Get a malloced packet. " alt="" coords="498,157,641,184"/>
+<area shape="rect" id="node12" href="$util-affinity_8c.html#a60e0581f091ba45f813af9b17cba2cc8" title="Return next cpu to use for a given thread family. " alt="" coords="499,233,640,260"/>
+<area shape="rect" id="node15" href="$tm-threads_8c.html#a2281ca1569730c81dffeb4779b399cef" title="Adjusting nice value for threads. " alt="" coords="507,284,631,311"/>
+<area shape="rect" id="node13" href="$util-cpu_8c.html#a4f36ee9e70d73c5d8fb86fa6a86c44e2" title="Get the number of cpus online in the system. " alt="" coords="693,233,912,260"/>
+<area shape="rect" id="node14" href="$util-cpu_8c.html#a76e3d657a52ccbf2d4c788d1b51a454f" title="Get the number of cpus configured in the system. " alt="" coords="961,233,1205,260"/>
+</map>

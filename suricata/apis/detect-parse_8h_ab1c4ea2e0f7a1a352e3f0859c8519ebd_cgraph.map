@@ -1,0 +1,4 @@
+<map id="DetectEngineAppendSig" name="DetectEngineAppendSig">
+<area shape="rect" id="node2" href="$detect-engine-sigorder_8c.html#aace271513b7ea4451a286032ae3c42d7" title="SigFree" alt="" coords="219,5,285,32"/>
+<area shape="rect" id="node3" href="$detect-engine-sigorder_8c.html#ad1c1c92d443dad74a377179d9586b5e2" title="Parses a signature and adds it to the Detection Engine Context. " alt="" coords="223,56,281,83"/>
+</map>

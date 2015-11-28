@@ -1,0 +1,7 @@
+<map id="SCClassConfParseFile" name="SCClassConfParseFile">
+<area shape="rect" id="node2" href="$util-classification-config_8c.html#a70312e55da5ef079122b3d420987a784" title="Parses a line from the classification file and adds it to Classtype hash table in DetectEngineCtx..." alt="" coords="214,56,399,83"/>
+<area shape="rect" id="node3" href="$util-hash_8c.html#a3febc8e137f736e4b9977a2ed327b50e" title="HashTableAdd" alt="" coords="490,5,598,32"/>
+<area shape="rect" id="node4" href="$util-hash_8c.html#a516b822a1929236ef67859af6812ed98" title="HashTableLookup" alt="" coords="481,56,607,83"/>
+<area shape="rect" id="node5" href="$util-classification-config_8c.html#aa154e4c2546a2a21051b4708f7fac9ee" title="Returns a new SCClassConfClasstype instance. The classtype string is converted into lowercase..." alt="" coords="449,107,639,133"/>
+<area shape="rect" id="node6" href="$util-classification-config_8c.html#a59d380510cde0f10d358d4201b229b52" title="Frees a SCClassConfClasstype instance. " alt="" coords="688,107,896,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="TmThreadCreateMgmtThread" name="TmThreadCreateMgmtThread">
+<area shape="rect" id="node2" href="$counters_8h.html#a21cd088e883d698355768801db6f5e9d" title="Spawns the wakeup, and the management thread used by the stats api. " alt="" coords="249,5,389,32"/>
+<area shape="rect" id="node3" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="437,5,488,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="EngineStop" name="EngineStop">
+<area shape="rect" id="node2" href="$source-erf-file_8c.html#ac0c39d17d88901a47a891a8c36ee7f80" title="ERF file reading loop. " alt="" coords="151,5,287,32"/>
+<area shape="rect" id="node8" href="$source-pcap-file_8c.html#a6feffffa554a28df067ada0ebcc0db1d" title="Main PCAP file reading Loop function. " alt="" coords="144,56,293,83"/>
+<area shape="rect" id="node3" href="$source-erf-file_8h.html#aa33fce1981c0cd8d648f1a1beeab14cd" title="Register the ERF file receiver (reader) module. " alt="" coords="348,5,567,32"/>
+<area shape="rect" id="node4" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="622,31,757,57"/>
+<area shape="rect" id="node5" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="805,31,904,57"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1149,31,1200,57"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="952,56,1101,83"/>
+<area shape="rect" id="node9" href="$source-pcap-file_8h.html#a11a753284083f1df62c9709579f10ffb" title="TmModuleReceivePcapFileRegister" alt="" coords="342,56,573,83"/>
+</map>

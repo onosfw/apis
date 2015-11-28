@@ -1,0 +1,8 @@
+<map id="SigGroupHeadSPortHashFree" name="SigGroupHeadSPortHashFree">
+<area shape="rect" id="node2" href="$detect-engine_8h.html#a507b6b477b36478010d0946149c2d357" title="Free a DetectEngineCtx:: " alt="" coords="265,5,413,32"/>
+<area shape="rect" id="node3" href="$detect_8c.html#a72fc70b5d12e86ff5827d2d397233773" title="SigAddressPrepareStage3" alt="" coords="251,56,426,83"/>
+<area shape="rect" id="node4" href="$detect_8h.html#a5eab8b8beaf1cc85d8a25a309ea13124" title="Convert the signature list into the runtime match structure. " alt="" coords="475,56,581,83"/>
+<area shape="rect" id="node5" href="$detect_8h.html#a8b471081c75864d1c8d4bcb14eaebc3b" title="Load signatures. " alt="" coords="629,56,760,83"/>
+<area shape="rect" id="node6" href="$detect-engine_8h.html#aba0e2c94ab90c4390af30af806db271d" title="Reload the detection engine. " alt="" coords="809,56,951,83"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1000,56,1051,83"/>
+</map>

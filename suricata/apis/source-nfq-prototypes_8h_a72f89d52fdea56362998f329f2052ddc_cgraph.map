@@ -1,0 +1,11 @@
+<map id="TmModuleVerdictNFQRegister" name="TmModuleVerdictNFQRegister">
+<area shape="rect" id="node2" href="$source-nfq_8c.html#a6033429b6ace5a1477225b4ea2a392fa" title="NFQ verdict module packet entry function. " alt="" coords="293,56,384,83"/>
+<area shape="rect" id="node6" href="$source-nfq_8c.html#ade412d438196cb799f387dcf5f6a76d3" title="VerdictNFQThreadDeinit" alt="" coords="256,107,421,133"/>
+<area shape="rect" id="node8" href="$source-nfq_8c.html#acd1cd050a85be381cc3bbdedf383009b" title="VerdictNFQThreadInit" alt="" coords="264,157,413,184"/>
+<area shape="rect" id="node3" href="$group__decode.html#ga72c6cf9d15bc6b8f4d9c2d16b7a5a5a5" title="CaptureStatsUpdate" alt="" coords="469,5,611,32"/>
+<area shape="rect" id="node5" href="$source-nfq_8c.html#a10c6041f952e39aa51504348029eb185" title="NFQ verdict function. " alt="" coords="485,56,595,83"/>
+<area shape="rect" id="node4" href="$counters_8c.html#aec6ddff16e99087dbf6c4b13f7aa5ab6" title="Increments the local counter. " alt="" coords="696,5,771,32"/>
+<area shape="rect" id="node7" href="$source-nfq_8c.html#ab936b6b111cb57bae29bdb874520bf7d" title="Get a pointer to the NFQ queue at index. " alt="" coords="485,107,595,133"/>
+<area shape="rect" id="node9" href="$group__decode.html#gaf1bed034bb99c0f39628191847689b3a" title="CaptureStatsSetup" alt="" coords="473,157,607,184"/>
+<area shape="rect" id="node10" href="$counters_8c.html#a7bae5ee323fcf0d82c933600b870eb93" title="Registers a normal, unqualified counter. " alt="" coords="659,157,807,184"/>
+</map>

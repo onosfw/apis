@@ -1,0 +1,11 @@
+<map id="bstr_builder_create" name="bstr_builder_create">
+<area shape="rect" id="node2" href="$htp__multipart_8h.html#a33c3b3a82d145b68e450333c6e0c19ac" title="htp_mpartp_create" alt="" coords="188,16,319,43"/>
+<area shape="rect" id="node5" href="$htp__transcoder_8c.html#a86a9a18ddecb35422b934bf270bfccbd" title="htp_transcode_bstr" alt="" coords="187,71,320,97"/>
+<area shape="rect" id="node7" href="$htp__urlencoded_8h.html#ae14c9c314f37aca091ca3357b3bef971" title="htp_urlenp_create" alt="" coords="191,129,316,156"/>
+<area shape="rect" id="node3" href="$htp__private_8h.html#a5828725587fa5f395faa80e7d2059194" title="htp_ch_multipart_callback\l_request_headers" alt="" coords="375,5,548,46"/>
+<area shape="rect" id="node4" href="$htp__config_8h.html#a476cb8af65fec9a8a59d89b10c8f9880" title="htp_config_register\l_multipart_parser" alt="" coords="605,5,737,46"/>
+<area shape="rect" id="node6" href="$htp__transcoder_8c.html#a31718600e56773087712711de6710492" title="htp_transcode_params" alt="" coords="384,71,539,97"/>
+<area shape="rect" id="node8" href="$htp__private_8h.html#ac4a784badfbaddb77f6f6e1582fee11e" title="htp_ch_urlencoded_callback\l_request_headers" alt="" coords="368,122,555,163"/>
+<area shape="rect" id="node10" href="$htp__private_8h.html#a2ad3aba77f1ebdcc30f1dea10068386f" title="htp_ch_urlencoded_callback\l_request_line" alt="" coords="368,187,555,229"/>
+<area shape="rect" id="node9" href="$htp__config_8h.html#ae769cd9063e9432caf6dce6013306df0" title="htp_config_register\l_urlencoded_parser" alt="" coords="603,154,738,195"/>
+</map>

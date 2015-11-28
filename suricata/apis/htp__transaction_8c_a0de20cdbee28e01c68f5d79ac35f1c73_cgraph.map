@@ -1,0 +1,8 @@
+<map id="htp_tx_res_set_header" name="htp_tx_res_set_header">
+<area shape="rect" id="node2" href="$bstr_8c.html#a1b9ca92f8699af4136e5d1ed38ff73b0" title="bstr_free" alt="" coords="361,5,434,32"/>
+<area shape="rect" id="node3" href="$htp__table_8c.html#a80ff6b5f23273fa08d13d8d2d0efc4a0" title="htp_table_add" alt="" coords="209,56,311,83"/>
+<area shape="rect" id="node4" href="$bstr_8c.html#ab4fc824d8df74ad6863a085f3901d30f" title="bstr_dup" alt="" coords="361,56,433,83"/>
+<area shape="rect" id="node5" href="$bstr_8c.html#abaf68b4b27be54655cba0d74c24646c1" title="bstr_dup_ex" alt="" coords="483,56,576,83"/>
+<area shape="rect" id="node6" href="$bstr_8c.html#ad6bdcaadaf0034880584515edbca2427" title="bstr_adjust_len" alt="" coords="625,31,735,57"/>
+<area shape="rect" id="node7" href="$bstr_8c.html#a6b551b4e84311c0608d2a359440d9118" title="bstr_alloc" alt="" coords="641,81,719,108"/>
+</map>

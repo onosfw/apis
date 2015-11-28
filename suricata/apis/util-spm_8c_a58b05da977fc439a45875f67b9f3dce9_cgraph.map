@@ -1,0 +1,7 @@
+<map id="BoyerMooreNocaseSearch" name="BoyerMooreNocaseSearch">
+<area shape="rect" id="node2" href="$util-spm-bm_8c.html#a40ec567a71bb907691681f07e25f78ad" title="Free the memory allocated to Booyer Moore context. " alt="" coords="246,5,394,32"/>
+<area shape="rect" id="node3" href="$util-spm-bm_8c.html#ac0b057b002a1b78afe98bfaf55bfbc01" title="Boyer Moore search algorithm Is better as the pattern length increases and for big buffers to search ..." alt="" coords="251,56,389,83"/>
+<area shape="rect" id="node4" href="$util-spm-bm_8c.html#ae0829e0adc174f39600c884b1102b30c" title="Setup a Booyer Moore context for nocase search. " alt="" coords="232,107,408,133"/>
+<area shape="rect" id="node5" href="$util-spm-bm_8c.html#aab627387582301c758b20eb1650f4bc0" title="Setup a Booyer Moore context. " alt="" coords="477,81,608,108"/>
+<area shape="rect" id="node6" href="$util-spm-bm_8c.html#a3547420c83def4a1ebe21cf45261231d" title="Given a BmCtx structure, recreate the pre/suffixes for nocase. " alt="" coords="456,132,629,159"/>
+</map>

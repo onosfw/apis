@@ -1,0 +1,18 @@
+<map id="htp_conn_destroy" name="htp_conn_destroy">
+<area shape="rect" id="node2" href="$htp__private_8h.html#a0d9bedcb7fd819340ebd8e8271263191" title="htp_tx_destroy_incomplete" alt="" coords="179,259,357,285"/>
+<area shape="rect" id="node3" href="$htp__connection_8c.html#a5d2ba6dc7a26d5f2a5eee797c053a606" title="htp_conn_remove_tx" alt="" coords="410,5,553,32"/>
+<area shape="rect" id="node4" href="$htp__connection__parser_8c.html#ae33f3c887843a95a8a6650ed2c737dc6" title="htp_connp_tx_remove" alt="" coords="406,56,557,83"/>
+<area shape="rect" id="node5" href="$bstr_8c.html#a1b9ca92f8699af4136e5d1ed38ff73b0" title="bstr_free" alt="" coords="1174,259,1247,285"/>
+<area shape="rect" id="node6" href="$htp_8h.html#af834d04e2f2dcf25ed5f8cf49efb626a" title="htp_uri_free" alt="" coords="1024,157,1115,184"/>
+<area shape="rect" id="node7" href="$htp__table_8c.html#aa1f72cd85c808b758b6efd6ea0351524" title="htp_table_size" alt="" coords="836,360,943,387"/>
+<area shape="rect" id="node8" href="$htp__table_8c.html#aa2c2702311ce4bbb7614133098c50b4e" title="htp_table_get_index" alt="" coords="820,411,959,437"/>
+<area shape="rect" id="node9" href="$htp__table_8c.html#a408659a54a7dd0e715be8bab67a107e6" title="htp_table_destroy" alt="" coords="827,208,952,235"/>
+<area shape="rect" id="node11" href="$htp__urlencoded_8c.html#af33fd291b4052411413bb776b9489ecf" title="htp_urlenp_destroy" alt="" coords="619,259,751,285"/>
+<area shape="rect" id="node13" href="$htp__multipart_8c.html#aed39a287d90d4fa9ab464444c77697c4" title="htp_mpartp_destroy" alt="" coords="413,385,550,412"/>
+<area shape="rect" id="node15" href="$htp__hooks_8c.html#a58b480fb42419dec49170dbeb1189a73" title="htp_hook_destroy" alt="" coords="623,588,748,615"/>
+<area shape="rect" id="node17" href="$htp__config_8c.html#acf3f525de9bfaf3023ecad391cf243c0" title="htp_config_destroy" alt="" coords="415,563,547,589"/>
+<area shape="rect" id="node10" href="$htp__table_8c.html#ac14ab63ac2bc19ac3f61d324b484dd2e" title="htp_table_clear" alt="" coords="1014,208,1125,235"/>
+<area shape="rect" id="node12" href="$bstr__builder_8c.html#a4c90e3030e9ab7bf81caf09a76c57ec9" title="bstr_builder_destroy" alt="" coords="820,309,959,336"/>
+<area shape="rect" id="node14" href="$htp__multipart_8c.html#afc3a6b77b984cb093dbcd6370c42b887" title="htp_mpart_part_destroy" alt="" coords="606,411,765,437"/>
+<area shape="rect" id="node16" href="$htp__list_8c.html#a61ba9d208a9a1cea26c574adb5fc9cf4" title="htp_list_array_destroy" alt="" coords="814,588,965,615"/>
+</map>

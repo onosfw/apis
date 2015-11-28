@@ -1,0 +1,8 @@
+<map id="SCClassConfDeAllocClasstype" name="SCClassConfDeAllocClasstype">
+<area shape="rect" id="node2" href="$util-classification-config_8h.html#a708a62230c78cd55b7bb5b1dde58c0f1" title="Returns a new SCClassConfClasstype instance. The classtype string is converted into lowercase..." alt="" coords="262,8,453,35"/>
+<area shape="rect" id="node6" href="$util-classification-config_8c.html#a6a381045dcbd5676589b842f17d06767" title="Used to free the Classification Config Hash Data that was stored in DetectEngineCtx&#45;&gt;class_conf_ht Ha..." alt="" coords="501,64,720,91"/>
+<area shape="rect" id="node3" href="$util-classification-config_8c.html#a70312e55da5ef079122b3d420987a784" title="Parses a line from the classification file and adds it to Classtype hash table in DetectEngineCtx..." alt="" coords="518,7,703,33"/>
+<area shape="rect" id="node4" href="$util-classification-config_8c.html#a4aca4c44c3c9c580f114c280a5424210" title="Parses the Classification Config file and updates the DetectionEngineCtx&#45;&gt;class_conf_ht with the Clas..." alt="" coords="785,5,943,32"/>
+<area shape="rect" id="node5" href="$util-classification-config_8h.html#a3acb6590925b7b7713869888ec4ea45a" title="Loads the Classtype info from the classification.config file. " alt="" coords="1009,27,1215,69"/>
+<area shape="rect" id="node7" href="$util-classification-config_8c.html#adfae672bf4eb293c5dc187c0989ebb14" title="Inits the context to be used by the Classification Config parsing API. " alt="" coords="769,57,959,98"/>
+</map>

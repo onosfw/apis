@@ -1,0 +1,9 @@
+<map id="DetectHttpHHRegister" name="DetectHttpHHRegister">
+<area shape="rect" id="node2" href="$detect-http-hh_8c.html#ab72c21f69bb8c79a8cca7c4a6566825a" title="The function to free the http_host data. " alt="" coords="237,5,369,32"/>
+<area shape="rect" id="node4" href="$detect-http-hh_8c.html#ae8b276caa064e02cc1f89897cb1e807f" title="DetectHttpHHRegisterTests" alt="" coords="209,56,397,83"/>
+<area shape="rect" id="node5" href="$detect-http-hh_8c.html#ae38c5fa08fad83032497a980ffb85aa4" title="The setup function for the http_host keyword for a signature. " alt="" coords="233,107,373,133"/>
+<area shape="rect" id="node3" href="$util-spm-bm_8c.html#a40ec567a71bb907691681f07e25f78ad" title="Free the memory allocated to Booyer Moore context. " alt="" coords="469,5,617,32"/>
+<area shape="rect" id="node6" href="$detect-parse_8c.html#a86273f934370947a29422bbb2fcfe0db" title="DetectEngineContentModifier\lBufferSetup" alt="" coords="446,99,639,141"/>
+<area shape="rect" id="node7" href="$detect-parse_8c.html#a207f50170ee418c4456ec659e8f37520" title="Returns the sm with the largest index (added latest) from all the lists. " alt="" coords="689,77,890,104"/>
+<area shape="rect" id="node8" href="$detect-parse_8c.html#a08dc7e1c9cf1ced8186d8dbd2405b540" title="SigMatchTransferSigMatch\lAcrossLists" alt="" coords="699,129,879,170"/>
+</map>

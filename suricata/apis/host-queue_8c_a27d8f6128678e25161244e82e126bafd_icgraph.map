@@ -1,0 +1,4 @@
+<map id="HostQueueLen" name="HostQueueLen">
+<area shape="rect" id="node2" href="$host_8h.html#a8d83e394d0191fc4ecc81dfe125cd098" title="HostSpareQueueGetSize" alt="" coords="163,5,333,32"/>
+<area shape="rect" id="node3" href="$host-timeout_8h.html#a39b8158d33e2dc12a8b83b34d0382025" title="HostGetSpareCount" alt="" coords="382,5,522,32"/>
+</map>

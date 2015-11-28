@@ -1,0 +1,41 @@
+<map id="AffinitySetupLoadFromConfig" name="AffinitySetupLoadFromConfig">
+<area shape="rect" id="node2" href="$runmodes_8h.html#a07225b8600c17470752ae849ace81e0f" title="RunModeInitialize" alt="" coords="249,639,375,665"/>
+<area shape="rect" id="node3" href="$runmode-erf-file_8h.html#a4d406431f0ab63d3143b81d3f600b09a" title="RunModeErfFileAutoFp" alt="" coords="441,5,599,32"/>
+<area shape="rect" id="node7" href="$runmode-erf-file_8h.html#a915f2f8caa7767da0f772a01421d9739" title="RunModeErfFileSingle" alt="" coords="444,56,596,83"/>
+<area shape="rect" id="node8" href="$runmode-pcap-file_8h.html#a8b3fac464c73a6e2f8bfd8175a9dbc96" title="RunModeFilePcapAutoFp set up the following thread packet handlers: " alt="" coords="435,107,605,133"/>
+<area shape="rect" id="node10" href="$runmode-pcap-file_8h.html#a0b2361b53d1001da4064cac92706a590" title="Single thread version of the Pcap file processing. " alt="" coords="437,157,603,184"/>
+<area shape="rect" id="node11" href="$runmode-af-packet_8h.html#af741b481e72c7d4e52637797fa320ea6" title="RunModeIdsAFPAutoFp" alt="" coords="438,208,602,235"/>
+<area shape="rect" id="node13" href="$runmode-af-packet_8h.html#a4607fda68e0f4b15bc3207cec646da96" title="Single thread version of the AF_PACKET processing. " alt="" coords="441,259,599,285"/>
+<area shape="rect" id="node14" href="$runmode-af-packet_8h.html#a1402fe271c8a1f767de444b2d9535722" title="Workers version of the AF_PACKET processing. " alt="" coords="435,309,605,336"/>
+<area shape="rect" id="node15" href="$runmode-erf-dag_8h.html#a70b2fc6e66952233a4152397b09c64c4" title="RunModeIdsErfDagAutoFp" alt="" coords="431,360,609,387"/>
+<area shape="rect" id="node17" href="$runmode-erf-dag_8h.html#a9ba73edd11c89adb1123a2b559598d4e" title="RunModeIdsErfDagSingle" alt="" coords="433,411,607,437"/>
+<area shape="rect" id="node18" href="$runmode-erf-dag_8h.html#ab793c26bd7104604eb8c3f27ebb4f1b9" title="RunModeIdsErfDagWorkers" alt="" coords="427,461,613,488"/>
+<area shape="rect" id="node19" href="$runmode-netmap_8h.html#a8dfba4755e54c47d166ebfc0fa9297b4" title="RunModeIdsNetmapAutoFp" alt="" coords="428,512,612,539"/>
+<area shape="rect" id="node21" href="$runmode-netmap_8h.html#afde9fca64528867bcc8c521d9077bf0f" title="Single thread version of the netmap processing. " alt="" coords="431,563,609,589"/>
+<area shape="rect" id="node22" href="$runmode-netmap_8h.html#a0e2182ba798b9ae6f33f7161faa313b3" title="Workers version of the netmap processing. " alt="" coords="425,613,615,640"/>
+<area shape="rect" id="node23" href="$runmode-nflog_8h.html#a90b0f9d4cb07d2038585ce39116e5f76" title="RunModeIdsNflogAutoFp" alt="" coords="435,664,605,691"/>
+<area shape="rect" id="node25" href="$runmode-nflog_8h.html#a9b4990f82cc0f8efbee908a872849602" title="RunModeIdsNflogSingle" alt="" coords="439,715,601,741"/>
+<area shape="rect" id="node26" href="$runmode-nflog_8h.html#a0da8f2ed9a7af61ccf6dd0c1b2892817" title="RunModeIdsNflogWorkers" alt="" coords="432,765,608,792"/>
+<area shape="rect" id="node27" href="$runmode-pcap_8h.html#a5a917ab959eb97ad190049c17ace53be" title="RunModIdsPcapAutoFp set up the following thread packet handlers: " alt="" coords="436,816,604,843"/>
+<area shape="rect" id="node29" href="$runmode-pcap_8h.html#a56e3924206404f4dad482c7429a680f1" title="Single thread version of the Pcap live processing. " alt="" coords="439,867,601,893"/>
+<area shape="rect" id="node30" href="$runmode-pcap_8c.html#a41a15b254d1b8fbd44f2666e5f6b94a7" title="Workers version of the PCAP LIVE processing. " alt="" coords="433,917,607,944"/>
+<area shape="rect" id="node31" href="$runmode-pfring_8h.html#a03d46b27b5c687483ac9f89476f490b6" title="RunModeIdsPfringAutoFp" alt="" coords="434,968,606,995"/>
+<area shape="rect" id="node33" href="$runmode-pfring_8h.html#a2273f9ef551786698a7c6f90ba2daef1" title="RunModeIdsPfringSingle" alt="" coords="437,1019,603,1045"/>
+<area shape="rect" id="node34" href="$runmode-pfring_8h.html#ad1ce11c37b11e5647edd6f52dae43b5d" title="RunModeIdsPfringWorkers" alt="" coords="431,1069,609,1096"/>
+<area shape="rect" id="node35" href="$runmode-ipfw_8h.html#ab98f939c839da52cdfa459f4369c7881" title="RunModeIpsIPFWAutoFp" alt="" coords="434,1120,606,1147"/>
+<area shape="rect" id="node37" href="$runmode-ipfw_8h.html#a17d8ec657d20d82a53849a56e9db4b82" title="RunModeIpsIPFWWorker" alt="" coords="434,1171,606,1197"/>
+<area shape="rect" id="node38" href="$runmode-nfq_8h.html#a74ab8fb81b460f68e5b2989c9575e41a" title="RunModeIpsNFQAutoFp" alt="" coords="437,1221,603,1248"/>
+<area shape="rect" id="node40" href="$runmode-nfq_8h.html#aa10ad0e1cc7e8cb8738e88d97a4722d5" title="RunModeIpsNFQWorker" alt="" coords="437,1272,603,1299"/>
+<area shape="rect" id="node4" href="$runmode-erf-file_8h.html#a2fa5ee6e088800426e896df9aeff1048" title="RunModeErfFileRegister" alt="" coords="677,56,843,83"/>
+<area shape="rect" id="node5" href="$runmodes_8h.html#aa5565123b11fa026e96b91b23db91ba9" title="Register all runmodes in the engine. " alt="" coords="905,639,1095,665"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1144,639,1195,665"/>
+<area shape="rect" id="node9" href="$runmode-pcap-file_8h.html#ac0d7c8cc1a9e09f97cb2fa18dfb6c554" title="RunModeFilePcapRegister" alt="" coords="671,157,849,184"/>
+<area shape="rect" id="node12" href="$runmode-af-packet_8h.html#abf510dda35701437fc571d5b5f0f1f6e" title="RunModeIdsAFPRegister" alt="" coords="675,284,845,311"/>
+<area shape="rect" id="node16" href="$runmode-erf-dag_8h.html#a48e70c4e7988fa65ee295b869150cfa6" title="RunModeErfDagRegister" alt="" coords="676,436,844,463"/>
+<area shape="rect" id="node20" href="$runmode-netmap_8h.html#a8b229716bfd3fd0ed1c627350b1fb7da" title="RunModeIdsNetmapRegister" alt="" coords="665,588,855,615"/>
+<area shape="rect" id="node24" href="$runmode-nflog_8h.html#aaabe731f1245f1a7f8cfb9a1e9bd417b" title="RunModeIdsNflogRegister" alt="" coords="672,689,848,716"/>
+<area shape="rect" id="node28" href="$runmode-pcap_8h.html#a16e1fcee3ffd97b1987150fdd11cbbd5" title="RunModeIdsPcapRegister" alt="" coords="673,841,847,868"/>
+<area shape="rect" id="node32" href="$runmode-pfring_8h.html#a60ccf23e33d96ce4ad0e111902f1984b" title="RunModeIdsPfringRegister" alt="" coords="671,993,849,1020"/>
+<area shape="rect" id="node36" href="$runmode-ipfw_8h.html#ae06ebfcccd6f11438a720a3b5753e5ac" title="RunModeIpsIPFWRegister" alt="" coords="671,1120,849,1147"/>
+<area shape="rect" id="node39" href="$runmode-nfq_8h.html#a9357135b637234befb24cfcefde1e95e" title="RunModeIpsNFQRegister" alt="" coords="673,1221,847,1248"/>
+</map>

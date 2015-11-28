@@ -1,0 +1,51 @@
+<map id="PacketDequeue" name="PacketDequeue">
+<area shape="rect" id="node2" href="$stream-tcp_8h.html#a248c85404fa06db3bc2b7d8d2f8de3a0" title="StreamTcpPacket" alt="" coords="834,235,961,261"/>
+<area shape="rect" id="node9" href="$tmqh-flow_8c.html#a31dc2f89d7d74a59593e0a93bcfcc264" title="TmqhInputFlow" alt="" coords="229,311,341,337"/>
+<area shape="rect" id="node12" href="$tmqh-simple_8c.html#a336fa59a450b292bb7b0774baafe18a7" title="TmqhInputSimple" alt="" coords="223,361,347,388"/>
+<area shape="rect" id="node14" href="$tmqh-packetpool_8h.html#a9f4e9d711280d1e9d5a1e6abef1f0def" title="Release all the packets in the queue back to the packetpool. Mainly used by threads that have failed..." alt="" coords="169,463,402,489"/>
+<area shape="rect" id="node16" href="$tm-threads_8c.html#a86f906803e6e37b43aed5cf1a37c91ee" title="TmThreadsSlotVar" alt="" coords="653,512,784,539"/>
+<area shape="rect" id="node15" href="$tm-threads_8h.html#a3e6a7d6f5867c6909351b1ee45dc2a0b" title="Separate run function so we can call it recursively. " alt="" coords="451,436,605,463"/>
+<area shape="rect" id="node3" href="$stream-tcp_8c.html#adb13fb0808d68f1cbd9757cdc419fdab" title="StreamTcp" alt="" coords="1027,221,1114,248"/>
+<area shape="rect" id="node4" href="$stream-tcp_8h.html#ac7570830e107bef9adb9c4a729222114" title="TmModuleStreamTcpRegister" alt="" coords="1201,81,1397,108"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="1505,5,1639,32"/>
+<area shape="rect" id="node6" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="2009,5,2108,32"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="2229,19,2379,45"/>
+<area shape="rect" id="node8" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="2448,613,2499,640"/>
+<area shape="rect" id="node10" href="$tmqh-flow_8h.html#abc01f36011d47c9d4cd635be7f602c19" title="TmqhFlowRegister" alt="" coords="462,311,594,337"/>
+<area shape="rect" id="node11" href="$tm-queuehandlers_8h.html#a58283282aed172d5cc1839bf01c21bc2" title="TmqhSetup" alt="" coords="674,336,763,363"/>
+<area shape="rect" id="node13" href="$tmqh-simple_8h.html#a678fb33b7e995e36803812a072aa948d" title="TmqhSimpleRegister" alt="" coords="456,361,600,388"/>
+<area shape="rect" id="node17" href="$tm-threads_8c.html#a25369baa1a83811c880d10bf95cad079" title="We set the slot functions. " alt="" coords="832,613,963,640"/>
+<area shape="rect" id="node18" href="$tm-threads_8c.html#af78474ba8e49604c9cf705c57cc95f51" title="Creates and returns the TV instance for a new thread. " alt="" coords="1011,664,1131,691"/>
+<area shape="rect" id="node19" href="$tm-threads_8h.html#a3a9723ec915f969865c976c6b7b52252" title="Creates and returns a TV instance for a Packet Processing Thread. This function doesn&#39;t support custo..." alt="" coords="1195,233,1402,260"/>
+<area shape="rect" id="node43" href="$tm-threads_8h.html#ae47f93ac82b266764653a7d9e44220d2" title="Creates and returns the TV instance for a Management thread(MGMT). This function supports only custom..." alt="" coords="1202,664,1395,691"/>
+<area shape="rect" id="node45" href="$tm-threads_8h.html#ace687797a257f61387245ec3ec403916" title="Creates and returns the TV instance for a Management thread(MGMT). This function supports only custom..." alt="" coords="1962,707,2155,749"/>
+<area shape="rect" id="node48" href="$tm-threads_8h.html#a0ad83f5fc0de8d0ee23346b19ddf5c3d" title="Creates and returns the TV instance for a Command thread (CMD). This function supports only custom sl..." alt="" coords="1179,767,1418,793"/>
+<area shape="rect" id="node20" href="$runmode-erf-file_8h.html#a915f2f8caa7767da0f772a01421d9739" title="RunModeErfFileSingle" alt="" coords="1496,56,1648,83"/>
+<area shape="rect" id="node23" href="$runmode-erf-file_8h.html#a4d406431f0ab63d3143b81d3f600b09a" title="RunModeErfFileAutoFp" alt="" coords="1493,107,1651,133"/>
+<area shape="rect" id="node24" href="$runmode-pcap-file_8h.html#a0b2361b53d1001da4064cac92706a590" title="Single thread version of the Pcap file processing. " alt="" coords="1489,157,1655,184"/>
+<area shape="rect" id="node26" href="$runmode-pcap-file_8h.html#a8b3fac464c73a6e2f8bfd8175a9dbc96" title="RunModeFilePcapAutoFp set up the following thread packet handlers: " alt="" coords="1487,208,1657,235"/>
+<area shape="rect" id="node27" href="$util-runmodes_8h.html#aa945fa897a11a3aca339503ccdeda468" title="RunModeSetLiveCaptureAutoFp" alt="" coords="1467,259,1677,285"/>
+<area shape="rect" id="node37" href="$util-runmodes_8h.html#a263673ca878720aa97c381465d02381b" title="RunModeSetIPSAutoFp" alt="" coords="1491,461,1653,488"/>
+<area shape="rect" id="node40" href="$util-runmodes_8h.html#a6dd10c519f023a760231bf09302de3d7" title="RunModeSetIPSWorker" alt="" coords="1491,563,1653,589"/>
+<area shape="rect" id="node21" href="$runmode-erf-file_8h.html#a2fa5ee6e088800426e896df9aeff1048" title="RunModeErfFileRegister" alt="" coords="1735,56,1900,83"/>
+<area shape="rect" id="node22" href="$runmodes_8h.html#aa5565123b11fa026e96b91b23db91ba9" title="Register all runmodes in the engine. " alt="" coords="2209,196,2399,223"/>
+<area shape="rect" id="node25" href="$runmode-pcap-file_8h.html#ac0d7c8cc1a9e09f97cb2fa18dfb6c554" title="RunModeFilePcapRegister" alt="" coords="1728,107,1907,133"/>
+<area shape="rect" id="node28" href="$runmode-af-packet_8h.html#af741b481e72c7d4e52637797fa320ea6" title="RunModeIdsAFPAutoFp" alt="" coords="1735,157,1899,184"/>
+<area shape="rect" id="node30" href="$runmode-erf-dag_8h.html#a70b2fc6e66952233a4152397b09c64c4" title="RunModeIdsErfDagAutoFp" alt="" coords="1728,208,1907,235"/>
+<area shape="rect" id="node32" href="$runmode-netmap_8h.html#a8dfba4755e54c47d166ebfc0fa9297b4" title="RunModeIdsNetmapAutoFp" alt="" coords="1725,259,1909,285"/>
+<area shape="rect" id="node34" href="$runmode-nflog_8h.html#a90b0f9d4cb07d2038585ce39116e5f76" title="RunModeIdsNflogAutoFp" alt="" coords="1733,309,1902,336"/>
+<area shape="rect" id="node35" href="$runmode-pcap_8h.html#a5a917ab959eb97ad190049c17ace53be" title="RunModIdsPcapAutoFp set up the following thread packet handlers: " alt="" coords="1733,360,1901,387"/>
+<area shape="rect" id="node36" href="$runmode-pfring_8h.html#a03d46b27b5c687483ac9f89476f490b6" title="RunModeIdsPfringAutoFp" alt="" coords="1731,411,1903,437"/>
+<area shape="rect" id="node29" href="$runmode-af-packet_8h.html#abf510dda35701437fc571d5b5f0f1f6e" title="RunModeIdsAFPRegister" alt="" coords="1973,157,2144,184"/>
+<area shape="rect" id="node31" href="$runmode-erf-dag_8h.html#a48e70c4e7988fa65ee295b869150cfa6" title="RunModeErfDagRegister" alt="" coords="1975,208,2143,235"/>
+<area shape="rect" id="node33" href="$runmode-netmap_8h.html#a8b229716bfd3fd0ed1c627350b1fb7da" title="RunModeIdsNetmapRegister" alt="" coords="1963,259,2154,285"/>
+<area shape="rect" id="node38" href="$runmode-ipfw_8h.html#ab98f939c839da52cdfa459f4369c7881" title="RunModeIpsIPFWAutoFp" alt="" coords="1731,461,1903,488"/>
+<area shape="rect" id="node39" href="$runmode-nfq_8h.html#a74ab8fb81b460f68e5b2989c9575e41a" title="RunModeIpsNFQAutoFp" alt="" coords="1734,512,1901,539"/>
+<area shape="rect" id="node41" href="$runmode-ipfw_8h.html#a17d8ec657d20d82a53849a56e9db4b82" title="RunModeIpsIPFWWorker" alt="" coords="1731,563,1903,589"/>
+<area shape="rect" id="node42" href="$runmode-nfq_8h.html#aa10ad0e1cc7e8cb8738e88d97a4722d5" title="RunModeIpsNFQWorker" alt="" coords="1734,613,1901,640"/>
+<area shape="rect" id="node44" href="$counters_8h.html#a21cd088e883d698355768801db6f5e9d" title="Spawns the wakeup, and the management thread used by the stats api. " alt="" coords="2234,613,2374,640"/>
+<area shape="rect" id="node46" href="$flow-manager_8h.html#a20dbca5b9bd98fe6c7a3de02d6487a4c" title="spawn the flow manager thread " alt="" coords="2214,664,2394,691"/>
+<area shape="rect" id="node47" href="$flow-manager_8h.html#a83c270c95bd002fd66653df0b56224db" title="spawn the flow recycler thread " alt="" coords="2213,715,2395,741"/>
+<area shape="rect" id="node49" href="$detect-engine-loader_8h.html#adf5194d673bf98d3bb964e10ec1872e5" title="spawn the detect loader manager thread " alt="" coords="1482,771,1662,797"/>
+<area shape="rect" id="node50" href="$detect-engine_8h.html#a3dd8dd8e9160b754f6be5b7136f5f891" title="setup multi&#45;detect / multi&#45;tenancy " alt="" coords="1957,773,2160,800"/>
+</map>

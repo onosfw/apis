@@ -1,0 +1,6 @@
+<map id="SCThresholdConfParseFile" name="SCThresholdConfParseFile">
+<area shape="rect" id="node2" href="$util-threshold-config_8c.html#a37cc2640ec2f2810bc2c4956f2ca3330" title="Parses a line from the threshold file and applies it to the detection engine. " alt="" coords="235,5,466,32"/>
+<area shape="rect" id="node3" href="$util-threshold-config_8c.html#a9b5eb59f4666eff0489fd5ca562400f2" title="Checks if a string is a comment or a blank line. " alt="" coords="253,57,448,98"/>
+<area shape="rect" id="node4" href="$util-threshold-config_8c.html#a3ab3f5bbf31f2cda85845463a58701c6" title="Checks if the rule is multiline, by searching an ending slash. " alt="" coords="246,123,455,149"/>
+<area shape="rect" id="node5" href="$util-threshold-config_8c.html#ab1983e59ee931287c446487ed85e5bed" title="Get the config line length to allocate the buffer needed. " alt="" coords="256,173,445,200"/>
+</map>

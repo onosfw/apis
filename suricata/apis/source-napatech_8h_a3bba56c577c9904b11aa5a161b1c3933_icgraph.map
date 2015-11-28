@@ -1,0 +1,7 @@
+<map id="NapatechStreamThreadDeinit" name="NapatechStreamThreadDeinit">
+<area shape="rect" id="node2" href="$source-napatech_8h.html#aeb949c5f1845fff47c31c10691181258" title="Register the Napatech receiver (reader) module. " alt="" coords="249,5,479,32"/>
+<area shape="rect" id="node3" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="529,5,663,32"/>
+<area shape="rect" id="node4" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="712,5,811,32"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1056,5,1107,32"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="859,31,1008,57"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DetectDceOpnumRegister" name="DetectDceOpnumRegister">
+<area shape="rect" id="node2" href="$detect-dce-opnum_8c.html#a01cca28c179ee8218182ee63a3e3a84c" title="DetectDceOpnumFree" alt="" coords="258,5,411,32"/>
+<area shape="rect" id="node3" href="$detect-dce-opnum_8c.html#a50618d16c22a4cde8c8f6e740c8fb8d5" title="App layer match function for the &quot;dce_opnum&quot; keyword. " alt="" coords="253,56,416,83"/>
+<area shape="rect" id="node4" href="$detect-dce-opnum_8c.html#ad91f759de3a4b69091904f1586723567" title="DetectDceOpnumRegisterTests" alt="" coords="230,107,439,133"/>
+</map>

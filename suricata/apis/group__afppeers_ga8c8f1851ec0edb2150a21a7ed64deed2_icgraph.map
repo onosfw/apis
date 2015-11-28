@@ -1,0 +1,12 @@
+<map id="AFPPeerUpdate" name="AFPPeerUpdate">
+<area shape="rect" id="node2" href="$group__afppeers.html#ga724040236623c2029d473cd93f7bdb73" title="Declare a new AFP thread to AFP peers list. " alt="" coords="171,5,298,32"/>
+<area shape="rect" id="node9" href="$group__afppacket.html#ga971e1ec8d2bd73345d7bec552fbb7f9d" title="AFPSwitchState" alt="" coords="175,56,294,83"/>
+<area shape="rect" id="node3" href="$group__afppacket.html#ga63a4c87b1c785d124cbcebe19feb0125" title="Init function for ReceiveAFP. " alt="" coords="355,5,509,32"/>
+<area shape="rect" id="node4" href="$group__afppacket.html#ga125f047940f8ff0ea8f5295cd2ce7f3e" title="Registration Function for RecieveAFP. " alt="" coords="566,31,773,57"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="822,31,957,57"/>
+<area shape="rect" id="node6" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="1005,31,1104,57"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1349,31,1400,57"/>
+<area shape="rect" id="node8" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="1152,56,1301,83"/>
+<area shape="rect" id="node10" href="$group__afppacket.html#ga47336052bf58297a6dc5dbc7ac7da790" title="Main AF_PACKET reading Loop function. " alt="" coords="370,56,494,83"/>
+<area shape="rect" id="node11" href="$group__afppacket.html#ga3fe0da43f67f4aa0d4b55ac47121f0de" title="DeInit function closes af packet socket at exit. " alt="" coords="347,107,517,133"/>
+</map>

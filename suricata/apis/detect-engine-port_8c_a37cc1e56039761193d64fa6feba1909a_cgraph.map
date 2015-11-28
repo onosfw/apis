@@ -1,0 +1,12 @@
+<map id="DetectPortParseMergeNotPorts" name="DetectPortParseMergeNotPorts">
+<area shape="rect" id="node2" href="$detect-engine-port_8c.html#a99a3e1b81a12b2048ee19c49d3467369" title="Function that compare port groups. " alt="" coords="293,5,406,32"/>
+<area shape="rect" id="node3" href="$detect-engine-port_8c.html#af10d25fa8ab22e964a10f183a9d9cae4" title="Function that return a copy of DetectPort src. " alt="" coords="291,80,407,107"/>
+<area shape="rect" id="node5" href="$detect-engine-port_8c.html#a336d41e96ce6898d02ebecc582cc1557" title="Free a DetectPort and its members. " alt="" coords="294,131,405,157"/>
+<area shape="rect" id="node10" href="$detect-engine-port_8c.html#a4c38a97f685fd8a69533a53d03e6b487" title="Check if the port group list covers the complete port space. " alt="" coords="261,182,437,223"/>
+<area shape="rect" id="node11" href="$detect-engine-port_8c.html#a5b98d8d3a7c3a879a0b7bc44b2370ac6" title="Helper function that print the DetectPort info. " alt="" coords="293,248,405,275"/>
+<area shape="rect" id="node4" href="$detect-engine-port_8c.html#a6d5934b74427fee3e9fc25e2070244f4" title="Alloc a DetectPort structure and update counters. " alt="" coords="511,80,614,107"/>
+<area shape="rect" id="node6" href="$detect-engine-port_8c.html#aa96929b52a485980356a11188a6e9f16" title="Free a DetectPort list and each of its members. " alt="" coords="485,131,640,157"/>
+<area shape="rect" id="node7" href="$detect-engine-siggroup_8c.html#a176702ac4621c9006d89a8d6801d7ce1" title="Free a SigGroupHead and its members. " alt="" coords="496,181,629,208"/>
+<area shape="rect" id="node8" href="$detect-engine-mpm_8c.html#a6a1c9264037c5fe5756ea28f6ddab251" title="PatternMatchDestroyGroup" alt="" coords="688,156,869,183"/>
+<area shape="rect" id="node9" href="$detect-engine-siggroup_8c.html#a6f6c71bc5fff7f350d164523257ebed1" title="SigGroupHeadInitDataFree" alt="" coords="689,207,868,233"/>
+</map>

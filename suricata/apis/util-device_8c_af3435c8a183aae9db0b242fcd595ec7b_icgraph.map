@@ -1,0 +1,14 @@
+<map id="LiveGetDevice" name="LiveGetDevice">
+<area shape="rect" id="node2" href="$group__afppacket.html#ga63a4c87b1c785d124cbcebe19feb0125" title="Init function for ReceiveAFP. " alt="" coords="171,5,325,32"/>
+<area shape="rect" id="node8" href="$source-erf-dag_8c.html#a6b575ca1df93dcdfe66995849a62b435" title="Initialize the ERF receiver thread, generate a single ErfDagThreadVar structure for each thread..." alt="" coords="163,56,333,83"/>
+<area shape="rect" id="node10" href="$source-pcap_8c.html#ae2500197e003217f72c3f80adeb75b79" title="Init function for ReceivePcap. " alt="" coords="169,107,327,133"/>
+<area shape="rect" id="node12" href="$source-pfring_8c.html#ab74f8ec75fde76ef8ab9ec1b6c7bead1" title="Init function for RecievePfring. " alt="" coords="167,157,329,184"/>
+<area shape="rect" id="node3" href="$group__afppacket.html#ga125f047940f8ff0ea8f5295cd2ce7f3e" title="Registration Function for RecieveAFP. " alt="" coords="389,5,595,32"/>
+<area shape="rect" id="node4" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="651,81,786,108"/>
+<area shape="rect" id="node5" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="835,81,933,108"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1179,81,1229,108"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="981,107,1131,133"/>
+<area shape="rect" id="node9" href="$source-erf-dag_8h.html#a91e9820c732f0cc1d556b6ae671094b1" title="Register the ERF file receiver (reader) module. " alt="" coords="381,56,603,83"/>
+<area shape="rect" id="node11" href="$source-pcap_8h.html#a3f3510c3241770c5b3cd8fb6df1c4c6c" title="Registration Function for RecievePcap. " alt="" coords="387,107,597,133"/>
+<area shape="rect" id="node13" href="$source-pfring_8h.html#a9de1117ec94d507f460b0ae08ac9036f" title="Registration Function for RecievePfring. " alt="" coords="385,157,599,184"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="GetIfaceRSSQueuesNum" name="GetIfaceRSSQueuesNum">
+<area shape="rect" id="node2" href="$runmode-af-packet_8c.html#aa44206676da7e92c8d5f1b2442dbe2e0" title="extract information from config file " alt="" coords="227,56,347,83"/>
+<area shape="rect" id="node3" href="$runmode-af-packet_8h.html#af741b481e72c7d4e52637797fa320ea6" title="RunModeIdsAFPAutoFp" alt="" coords="398,5,562,32"/>
+<area shape="rect" id="node7" href="$runmode-af-packet_8h.html#a4607fda68e0f4b15bc3207cec646da96" title="Single thread version of the AF_PACKET processing. " alt="" coords="401,56,559,83"/>
+<area shape="rect" id="node8" href="$runmode-af-packet_8h.html#a1402fe271c8a1f767de444b2d9535722" title="Workers version of the AF_PACKET processing. " alt="" coords="395,107,565,133"/>
+<area shape="rect" id="node4" href="$runmode-af-packet_8h.html#abf510dda35701437fc571d5b5f0f1f6e" title="RunModeIdsAFPRegister" alt="" coords="613,56,784,83"/>
+<area shape="rect" id="node5" href="$runmodes_8h.html#aa5565123b11fa026e96b91b23db91ba9" title="Register all runmodes in the engine. " alt="" coords="833,56,1023,83"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1072,56,1123,83"/>
+</map>

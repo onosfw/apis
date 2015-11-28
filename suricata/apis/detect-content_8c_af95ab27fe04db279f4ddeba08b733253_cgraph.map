@@ -1,0 +1,11 @@
+<map id="DetectContentSetup" name="DetectContentSetup">
+<area shape="rect" id="node2" href="$group__httplayer.html#ga11e8b680630340415bf611e7d91ec33f" title="Sets a flag that informs the HTP app layer that some module in the engine needs the http request body..." alt="" coords="195,5,392,46"/>
+<area shape="rect" id="node3" href="$detect-content_8c.html#a751cd8c73aed63c33cc08e9cfb2ad060" title="this function will SCFree memory associated with DetectContentData " alt="" coords="227,71,360,97"/>
+<area shape="rect" id="node5" href="$detect-content_8c.html#a211c1ac780ba470da104a8f15f161297" title="DetectContentParse . " alt="" coords="223,121,364,148"/>
+<area shape="rect" id="node8" href="$detect-content_8c.html#ac52cb3d8f13cdc207d0925332b50aa54" title="Helper function to print a DetectContentData. " alt="" coords="226,172,361,199"/>
+<area shape="rect" id="node9" href="$detect-parse_8c.html#ac660313b91a0bfc2da5e94b673937e22" title="SigMatchAlloc" alt="" coords="240,223,347,249"/>
+<area shape="rect" id="node10" href="$detect-parse_8c.html#a43a5de8e35bad6e940f497a6358c284d" title="Append a SigMatch to the list type. " alt="" coords="205,273,382,300"/>
+<area shape="rect" id="node4" href="$util-spm-bm_8c.html#a40ec567a71bb907691681f07e25f78ad" title="Free the memory allocated to Booyer Moore context. " alt="" coords="451,71,599,97"/>
+<area shape="rect" id="node6" href="$util-spm-bm_8c.html#aab627387582301c758b20eb1650f4bc0" title="Setup a Booyer Moore context. " alt="" coords="460,121,591,148"/>
+<area shape="rect" id="node7" href="$detect-content_8c.html#a1d3a8214d5fbe79d3fbc22e741a0a21e" title="Parse a content string, ie &quot;abc|DE|fgh&quot;. " alt="" coords="441,172,610,199"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="StreamTcpThreadDeinit" name="StreamTcpThreadDeinit">
+<area shape="rect" id="node2" href="$stream-tcp-reassemble_8c.html#a967e5a8d394fdac2878d63f01b9c87cc" title="StreamTcpReassembleFreeThreadCtx" alt="" coords="214,96,461,123"/>
+<area shape="rect" id="node3" href="$app-layer_8c.html#ac11ba71f5c16ec06b4e64b61ee86a5d6" title="Destroys the context created by AppLayeGetCtxThread(). " alt="" coords="509,96,693,123"/>
+<area shape="rect" id="node4" href="$app-layer-parser_8c.html#a5ea726897ab9fae1e13724d7a342de1b" title="Destroys the app layer parser thread context obtained using AppLayerParserThreadCtxAlloc(). " alt="" coords="741,67,944,93"/>
+<area shape="rect" id="node8" href="$app-layer-detect-proto_8c.html#af925107e0ba823688508c7c03cacc920" title="Destroys the app layer protocol detection thread context. " alt="" coords="746,118,939,159"/>
+<area shape="rect" id="node5" href="$app-layer-parser_8c.html#a55c82f8c0b2de8f7a7af6ff13b3ccc61" title="AppLayerParserDestroyProtocol\lParserLocalStorage" alt="" coords="993,5,1202,46"/>
+<area shape="rect" id="node7" href="$flow-util_8c.html#a2258030b58194ee63d15a17a9b4a5384" title="FlowGetReverseProtoMapping" alt="" coords="997,71,1197,97"/>
+<area shape="rect" id="node6" href="$flow-util_8c.html#a897ee3b52fa7876e9780704dbc2d1b11" title="Function to map the protocol to the defined FLOW_PROTO_* enumeration. " alt="" coords="1251,12,1402,39"/>
+<area shape="rect" id="node9" href="$util-mpm_8c.html#a008e7642096b8fc6661fd89b1dcf837b" title="Cleanup and free a Pmq. " alt="" coords="1060,125,1135,152"/>
+<area shape="rect" id="node10" href="$util-mpm_8c.html#a2a2264519fb4b8ba76f450a10f48f62f" title="Cleanup a Pmq. " alt="" coords="1278,125,1375,152"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="AppLayerProtoDetectThreadCtx_" name="AppLayerProtoDetectThreadCtx_">
+<area shape="rect" id="node2" href="$structPatternMatcherQueue__.html" title="helper structure for the pattern matcher engine. The Pattern Matcher thread has this and passes a poi..." alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node3" href="$structMpmThreadCtx__.html" title="MpmThreadCtx_" alt="" coords="185,5,303,32"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="ConfigGetLogDirectory" name="ConfigGetLogDirectory">
+<area shape="rect" id="node2" href="$log-tcp-data_8h.html#a5a11841841c8fe89e5d6540e342fd636" title="Create a new http log LogFileCtx. " alt="" coords="461,5,614,32"/>
+<area shape="rect" id="node8" href="$log-pcap_8h.html#ad26144ca07c71b51cb95a6c59ac2eebb" title="PcapLogProfileSetup" alt="" coords="237,360,381,387"/>
+<area shape="rect" id="node9" href="$util-logopenfile_8h.html#a2bf3eabaf66429583fa7066df192aff0" title="open a generic output &quot;log file&quot;, which may be a regular file or a socket " alt="" coords="226,107,393,133"/>
+<area shape="rect" id="node16" href="$util-profiling_8h.html#a19131d1e4739763149fedab6e29d2a73" title="Initialize profiling. " alt="" coords="256,411,363,437"/>
+<area shape="rect" id="node17" href="$util-profiling_8h.html#a017cefafebc2276ebf2bfb916fe0adb8" title="SCProfilingKeywordsGlobalInit" alt="" coords="209,461,410,488"/>
+<area shape="rect" id="node18" href="$util-profiling_8h.html#a59cfaf09520d50a5ac1b0f61145dd243" title="SCProfilingRulesGlobalInit" alt="" coords="221,512,398,539"/>
+<area shape="rect" id="node19" href="$detect-engine-analyzer_8h.html#aed7647b844dab3c14072ad065133b7bb" title="Sets up the fast pattern analyzer according to the config. " alt="" coords="247,259,371,285"/>
+<area shape="rect" id="node22" href="$detect-engine-analyzer_8h.html#a324c316ffb71801a0a1711f85b848c60" title="Sets up the rule analyzer according to the config. " alt="" coords="242,309,377,336"/>
+<area shape="rect" id="node23" href="$alert-unified2-alert_8c.html#aece26471fa7813974ae0250cbc959c1e" title="Read the config set the file pointer, open the file. " alt="" coords="224,208,395,235"/>
+<area shape="rect" id="node3" href="$log-tcp-data_8h.html#a564d20b750b7219b55abac47e5b2162d" title="TmModuleLogTcpDataLogRegister" alt="" coords="664,5,888,32"/>
+<area shape="rect" id="node4" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="941,132,1075,159"/>
+<area shape="rect" id="node5" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="1128,144,1227,171"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1472,195,1523,221"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="1275,195,1424,221"/>
+<area shape="rect" id="node10" href="$alert-fastlog_8h.html#a457fff50b30f04fdd5d65bf150c5af2b" title="Create a new LogFileCtx for &quot;fast&quot; output style. " alt="" coords="470,56,605,83"/>
+<area shape="rect" id="node12" href="$log-httplog_8h.html#af152ae114b059595c0d581c526180fdd" title="Create a new http log LogFileCtx. " alt="" coords="473,107,601,133"/>
+<area shape="rect" id="node14" href="$log-stats_8c.html#a780def82593accbdad6e3d3082967a07" title="Create a new http log LogFileCtx. " alt="" coords="470,157,605,184"/>
+<area shape="rect" id="node11" href="$alert-fastlog_8h.html#a546fa535f9c66dcd88f3f19ac4f14adb" title="TmModuleAlertFastLogRegister" alt="" coords="673,56,879,83"/>
+<area shape="rect" id="node13" href="$log-httplog_8h.html#a949e5c8d6351a52bc91d17e7b08518bc" title="TmModuleLogHttpLogRegister" alt="" coords="677,107,875,133"/>
+<area shape="rect" id="node15" href="$log-stats_8h.html#a5767d99954b4c810a6d55f1c5a9ca5c7" title="TmModuleLogStatsLogRegister" alt="" coords="673,157,879,184"/>
+<area shape="rect" id="node20" href="$detect_8h.html#a8b471081c75864d1c8d4bcb14eaebc3b" title="Load signatures. " alt="" coords="472,309,603,336"/>
+<area shape="rect" id="node21" href="$detect-engine_8h.html#aba0e2c94ab90c4390af30af806db271d" title="Reload the detection engine. " alt="" coords="937,281,1079,308"/>
+<area shape="rect" id="node24" href="$alert-unified2-alert_8h.html#ab48b6cdd070f5f9f7816cdf319d11cf6" title="Create a new LogFileCtx from the provided ConfNode. " alt="" coords="469,208,605,235"/>
+<area shape="rect" id="node26" href="$alert-unified2-alert_8c.html#acf9b608b85002138ba9356c931fda9c3" title="Function to rotate unified2 file. " alt="" coords="459,259,616,285"/>
+<area shape="rect" id="node25" href="$alert-unified2-alert_8h.html#a44090e154321190380e32f2d96e81a67" title="TmModuleUnified2AlertRegister" alt="" coords="673,208,879,235"/>
+</map>

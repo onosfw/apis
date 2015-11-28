@@ -1,0 +1,6 @@
+<map id="TmThreadSetupOptions" name="TmThreadSetupOptions">
+<area shape="rect" id="node2" href="$util-affinity_8c.html#a60e0581f091ba45f813af9b17cba2cc8" title="Return next cpu to use for a given thread family. " alt="" coords="213,5,355,32"/>
+<area shape="rect" id="node5" href="$tm-threads_8c.html#a2281ca1569730c81dffeb4779b399cef" title="Adjusting nice value for threads. " alt="" coords="222,56,346,83"/>
+<area shape="rect" id="node3" href="$util-cpu_8c.html#a4f36ee9e70d73c5d8fb86fa6a86c44e2" title="Get the number of cpus online in the system. " alt="" coords="403,5,621,32"/>
+<area shape="rect" id="node4" href="$util-cpu_8c.html#a76e3d657a52ccbf2d4c788d1b51a454f" title="Get the number of cpus configured in the system. " alt="" coords="670,5,914,32"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="htp_log_t" name="htp_log_t">
+<area shape="rect" id="node16" href="$structhtp__connp__t.html" title="htp_connp_t" alt="" coords="520,647,613,673"/>
+<area shape="rect" id="node2" href="$structhtp__tx__t.html" title="htp_tx_t" alt="" coords="764,781,833,808"/>
+<area shape="rect" id="node18" href="$structhtp__urlenp__t.html" title="htp_urlenp_t" alt="" coords="985,885,1078,912"/>
+<area shape="rect" id="node3" href="$structhtp__conn__t.html" title="htp_conn_t" alt="" coords="140,407,226,433"/>
+<area shape="rect" id="node4" href="$structbstr__t.html" title="bstr_t" alt="" coords="1067,96,1121,123"/>
+<area shape="rect" id="node5" href="$structhtp__mpartp__t.html" title="htp_mpartp_t" alt="" coords="1350,647,1449,673"/>
+<area shape="rect" id="node7" href="$structhtp__multipart__part__t.html" title="htp_multipart_part_t" alt="" coords="1310,781,1446,808"/>
+<area shape="rect" id="node9" href="$structhtp__file__t.html" title="htp_file_t" alt="" coords="982,407,1057,433"/>
+<area shape="rect" id="node15" href="$structhtp__uri__t.html" title="htp_uri_t" alt="" coords="897,527,969,553"/>
+<area shape="rect" id="node6" href="$structhtp__multipart__t.html" title="htp_multipart_t" alt="" coords="1422,407,1529,433"/>
+<area shape="rect" id="node8" href="$structhtp__table__t.html" title="htp_table_t" alt="" coords="1032,647,1118,673"/>
+<area shape="rect" id="node10" href="$structhtp__cfg__t.html" title="htp_cfg_t" alt="" coords="702,407,777,433"/>
+<area shape="rect" id="node11" href="$structhtp__decoder__cfg__t.html" title="htp_decoder_cfg_t" alt="" coords="659,96,788,123"/>
+<area shape="rect" id="node12" href="$structhtp__hook__t.html" title="htp_hook_t" alt="" coords="396,96,482,123"/>
+<area shape="rect" id="node13" href="$structhtp__list__array__t.html" title="htp_list_array_t" alt="" coords="384,5,494,32"/>
+<area shape="rect" id="node14" href="$structbstr__builder__t.html" title="bstr_builder_t" alt="" coords="1554,407,1653,433"/>
+<area shape="rect" id="node17" href="$structhtp__decompressor__t.html" title="htp_decompressor_t" alt="" coords="251,407,390,433"/>
+</map>

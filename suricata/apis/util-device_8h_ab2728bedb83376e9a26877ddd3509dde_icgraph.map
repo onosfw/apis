@@ -1,0 +1,7 @@
+<map id="LiveRegisterDevice" name="LiveRegisterDevice">
+<area shape="rect" id="node2" href="$source-ipfw_8h.html#a22941dc572c813218ecc02c76d5e6e5a" title="Add an IPFW divert. " alt="" coords="227,5,370,32"/>
+<area shape="rect" id="node3" href="$util-device_8h.html#a6d8711d3629cd77b6930179828ee1706" title="LiveBuildDeviceListCustom" alt="" coords="207,56,390,83"/>
+<area shape="rect" id="node5" href="$runmode-napatech_8c.html#a08164451527c109e56ad5f8948c48a87" title="NapatechRegisterDeviceStreams" alt="" coords="190,107,407,133"/>
+<area shape="rect" id="node6" href="$source-nfq_8h.html#a0feda1beb22d252c4a9da1317d391b76" title="Add a Netfilter queue. " alt="" coords="230,157,367,184"/>
+<area shape="rect" id="node4" href="$util-device_8h.html#a7295e332c0853a7e601c32444195d25a" title="LiveBuildDeviceList" alt="" coords="457,56,594,83"/>
+</map>

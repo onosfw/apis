@@ -1,0 +1,9 @@
+<map id="NFQInitConfig" name="NFQInitConfig">
+<area shape="rect" id="node2" href="$conf_8c.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="325,31,395,57"/>
+<area shape="rect" id="node6" href="$conf_8c.html#ad05ff3c317a042691169abc26475bb19" title="Retrieve a configuration value as an boolen. " alt="" coords="161,81,258,108"/>
+<area shape="rect" id="node8" href="$conf_8c.html#a0699665aae394f33c9fe33880891c1e7" title="Retrieve a configuration value as an integer. " alt="" coords="166,31,253,57"/>
+<area shape="rect" id="node3" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="462,31,565,57"/>
+<area shape="rect" id="node4" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="614,5,767,32"/>
+<area shape="rect" id="node5" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="660,56,721,83"/>
+<area shape="rect" id="node7" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true. " alt="" coords="307,81,413,108"/>
+</map>

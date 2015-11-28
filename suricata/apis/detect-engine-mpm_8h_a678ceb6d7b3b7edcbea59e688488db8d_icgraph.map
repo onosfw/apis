@@ -1,0 +1,4 @@
+<map id="PatternMatchThreadDestroy" name="PatternMatchThreadDestroy">
+<area shape="rect" id="node2" href="$detect-engine_8c.html#a8422e40fa6bb17b318380539ab23d4e6" title="DetectEngineThreadCtxFree" alt="" coords="241,5,429,32"/>
+<area shape="rect" id="node3" href="$detect-engine_8h.html#a83d9b52390b1b858e4ee0c5d24093e1e" title="DetectEngineThreadCtxDeinit" alt="" coords="478,5,674,32"/>
+</map>

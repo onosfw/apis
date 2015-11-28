@@ -1,0 +1,7 @@
+<map id="PathIsRelative" name="PathIsRelative">
+<area shape="rect" id="node2" href="$conf_8h.html#aae2f25aeec2e9b64559be946002672d2" title="Create the path for an include entry. " alt="" coords="163,5,365,32"/>
+<area shape="rect" id="node3" href="$detect_8h.html#a33b5ca71f6dab2af5f5e1db2a6e117e0" title="Create the path if default&#45;rule&#45;path was specified. " alt="" coords="169,56,359,83"/>
+<area shape="rect" id="node4" href="$detect_8h.html#a8b471081c75864d1c8d4bcb14eaebc3b" title="Load signatures. " alt="" coords="413,56,544,83"/>
+<area shape="rect" id="node5" href="$detect-engine_8h.html#aba0e2c94ab90c4390af30af806db271d" title="Reload the detection engine. " alt="" coords="593,56,735,83"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="784,56,835,83"/>
+</map>

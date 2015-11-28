@@ -1,0 +1,14 @@
+<map id="PktVarFree" name="PktVarFree">
+<area shape="rect" id="node2" href="$util-var_8h.html#acfc57b2442bebb2121b17145ffbbb285" title="GenericVarFree" alt="" coords="142,56,255,83"/>
+<area shape="rect" id="node3" href="$detect_8h.html#a61bb19b95a3c2e79149321a3c97f2db0" title="Signature match function. " alt="" coords="304,5,443,32"/>
+<area shape="rect" id="node10" href="$host-bit_8c.html#a6267b44457f0059c992678581a4390f6" title="HostBitFreeAll" alt="" coords="495,56,601,83"/>
+<area shape="rect" id="node12" href="$ippair-bit_8c.html#a9f04395e1e9494696d9eac3bb11e25c0" title="XBitFreeAll" alt="" coords="329,107,417,133"/>
+<area shape="rect" id="node4" href="$detect_8c.html#aef746f215cb23d3da4e714086e5674ef" title="Detection engine thread wrapper. " alt="" coords="517,5,579,32"/>
+<area shape="rect" id="node5" href="$detect_8h.html#ae7a6e0f8b7fbe88c9c7ca064b7892c7c" title="TmModuleDetectRegister" alt="" coords="653,5,824,32"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="873,5,1007,32"/>
+<area shape="rect" id="node7" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="1056,31,1155,57"/>
+<area shape="rect" id="node8" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="1203,5,1352,32"/>
+<area shape="rect" id="node9" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1400,31,1451,57"/>
+<area shape="rect" id="node11" href="$host-bit_8h.html#ae3a6dfa8677324ce8f7a3e11b5e3ba08" title="HostBitInitCtx" alt="" coords="686,56,791,83"/>
+<area shape="rect" id="node13" href="$ippair-bit_8h.html#a5945a6a76e887ba5b4d797ec4c551479" title="IPPairBitInitCtx" alt="" coords="491,107,605,133"/>
+</map>

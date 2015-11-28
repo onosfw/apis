@@ -1,0 +1,4 @@
+<map id="StatsPrivateThreadContext_" name="StatsPrivateThreadContext_">
+<area shape="rect" id="node2" href="$structStatsLocalCounter__.html" title="Storage for local counters, with a link to the public counter used for syncs. " alt="" coords="30,96,167,123"/>
+<area shape="rect" id="node3" href="$structStatsCounter__.html" title="Container to hold the counter variable. " alt="" coords="45,5,152,32"/>
+</map>

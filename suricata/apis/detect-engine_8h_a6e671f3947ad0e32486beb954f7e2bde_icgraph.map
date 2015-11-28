@@ -1,0 +1,8 @@
+<map id="DetectEngineDeReference" name="DetectEngineDeReference">
+<area shape="rect" id="node2" href="$detect-engine_8h.html#aba0e2c94ab90c4390af30af806db271d" title="Reload the detection engine. " alt="" coords="269,5,411,32"/>
+<area shape="rect" id="node4" href="$detect-engine_8c.html#a8422e40fa6bb17b318380539ab23d4e6" title="DetectEngineThreadCtxFree" alt="" coords="246,107,434,133"/>
+<area shape="rect" id="node6" href="$detect-engine_8c.html#a1721f0d4744638d862904f58dfe27d79" title="DetectLoaderSetupReloadTenant" alt="" coords="233,159,447,185"/>
+<area shape="rect" id="node3" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="569,29,620,56"/>
+<area shape="rect" id="node5" href="$detect-engine_8h.html#a83d9b52390b1b858e4ee0c5d24093e1e" title="DetectEngineThreadCtxDeinit" alt="" coords="497,104,693,131"/>
+<area shape="rect" id="node7" href="$detect-engine_8h.html#a58f75253772987b2496459188e11101b" title="Reload a tenant and wait for loading to complete. " alt="" coords="503,155,686,197"/>
+</map>

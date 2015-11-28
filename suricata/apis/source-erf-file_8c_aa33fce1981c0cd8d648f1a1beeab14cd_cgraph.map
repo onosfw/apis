@@ -1,0 +1,15 @@
+<map id="TmModuleReceiveErfFileRegister" name="TmModuleReceiveErfFileRegister">
+<area shape="rect" id="node2" href="$source-erf-file_8c.html#ac0c39d17d88901a47a891a8c36ee7f80" title="ERF file reading loop. " alt="" coords="289,81,425,108"/>
+<area shape="rect" id="node13" href="$source-erf-file_8c.html#a20d415a17bfb111db2d6c1f78e9664b1" title="Print some stats to the log at program exit. " alt="" coords="272,133,443,174"/>
+<area shape="rect" id="node14" href="$source-erf-file_8c.html#af35254274245a9bb6af37e40d2399b0e" title="Initialize the ERF receiver thread. " alt="" coords="274,199,441,225"/>
+<area shape="rect" id="node3" href="$suricata_8c.html#a881a900ae0a2155e33308d7090986270" title="EngineStop" alt="" coords="543,5,633,32"/>
+<area shape="rect" id="node4" href="$group__decode.html#gab9517a36d0462938ef712e5e6640d5f6" title="Get a packet. We try to get a packet from the packetpool first, but if that is empty we alloc a packe..." alt="" coords="491,56,685,83"/>
+<area shape="rect" id="node8" href="$tmqh-packetpool_8c.html#a2cb91dedd8892e2dcdf907f83ff54fe9" title="PacketPoolWait" alt="" coords="530,107,646,133"/>
+<area shape="rect" id="node9" href="$tmqh-packetpool_8c.html#a7459d4fb3fb4e341f4644fac509e3463" title="TmqhOutputPacketpool" alt="" coords="509,157,667,184"/>
+<area shape="rect" id="node5" href="$tmqh-packetpool_8c.html#a144d5e3c9b77c7b9fb4a8c369d7dd8cc" title="Get a new packet from the packet pool. " alt="" coords="742,31,893,57"/>
+<area shape="rect" id="node6" href="$group__decode.html#gadd3d2505353dbc2b396776da9afbcd74" title="Get a malloced packet. " alt="" coords="746,81,889,108"/>
+<area shape="rect" id="node7" href="$group__decode.html#gadbb7a223135dab327a0f78a96f931889" title="Return a malloced packet. " alt="" coords="1013,81,1102,108"/>
+<area shape="rect" id="node10" href="$stream-tcp-reassemble_8c.html#afe50d83dc6803121f9a01ed920e7f6b1" title="Remove idle TcpSegments from TcpSession. " alt="" coords="734,157,901,184"/>
+<area shape="rect" id="node11" href="$stream-tcp-reassemble_8c.html#a11fcdabd0f9f4889f7b15cd098e28c00" title="Function to return the segment back to the pool. " alt="" coords="950,157,1165,184"/>
+<area shape="rect" id="node12" href="$group__utilpool.html#ga6552ceb7e157bc1ccc9de8bc33c0528e" title="PoolReturn" alt="" coords="1214,157,1301,184"/>
+</map>

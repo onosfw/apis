@@ -1,0 +1,8 @@
+<map id="DetectRpcSetup" name="DetectRpcSetup">
+<area shape="rect" id="node2" href="$detect-rpc_8c.html#acb73d1a55d544fefa4d86d398661e7b8" title="this function will free memory associated with DetectRpcData " alt="" coords="426,5,537,32"/>
+<area shape="rect" id="node3" href="$detect-rpc_8c.html#afa191c3feaef5872722d9bed7c161546" title="This function is used to parse rpc options passed via rpc keyword. " alt="" coords="203,56,322,83"/>
+<area shape="rect" id="node6" href="$detect-parse_8c.html#ac660313b91a0bfc2da5e94b673937e22" title="SigMatchAlloc" alt="" coords="209,107,316,133"/>
+<area shape="rect" id="node7" href="$detect-parse_8c.html#a43a5de8e35bad6e940f497a6358c284d" title="Append a SigMatch to the list type. " alt="" coords="174,157,351,184"/>
+<area shape="rect" id="node4" href="$util-byte_8c.html#aff93b9381b90e88415cb6f8c5daa8bca" title="ByteExtractStringUint32" alt="" coords="400,56,563,83"/>
+<area shape="rect" id="node5" href="$util-byte_8c.html#a43dab0146a4fbdf54e3c1dba707b0534" title="ByteExtractString" alt="" coords="611,56,736,83"/>
+</map>

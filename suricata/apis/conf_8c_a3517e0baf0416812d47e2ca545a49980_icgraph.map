@@ -1,0 +1,4 @@
+<map id="ConfNodeRemove" name="ConfNodeRemove">
+<area shape="rect" id="node2" href="$conf_8c.html#a1d952ba60d0cbc20b96cffa1c20fdd07" title="Remove a configuration parameter from the configuration db. " alt="" coords="209,5,308,32"/>
+<area shape="rect" id="node3" href="$detect-engine_8h.html#a507b6b477b36478010d0946149c2d357" title="Free a DetectEngineCtx:: " alt="" coords="185,56,333,83"/>
+</map>

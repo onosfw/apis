@@ -1,0 +1,9 @@
+<map id="NapatechRegisterDeviceStreams" name="NapatechRegisterDeviceStreams">
+<area shape="rect" id="node2" href="$conf_8c.html#ad05ff3c317a042691169abc26475bb19" title="Retrieve a configuration value as an boolen. " alt="" coords="291,56,389,83"/>
+<area shape="rect" id="node4" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="611,56,714,83"/>
+<area shape="rect" id="node8" href="$util-device_8h.html#ab2728bedb83376e9a26877ddd3509dde" title="LiveRegisterDevice" alt="" coords="272,157,408,184"/>
+<area shape="rect" id="node3" href="$conf_8c.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="474,5,545,32"/>
+<area shape="rect" id="node7" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true. " alt="" coords="456,56,563,83"/>
+<area shape="rect" id="node5" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="763,31,917,57"/>
+<area shape="rect" id="node6" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="809,81,871,108"/>
+</map>

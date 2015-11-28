@@ -1,0 +1,8 @@
+<map id="AFPConfigGeThreadsCount" name="AFPConfigGeThreadsCount">
+<area shape="rect" id="node2" href="$runmode-af-packet_8h.html#af741b481e72c7d4e52637797fa320ea6" title="RunModeIdsAFPAutoFp" alt="" coords="243,5,407,32"/>
+<area shape="rect" id="node6" href="$runmode-af-packet_8h.html#a4607fda68e0f4b15bc3207cec646da96" title="Single thread version of the AF_PACKET processing. " alt="" coords="246,56,405,83"/>
+<area shape="rect" id="node7" href="$runmode-af-packet_8h.html#a1402fe271c8a1f767de444b2d9535722" title="Workers version of the AF_PACKET processing. " alt="" coords="240,107,411,133"/>
+<area shape="rect" id="node3" href="$runmode-af-packet_8h.html#abf510dda35701437fc571d5b5f0f1f6e" title="RunModeIdsAFPRegister" alt="" coords="459,56,629,83"/>
+<area shape="rect" id="node4" href="$runmodes_8h.html#aa5565123b11fa026e96b91b23db91ba9" title="Register all runmodes in the engine. " alt="" coords="678,56,869,83"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="917,56,968,83"/>
+</map>

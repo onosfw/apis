@@ -1,0 +1,5 @@
+<map id="StorageFreeById" name="StorageFreeById">
+<area shape="rect" id="node2" href="$flow-storage_8h.html#a45f2df1602b8e90d796f8296ff569e66" title="FlowFreeStorageById" alt="" coords="178,5,326,32"/>
+<area shape="rect" id="node3" href="$host-storage_8h.html#a4487748768344caa184082d8a0fd301e" title="HostFreeStorageById" alt="" coords="178,56,326,83"/>
+<area shape="rect" id="node4" href="$ippair-storage_8h.html#a383075815270e0e2c0b9ec72f4308f5e" title="IPPairFreeStorageById" alt="" coords="174,107,330,133"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="AlertFastLogger" name="AlertFastLogger">
+<area shape="rect" id="node2" href="$util-time_8c.html#a73a512e6c8e48a595e5f6f7e97a01ce6" title="CreateTimeString" alt="" coords="186,5,310,32"/>
+<area shape="rect" id="node4" href="$suricata_8c.html#a4b40aa623a6feb122601951304064464" title="EngineModeIsIPS" alt="" coords="185,56,311,83"/>
+<area shape="rect" id="node5" href="$util-print_8c.html#a53ca7e33d3d7e3315f3f1d69a8cfe42a" title="print a buffer as hex on a single line " alt="" coords="169,107,327,133"/>
+<area shape="rect" id="node6" href="$util-print_8c.html#a90bfafc4dfabddab2662c4b7bf6f7d03" title="PrintInet" alt="" coords="213,157,283,184"/>
+<area shape="rect" id="node8" href="$util-proto-name_8c.html#aa8b8fad247cec8da242d6d92541d48da" title="Function to check if the received protocol number is valid and do we have corresponding name entry fo..." alt="" coords="180,208,316,235"/>
+<area shape="rect" id="node9" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="217,259,279,285"/>
+<area shape="rect" id="node3" href="$util-time_8c.html#a05b89d43affd48f1f37aea766dc80f27" title="SCLocalTime" alt="" coords="376,5,477,32"/>
+<area shape="rect" id="node7" href="$win32-misc_8h.html#a8b4e65d5530474709182ee0d9faa6dda" title="inet_ntop" alt="" coords="389,157,464,184"/>
+</map>

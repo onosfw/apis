@@ -1,0 +1,9 @@
+<map id="TmModuleReceiveErfDagRegister" name="TmModuleReceiveErfDagRegister">
+<area shape="rect" id="node2" href="$source-erf-dag_8c.html#a7a81de3aa3e9f7e1e913fa466ffac214" title="Receives packets from a DAG interface. " alt="" coords="308,5,447,32"/>
+<area shape="rect" id="node4" href="$source-erf-dag_8c.html#af64532adecd9cffc72c52cc62514f16f" title="Print some stats to the log at program exit. " alt="" coords="275,56,480,83"/>
+<area shape="rect" id="node6" href="$source-erf-dag_8c.html#a6b575ca1df93dcdfe66995849a62b435" title="Initialize the ERF receiver thread, generate a single ErfDagThreadVar structure for each thread..." alt="" coords="293,107,462,133"/>
+<area shape="rect" id="node3" href="$source-erf-dag_8c.html#ac0556daeb2147803c3f9368d0c33ef49" title="ReceiveErfDagCloseStream" alt="" coords="528,5,715,32"/>
+<area shape="rect" id="node5" href="$counters_8c.html#ae4644bd08c832fcdb916e0b4bf2b5428" title="Get the value of the local copy of the counter that hold this id. " alt="" coords="529,56,713,83"/>
+<area shape="rect" id="node7" href="$util-device_8c.html#af3435c8a183aae9db0b242fcd595ec7b" title="Get a pointer to the device at idx. " alt="" coords="567,107,675,133"/>
+<area shape="rect" id="node8" href="$counters_8c.html#a7bae5ee323fcf0d82c933600b870eb93" title="Registers a normal, unqualified counter. " alt="" coords="547,157,695,184"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="TmModuleGetIdByName" name="TmModuleGetIdByName">
+<area shape="rect" id="node2" href="$output-filedata_8h.html#a84c33fb196d9205875e7ba5e2e7228ed" title="OutputRegisterFiledataLogger" alt="" coords="228,5,423,32"/>
+<area shape="rect" id="node3" href="$output-file_8h.html#aa6dfd94c233244b66d2dc85f28cc05d1" title="OutputRegisterFileLogger" alt="" coords="240,56,411,83"/>
+<area shape="rect" id="node4" href="$output-flow_8h.html#a5ec423bc078d11508dd612128c2620e0" title="OutputRegisterFlowLogger" alt="" coords="237,107,414,133"/>
+<area shape="rect" id="node5" href="$output-packet_8h.html#a29a8cf7c55b2d4b34fa4c6a457e1e1f4" title="OutputRegisterPacketLogger" alt="" coords="230,157,421,184"/>
+<area shape="rect" id="node6" href="$output-stats_8h.html#a8075ce78771203c8f97f5211ed9a6571" title="OutputRegisterStatsLogger" alt="" coords="235,208,415,235"/>
+<area shape="rect" id="node7" href="$output-streaming_8h.html#abd68aa153138b0340ef6332f6a2a7c79" title="OutputRegisterStreamingLogger" alt="" coords="221,259,429,285"/>
+<area shape="rect" id="node8" href="$output-tx_8h.html#a4a217f2ac6c7ad05a782a0d4a9c5a380" title="OutputRegisterTxLogger" alt="" coords="243,309,407,336"/>
+</map>

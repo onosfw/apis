@@ -1,0 +1,5 @@
+<map id="DetectEngineGetCurrent" name="DetectEngineGetCurrent">
+<area shape="rect" id="node2" href="$detect-engine_8h.html#aba0e2c94ab90c4390af30af806db271d" title="Reload the detection engine. " alt="" coords="238,5,381,32"/>
+<area shape="rect" id="node4" href="$detect-engine_8h.html#a72c337802af74e71c4ea8fca8a68978c" title="initialize thread specific detection engine context " alt="" coords="219,56,399,83"/>
+<area shape="rect" id="node3" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="448,56,499,83"/>
+</map>

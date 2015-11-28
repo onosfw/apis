@@ -1,0 +1,5 @@
+<map id="HostFreeStorage" name="HostFreeStorage">
+<area shape="rect" id="node2" href="$host-storage_8c.html#a5483e281f7966e428421b6f0721fd914" title="HostStorageSize" alt="" coords="177,5,298,32"/>
+<area shape="rect" id="node4" href="$util-storage_8c.html#a842a9a77b4fb19baf4b10fc9ed2bd3fb" title="StorageFreeAll" alt="" coords="183,56,291,83"/>
+<area shape="rect" id="node3" href="$util-storage_8c.html#a7cc083db4db0385f32d65439b82827f9" title="get the size of the void array used to store the pointers " alt="" coords="347,5,461,32"/>
+</map>

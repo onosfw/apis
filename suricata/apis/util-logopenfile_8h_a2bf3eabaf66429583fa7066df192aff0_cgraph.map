@@ -1,0 +1,10 @@
+<map id="SCConfLogOpenGeneric" name="SCConfLogOpenGeneric">
+<area shape="rect" id="node2" href="$util-conf_8c.html#a78afc07a179cdd6bd1522f1d5437c46d" title="ConfigGetLogDirectory" alt="" coords="247,5,401,32"/>
+<area shape="rect" id="node7" href="$conf_8c.html#a4d5920eea97bb4713c41e3ffef423757" title="Lookup the value of a child configuration node by name. " alt="" coords="475,56,661,83"/>
+<area shape="rect" id="node8" href="$output_8c.html#a092b7de4262ce0cd8c37fa8bc864f0c9" title="Register a flag for file rotation notification. " alt="" coords="221,107,427,133"/>
+<area shape="rect" id="node9" href="$util-path_8c.html#a7941df317633e88e4f9bb89806b20691" title="Check if a path is absolute. " alt="" coords="269,157,379,184"/>
+<area shape="rect" id="node3" href="$conf_8c.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="533,5,603,32"/>
+<area shape="rect" id="node4" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="710,5,813,32"/>
+<area shape="rect" id="node5" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="862,56,1015,83"/>
+<area shape="rect" id="node6" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="908,5,969,32"/>
+</map>

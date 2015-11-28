@@ -1,0 +1,51 @@
+<map id="bstr_expand" name="bstr_expand">
+<area shape="rect" id="node2" href="$bstr_8h.html#a1e38bc25773092c05761f3c3bd65a72a" title="bstr_add_mem" alt="" coords="179,757,287,784"/>
+<area shape="rect" id="node39" href="$htp__multipart__private_8h.html#ade5c03a799c0f5af2319900fe78a98e0" title="htp_mpartp_parse_header" alt="" coords="147,1095,319,1121"/>
+<area shape="rect" id="node40" href="$htp__request__generic_8c.html#a221bc903670a4cdea0d68314700db050" title="htp_process_request\l_header_generic" alt="" coords="162,1146,305,1187"/>
+<area shape="rect" id="node50" href="$htp__response__generic_8c.html#a7c9e1963cfe2008b92889c5e1e4f0bb1" title="htp_process_response\l_header_generic" alt="" coords="157,1233,310,1274"/>
+<area shape="rect" id="node3" href="$bstr_8h.html#aac60e41b17d825ff82cc29a3fb80992e" title="bstr_add" alt="" coords="428,367,500,393"/>
+<area shape="rect" id="node4" href="$bstr_8h.html#a9a2c915077e09b431ca1dad167611b21" title="bstr_add_c" alt="" coords="421,417,507,444"/>
+<area shape="rect" id="node6" href="$htp__multipart__private_8h.html#a368c461de4ad8f9d864f5c29968e6f4a" title="htp_mpart_part_handle_data" alt="" coords="371,1095,557,1121"/>
+<area shape="rect" id="node7" href="$htp__request_8c.html#af7b83f68a53afa0a16e0d78300b63a46" title="htp_connp_REQ_HEADERS" alt="" coords="369,468,559,495"/>
+<area shape="rect" id="node31" href="$htp__response_8c.html#a92faf3d17df2d54dd67bd7fbe80fb525" title="htp_connp_RES_HEADERS" alt="" coords="2897,816,3087,843"/>
+<area shape="rect" id="node5" href="$app-layer-htp-libhtp_8h.html#ab196d0f34ce8fcc8b52e56ee6685dc35" title="Generates the normalized uri. " alt="" coords="609,5,813,32"/>
+<area shape="rect" id="node8" href="$htp__request_8c.html#a78975b59c610a8b5cd834b6c7ad7524b" title="htp_connp_REQ_BODY\l_CHUNKED_LENGTH" alt="" coords="1283,217,1445,258"/>
+<area shape="rect" id="node17" href="$htp__request_8c.html#a801f66183cf5693361eca92d66607314" title="htp_connp_REQ_PROTOCOL" alt="" coords="611,493,810,520"/>
+<area shape="rect" id="node11" href="$htp__util_8c.html#a81fca26cac57032120c6796bda2a660c" title="htp_connp_in_state\l_as_string" alt="" coords="2005,263,2139,305"/>
+<area shape="rect" id="node9" href="$htp__request_8c.html#a24a112bbe8db96d22a8d421a6ea6ac74" title="htp_connp_REQ_BODY\l_CHUNKED_DATA_END" alt="" coords="1512,158,1688,199"/>
+<area shape="rect" id="node14" href="$htp__request_8c.html#ad207aff5c7e4a68d2a539ffd9e3fd623" title="htp_connp_REQ_BODY\l_DETERMINE" alt="" coords="1519,275,1681,317"/>
+<area shape="rect" id="node10" href="$htp__request_8c.html#ac07a4f5062908c573d2b78f6f3ddc743" title="htp_connp_REQ_BODY\l_CHUNKED_DATA" alt="" coords="1769,209,1932,250"/>
+<area shape="rect" id="node12" href="$htp__request_8c.html#a2212edc93dc47fd615a30297f8faad60" title="htp_connp_req_data" alt="" coords="2220,395,2359,421"/>
+<area shape="rect" id="node13" href="$htp__connection__parser_8h.html#acc7723b7ab867bfde9d5ef78c1faf446" title="htp_connp_close" alt="" coords="4160,459,4280,485"/>
+<area shape="rect" id="node15" href="$htp__request_8c.html#a3e8c194c19ebdaaa21fe107e328e3a75" title="htp_connp_REQ_CONNECT\l_CHECK" alt="" coords="1755,326,1947,367"/>
+<area shape="rect" id="node16" href="$htp__transaction_8h.html#aed95ccccf477ee8adeb83291a2104156" title="htp_tx_state_request\l_headers" alt="" coords="2000,329,2144,370"/>
+<area shape="rect" id="node18" href="$htp__transaction_8h.html#aaaf7174643f67cdb075d45333b6fd7b5" title="htp_tx_state_request_line" alt="" coords="861,548,1032,575"/>
+<area shape="rect" id="node19" href="$htp__request_8c.html#af6eee641bbe7ef5f73ebc1288f1450ad" title="htp_connp_REQ_LINE\l_complete" alt="" coords="1080,545,1235,586"/>
+<area shape="rect" id="node20" href="$htp__request_8c.html#acfb131d9a3925c753f4beffad0f07e84" title="htp_connp_REQ_LINE" alt="" coords="1287,552,1441,579"/>
+<area shape="rect" id="node24" href="$htp__transaction_8h.html#a524d59cd184104370ade58fb200f2379" title="htp_tx_state_response\l_start" alt="" coords="1523,610,1677,651"/>
+<area shape="rect" id="node21" href="$htp__transaction_8h.html#afe2a066b2bd7887debe3146218a1586c" title="htp_tx_state_request\l_start" alt="" coords="1528,545,1672,586"/>
+<area shape="rect" id="node22" href="$htp__request_8c.html#ae4a3e37c2a1e728db9f80cca8e53c6fa" title="htp_connp_REQ_IDLE" alt="" coords="1773,544,1928,571"/>
+<area shape="rect" id="node23" href="$htp__connection__parser_8h.html#af87403d33d361ee171e6e098a233ef3d" title="htp_connp_create" alt="" coords="2009,445,2135,472"/>
+<area shape="rect" id="node25" href="$htp__response_8c.html#a1b95d113c24de4c93db72889c738275d" title="htp_connp_RES_IDLE" alt="" coords="1773,595,1928,621"/>
+<area shape="rect" id="node26" href="$htp__response_8c.html#a7bf7c40f55013deddf338b903e4310a4" title="htp_connp_res_data" alt="" coords="3973,496,4112,523"/>
+<area shape="rect" id="node27" href="$htp__transaction_8c.html#a76675e7e250e24c1ac47c49b4181aff8" title="htp_tx_state_response\l_complete_ex" alt="" coords="1995,645,2149,686"/>
+<area shape="rect" id="node35" href="$htp__util_8c.html#af31ead38ae0851c906b72d93d9a29d5a" title="htp_connp_out_state\l_as_string" alt="" coords="3782,750,3925,791"/>
+<area shape="rect" id="node28" href="$htp__response_8c.html#a779958ef7d3b3742be8b13170c0a8977" title="htp_connp_RES_FINALIZE" alt="" coords="2198,735,2381,761"/>
+<area shape="rect" id="node38" href="$htp__transaction_8h.html#adcbbf6a88718344b9cbe0c5f508a07ce" title="htp_tx_state_response\l_complete" alt="" coords="2212,645,2367,686"/>
+<area shape="rect" id="node29" href="$htp__response_8c.html#a35978034dd65239e911dd33f7c751332" title="htp_connp_RES_BODY\l_IDENTITY_CL_KNOWN" alt="" coords="2446,750,2621,791"/>
+<area shape="rect" id="node37" href="$htp__response_8c.html#a2c9732ce72c12038353a4483475e180c" title="htp_connp_RES_BODY\l_IDENTITY_STREAM_CLOSE" alt="" coords="2430,867,2637,909"/>
+<area shape="rect" id="node30" href="$htp__response_8c.html#a5bf0430de9af721db6e03c90ec63adf6" title="htp_connp_RES_BODY\l_DETERMINE" alt="" coords="2685,809,2848,850"/>
+<area shape="rect" id="node32" href="$htp__response_8c.html#ab601564fadb2bb9ff37cd75b448a03d7" title="htp_connp_RES_BODY\l_CHUNKED_LENGTH" alt="" coords="3136,758,3299,799"/>
+<area shape="rect" id="node36" href="$htp__response_8c.html#a45043cdc1b581e62abbf2423be76ea2a" title="htp_connp_RES_LINE" alt="" coords="3140,1019,3295,1045"/>
+<area shape="rect" id="node33" href="$htp__response_8c.html#a028530726a98edc10fc5adf8a050b349" title="htp_connp_RES_BODY\l_CHUNKED_DATA_END" alt="" coords="3347,699,3523,741"/>
+<area shape="rect" id="node34" href="$htp__response_8c.html#ae160ab80f3c9d3c3aad67b7a34a498ab" title="htp_connp_RES_BODY\l_CHUNKED_DATA" alt="" coords="3571,750,3733,791"/>
+<area shape="rect" id="node41" href="$htp__config_8h.html#a95de3fba682f24cf2d2e7ce22084ad03" title="htp_config_set_server\l_personality" alt="" coords="635,1205,786,1246"/>
+<area shape="rect" id="node49" href="$htp__request__apache__2__2_8c.html#a05cdc9a4a4fc5d37ab2fdf4d83f7ef64" title="htp_process_request\l_header_apache_2_2" alt="" coords="391,1146,537,1187"/>
+<area shape="rect" id="node42" href="$htp__config_8h.html#a470ac9439e7c4e321cbedcc71ec2a88e" title="htp_config_create" alt="" coords="884,1212,1009,1239"/>
+<area shape="rect" id="node43" href="$group__httplayer.html#gaa92380e45cf4da76434cea3e4a6364e9" title="HTPConfigure" alt="" coords="1105,1212,1210,1239"/>
+<area shape="rect" id="node44" href="$group__httplayer.html#ga23aaf4c00574fa636459e4377429ac13" title="Register the HTTP protocol and state handling functions to APP layer of the engine. " alt="" coords="1293,1212,1435,1239"/>
+<area shape="rect" id="node45" href="$app-layer-parser_8h.html#ac5c64e1bddd13fdc99168538935cfab5" title="AppLayerParserRegisterProtocol\lParsers" alt="" coords="1494,1205,1706,1246"/>
+<area shape="rect" id="node46" href="$app-layer_8h.html#a13e4dfafdc60d054467da61ea15744f9" title="Setup the app layer. " alt="" coords="1795,1212,1906,1239"/>
+<area shape="rect" id="node47" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="2023,1187,2121,1213"/>
+<area shape="rect" id="node48" href="$util-running-modes_8h.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title="ListKeywords" alt="" coords="2021,1237,2123,1264"/>
+</map>

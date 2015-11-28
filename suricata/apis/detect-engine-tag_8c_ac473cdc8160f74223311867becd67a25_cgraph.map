@@ -1,0 +1,9 @@
+<map id="TagRestartCtx" name="TagRestartCtx">
+<area shape="rect" id="node2" href="$detect-engine-tag_8c.html#a64fd4afb830fe88f778ee8a8f8d76b8b" title="Destroy tag context hash tables. " alt="" coords="163,5,274,32"/>
+<area shape="rect" id="node3" href="$detect-engine-tag_8c.html#acbb580c62a8584eabf59f290a9bdab5c" title="TagInitCtx" alt="" coords="177,56,260,83"/>
+<area shape="rect" id="node4" href="$detect-tag_8c.html#ab6c638741f66a6e1392dd6d8a254f5c3" title="this function will free all the entries of a list DetectTagDataEntry " alt="" coords="323,5,482,32"/>
+<area shape="rect" id="node5" href="$flow-storage_8c.html#ab75150b07a3c1425964ba12c5ff4674f" title="FlowStorageRegister" alt="" coords="331,56,475,83"/>
+<area shape="rect" id="node8" href="$group__hoststorage.html#ga2428ea46c982c3ecde6b0ab553974d51" title="Register a Host storage. " alt="" coords="331,107,475,133"/>
+<area shape="rect" id="node6" href="$util-storage_8c.html#a6c98c1f3549ce0faee1083778abd1227" title="Register new storage. " alt="" coords="531,81,647,108"/>
+<area shape="rect" id="node7" href="$util-storage_8c.html#a742cd0f5c06e15fe16178ae16c8582a2" title="StoragePrintType" alt="" coords="696,81,819,108"/>
+</map>

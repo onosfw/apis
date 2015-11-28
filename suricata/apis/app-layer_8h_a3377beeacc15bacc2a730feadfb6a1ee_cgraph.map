@@ -1,0 +1,8 @@
+<map id="AppLayerRegisterGlobalCounters" name="AppLayerRegisterGlobalCounters">
+<area shape="rect" id="node2" href="$app-layer-dns-common_8c.html#a5cb83bc791b566e1318a14644d004540" title="DNSMemcapGetMemcapGlobal\lCounter" alt="" coords="290,5,499,46"/>
+<area shape="rect" id="node3" href="$app-layer-dns-common_8c.html#a45586f1e0b9a6d74274c8c9f4d65e6e1" title="DNSMemcapGetMemcapStateCounter" alt="" coords="270,71,519,97"/>
+<area shape="rect" id="node4" href="$app-layer-dns-common_8c.html#a047c67dd05a49d5bb2bd5f31ec40d9b3" title="DNSMemcapGetMemuseCounter" alt="" coords="285,121,504,148"/>
+<area shape="rect" id="node5" href="$app-layer-htp-mem_8c.html#add72a83512e8729be4411e45e74d4bb7" title="HTPMemcapGlobalCounter" alt="" coords="303,172,486,199"/>
+<area shape="rect" id="node6" href="$app-layer-htp-mem_8c.html#a25a1fa3240cf9c23b603a3b8c45b888c" title="HTPMemuseGlobalCounter" alt="" coords="303,223,486,249"/>
+<area shape="rect" id="node7" href="$counters_8c.html#a6e153d15fc6ea022e954f38fd80fbc0a" title="Registers a counter, which represents a global value. " alt="" coords="302,273,487,300"/>
+</map>

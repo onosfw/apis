@@ -1,0 +1,6 @@
+<map id="DetectXbitsRegister" name="DetectXbitsRegister">
+<area shape="rect" id="node2" href="$detect-xbits_8c.html#af2869986b300f53949d5c185dacfb8b6" title="DetectXbitFree" alt="" coords="207,5,318,32"/>
+<area shape="rect" id="node3" href="$detect-xbits_8c.html#add7489366bc6d45392fb7f5b23cecb05" title="DetectXbitMatch" alt="" coords="203,56,323,83"/>
+<area shape="rect" id="node5" href="$detect-xbits_8c.html#ae571d63c7eaf22ae06e65f749dfdd280" title="this function registers unit tests for XBits " alt="" coords="195,107,331,133"/>
+<area shape="rect" id="node4" href="$detect-hostbits_8c.html#a25e6fa833a171ed6a1c6c47b60ebdbde" title="DetectXbitMatchHost" alt="" coords="379,56,527,83"/>
+</map>

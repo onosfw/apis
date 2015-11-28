@@ -1,0 +1,10 @@
+<map id="TmModuleAlertSyslogRegister" name="TmModuleAlertSyslogRegister">
+<area shape="rect" id="node2" href="$alert-syslog_8c.html#a6b87d3f6eddf8d282def8ad9c0fa45b0" title="Create a new LogFileCtx for &quot;syslog&quot; output style. " alt="" coords="287,107,415,133"/>
+<area shape="rect" id="node9" href="$output_8c.html#a616273c18f40bc368b7c3ad79bad6481" title="Register a packet output module. " alt="" coords="254,157,447,184"/>
+<area shape="rect" id="node3" href="$conf_8c.html#a4d5920eea97bb4713c41e3ffef423757" title="Lookup the value of a child configuration node by name. " alt="" coords="496,5,683,32"/>
+<area shape="rect" id="node5" href="$util-logopenfile_8c.html#aecf090c1d20b5506b7ad24192dad5514" title="LogFileNewCtx() Get a new LogFileCtx. " alt="" coords="533,56,645,83"/>
+<area shape="rect" id="node6" href="$util-enum_8c.html#a2e507ba652ee97a1236829e43aace073" title="Maps a string name to an enum value from the supplied table. Please specify the last element of any m..." alt="" coords="498,107,681,133"/>
+<area shape="rect" id="node7" href="$util-syslog_8c.html#af89f92e3159212f6b3fa57abfbe821cc" title="returns the syslog facility enum map " alt="" coords="505,157,674,184"/>
+<area shape="rect" id="node8" href="$util-syslog_8c.html#a450d33062729168a9e41774bcd743f6a" title="returns the syslog facility enum map " alt="" coords="500,208,679,235"/>
+<area shape="rect" id="node4" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="731,5,885,32"/>
+</map>

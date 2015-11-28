@@ -1,0 +1,5 @@
+<map id="SigGroupHeadHashFunc" name="SigGroupHeadHashFunc">
+<area shape="rect" id="node2" href="$detect-engine-siggroup_8h.html#abf76240cc45af20a35b2c9429fae8b22" title="Initializes the dport based SigGroupHead hash table to hold the SigGroupHeads. The hash table that wo..." alt="" coords="222,5,413,32"/>
+<area shape="rect" id="node3" href="$detect-engine-siggroup_8h.html#afbe893fe11a0b545998b1becdf738eee" title="Initializes the hash table in the detection engine context to hold the SigGroupHeads. " alt="" coords="239,56,395,83"/>
+<area shape="rect" id="node4" href="$detect-engine-siggroup_8h.html#abdfb04e82759ead52658b2364241a819" title="Initializes the sport based SigGroupHead hash table to hold the SigGroupHeads. The hash table that wo..." alt="" coords="223,107,412,133"/>
+</map>

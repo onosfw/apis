@@ -1,0 +1,10 @@
+<map id="FlowStorageSize" name="FlowStorageSize">
+<area shape="rect" id="node2" href="$flow-util_8h.html#ae1ba1db44e3a77c4829397d5d659c432" title="allocate a flow " alt="" coords="198,56,277,83"/>
+<area shape="rect" id="node6" href="$flow-util_8h.html#ad4befc0a3b97d4a6f794a8b39e75a23b" title="cleanup &amp; free the memory of a flow " alt="" coords="199,107,275,133"/>
+<area shape="rect" id="node8" href="$flow-storage_8h.html#a345a087d8248c9a7c78ff343ab3fd446" title="FlowFreeStorage" alt="" coords="177,157,298,184"/>
+<area shape="rect" id="node4" href="$flow_8h.html#a897689d742258e918e752f50cd93915e" title="initialize the configuration " alt="" coords="375,5,481,32"/>
+<area shape="rect" id="node3" href="$flow_8h.html#a0a2af32f22fdfd78a6fef1a70ee995d8" title="Make sure we have enough spare flows. " alt="" coords="347,56,509,83"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="715,69,765,96"/>
+<area shape="rect" id="node7" href="$flow_8h.html#a8dae51c56800ed0e22279e49913cd15a" title="shutdown the flow engine " alt="" coords="558,107,666,133"/>
+<area shape="rect" id="node9" href="$flow_8h.html#ac9dd7439447e120e4fdc6645f83b735f" title="Function clear the flow memory before queueing it to spare flow queue. " alt="" coords="364,157,492,184"/>
+</map>

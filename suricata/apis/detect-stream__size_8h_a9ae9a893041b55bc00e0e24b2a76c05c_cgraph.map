@@ -1,0 +1,5 @@
+<map id="DetectStreamSizeRegister" name="DetectStreamSizeRegister">
+<area shape="rect" id="node2" href="$detect-stream__size_8c.html#a70795043cc00a95d6242998b6f229b36" title="this function will free memory associated with DetectStreamSizeData " alt="" coords="244,5,399,32"/>
+<area shape="rect" id="node3" href="$detect-stream__size_8c.html#a79cfdf334f680918927a1c28b4dff36d" title="This function is used to match Stream size rule option on a packet with those passed via stream_size:..." alt="" coords="239,56,404,83"/>
+<area shape="rect" id="node4" href="$detect-stream__size_8c.html#aadc8e511cd3349fdfd49bc4ff2c2e5ea" title="this function registers unit tests for DetectStreamSize " alt="" coords="232,107,411,149"/>
+</map>

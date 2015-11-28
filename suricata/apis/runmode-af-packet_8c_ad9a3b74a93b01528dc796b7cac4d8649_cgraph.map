@@ -1,0 +1,10 @@
+<map id="AFPRunModeIsIPS" name="AFPRunModeIsIPS">
+<area shape="rect" id="node2" href="$conf_8c.html#a8b5e47bd66a2faa1a70439f5e2aa0650" title="ConfGetChildValueWithDefault" alt="" coords="192,5,395,32"/>
+<area shape="rect" id="node5" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="242,56,345,83"/>
+<area shape="rect" id="node7" href="$conf_8c.html#a440d0a7db98ad1c818882ae03c645a18" title="Lookup for a key value under a specific node. " alt="" coords="204,107,383,133"/>
+<area shape="rect" id="node8" href="$util-device_8c.html#a98bf56c79d344f38884b1af3cb36a9ea" title="Get the number of registered devices. " alt="" coords="222,157,365,184"/>
+<area shape="rect" id="node9" href="$util-device_8c.html#aeda89d2b7fa6bdef4cfc46d075542e32" title="Get a pointer to the device name at idx. " alt="" coords="222,208,365,235"/>
+<area shape="rect" id="node3" href="$conf_8c.html#aa780b7af154e82aad22fd1317892da52" title="ConfGetChildValue" alt="" coords="443,5,578,32"/>
+<area shape="rect" id="node4" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="627,31,781,57"/>
+<area shape="rect" id="node6" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="480,107,541,133"/>
+</map>

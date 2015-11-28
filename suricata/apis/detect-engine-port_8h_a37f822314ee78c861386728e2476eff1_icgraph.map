@@ -1,0 +1,19 @@
+<map id="DetectPortCopy" name="DetectPortCopy">
+<area shape="rect" id="node2" href="$detect-engine-port_8c.html#a37cc1e56039761193d64fa6feba1909a" title="Helper function for the parsing process. " alt="" coords="171,132,378,159"/>
+<area shape="rect" id="node3" href="$detect-engine-port_8h.html#af6e6aa0b58f2896b78d81d649d4dd613" title="Function for parsing port strings. " alt="" coords="427,132,546,159"/>
+<area shape="rect" id="node4" href="$app-layer-detect-proto_8h.html#ab24c1cac8b75e7744dd57010e310559f" title="register parser at a port " alt="" coords="595,132,810,159"/>
+<area shape="rect" id="node5" href="$app-layer-detect-proto_8h.html#a9883134087a5ccfadb4dbddafa04027c" title="AppLayerProtoDetectPPParse\lConfPorts" alt="" coords="859,125,1058,166"/>
+<area shape="rect" id="node6" href="$app-layer-dns-tcp_8h.html#ac637e7cedd8afd651b1cf217d654d285" title="RegisterDNSTCPParsers" alt="" coords="1109,5,1281,32"/>
+<area shape="rect" id="node14" href="$app-layer-dns-udp_8h.html#a621fd6c4064a0962df00a7dff98c3e12" title="RegisterDNSUDPParsers" alt="" coords="1107,56,1282,83"/>
+<area shape="rect" id="node15" href="$app-layer-modbus_8h.html#aa672d3c3fae34a79808da8f9f3043573" title="Function to register the Modbus protocol parsers and other functions. " alt="" coords="1113,107,1276,133"/>
+<area shape="rect" id="node16" href="$app-layer-smb_8h.html#aeec3fc7e57e33d4c2df0db5157ccccc2" title="RegisterSMBParsers" alt="" coords="1122,157,1267,184"/>
+<area shape="rect" id="node17" href="$app-layer-ssl_8h.html#ac41f8ede008657dd3bd8971a8dc24628" title="Function to register the SSL protocol parser and other functions. " alt="" coords="1124,208,1265,235"/>
+<area shape="rect" id="node18" href="$app-layer-template_8h.html#ac39e3903c23aff255a27a6dfcdf2d652" title="RegisterTemplateParsers" alt="" coords="1109,259,1280,285"/>
+<area shape="rect" id="node7" href="$app-layer-parser_8h.html#ac5c64e1bddd13fdc99168538935cfab5" title="AppLayerParserRegisterProtocol\lParsers" alt="" coords="1331,125,1543,166"/>
+<area shape="rect" id="node8" href="$app-layer_8h.html#a13e4dfafdc60d054467da61ea15744f9" title="Setup the app layer. " alt="" coords="1593,132,1703,159"/>
+<area shape="rect" id="node9" href="$util-running-modes_8h.html#ad03a2414917a2fc87f4be0370c4c8fd7" title="ListAppLayerProtocols" alt="" coords="1753,132,1906,159"/>
+<area shape="rect" id="node12" href="$util-running-modes_8h.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title="ListKeywords" alt="" coords="1779,81,1880,108"/>
+<area shape="rect" id="node13" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="1780,183,1879,209"/>
+<area shape="rect" id="node10" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="1955,132,2104,159"/>
+<area shape="rect" id="node11" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="2152,157,2203,184"/>
+</map>

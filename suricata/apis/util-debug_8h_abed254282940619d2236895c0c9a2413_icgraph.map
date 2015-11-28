@@ -1,0 +1,7 @@
+<map id="SCLogAppendOPIfaceCtx" name="SCLogAppendOPIfaceCtx">
+<area shape="rect" id="node2" href="$util-debug_8h.html#a7f76e0a2cbc79c8ff3f5450bb02facd7" title="SCLogLoadConfig" alt="" coords="229,31,357,57"/>
+<area shape="rect" id="node3" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="805,5,856,32"/>
+<area shape="rect" id="node4" href="$util-running-modes_8h.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title="ListKeywords" alt="" coords="432,31,533,57"/>
+<area shape="rect" id="node6" href="$util-running-modes_8h.html#ad03a2414917a2fc87f4be0370c4c8fd7" title="ListAppLayerProtocols" alt="" coords="406,81,559,108"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="608,31,757,57"/>
+</map>

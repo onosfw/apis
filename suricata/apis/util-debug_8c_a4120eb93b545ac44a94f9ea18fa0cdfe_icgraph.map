@@ -1,0 +1,8 @@
+<map id="SCLogDeInitLogModule" name="SCLogDeInitLogModule">
+<area shape="rect" id="node2" href="$util-debug_8h.html#a4581006e332e7ca685bb0b23dee00195" title="Initializes the logging module. " alt="" coords="214,5,357,32"/>
+<area shape="rect" id="node3" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="981,31,1032,57"/>
+<area shape="rect" id="node4" href="$util-debug_8h.html#a7f76e0a2cbc79c8ff3f5450bb02facd7" title="SCLogLoadConfig" alt="" coords="405,56,533,83"/>
+<area shape="rect" id="node5" href="$util-running-modes_8h.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title="ListKeywords" alt="" coords="608,81,709,108"/>
+<area shape="rect" id="node7" href="$util-running-modes_8h.html#ad03a2414917a2fc87f4be0370c4c8fd7" title="ListAppLayerProtocols" alt="" coords="582,132,735,159"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="784,81,933,108"/>
+</map>

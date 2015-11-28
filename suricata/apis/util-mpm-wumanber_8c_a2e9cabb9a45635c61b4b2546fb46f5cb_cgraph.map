@@ -1,0 +1,9 @@
+<map id="WmInitCtx" name="WmInitCtx">
+<area shape="rect" id="node2" href="$util-mpm-wumanber_8c.html#a0a0e6567d8fb97b36f56d18d6498f125" title="Function to get the user defined values for wumanber algorithm from the config file &#39;suricata..." alt="" coords="139,81,245,108"/>
+<area shape="rect" id="node3" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="335,56,438,83"/>
+<area shape="rect" id="node6" href="$conf_8c.html#a4d5920eea97bb4713c41e3ffef423757" title="Lookup the value of a child configuration node by name. " alt="" coords="293,5,480,32"/>
+<area shape="rect" id="node7" href="$util-mpm_8c.html#a0e8ad6311ef4d5d2ade8d7f3f276349d" title="Function to return the default bloomfilter size for the mpm algorithm, which has been defined by the ..." alt="" coords="319,107,454,133"/>
+<area shape="rect" id="node8" href="$util-mpm_8c.html#af053d22d0b7abeda392db8e0a122b74a" title="Function to return the default hash size for the mpm algorithm, which has been defined by the user in..." alt="" coords="322,157,451,184"/>
+<area shape="rect" id="node4" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="529,5,682,32"/>
+<area shape="rect" id="node5" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="575,56,636,83"/>
+</map>

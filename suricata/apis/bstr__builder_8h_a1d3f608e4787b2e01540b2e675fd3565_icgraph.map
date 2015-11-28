@@ -1,0 +1,9 @@
+<map id="bstr_builder_append_mem" name="bstr_builder_append_mem">
+<area shape="rect" id="node2" href="$htp__multipart__private_8h.html#a368c461de4ad8f9d864f5c29968e6f4a" title="htp_mpart_part_handle_data" alt="" coords="229,5,416,32"/>
+<area shape="rect" id="node3" href="$htp__multipart_8h.html#ae1e1233c3243e369cdae594fae34686f" title="htp_mpartp_parse" alt="" coords="259,56,386,83"/>
+<area shape="rect" id="node7" href="$htp__transcoder_8c.html#a86a9a18ddecb35422b934bf270bfccbd" title="htp_transcode_bstr" alt="" coords="256,108,389,135"/>
+<area shape="rect" id="node4" href="$htp__private_8h.html#a7ec64e252d77945deded415a91bae392" title="htp_ch_multipart_callback\l_request_body_data" alt="" coords="464,46,637,87"/>
+<area shape="rect" id="node5" href="$htp__private_8h.html#a5828725587fa5f395faa80e7d2059194" title="htp_ch_multipart_callback\l_request_headers" alt="" coords="685,46,859,87"/>
+<area shape="rect" id="node6" href="$htp__config_8h.html#a476cb8af65fec9a8a59d89b10c8f9880" title="htp_config_register\l_multipart_parser" alt="" coords="907,46,1039,87"/>
+<area shape="rect" id="node8" href="$htp__transcoder_8c.html#a31718600e56773087712711de6710492" title="htp_transcode_params" alt="" coords="473,112,628,139"/>
+</map>

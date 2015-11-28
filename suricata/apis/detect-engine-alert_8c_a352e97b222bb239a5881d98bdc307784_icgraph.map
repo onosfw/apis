@@ -1,0 +1,7 @@
+<map id="PacketAlertTagInit" name="PacketAlertTagInit">
+<area shape="rect" id="node2" href="$detect_8h.html#ae7a6e0f8b7fbe88c9c7ca064b7892c7c" title="TmModuleDetectRegister" alt="" coords="184,31,355,57"/>
+<area shape="rect" id="node3" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="403,31,538,57"/>
+<area shape="rect" id="node4" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="587,31,685,57"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="733,5,883,32"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="931,31,981,57"/>
+</map>

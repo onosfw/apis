@@ -1,0 +1,4 @@
+<map id="AppLayerProtoDetectGetProtoByName" name="AppLayerProtoDetectGetProtoByName">
+<area shape="rect" id="node2" href="$app-layer_8h.html#af0aae4b9744b8b47b382d8a579dedbb2" title="Given a protocol string, returns the corresponding internal protocol id. " alt="" coords="254,12,434,39"/>
+<area shape="rect" id="node3" href="$detect-parse_8c.html#a5ef62b141fc2f99be6f815b230bfb474" title="Parses the protocol supplied by the Signature. " alt="" coords="483,12,589,39"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="HashListTableFree" name="HashListTableFree">
+<area shape="rect" id="node2" href="$detect-parse_8h.html#aa0af49c3200fab7c15d00500887d8bbf" title="Frees the hash table that is used to cull duplicate sigs. " alt="" coords="207,93,401,120"/>
+<area shape="rect" id="node7" href="$detect-engine-port_8h.html#ab82de4518e6e1f749d5c7362e2a248cc" title="Function that free the HashListTable of destination DetectPort. " alt="" coords="225,144,383,171"/>
+<area shape="rect" id="node12" href="$detect-engine-port_8h.html#a45d448af7ec7b1e9dba49f2145d77732" title="Function that free the HashListTable of source DetectPort. " alt="" coords="225,195,383,221"/>
+<area shape="rect" id="node14" href="$detect-engine-siggroup_8h.html#a6087daf5ad9c8537c43a75ee74dca130" title="Frees the hash table &#45; DetectEngineCtx&#45;&gt;sgh_dport_hash_table, allocated by the SigGroupHeadDPortHashI..." alt="" coords="205,245,403,272"/>
+<area shape="rect" id="node15" href="$detect-engine-siggroup_8h.html#a9113e0d564d133e3c62f2d302c8751dd" title="Frees the hash table &#45; DetectEngineCtx&#45;&gt;sgh_hash_table, allocated by SigGroupHeadHashInit() function..." alt="" coords="222,347,386,373"/>
+<area shape="rect" id="node16" href="$detect-engine-siggroup_8h.html#af6053fee7e32115baf145112525cf668" title="Frees the hash table &#45; DetectEngineCtx&#45;&gt;sgh_mpm_hash_table, allocated by SigGroupHeadMpmHashInit() fu..." alt="" coords="207,397,401,424"/>
+<area shape="rect" id="node17" href="$detect-engine-siggroup_8h.html#a2d6e4bf75b6f8b71a11f30932390aa8c" title="Frees the hash table &#45; DetectEngineCtx&#45;&gt;sgh_mpm_uri_hash_table, allocated by SigGroupHeadMpmUriHashIn..." alt="" coords="187,549,421,576"/>
+<area shape="rect" id="node18" href="$detect-engine-siggroup_8h.html#afc85934b0809fec39bb082aa0a17bdb7" title="Frees the hash table &#45; DetectEngineCtx&#45;&gt;sgh_mpm_uri_hash_table, allocated by SigGroupHeadMpmUriHashIn..." alt="" coords="199,448,409,475"/>
+<area shape="rect" id="node19" href="$detect-engine-siggroup_8h.html#af0187673a9afe84ef9000b294e3581cc" title="Frees the hash table &#45; DetectEngineCtx&#45;&gt;sgh_sport_hash_table, allocated by the SigGroupHeadSPortHashI..." alt="" coords="205,499,403,525"/>
+<area shape="rect" id="node20" href="$util-var-name_8h.html#ab837adf32d5feb1f897b51dde1b5c163" title="VariableNameFreeHash" alt="" coords="223,296,385,323"/>
+<area shape="rect" id="node3" href="$detect-engine_8h.html#a507b6b477b36478010d0946149c2d357" title="Free a DetectEngineCtx:: " alt="" coords="479,296,627,323"/>
+<area shape="rect" id="node4" href="$detect_8h.html#a8b471081c75864d1c8d4bcb14eaebc3b" title="Load signatures. " alt="" coords="1315,68,1445,95"/>
+<area shape="rect" id="node5" href="$detect-engine_8h.html#aba0e2c94ab90c4390af30af806db271d" title="Reload the detection engine. " alt="" coords="1494,68,1637,95"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1685,68,1736,95"/>
+<area shape="rect" id="node8" href="$detect-engine-port_8h.html#acd33981171b69bf815e756aec7e978f0" title="Function that reset the HashListTable of destination DetectPort (Free and Initialize it) ..." alt="" coords="469,93,637,120"/>
+<area shape="rect" id="node10" href="$detect_8c.html#a72fc70b5d12e86ff5827d2d397233773" title="SigAddressPrepareStage3" alt="" coords="937,245,1111,272"/>
+<area shape="rect" id="node9" href="$detect_8c.html#aa3952cbb6c857eb9d1b9b2fa7689c0e4" title="BuildDestinationAddressHeads\lWithBothPorts" alt="" coords="685,129,888,170"/>
+<area shape="rect" id="node11" href="$detect_8h.html#a5eab8b8beaf1cc85d8a25a309ea13124" title="Convert the signature list into the runtime match structure. " alt="" coords="1161,144,1266,171"/>
+<area shape="rect" id="node13" href="$detect-engine-port_8h.html#a3cd546f126a9baf5fa5daf4d9aed2d89" title="Function that reset the HashListTable of source DetectPort (Free and Initialize it) ..." alt="" coords="470,144,637,171"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="DetectEngineResetMaxSigId" name="DetectEngineResetMaxSigId">
+<area shape="rect" id="node2" href="$detect_8h.html#a1723c47cf927d24858a36ffafa56f8ff" title="SigCleanSignatures" alt="" coords="246,5,383,32"/>
+<area shape="rect" id="node3" href="$detect-engine_8h.html#a507b6b477b36478010d0946149c2d357" title="Free a DetectEngineCtx:: " alt="" coords="433,5,581,32"/>
+</map>

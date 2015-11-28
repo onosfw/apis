@@ -1,0 +1,7 @@
+<map id="ConfNodeFree" name="ConfNodeFree">
+<area shape="rect" id="node2" href="$conf_8h.html#af25b3f6a4e6b5055cf6a4a60833da08b" title="De&#45;initializes the configuration system. " alt="" coords="183,5,268,32"/>
+<area shape="rect" id="node4" href="$conf_8h.html#a76e5586a2dcde8cef595bd446cb7b211" title="Remove (and SCFree) the provided configuration node. " alt="" coords="160,56,291,83"/>
+<area shape="rect" id="node3" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="388,5,439,32"/>
+<area shape="rect" id="node5" href="$conf_8c.html#a1d952ba60d0cbc20b96cffa1c20fdd07" title="Remove a configuration parameter from the configuration db. " alt="" coords="364,56,463,83"/>
+<area shape="rect" id="node6" href="$detect-engine_8h.html#a507b6b477b36478010d0946149c2d357" title="Free a DetectEngineCtx:: " alt="" coords="339,107,487,133"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="DecodePcapFileThreadInit" name="DecodePcapFileThreadInit">
+<area shape="rect" id="node2" href="$group__decode.html#ga30a380d9d448ff265b6b9d5d3f81d4e4" title="DecodeRegisterPerfCounters" alt="" coords="230,81,423,108"/>
+<area shape="rect" id="node6" href="$group__decode.html#gac7665e2409fe6cc688c1ba7bead8cc57" title="Alloc and setup DecodeThreadVars. " alt="" coords="245,208,408,235"/>
+<area shape="rect" id="node3" href="$counters_8c.html#a7bae5ee323fcf0d82c933600b870eb93" title="Registers a normal, unqualified counter. " alt="" coords="485,5,633,32"/>
+<area shape="rect" id="node4" href="$counters_8c.html#a85284c96fa9935606e5cac996152bb58" title="Registers a counter, whose value holds the average of all the values assigned to it. " alt="" coords="473,56,644,83"/>
+<area shape="rect" id="node5" href="$counters_8c.html#a218da697828635f6781d521c305eadf4" title="Registers a counter, whose value holds the maximum of all the values assigned to it. " alt="" coords="472,107,645,133"/>
+<area shape="rect" id="node7" href="$app-layer_8c.html#aa4aa5e8ee44572efd7b8db73c997f0ea" title="Creates a new app layer thread context. " alt="" coords="479,157,638,184"/>
+<area shape="rect" id="node20" href="$output-flow_8c.html#a25446d9a0b1e4fcc38d013d55288c1fa" title="thread init for the flow logger This will run the thread init functions for the individual registered..." alt="" coords="704,259,872,285"/>
+<area shape="rect" id="node22" href="$group__decode.html#ga6339c663affee81d94921a3ab2860e15" title="DecodeThreadVarsFree" alt="" coords="479,208,639,235"/>
+<area shape="rect" id="node24" href="$conf_8c.html#ad05ff3c317a042691169abc26475bb19" title="Retrieve a configuration value as an boolen. " alt="" coords="510,309,607,336"/>
+<area shape="rect" id="node8" href="$app-layer_8c.html#ac11ba71f5c16ec06b4e64b61ee86a5d6" title="Destroys the context created by AppLayeGetCtxThread(). " alt="" coords="696,157,880,184"/>
+<area shape="rect" id="node16" href="$app-layer-parser_8c.html#a1c63a0c4330ed49065ed530ed50940dd" title="Gets a new app layer protocol&#39;s parser thread context. " alt="" coords="931,40,1136,67"/>
+<area shape="rect" id="node18" href="$app-layer-detect-proto_8c.html#a8b43711ceaf0ad0aada2bd438480dddd" title="Inits and returns an app layer protocol detection thread context. " alt="" coords="693,91,883,133"/>
+<area shape="rect" id="node9" href="$app-layer-parser_8c.html#a5ea726897ab9fae1e13724d7a342de1b" title="Destroys the app layer parser thread context obtained using AppLayerParserThreadCtxAlloc(). " alt="" coords="932,141,1135,168"/>
+<area shape="rect" id="node13" href="$app-layer-detect-proto_8c.html#af925107e0ba823688508c7c03cacc920" title="Destroys the app layer protocol detection thread context. " alt="" coords="937,193,1130,234"/>
+<area shape="rect" id="node10" href="$app-layer-parser_8c.html#a55c82f8c0b2de8f7a7af6ff13b3ccc61" title="AppLayerParserDestroyProtocol\lParserLocalStorage" alt="" coords="1185,134,1394,175"/>
+<area shape="rect" id="node12" href="$flow-util_8c.html#a2258030b58194ee63d15a17a9b4a5384" title="FlowGetReverseProtoMapping" alt="" coords="1189,83,1389,109"/>
+<area shape="rect" id="node11" href="$flow-util_8c.html#a897ee3b52fa7876e9780704dbc2d1b11" title="Function to map the protocol to the defined FLOW_PROTO_* enumeration. " alt="" coords="1443,83,1594,109"/>
+<area shape="rect" id="node14" href="$util-mpm_8c.html#a008e7642096b8fc6661fd89b1dcf837b" title="Cleanup and free a Pmq. " alt="" coords="1252,200,1327,227"/>
+<area shape="rect" id="node15" href="$util-mpm_8c.html#a2a2264519fb4b8ba76f450a10f48f62f" title="Cleanup a Pmq. " alt="" coords="1470,200,1567,227"/>
+<area shape="rect" id="node17" href="$app-layer-parser_8c.html#a2b0517e26b65ae0299677d4f097b223f" title="AppLayerParserGetProtocol\lParserLocalStorage" alt="" coords="1197,17,1381,58"/>
+<area shape="rect" id="node19" href="$util-mpm_8c.html#aef0b59171845a87218792da6eb8cdfea" title="Setup a pmq. " alt="" coords="992,91,1075,117"/>
+<area shape="rect" id="node21" href="$tm-modules_8c.html#a3a0bd493c799543f1b0b8c7e8c67e283" title="get a tm module ptr by name " alt="" coords="956,259,1111,285"/>
+<area shape="rect" id="node23" href="$output-flow_8c.html#a4435c7a5c922d293aaecf43a6d7f2b0c" title="OutputFlowLogThreadDeinit" alt="" coords="696,208,880,235"/>
+<area shape="rect" id="node25" href="$conf_8c.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="753,360,823,387"/>
+<area shape="rect" id="node29" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true. " alt="" coords="735,309,841,336"/>
+<area shape="rect" id="node26" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="982,360,1085,387"/>
+<area shape="rect" id="node27" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="1213,335,1366,361"/>
+<area shape="rect" id="node28" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="1259,385,1320,412"/>
+</map>

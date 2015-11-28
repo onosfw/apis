@@ -1,0 +1,6 @@
+<map id="htp_normalize_hostname_inplace" name="htp_normalize_hostname_inplace">
+<area shape="rect" id="node2" href="$bstr_8c.html#a8eb4cfb22e61753899620617f200a36c" title="bstr_char_at_end" alt="" coords="224,5,347,32"/>
+<area shape="rect" id="node3" href="$bstr_8c.html#ae7440589d0619590384aa3ac7070ba89" title="bstr_chop" alt="" coords="246,56,325,83"/>
+<area shape="rect" id="node5" href="$bstr_8c.html#a8efd20da92a9a40fee8a40bdcdfb194f" title="bstr_to_lowercase" alt="" coords="221,107,349,133"/>
+<area shape="rect" id="node4" href="$bstr_8c.html#ad6bdcaadaf0034880584515edbca2427" title="bstr_adjust_len" alt="" coords="398,56,509,83"/>
+</map>

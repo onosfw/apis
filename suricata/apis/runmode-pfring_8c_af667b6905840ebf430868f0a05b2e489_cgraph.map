@@ -1,0 +1,7 @@
+<map id="OldParsePfringConfig" name="OldParsePfringConfig">
+<area shape="rect" id="node2" href="$conf_8c.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="231,5,302,32"/>
+<area shape="rect" id="node6" href="$runmode-pfring_8c.html#a2e3036dce0daf98ba608f4ed21d33e1a" title="PfringDerefConfig" alt="" coords="203,56,330,83"/>
+<area shape="rect" id="node5" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="577,95,639,121"/>
+<area shape="rect" id="node3" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="379,19,482,45"/>
+<area shape="rect" id="node4" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="531,19,685,45"/>
+</map>

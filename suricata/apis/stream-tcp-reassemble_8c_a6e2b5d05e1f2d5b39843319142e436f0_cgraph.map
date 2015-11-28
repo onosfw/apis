@@ -1,0 +1,22 @@
+<map id="StreamTcpReassemblyConfig" name="StreamTcpReassemblyConfig">
+<area shape="rect" id="node2" href="$util-byte_8c.html#a9cc0b7c198843ccaebe904f4653fb154" title="ByteExtractStringUint16" alt="" coords="255,5,417,32"/>
+<area shape="rect" id="node4" href="$util-byte_8c.html#aff93b9381b90e88415cb6f8c5daa8bca" title="ByteExtractStringUint32" alt="" coords="255,56,417,83"/>
+<area shape="rect" id="node5" href="$conf_8c.html#a0699665aae394f33c9fe33880891c1e7" title="Retrieve a configuration value as an integer. " alt="" coords="293,157,379,184"/>
+<area shape="rect" id="node7" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="729,157,831,184"/>
+<area shape="rect" id="node8" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="947,107,1101,133"/>
+<area shape="rect" id="node10" href="$group__utilpool.html#gad3e9e2ebd42de98ba0e84ae2424c4111" title="Init a Pool. " alt="" coords="508,259,575,285"/>
+<area shape="rect" id="node12" href="$stream_8c.html#a8093091e96132a466a13758e52844d5e" title="StreamMsgQueuesInit" alt="" coords="260,360,412,387"/>
+<area shape="rect" id="node19" href="$stream-tcp-reassemble_8c.html#ab4ebd7988b8a196ad81913e13f274c22" title="alloc a tcp segment pool entry " alt="" coords="261,436,411,463"/>
+<area shape="rect" id="node20" href="$stream-tcp-reassemble_8c.html#a528a7185ada382fada458afd2fc961a7" title="clean up a tcp segment pool entry " alt="" coords="251,537,421,564"/>
+<area shape="rect" id="node21" href="$stream-tcp-reassemble_8c.html#aa1fb22e94e9c6df8a77e06699f6e86ed" title="TcpSegmentPoolInit" alt="" coords="471,309,611,336"/>
+<area shape="rect" id="node3" href="$util-byte_8c.html#a43dab0146a4fbdf54e3c1dba707b0534" title="ByteExtractString" alt="" coords="479,31,604,57"/>
+<area shape="rect" id="node6" href="$conf_8c.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="506,157,577,184"/>
+<area shape="rect" id="node9" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="993,157,1055,184"/>
+<area shape="rect" id="node11" href="$group__utilpool.html#ga2872120babab18bece5ce3499b4a3fe8" title="PoolFree" alt="" coords="743,259,817,285"/>
+<area shape="rect" id="node13" href="$stream_8c.html#ad7541852302f86f4b50cb6e950939ae8" title="StreamMsgPoolAlloc" alt="" coords="469,411,613,437"/>
+<area shape="rect" id="node16" href="$stream_8c.html#ad6cd583c3811736afb335193f3e703c4" title="StreamMsgInit" alt="" coords="488,360,595,387"/>
+<area shape="rect" id="node17" href="$stream_8c.html#a38c2100a3b1c2756eb194d50f0bd49f7" title="StreamMsgPoolFree" alt="" coords="471,461,612,488"/>
+<area shape="rect" id="node14" href="$stream-tcp-reassemble_8c.html#ab3131fef1b3b347c72077af35f3817ea" title="Function to Check the reassembly memory usage counter against the allowed max memory usgae for TCP se..." alt="" coords="681,403,879,445"/>
+<area shape="rect" id="node15" href="$stream-tcp-reassemble_8c.html#ae0450f1665ff06a11cb08777c78eba9b" title="Function to Increment the memory usage counter for the TCP reassembly segments. " alt="" coords="665,331,895,357"/>
+<area shape="rect" id="node18" href="$stream-tcp-reassemble_8c.html#a1117512e3b998a56f41b4457da37c416" title="Function to Decrease the memory usage counter for the TCP reassembly segments. " alt="" coords="661,516,899,543"/>
+</map>

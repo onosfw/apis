@@ -1,0 +1,9 @@
+<map id="Unified2AlertOpenFileCtx" name="Unified2AlertOpenFileCtx">
+<area shape="rect" id="node2" href="$alert-unified2-alert_8h.html#ab48b6cdd070f5f9f7816cdf319d11cf6" title="Create a new LogFileCtx from the provided ConfNode. " alt="" coords="235,31,371,57"/>
+<area shape="rect" id="node8" href="$alert-unified2-alert_8c.html#acf9b608b85002138ba9356c931fda9c3" title="Function to rotate unified2 file. " alt="" coords="224,81,381,108"/>
+<area shape="rect" id="node3" href="$alert-unified2-alert_8h.html#a44090e154321190380e32f2d96e81a67" title="TmModuleUnified2AlertRegister" alt="" coords="430,31,637,57"/>
+<area shape="rect" id="node4" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="686,31,821,57"/>
+<area shape="rect" id="node5" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="869,31,968,57"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="1016,5,1165,32"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1213,31,1264,57"/>
+</map>

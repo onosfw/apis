@@ -1,0 +1,14 @@
+<map id="DetectEngineThreadCtxDeinit" name="DetectEngineThreadCtxDeinit">
+<area shape="rect" id="node2" href="$detect-engine_8c.html#a8422e40fa6bb17b318380539ab23d4e6" title="DetectEngineThreadCtxFree" alt="" coords="251,213,439,240"/>
+<area shape="rect" id="node13" href="$util-hash_8c.html#a9d52964329648870595ceaf6b2e15ea7" title="HashTableFree" alt="" coords="290,264,401,291"/>
+<area shape="rect" id="node3" href="$util-profiling-rules_8c.html#a17afaed10ba1730a9c6bf52117a70461" title="SCProfilingRuleThreadCleanup" alt="" coords="488,5,691,32"/>
+<area shape="rect" id="node4" href="$util-profiling-keywords_8c.html#a0cca7d0ccb679818f9512f126ed2f96c" title="SCProfilingKeywordThread\lCleanup" alt="" coords="500,57,679,98"/>
+<area shape="rect" id="node5" href="$detect-engine-iponly_8c.html#a6e1b805febdae0410d86e050cebf44bc" title="Deinitialize the IP Only thread detection engine context. " alt="" coords="499,122,680,163"/>
+<area shape="rect" id="node6" href="$detect-engine-mpm_8c.html#a915ed2cda51bc8d62d46ec69c0768e17" title="PatternMatchThreadDestroy" alt="" coords="496,188,683,215"/>
+<area shape="rect" id="node7" href="$util-mpm_8c.html#a008e7642096b8fc6661fd89b1dcf837b" title="Cleanup and free a Pmq. " alt="" coords="552,239,627,265"/>
+<area shape="rect" id="node9" href="$app-layer-htp-mem_8c.html#acabec20e8b4154c7770b069deeed9003" title="HTPFree" alt="" coords="552,289,627,316"/>
+<area shape="rect" id="node11" href="$suricata_8c.html#aea038f0105b5e6a67a1bf32d2ccf463c" title="RunmodeIsUnittests" alt="" coords="518,340,661,367"/>
+<area shape="rect" id="node12" href="$detect-engine_8c.html#a6e671f3947ad0e32486beb954f7e2bde" title="DetectEngineDeReference" alt="" coords="500,391,679,417"/>
+<area shape="rect" id="node8" href="$util-mpm_8c.html#a2a2264519fb4b8ba76f450a10f48f62f" title="Cleanup a Pmq. " alt="" coords="754,239,851,265"/>
+<area shape="rect" id="node10" href="$app-layer-htp-mem_8c.html#ad660e323ccd623cc6b9b041f2f020a2f" title="HTPDecrMemuse" alt="" coords="739,289,866,316"/>
+</map>

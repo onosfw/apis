@@ -1,0 +1,4 @@
+<map id="DetectPortCopy" name="DetectPortCopy">
+<area shape="rect" id="node2" href="$detect-engine-port_8c.html#af10d25fa8ab22e964a10f183a9d9cae4" title="Function that return a copy of DetectPort src. " alt="" coords="171,29,287,56"/>
+<area shape="rect" id="node3" href="$detect-engine-port_8c.html#a6d5934b74427fee3e9fc25e2070244f4" title="Alloc a DetectPort structure and update counters. " alt="" coords="337,55,439,81"/>
+</map>

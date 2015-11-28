@@ -1,0 +1,4 @@
+<map id="SCRadixNode_" name="SCRadixNode_">
+<area shape="rect" id="node2" href="$structSCRadixPrefix__.html" title="Structure for the prefix/key in the radix tree. " alt="" coords="17,96,132,123"/>
+<area shape="rect" id="node3" href="$structSCRadixUserData__.html" title="Structure that hold the user data and the netmask associated with it. " alt="" coords="5,5,144,32"/>
+</map>

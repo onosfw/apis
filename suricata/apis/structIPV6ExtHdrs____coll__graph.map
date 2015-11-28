@@ -1,0 +1,6 @@
+<map id="IPV6ExtHdrs_" name="IPV6ExtHdrs_">
+<area shape="rect" id="node2" href="$structIPV6OptJumbo__.html" title="IPV6OptJumbo_" alt="" coords="5,5,123,32"/>
+<area shape="rect" id="node3" href="$structIPV6OptRA__.html" title="IPV6OptRA_" alt="" coords="149,5,248,32"/>
+<area shape="rect" id="node4" href="$structIPV6GenOptHdr__.html" title="IPV6GenOptHdr_" alt="" coords="273,5,396,32"/>
+<area shape="rect" id="node5" href="$structIPV6OptHAO__.html" title="IPV6OptHAO_" alt="" coords="421,5,528,32"/>
+</map>

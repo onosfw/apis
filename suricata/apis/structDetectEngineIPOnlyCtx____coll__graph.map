@@ -1,0 +1,9 @@
+<map id="DetectEngineIPOnlyCtx_" name="DetectEngineIPOnlyCtx_">
+<area shape="rect" id="node2" href="$structIPOnlyCIDRItem__.html" title="IPOnlyCIDRItem_" alt="" coords="5,323,133,349"/>
+<area shape="rect" id="node3" href="$structHashListTable__.html" title="HashListTable_" alt="" coords="211,323,324,349"/>
+<area shape="rect" id="node4" href="$structHashListTableBucket__.html" title="HashListTableBucket_" alt="" coords="128,195,283,221"/>
+<area shape="rect" id="node5" href="$structSCRadixTree__.html" title="Structure for the radix tree. " alt="" coords="355,323,463,349"/>
+<area shape="rect" id="node6" href="$structSCRadixNode__.html" title="Structure for the node in the radix tree. " alt="" coords="385,195,497,221"/>
+<area shape="rect" id="node7" href="$structSCRadixPrefix__.html" title="Structure for the prefix/key in the radix tree. " alt="" coords="383,96,499,123"/>
+<area shape="rect" id="node8" href="$structSCRadixUserData__.html" title="Structure that hold the user data and the netmask associated with it. " alt="" coords="372,5,511,32"/>
+</map>

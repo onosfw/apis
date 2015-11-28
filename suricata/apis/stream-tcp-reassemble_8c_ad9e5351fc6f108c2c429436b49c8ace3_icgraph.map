@@ -1,0 +1,14 @@
+<map id="StreamTcpReturnStreamSegments" name="StreamTcpReturnStreamSegments">
+<area shape="rect" id="node2" href="$stream-tcp_8h.html#add92e80f13e88362630ba978ac24c241" title="Function to return the stream back to the pool. It returns the segments in the stream to the segment ..." alt="" coords="302,5,466,32"/>
+<area shape="rect" id="node5" href="$stream-tcp_8h.html#a48310db5e37bea30b769a8d6af0dbb80" title="Function to return the stream segments back to the pool. " alt="" coords="295,107,473,133"/>
+<area shape="rect" id="node12" href="$stream-tcp_8c.html#aeb09a993ff83021bd05e01e8c8787937" title="Pool free function. " alt="" coords="281,56,487,83"/>
+<area shape="rect" id="node3" href="$stream-tcp_8h.html#ae02dc80698f907951c8c9dc972093fde" title="To initialize the stream global configuration data. " alt="" coords="537,5,679,32"/>
+<area shape="rect" id="node4" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1693,56,1744,83"/>
+<area shape="rect" id="node6" href="$stream-tcp_8h.html#a248c85404fa06db3bc2b7d8d2f8de3a0" title="StreamTcpPacket" alt="" coords="545,107,671,133"/>
+<area shape="rect" id="node7" href="$stream-tcp_8c.html#adb13fb0808d68f1cbd9757cdc419fdab" title="StreamTcp" alt="" coords="757,107,843,133"/>
+<area shape="rect" id="node8" href="$stream-tcp_8h.html#ac7570830e107bef9adb9c4a729222114" title="TmModuleStreamTcpRegister" alt="" coords="921,81,1117,108"/>
+<area shape="rect" id="node9" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="1166,81,1301,108"/>
+<area shape="rect" id="node10" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="1349,81,1448,108"/>
+<area shape="rect" id="node11" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="1496,56,1645,83"/>
+<area shape="rect" id="node13" href="$stream-tcp_8h.html#a92a4a607332f606574d63bd2ec158ebe" title="StreamTcpThreadInit" alt="" coords="728,56,872,83"/>
+</map>

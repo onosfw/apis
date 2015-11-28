@@ -1,0 +1,11 @@
+<map id="RunModeInitialize" name="RunModeInitialize">
+<area shape="rect" id="node2" href="$util-affinity_8c.html#ae1a3c113aa148b64530ae41a0d5aa67f" title="Extract cpu affinity configuration from current config file. " alt="" coords="331,56,525,83"/>
+<area shape="rect" id="node7" href="$conf_8c.html#ad05ff3c317a042691169abc26475bb19" title="Retrieve a configuration value as an boolen. " alt="" coords="183,157,281,184"/>
+<area shape="rect" id="node10" href="$conf_8c.html#a1383ef0374af39daea9af86c53919c02" title="Retrieve a configuration value as a float. " alt="" coords="182,107,282,133"/>
+<area shape="rect" id="node3" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="611,107,714,133"/>
+<area shape="rect" id="node6" href="$util-affinity_8c.html#ab716a16a85291314f6fd64bdf8366abb" title="find affinity by its name " alt="" coords="573,5,752,32"/>
+<area shape="rect" id="node4" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="801,56,954,83"/>
+<area shape="rect" id="node5" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="847,107,908,133"/>
+<area shape="rect" id="node8" href="$conf_8c.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="393,107,463,133"/>
+<area shape="rect" id="node9" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true. " alt="" coords="375,157,481,184"/>
+</map>

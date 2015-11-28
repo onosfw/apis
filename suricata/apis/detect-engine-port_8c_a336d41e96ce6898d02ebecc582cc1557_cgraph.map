@@ -1,0 +1,6 @@
+<map id="DetectPortFree" name="DetectPortFree">
+<area shape="rect" id="node2" href="$detect-engine-port_8c.html#aa96929b52a485980356a11188a6e9f16" title="Free a DetectPort list and each of its members. " alt="" coords="165,5,320,32"/>
+<area shape="rect" id="node3" href="$detect-engine-siggroup_8c.html#a176702ac4621c9006d89a8d6801d7ce1" title="Free a SigGroupHead and its members. " alt="" coords="176,56,309,83"/>
+<area shape="rect" id="node4" href="$detect-engine-mpm_8c.html#a6a1c9264037c5fe5756ea28f6ddab251" title="PatternMatchDestroyGroup" alt="" coords="368,31,549,57"/>
+<area shape="rect" id="node5" href="$detect-engine-siggroup_8c.html#a6f6c71bc5fff7f350d164523257ebed1" title="SigGroupHeadInitDataFree" alt="" coords="369,81,548,108"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="DetectPortParse" name="DetectPortParse">
+<area shape="rect" id="node2" href="$detect-engine-port_8c.html#aa96929b52a485980356a11188a6e9f16" title="Free a DetectPort list and each of its members. " alt="" coords="200,31,355,57"/>
+<area shape="rect" id="node7" href="$detect-engine-port_8c.html#a37cc1e56039761193d64fa6feba1909a" title="Helper function for the parsing process. " alt="" coords="174,137,381,164"/>
+<area shape="rect" id="node3" href="$detect-engine-port_8c.html#a336d41e96ce6898d02ebecc582cc1557" title="Free a DetectPort and its members. " alt="" coords="462,31,573,57"/>
+<area shape="rect" id="node4" href="$detect-engine-siggroup_8c.html#a176702ac4621c9006d89a8d6801d7ce1" title="Free a SigGroupHead and its members. " alt="" coords="653,31,787,57"/>
+<area shape="rect" id="node5" href="$detect-engine-mpm_8c.html#a6a1c9264037c5fe5756ea28f6ddab251" title="PatternMatchDestroyGroup" alt="" coords="835,5,1016,32"/>
+<area shape="rect" id="node6" href="$detect-engine-siggroup_8c.html#a6f6c71bc5fff7f350d164523257ebed1" title="SigGroupHeadInitDataFree" alt="" coords="836,56,1015,83"/>
+<area shape="rect" id="node8" href="$detect-engine-port_8c.html#a4c38a97f685fd8a69533a53d03e6b487" title="Check if the port group list covers the complete port space. " alt="" coords="429,82,605,123"/>
+<area shape="rect" id="node9" href="$detect-engine-port_8c.html#af10d25fa8ab22e964a10f183a9d9cae4" title="Function that return a copy of DetectPort src. " alt="" coords="459,172,575,199"/>
+<area shape="rect" id="node11" href="$detect-engine-port_8c.html#a5b98d8d3a7c3a879a0b7bc44b2370ac6" title="Helper function that print the DetectPort info. " alt="" coords="461,223,573,249"/>
+<area shape="rect" id="node12" href="$detect-engine-port_8c.html#a99a3e1b81a12b2048ee19c49d3467369" title="Function that compare port groups. " alt="" coords="461,273,574,300"/>
+<area shape="rect" id="node10" href="$detect-engine-port_8c.html#a6d5934b74427fee3e9fc25e2070244f4" title="Alloc a DetectPort structure and update counters. " alt="" coords="669,172,771,199"/>
+</map>

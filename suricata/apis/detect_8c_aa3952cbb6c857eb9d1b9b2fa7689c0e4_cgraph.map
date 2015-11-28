@@ -1,0 +1,51 @@
+<map id="BuildDestinationAddressHeadsWithBothPorts" name="BuildDestinationAddressHeadsWithBothPorts">
+<area shape="rect" id="node2" href="$detect_8c.html#afc77848803e5fcaaf39f90ff860140dc" title="CreateGroupedAddrList" alt="" coords="285,279,443,305"/>
+<area shape="rect" id="node18" href="$detect_8c.html#a5b61533f2fb4103f1e4d783e0e615da9" title="CreateGroupedAddrListCmp\lMpmMinlen" alt="" coords="271,95,457,137"/>
+<area shape="rect" id="node19" href="$detect_8c.html#af8308f17a2d3019793ffbebc75d889bd" title="CreateGroupedPortList" alt="" coords="752,583,907,609"/>
+<area shape="rect" id="node23" href="$detect_8c.html#a4f2bc64700fc77359149054167ec3e86" title="CreateGroupedPortListCmp\lMpmMinlen" alt="" coords="273,213,455,254"/>
+<area shape="rect" id="node24" href="$detect-engine-address_8c.html#ac63134a217d2afcf8c5c955c2092c9b1" title="Do a sorted insert, where the top of the list should be the biggest network/range. " alt="" coords="546,431,678,457"/>
+<area shape="rect" id="node25" href="$detect-engine-address_8c.html#a356dc6a3cd3b37b0756f67ef5347b958" title="Frees a list of DetectAddress instances. " alt="" coords="523,52,701,79"/>
+<area shape="rect" id="node3" href="$detect-engine-address_8c.html#adcd04f89acefed4c42c90138e8d1872d" title="Copies the contents of one Address group in DetectAddress and returns a new instance of the DetectAdd..." alt="" coords="542,380,682,407"/>
+<area shape="rect" id="node26" href="$detect-engine-address_8c.html#a3fae813701993e10b784cfae025ec259" title="Returns a new instance of DetectAddressHead. " alt="" coords="285,431,443,457"/>
+<area shape="rect" id="node27" href="$detect-engine-address_8c.html#aa37efffa1f4103032f7ee1812a8e84d1" title="Used to check if a DetectAddress list contains an instance with a similar DetectAddress. The comparison done is not the one that checks the memory for the same instance, but one that checks that the two instances hold the same content. " alt="" coords="521,481,703,508"/>
+<area shape="rect" id="node11" href="$detect-engine-port_8c.html#aa96929b52a485980356a11188a6e9f16" title="Free a DetectPort list and each of its members. " alt="" coords="1395,204,1549,231"/>
+<area shape="rect" id="node7" href="$detect-engine-port_8c.html#ac8b4a84d18e06e0cd29d37d0799a94db" title="Function that return a copy of DetectPort src sigs. " alt="" coords="968,317,1120,344"/>
+<area shape="rect" id="node28" href="$detect-engine-port_8c.html#a64b176b935c7dac97c2d25b6b62c7dac" title="Function that add a destination DetectPort into the hashtable. " alt="" coords="286,735,442,761"/>
+<area shape="rect" id="node30" href="$detect-engine-port_8c.html#a95687ae6bcf8751ec10c222080e66d17" title="Function that search a destination DetectPort in the hashtable. " alt="" coords="277,1241,451,1268"/>
+<area shape="rect" id="node32" href="$detect-engine-port_8c.html#a443c6a007d61a090b803c78852d919a2" title="Function that reset the HashListTable of destination DetectPort (Free and Initialize it) ..." alt="" coords="280,633,448,660"/>
+<area shape="rect" id="node35" href="$detect-engine-port_8c.html#adc0ad33bbf7c5d5fde0477b9eba0bf65" title="Function that add a source DetectPort into the hashtable. " alt="" coords="287,785,441,812"/>
+<area shape="rect" id="node36" href="$detect-engine-port_8c.html#ac94c17711aaa651715543a85edf4b9d6" title="Function that search a source DetectPort in the hashtable. " alt="" coords="277,1292,451,1319"/>
+<area shape="rect" id="node37" href="$detect-engine-port_8c.html#a4973434b4517cbbd5210466dede68c2e" title="Function that reset the HashListTable of source DetectPort (Free and Initialize it) ..." alt="" coords="281,684,447,711"/>
+<area shape="rect" id="node39" href="$detect-engine-mpm_8c.html#a5b296eaaaeb2ccc2d2452a210fa626ae" title="Prepare the pattern matcher ctx in a sig group head. " alt="" coords="274,937,454,964"/>
+<area shape="rect" id="node40" href="$detect-engine-siggroup_8c.html#ad89ebd7cf624e4e5745a5079e5436b47" title="Add a Signature to a SigGroupHead. " alt="" coords="279,988,449,1015"/>
+<area shape="rect" id="node41" href="$detect-engine-siggroup_8c.html#a6b243c76fe6e50b64f5637e99245d424" title="Create an array with all the internal ids of the sigs that this sig group head will check for..." alt="" coords="263,1039,465,1065"/>
+<area shape="rect" id="node42" href="$detect-engine-siggroup_8c.html#a3c96b184974e7ff084c1393e484c1643" title="Adds a SigGroupHead to the detection engine context dport based SigGroupHead hash table(DetectEngineC..." alt="" coords="267,836,461,863"/>
+<area shape="rect" id="node43" href="$detect-engine-siggroup_8c.html#a355792788229f3484ea7bfe1197ebf4f" title="Used to lookup a SigGroupHead hash from the detection engine ctx dport based SigGroupHead hash table(..." alt="" coords="257,1191,471,1217"/>
+<area shape="rect" id="node12" href="$detect-engine-siggroup_8c.html#a176702ac4621c9006d89a8d6801d7ce1" title="Free a SigGroupHead and its members. " alt="" coords="1405,405,1539,432"/>
+<area shape="rect" id="node44" href="$detect-engine-siggroup_8c.html#a7c40270fa5df62381d6601a418cedc29" title="Adds a SigGroupHead to the detection engine context SigGroupHead hash table. " alt="" coords="283,887,445,913"/>
+<area shape="rect" id="node45" href="$detect-engine-siggroup_8c.html#ab3673eb32701ac5b0bef47cb91bf51b1" title="Used to lookup a SigGroupHead hash from the detection engine context SigGroupHead hash table..." alt="" coords="274,1444,454,1471"/>
+<area shape="rect" id="node46" href="$detect-engine-siggroup_8c.html#a56f7c66d1355503a7f90902579abc597" title="SigGroupHeadHashRemove" alt="" coords="271,1343,457,1369"/>
+<area shape="rect" id="node47" href="$detect-engine-siggroup_8c.html#a88113134b55015fb7067deadaa010f86" title="Updates the SigGroupHead&#45;&gt;sig_cnt with the total count of all the Signatures present in this SigGroup..." alt="" coords="281,1393,447,1420"/>
+<area shape="rect" id="node48" href="$detect-engine-siggroup_8c.html#a516d373f8409ca8b5fc11971249ad73e" title="Adds a SigGroupHead to the detection engine context dport based SigGroupHead hash table(DetectEngineC..." alt="" coords="267,1089,461,1116"/>
+<area shape="rect" id="node49" href="$detect-engine-siggroup_8c.html#ac55811c4600ab11c5ea0fd4a84a0008f" title="Used to lookup a SigGroupHead hash from the detection engine ctx sport based SigGroupHead hash table(..." alt="" coords="257,1140,471,1167"/>
+<area shape="rect" id="node50" href="$detect-engine-siggroup_8c.html#a41897389907aab4d9dc790092be03700" title="SigGroupHeadStore" alt="" coords="295,1545,433,1572"/>
+<area shape="rect" id="node5" href="$detect-engine-siggroup_8c.html#a51eba76854157da0de4a460887ff391d" title="Copies the bitarray holding the sids from the source SigGroupHead to the destination SigGroupHead..." alt="" coords="1182,267,1346,293"/>
+<area shape="rect" id="node6" href="$detect-engine-port_8c.html#a4a6689fa3d861de5b4d26b120d860d01" title="Copy and insert the new DetectPort, with a copy list of sigs. " alt="" coords="755,317,904,344"/>
+<area shape="rect" id="node14" href="$detect-engine-address_8c.html#a25f8ca3631cd66ca4fff7d18cf0c59af" title="Join two addresses groups together. " alt="" coords="545,204,679,231"/>
+<area shape="rect" id="node15" href="$detect-engine-address_8c.html#a93c2ac0d98f92485bd4697ce4d610344" title="Frees a DetectAddress instance. " alt="" coords="762,153,897,180"/>
+<area shape="rect" id="node16" href="$detect-engine-address_8c.html#a65f3a277db68ea6b72488d074a8135db" title="Same as DetectAddressInsert, but then for inserting a address group object. This also makes sure SigG..." alt="" coords="541,279,683,305"/>
+<area shape="rect" id="node4" href="$detect-engine-address_8c.html#aff647665ce1002cbdc788cb87470fdd2" title="Creates and returns a new instance of a DetectAddress. " alt="" coords="766,380,893,407"/>
+<area shape="rect" id="node9" href="$detect-engine-port_8c.html#a05bf13895dd5fc46b43c7ac182cb4561" title="function for inserting a port group object. This also makes sure SigGroupContainer lists are handled ..." alt="" coords="985,443,1103,469"/>
+<area shape="rect" id="node8" href="$detect-engine-port_8c.html#a6d5934b74427fee3e9fc25e2070244f4" title="Alloc a DetectPort structure and update counters. " alt="" coords="1213,317,1315,344"/>
+<area shape="rect" id="node10" href="$detect-engine-port_8c.html#a336d41e96ce6898d02ebecc582cc1557" title="Free a DetectPort and its members. " alt="" coords="1209,405,1319,432"/>
+<area shape="rect" id="node13" href="$detect-engine-port_8c.html#a5b98d8d3a7c3a879a0b7bc44b2370ac6" title="Helper function that print the DetectPort info. " alt="" coords="1208,544,1320,571"/>
+<area shape="rect" id="node17" href="$detect-engine-address_8c.html#a343973c15967dc80202c9a3efa608dd2" title="Used to compare 2 address ranges. " alt="" coords="761,431,898,457"/>
+<area shape="rect" id="node20" href="$util-hashlist_8c.html#a06bd9572ce2663fe57f5e07c2045acaa" title="HashListTableGetListHead" alt="" coords="955,645,1133,672"/>
+<area shape="rect" id="node21" href="$detect-engine-port_8c.html#a92b54c68e26ab948f599cd7085b5cf9a" title="Function to join the source group to the target and its members. " alt="" coords="989,368,1099,395"/>
+<area shape="rect" id="node22" href="$detect-engine-port_8c.html#a24f17837872c6c791f6b9689b18fd297" title="Helper function used to print the list of ports present in this DetectPort list. " alt="" coords="977,595,1111,621"/>
+<area shape="rect" id="node29" href="$util-hashlist_8c.html#a1ef8e2e7d8838f6376eeac265d9baa95" title="HashListTableAdd" alt="" coords="547,836,677,863"/>
+<area shape="rect" id="node31" href="$util-hashlist_8c.html#ab31e9d0781f723810287313b67b7b0a1" title="HashListTableLookup" alt="" coords="538,1241,686,1268"/>
+<area shape="rect" id="node33" href="$detect-engine-port_8c.html#a507de2742f366bbd647fc3165ba6933c" title="Function that free the HashListTable of destination DetectPort. " alt="" coords="533,633,691,660"/>
+<area shape="rect" id="node34" href="$detect-engine-port_8c.html#aeceecd0cbb58ca06588fa8d7a9cb9079" title="Function that initialize the HashListTable of destination DetectPort. " alt="" coords="537,684,687,711"/>
+<area shape="rect" id="node38" href="$detect-engine-port_8c.html#acf8c247c2e9ec993d64ab97493494676" title="Function that free the HashListTable of source DetectPort. " alt="" coords="533,735,691,761"/>
+</map>

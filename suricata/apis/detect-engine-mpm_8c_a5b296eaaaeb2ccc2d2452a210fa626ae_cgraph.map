@@ -1,0 +1,8 @@
+<map id="PatternMatchPrepareGroup" name="PatternMatchPrepareGroup">
+<area shape="rect" id="node2" href="$util-mpm_8c.html#afb5aa4b0f7cf1275aa86dab4d294f71a" title="MpmFactoryGetMpmCtxForProfile" alt="" coords="235,5,458,32"/>
+<area shape="rect" id="node3" href="$util-mpm_8c.html#a766e318ffdb5baf247c40689dd85204c" title="MpmFactoryReClaimMpmCtx" alt="" coords="249,56,445,83"/>
+<area shape="rect" id="node5" href="$util-mpm_8c.html#ab16856575428a4ffdc4f96224e466d1e" title="MpmInitCtx" alt="" coords="301,107,392,133"/>
+<area shape="rect" id="node6" href="$detect-engine-mpm_8c.html#af4b70e66b9f05706f9f548b7d0589ac5" title="check if a signature has patterns that are to be inspected against a packets payload (as opposed to t..." alt="" coords="253,157,441,184"/>
+<area shape="rect" id="node7" href="$detect-engine-mpm_8c.html#ad6ed97753161dec50f846ec8641d3567" title="check if a signature has patterns that are to be inspected against the stream payload (as opposed to ..." alt="" coords="252,208,441,235"/>
+<area shape="rect" id="node4" href="$util-mpm_8c.html#a0ab724dbecf6333a743ad353eaae79ab" title="MpmFactoryIsMpmCtxAvailable" alt="" coords="507,56,717,83"/>
+</map>

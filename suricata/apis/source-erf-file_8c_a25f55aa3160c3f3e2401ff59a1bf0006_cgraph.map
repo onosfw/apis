@@ -1,0 +1,51 @@
+<map id="DecodeErfFile" name="DecodeErfFile">
+<area shape="rect" id="node2" href="$decode-ethernet_8c.html#ac1afbb2de3c48f5e55238a68a80c1a28" title="DecodeEthernet" alt="" coords="203,627,319,653"/>
+<area shape="rect" id="node47" href="$group__decode.html#ga80f244d5793581bd92abab9e8f83ef0c" title="DecodeUpdatePacketCounters" alt="" coords="160,1664,363,1691"/>
+<area shape="rect" id="node50" href="$group__decode.html#ga34b0a10ee3a77793bddbc8f8eceb832f" title="Finalize decoding of a packet. " alt="" coords="563,145,717,172"/>
+<area shape="rect" id="node3" href="$decode-ipv4_8c.html#ad21e971ed8a39cbd704e59c535c09696" title="DecodeIPV4" alt="" coords="592,740,688,767"/>
+<area shape="rect" id="node14" href="$decode-ipv6_8c.html#a82f0d48b6022ab2630da21d3b0fa0542" title="DecodeIPV6" alt="" coords="1795,753,1891,780"/>
+<area shape="rect" id="node46" href="$decode-mpls_8c.html#aa91e2972618ccbcaf595ab1072eec718" title="DecodeMPLS" alt="" coords="411,537,514,564"/>
+<area shape="rect" id="node39" href="$decode-pppoe_8c.html#a07b9952ea991dac758976e25fa90033a" title="Main decoding function for PPPOE Discovery packets. " alt="" coords="1574,1473,1746,1500"/>
+<area shape="rect" id="node40" href="$decode-pppoe_8c.html#aac0b8cb4381233c884de7320889b0571" title="Main decoding function for PPPOE Session packets. " alt="" coords="1580,753,1740,780"/>
+<area shape="rect" id="node38" href="$decode-vlan_8c.html#a2f04a35b7ddf4f8443df460cd18c583e" title="DecodeVLAN" alt="" coords="1390,1423,1493,1449"/>
+<area shape="rect" id="node24" href="$counters_8c.html#aec6ddff16e99087dbf6c4b13f7aa5ab6" title="Increments the local counter. " alt="" coords="2399,892,2473,919"/>
+<area shape="rect" id="node4" href="$decode-gre_8c.html#a53db4a10141df6f438736b5409933569" title="Function to decode GRE packets. " alt="" coords="765,1132,861,1159"/>
+<area shape="rect" id="node44" href="$decode-icmpv4_8c.html#ab06bf50acf1abcea5e85f31d66fcad5c" title="Main ICMPv4 decoding function. " alt="" coords="1953,360,2071,387"/>
+<area shape="rect" id="node25" href="$decode-sctp_8c.html#a10d4d580215e385f2ae1dfbc18d96e56" title="DecodeSCTP" alt="" coords="1961,512,2063,539"/>
+<area shape="rect" id="node26" href="$decode-tcp_8c.html#a8bc5a8474325211e3c8dcbf49362a22e" title="DecodeTCP" alt="" coords="1965,639,2059,665"/>
+<area shape="rect" id="node27" href="$decode-udp_8c.html#aa315124ac688837f31bded8b253e7d62" title="DecodeUDP" alt="" coords="1964,449,2060,476"/>
+<area shape="rect" id="node35" href="$defrag_8c.html#a0887ef3b129e978f0d27b469c68eb2ba" title="Entry point for IPv4 and IPv6 fragments. " alt="" coords="1981,588,2043,615"/>
+<area shape="rect" id="node5" href="$packet-queue_8c.html#a1ab70c26cf76410d008c664031a2ced2" title="PacketEnqueue" alt="" coords="2379,1396,2493,1423"/>
+<area shape="rect" id="node6" href="$group__decode.html#ga289ef60badcd4b221fadd90590249d15" title="Setup a pseudo packet (tunnel) " alt="" coords="910,1031,1066,1057"/>
+<area shape="rect" id="node17" href="$util-print_8c.html#a90bfafc4dfabddab2662c4b7bf6f7d03" title="PrintInet" alt="" coords="2401,613,2471,640"/>
+<area shape="rect" id="node37" href="$util-debug_8c.html#ab793aa1c0db8ab4c177d80f79c085297" title="Returns whether debug messages are enabled to be logged or not. " alt="" coords="1939,1011,2085,1037"/>
+<area shape="rect" id="node7" href="$group__decode.html#gab9517a36d0462938ef712e5e6640d5f6" title="Get a packet. We try to get a packet from the packetpool first, but if that is empty we alloc a packe..." alt="" coords="1115,943,1309,969"/>
+<area shape="rect" id="node10" href="$group__decode.html#gac6e35d6641ed3e55adc0ac5ea698fe4a" title="Copy data to Packet payload and set packet length. " alt="" coords="1151,993,1273,1020"/>
+<area shape="rect" id="node12" href="$group__decode.html#ga3d5a53f9af62c80797e8095c7e95e947" title="DecodeTunnel" alt="" coords="1159,1183,1265,1209"/>
+<area shape="rect" id="node42" href="$tmqh-packetpool_8c.html#a7459d4fb3fb4e341f4644fac509e3463" title="TmqhOutputPacketpool" alt="" coords="1133,1044,1291,1071"/>
+<area shape="rect" id="node8" href="$tmqh-packetpool_8c.html#a144d5e3c9b77c7b9fb4a8c369d7dd8cc" title="Get a new packet from the packet pool. " alt="" coords="1366,943,1517,969"/>
+<area shape="rect" id="node9" href="$group__decode.html#gadd3d2505353dbc2b396776da9afbcd74" title="Get a malloced packet. " alt="" coords="1370,892,1513,919"/>
+<area shape="rect" id="node11" href="$group__decode.html#ga4fcac3c41c0cab4466ac184d2719e24e" title="Copy data to Packet payload at given offset. " alt="" coords="1362,993,1521,1020"/>
+<area shape="rect" id="node13" href="$decode-ppp_8c.html#aa1cb8247d5f82507327372a9af7daa71" title="DecodePPP" alt="" coords="1613,1039,1707,1065"/>
+<area shape="rect" id="node41" href="$decode-erspan_8c.html#af55b5b63849ebbbc396d3b4f97d5b9c9" title="Function to decode ERSPAN packets. " alt="" coords="1380,1348,1503,1375"/>
+<area shape="rect" id="node15" href="$decode-icmpv6_8c.html#abf958842b8ab82927b35fec37813be8f" title="Decode ICMPV6 packets and fill the Packet with the decoded info. " alt="" coords="1953,765,2071,792"/>
+<area shape="rect" id="node16" href="$decode-icmpv6_8c.html#a77763bde0c82ec50dd179f10478fee74" title="Get variables and do some checks of the embedded IPV6 packet. " alt="" coords="2144,791,2277,817"/>
+<area shape="rect" id="node19" href="$flow_8c.html#a630858d075864b1b8693caf370fa8e00" title="Entry point for packet flow handling. " alt="" coords="2145,487,2277,513"/>
+<area shape="rect" id="node18" href="$win32-misc_8h.html#a8b4e65d5530474709182ee0d9faa6dda" title="inet_ntop" alt="" coords="2635,613,2709,640"/>
+<area shape="rect" id="node20" href="$flow-hash_8c.html#ab9b72607bceec0064346afce2f6cbdd1" title="Get Flow for packet. " alt="" coords="2356,512,2516,539"/>
+<area shape="rect" id="node22" href="$flow_8c.html#a3d88a8d5aee8f279280f3d7976a15a61" title="Update Packet and Flow. " alt="" coords="2349,461,2523,488"/>
+<area shape="rect" id="node21" href="$flow-util_8c.html#ab860700383c3811a4aaf74b2cfd1de05" title="FlowInit" alt="" coords="2638,512,2706,539"/>
+<area shape="rect" id="node23" href="$flow_8c.html#a6f7e81aaf61a41cdaa7cbb87d8964122" title="determine the direction of the packet compared to the flow " alt="" coords="2590,461,2754,488"/>
+<area shape="rect" id="node28" href="$app-layer_8c.html#ad71bacf418c62589d8da38247850e10f" title="Handle a app layer UDP message. " alt="" coords="2139,81,2282,108"/>
+<area shape="rect" id="node34" href="$decode-teredo_8c.html#a790ad61958f0ed71e2587689c4a0a625" title="Function to decode Teredo packets. " alt="" coords="2157,1112,2264,1139"/>
+<area shape="rect" id="node29" href="$app-layer-parser_8c.html#a5a66dce8dbc099890c70dc69b2bbc608" title="AppLayerParserParse" alt="" coords="2361,56,2511,83"/>
+<area shape="rect" id="node33" href="$app-layer-detect-proto_8c.html#a66d46449e14e7c771daca31e94c88ec1" title="Returns the app layer protocol given a buffer. " alt="" coords="2337,107,2535,133"/>
+<area shape="rect" id="node30" href="$app-layer_8c.html#aee0b3432de6ed541981bdf337c841782" title="Given the internal protocol id, returns a string representation of the protocol. " alt="" coords="2590,5,2754,32"/>
+<area shape="rect" id="node31" href="$app-layer-parser_8c.html#aa72062e79f18f6d030db0ce26eb54307" title="AppLayerParserSetEOF" alt="" coords="2591,56,2753,83"/>
+<area shape="rect" id="node32" href="$app-layer-parser_8c.html#a473dd94cc4eaaa2c2189f6ac6af19590" title="AppLayerParserStateAlloc" alt="" coords="2585,107,2759,133"/>
+<area shape="rect" id="node36" href="$defrag-hash_8c.html#a31638db8974dd1ef93586526a8b8b1fd" title="DefragTrackerRelease" alt="" coords="2134,639,2287,665"/>
+<area shape="rect" id="node43" href="$stream-tcp-reassemble_8c.html#afe50d83dc6803121f9a01ed920e7f6b1" title="Remove idle TcpSegments from TcpSession. " alt="" coords="1358,1044,1525,1071"/>
+<area shape="rect" id="node45" href="$decode-icmpv4_8c.html#a1bcac56d7695147a538006f6c2d386ad" title="DecodePartialIPV4" alt="" coords="2144,335,2277,361"/>
+<area shape="rect" id="node48" href="$counters_8c.html#afe875414dd4620c523f895a83d365c4b" title="Adds a value of type uint64_t to the local counter. " alt="" coords="411,1740,515,1767"/>
+<area shape="rect" id="node49" href="$counters_8c.html#aba1b0562d8156303e65898f0cff186f0" title="Sets a value of type double to the local counter. " alt="" coords="412,1689,513,1716"/>
+</map>

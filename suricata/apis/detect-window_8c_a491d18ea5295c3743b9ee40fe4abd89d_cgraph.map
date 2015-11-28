@@ -1,0 +1,11 @@
+<map id="DetectWindowRegister" name="DetectWindowRegister">
+<area shape="rect" id="node2" href="$detect-window_8c.html#a5b204f8eab35a043620d755f83680ebc" title="this function will free memory associated with DetectWindowData " alt="" coords="691,34,826,60"/>
+<area shape="rect" id="node3" href="$detect-window_8c.html#ac88385bbcdf5b08b0131f81a04718084" title="This function is used to match the window size on a packet. " alt="" coords="235,34,379,60"/>
+<area shape="rect" id="node4" href="$detect-window_8c.html#af52de9f7c065a7ec2fa6acdff76d2718" title="this function registers unit tests for DetectWindow " alt="" coords="211,84,402,111"/>
+<area shape="rect" id="node5" href="$detect-window_8c.html#a1f8a149f58eb4383ad8ba15310b795d1" title="this function is used to add the parsed window sizedata into the current signature ..." alt="" coords="235,135,378,162"/>
+<area shape="rect" id="node6" href="$detect-window_8c.html#a4bfb83cf5d6d6a60fcf742cb7b479b70" title="This function is used to parse window options passed via window: keyword. " alt="" coords="469,84,611,111"/>
+<area shape="rect" id="node9" href="$detect-parse_8c.html#ac660313b91a0bfc2da5e94b673937e22" title="SigMatchAlloc" alt="" coords="487,135,593,162"/>
+<area shape="rect" id="node10" href="$detect-parse_8c.html#a43a5de8e35bad6e940f497a6358c284d" title="Append a SigMatch to the list type. " alt="" coords="451,186,629,212"/>
+<area shape="rect" id="node7" href="$util-byte_8c.html#a9cc0b7c198843ccaebe904f4653fb154" title="ByteExtractStringUint16" alt="" coords="677,84,840,111"/>
+<area shape="rect" id="node8" href="$util-byte_8c.html#a43dab0146a4fbdf54e3c1dba707b0534" title="ByteExtractString" alt="" coords="888,84,1013,111"/>
+</map>

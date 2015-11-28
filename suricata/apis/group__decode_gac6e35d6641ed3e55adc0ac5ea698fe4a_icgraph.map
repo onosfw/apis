@@ -1,0 +1,51 @@
+<map id="PacketCopyData" name="PacketCopyData">
+<area shape="rect" id="node2" href="$group__afppacket.html#gab08fbe1f470fc39a5f8844a5a597efd0" title="AF packet read function. " alt="" coords="219,851,298,877"/>
+<area shape="rect" id="node8" href="$group__afppacket.html#gadcd185d5bd2d2529761199165612cad5" title="AF packet read function for ring. " alt="" coords="191,800,327,827"/>
+<area shape="rect" id="node9" href="$source-napatech_8c.html#af426c67ce4670e8c4266a31c7744a657" title="Main Napatech reading Loop function. " alt="" coords="421,948,569,975"/>
+<area shape="rect" id="node11" href="$source-nfq_8c.html#a685bd5abf241e1e7281beeb512567e0f" title="Read data from nfq message and setup Packet. " alt="" coords="207,952,311,979"/>
+<area shape="rect" id="node12" href="$group__decode.html#ga6a2a9e86342d10a67ce9178598793597" title="Setup a pseudo packet (reassembled frags) " alt="" coords="181,1003,337,1029"/>
+<area shape="rect" id="node13" href="$group__decode.html#ga289ef60badcd4b221fadd90590249d15" title="Setup a pseudo packet (tunnel) " alt="" coords="181,521,337,548"/>
+<area shape="rect" id="node42" href="$source-pcap_8c.html#ac1ee449a092f7f009db6f26dcd4a470c" title="PcapCallbackLoop" alt="" coords="429,15,560,41"/>
+<area shape="rect" id="node45" href="$source-pcap-file_8c.html#a934a648259c10e7b63e9c5ccc923d0c0" title="PcapFileCallbackLoop" alt="" coords="688,889,840,916"/>
+<area shape="rect" id="node47" href="$source-ipfw_8c.html#ad609efbfa3aadd46968c866b93ed3542" title="ReceiveIPFWLoop" alt="" coords="937,65,1069,92"/>
+<area shape="rect" id="node49" href="$stream-tcp_8h.html#a160c3587cec73107189ae0e0913726bf" title="Function to fetch a packet from the packet allocation queue for creation of the pseudo packet from th..." alt="" coords="177,1053,341,1080"/>
+<area shape="rect" id="node3" href="$group__afppacket.html#ga47336052bf58297a6dc5dbc7ac7da790" title="Main AF_PACKET reading Loop function. " alt="" coords="433,851,557,877"/>
+<area shape="rect" id="node4" href="$group__afppacket.html#ga125f047940f8ff0ea8f5295cd2ce7f3e" title="Registration Function for RecieveAFP. " alt="" coords="2053,1148,2259,1175"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="2321,1005,2455,1032"/>
+<area shape="rect" id="node6" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="2504,1005,2603,1032"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="2651,1005,2701,1032"/>
+<area shape="rect" id="node10" href="$source-napatech_8h.html#aeb949c5f1845fff47c31c10691181258" title="Register the Napatech receiver (reader) module. " alt="" coords="649,1231,879,1257"/>
+<area shape="rect" id="node14" href="$decode_8h.html#a521419ba999cb4758e74fa21f021cbef" title="Function to decode GRE packets. " alt="" coords="716,471,812,497"/>
+<area shape="rect" id="node15" href="$decode_8h.html#a7f31196d1cd88c8133fb4656dc78e1bd" title="DecodeIPV4" alt="" coords="955,496,1051,523"/>
+<area shape="rect" id="node38" href="$decode-teredo_8h.html#a790ad61958f0ed71e2587689c4a0a625" title="Function to decode Teredo packets. " alt="" coords="441,572,548,599"/>
+<area shape="rect" id="node16" href="$decode_8h.html#ae757db8ee52f5be0ff2821688334952f" title="DecodeEthernet" alt="" coords="1649,432,1765,459"/>
+<area shape="rect" id="node28" href="$source-ipfw_8c.html#aff41eec89b2fa3b70bc09a9bdfcea306" title="This function passes off to link type decoders. " alt="" coords="1180,1028,1281,1055"/>
+<area shape="rect" id="node22" href="$decode_8h.html#a0c75ef88ccdbe3c0df34f350ed1e032c" title="DecodeMPLS" alt="" coords="1851,229,1954,256"/>
+<area shape="rect" id="node30" href="$source-nfq_8c.html#a7ff150b157e75ee5d9ecf69428d86bab" title="Decode a packet coming from NFQ. " alt="" coords="1183,724,1278,751"/>
+<area shape="rect" id="node32" href="$decode_8h.html#a46a9ea30bc854963d0a96973d549b6b6" title="DecodeNull" alt="" coords="1447,959,1537,985"/>
+<area shape="rect" id="node33" href="$decode_8h.html#a99dbd5a218dfd26395ba5cfdad281b25" title="DecodePPP" alt="" coords="1659,736,1754,763"/>
+<area shape="rect" id="node34" href="$decode_8h.html#aeeb1c6b240a0451183f492c97c472f75" title="Main decoding function for PPPOE Session packets. " alt="" coords="1151,420,1311,447"/>
+<area shape="rect" id="node37" href="$decode_8h.html#ad6fc587c40fd8d1bace41472f5e26011" title="DecodeRaw" alt="" coords="1659,685,1754,712"/>
+<area shape="rect" id="node36" href="$decode_8h.html#ad4bd1f7377175ca5a86169d41fa82f0c" title="DecodeSll" alt="" coords="1665,635,1748,661"/>
+<area shape="rect" id="node21" href="$group__decode.html#ga3d5a53f9af62c80797e8095c7e95e947" title="DecodeTunnel" alt="" coords="2103,331,2209,357"/>
+<area shape="rect" id="node35" href="$decode_8h.html#a6e6385134dd2185e197e71cf14f539d7" title="DecodeVLAN" alt="" coords="1441,533,1543,560"/>
+<area shape="rect" id="node17" href="$group__afppacket.html#gafcbf7219ec47e4cc77337c9f314836e7" title="This function passes off to link type decoders. " alt="" coords="1856,635,1949,661"/>
+<area shape="rect" id="node18" href="$source-erf-dag_8c.html#afca2cd02f51930712b129fc69947b7e5" title="This function passes off to link type decoders. " alt="" coords="1849,381,1957,408"/>
+<area shape="rect" id="node19" href="$source-erf-file_8c.html#a25f55aa3160c3f3e2401ff59a1bf0006" title="Decode the ERF file. " alt="" coords="1850,432,1955,459"/>
+<area shape="rect" id="node20" href="$decode_8h.html#a264209b4296a1f54359b9fde4a34c407" title="Function to decode ERSPAN packets. " alt="" coords="1841,331,1964,357"/>
+<area shape="rect" id="node23" href="$source-pcap_8c.html#a4472b637a70511616e225fa8563d03bb" title="This function passes off to link type decoders. " alt="" coords="1854,685,1951,712"/>
+<area shape="rect" id="node24" href="$source-pfring_8c.html#a915feec31d0e3f61cfdc47b15d4201eb" title="This function passes off to link type decoders. " alt="" coords="1852,483,1953,509"/>
+<area shape="rect" id="node25" href="$source-napatech_8c.html#a96df81e27da7d60754c92162338c8c3f" title="This function passes off to link type decoders. " alt="" coords="1841,533,1964,560"/>
+<area shape="rect" id="node26" href="$source-pcap-file_8c.html#a6fe91932d9ed6fee895232a82f65fdda" title="ReceivePcapFileThreadInit" alt="" coords="1813,736,1992,763"/>
+<area shape="rect" id="node27" href="$source-pcap-file_8h.html#a11a753284083f1df62c9709579f10ffb" title="TmModuleReceivePcapFileRegister" alt="" coords="2041,1005,2271,1032"/>
+<area shape="rect" id="node29" href="$source-ipfw_8h.html#a7ce5e29608a3a5fdbb24698934ccc066" title="Registration Function for DecodeIPFW. " alt="" coords="2051,1067,2261,1093"/>
+<area shape="rect" id="node31" href="$source-nfq_8c.html#aae0ce2a417f5740d558f3489af38f402" title="TmModuleDecodeNFQRegister" alt="" coords="1389,837,1595,864"/>
+<area shape="rect" id="node39" href="$decode_8h.html#a57055d07a01f1dc95b9d6e4ee101b052" title="DecodeUDP" alt="" coords="716,572,812,599"/>
+<area shape="rect" id="node40" href="$decode_8h.html#ae8378247ce97b52c75938e7ac548495f" title="DecodeIPV6" alt="" coords="955,749,1051,776"/>
+<area shape="rect" id="node41" href="$decode-template_8c.html#af6cb1d2778038e00d46d7cde8f21f419" title="Function to decode XXX packets. " alt="" coords="934,572,1071,599"/>
+<area shape="rect" id="node43" href="$source-pcap_8c.html#ab9fbe81fa4e8aae368fdf57d6db5ee4d" title="Main PCAP reading Loop function. " alt="" coords="700,15,828,41"/>
+<area shape="rect" id="node44" href="$source-pcap_8h.html#a3f3510c3241770c5b3cd8fb6df1c4c6c" title="Registration Function for RecievePcap. " alt="" coords="1125,15,1336,41"/>
+<area shape="rect" id="node46" href="$source-pcap-file_8c.html#a6feffffa554a28df067ada0ebcc0db1d" title="Main PCAP file reading Loop function. " alt="" coords="928,952,1077,979"/>
+<area shape="rect" id="node48" href="$source-ipfw_8h.html#a6a7cdbd6450ac4a9b69c5994212d3b4b" title="Registration Function for RecieveIPFW. " alt="" coords="1385,65,1599,92"/>
+<area shape="rect" id="node50" href="$stream-tcp_8c.html#ad855fab70c5359eb4d6e2671925fdaa4" title="Create a pseudo packet injected into the engine to signal the opposing direction of this stream to wr..." alt="" coords="389,1046,600,1087"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="DetectPortInsert" name="DetectPortInsert">
+<area shape="rect" id="node2" href="$detect-engine-port_8c.html#a99a3e1b81a12b2048ee19c49d3467369" title="Function that compare port groups. " alt="" coords="367,5,481,32"/>
+<area shape="rect" id="node3" href="$detect-engine-port_8c.html#a336d41e96ce6898d02ebecc582cc1557" title="Free a DetectPort and its members. " alt="" coords="369,93,479,120"/>
+<area shape="rect" id="node8" href="$detect-engine-port_8c.html#a05bf13895dd5fc46b43c7ac182cb4561" title="function for inserting a port group object. This also makes sure SigGroupContainer lists are handled ..." alt="" coords="174,121,293,148"/>
+<area shape="rect" id="node9" href="$detect-engine-port_8c.html#a5b98d8d3a7c3a879a0b7bc44b2370ac6" title="Helper function that print the DetectPort info. " alt="" coords="368,163,480,189"/>
+<area shape="rect" id="node10" href="$util-debug_8c.html#ab793aa1c0db8ab4c177d80f79c085297" title="Returns whether debug messages are enabled to be logged or not. " alt="" coords="351,223,497,249"/>
+<area shape="rect" id="node11" href="$detect-engine-siggroup_8c.html#a51eba76854157da0de4a460887ff391d" title="Copies the bitarray holding the sids from the source SigGroupHead to the destination SigGroupHead..." alt="" coords="342,273,506,300"/>
+<area shape="rect" id="node4" href="$detect-engine-port_8c.html#aa96929b52a485980356a11188a6e9f16" title="Free a DetectPort list and each of its members. " alt="" coords="555,93,709,120"/>
+<area shape="rect" id="node5" href="$detect-engine-siggroup_8c.html#a176702ac4621c9006d89a8d6801d7ce1" title="Free a SigGroupHead and its members. " alt="" coords="565,144,699,171"/>
+<area shape="rect" id="node6" href="$detect-engine-mpm_8c.html#a6a1c9264037c5fe5756ea28f6ddab251" title="PatternMatchDestroyGroup" alt="" coords="757,119,939,145"/>
+<area shape="rect" id="node7" href="$detect-engine-siggroup_8c.html#a6f6c71bc5fff7f350d164523257ebed1" title="SigGroupHeadInitDataFree" alt="" coords="759,169,937,196"/>
+</map>

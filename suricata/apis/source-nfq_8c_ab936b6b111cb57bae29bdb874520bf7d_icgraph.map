@@ -1,0 +1,14 @@
+<map id="NFQGetQueue" name="NFQGetQueue">
+<area shape="rect" id="node2" href="$source-nfq_8c.html#a6415f38964b6be2bfa8097ab207e6680" title="NFQInitThread" alt="" coords="205,5,313,32"/>
+<area shape="rect" id="node9" href="$source-nfq_8c.html#ad5a7fac971a626ed03029d8c0cca1243" title="Main NFQ reading Loop function. " alt="" coords="422,56,549,83"/>
+<area shape="rect" id="node10" href="$source-nfq_8c.html#a73d9f529de9edf20a09744daa5a5b220" title="ReceiveNFQThreadDeinit" alt="" coords="173,107,345,133"/>
+<area shape="rect" id="node11" href="$source-nfq_8c.html#a64d5d4a1a468e55ee135a40c413fd22c" title="NFQ receive module stats printing function. " alt="" coords="163,157,355,184"/>
+<area shape="rect" id="node12" href="$source-nfq_8c.html#ade412d438196cb799f387dcf5f6a76d3" title="VerdictNFQThreadDeinit" alt="" coords="403,208,568,235"/>
+<area shape="rect" id="node3" href="$source-nfq_8c.html#aa08f4708e72243b9077e91c7e8d2a9bf" title="ReceiveNFQThreadInit" alt="" coords="407,5,563,32"/>
+<area shape="rect" id="node4" href="$source-nfq_8c.html#a3edf220a6e6d2f8be2a0e14b9298f980" title="TmModuleReceiveNFQRegister" alt="" coords="616,107,824,133"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="873,145,1007,172"/>
+<area shape="rect" id="node6" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="1056,145,1155,172"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1400,145,1451,172"/>
+<area shape="rect" id="node8" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="1203,171,1352,197"/>
+<area shape="rect" id="node13" href="$source-nfq_8c.html#a72f89d52fdea56362998f329f2052ddc" title="TmModuleVerdictNFQRegister" alt="" coords="619,183,821,209"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ReceiveErfDagThreadExitStats" name="ReceiveErfDagThreadExitStats">
+<area shape="rect" id="node2" href="$source-erf-dag_8h.html#a91e9820c732f0cc1d556b6ae671094b1" title="Register the ERF file receiver (reader) module. " alt="" coords="259,5,480,32"/>
+<area shape="rect" id="node3" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="529,5,663,32"/>
+<area shape="rect" id="node4" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="712,5,811,32"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1056,5,1107,32"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="859,31,1008,57"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="DNSReponseParse" name="DNSReponseParse">
+<area shape="rect" id="node2" href="$app-layer-dns-common_8c.html#ab6abfbc8a4187af939f4f908237acbde" title="DNSStoreAnswerInState" alt="" coords="192,56,360,83"/>
+<area shape="rect" id="node8" href="$util-print_8c.html#ae571482664d670a7c18ae627c32f7e25" title="PrintRawDataFp" alt="" coords="217,107,335,133"/>
+<area shape="rect" id="node3" href="$app-layer-dns-common_8c.html#a8f88edf2f3631e5683930e2ecea3b7f7" title="DNSTransactionFindByTxId" alt="" coords="408,5,595,32"/>
+<area shape="rect" id="node4" href="$app-layer-dns-common_8c.html#a84161199802ac8e81f1a2e8774dc1d89" title="DNSCheckMemcap" alt="" coords="432,56,571,83"/>
+<area shape="rect" id="node7" href="$app-layer-dns-common_8c.html#a29c7da3ba981a212130793e73434ed5a" title="DNSIncrMemcap" alt="" coords="440,107,563,133"/>
+<area shape="rect" id="node5" href="$app-layer-dns-common_8c.html#a7210bf7334be9c9481afec3008486fcf" title="DNSSetEvent" alt="" coords="643,56,749,83"/>
+<area shape="rect" id="node6" href="$app-layer-events_8c.html#aa19aec45221296320307ef2e2803780c" title="Set an app layer decoder event. " alt="" coords="797,49,984,90"/>
+</map>

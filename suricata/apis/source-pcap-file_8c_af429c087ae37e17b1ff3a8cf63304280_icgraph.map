@@ -1,0 +1,7 @@
+<map id="PcapFileGlobalInit" name="PcapFileGlobalInit">
+<area shape="rect" id="node2" href="$runmode-pcap-file_8h.html#a8b3fac464c73a6e2f8bfd8175a9dbc96" title="RunModeFilePcapAutoFp set up the following thread packet handlers: " alt="" coords="181,5,352,32"/>
+<area shape="rect" id="node6" href="$runmode-pcap-file_8h.html#a0b2361b53d1001da4064cac92706a590" title="Single thread version of the Pcap file processing. " alt="" coords="184,56,349,83"/>
+<area shape="rect" id="node3" href="$runmode-pcap-file_8h.html#ac0d7c8cc1a9e09f97cb2fa18dfb6c554" title="RunModeFilePcapRegister" alt="" coords="400,31,579,57"/>
+<area shape="rect" id="node4" href="$runmodes_8h.html#aa5565123b11fa026e96b91b23db91ba9" title="Register all runmodes in the engine. " alt="" coords="627,31,818,57"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="867,31,917,57"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="B3gSearch" name="B3gSearch">
+<area shape="rect" id="node2" href="$util-mpm-b3g_8c.html#af58addb492d261728168450f41ab1430" title="Function to get the user defined values for b3g algorithm from the config file &#39;suricata.yaml&#39;. " alt="" coords="141,56,245,83"/>
+<area shape="rect" id="node3" href="$util-mpm-b3g_8c.html#a3be22fef0e76d192fd7ae60bc4ce75b6" title="B3gInitCtx" alt="" coords="294,56,378,83"/>
+<area shape="rect" id="node4" href="$util-mpm-b3g_8h.html#a5736aadb78b59c903a3c987d89832008" title="MpmB3gRegister" alt="" coords="427,56,549,83"/>
+<area shape="rect" id="node5" href="$util-mpm_8h.html#a5f2c4e8d699ef7a5562674a6de86a66e" title="MpmTableSetup" alt="" coords="597,56,715,83"/>
+<area shape="rect" id="node6" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="791,5,889,32"/>
+<area shape="rect" id="node9" href="$util-running-modes_8h.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title="ListKeywords" alt="" coords="789,56,891,83"/>
+<area shape="rect" id="node10" href="$util-running-modes_8h.html#ad03a2414917a2fc87f4be0370c4c8fd7" title="ListAppLayerProtocols" alt="" coords="763,107,917,133"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1163,31,1213,57"/>
+<area shape="rect" id="node8" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="965,56,1115,83"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="RunModeIdsPfringWorkers" name="RunModeIdsPfringWorkers">
+<area shape="rect" id="node2" href="$runmode-pfring_8c.html#ad8b5c5dacb482e1bbe05bb32f898cf58" title="PfringConfigGeThreadsCount" alt="" coords="245,69,438,96"/>
+<area shape="rect" id="node3" href="$runmodes_8c.html#a07225b8600c17470752ae849ace81e0f" title="RunModeInitialize" alt="" coords="278,120,405,147"/>
+<area shape="rect" id="node13" href="$util-runmodes_8c.html#af172e0dce21aa23e4a6036c741fcb6ca" title="RunModeSetLiveCaptureWorkers" alt="" coords="233,196,450,223"/>
+<area shape="rect" id="node16" href="$util-time_8c.html#a4c8898901628befb98548be21b599f14" title="TimeModeSetLive" alt="" coords="278,247,405,273"/>
+<area shape="rect" id="node4" href="$conf_8c.html#ad05ff3c317a042691169abc26475bb19" title="Retrieve a configuration value as an boolen. " alt="" coords="522,56,619,83"/>
+<area shape="rect" id="node10" href="$util-affinity_8c.html#ae1a3c113aa148b64530ae41a0d5aa67f" title="Extract cpu affinity configuration from current config file. " alt="" coords="691,157,885,184"/>
+<area shape="rect" id="node12" href="$conf_8c.html#a1383ef0374af39daea9af86c53919c02" title="Retrieve a configuration value as a float. " alt="" coords="521,5,621,32"/>
+<area shape="rect" id="node6" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="971,107,1074,133"/>
+<area shape="rect" id="node5" href="$conf_8c.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="753,5,823,32"/>
+<area shape="rect" id="node9" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true. " alt="" coords="735,56,841,83"/>
+<area shape="rect" id="node7" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="1161,183,1314,209"/>
+<area shape="rect" id="node8" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="1207,107,1268,133"/>
+<area shape="rect" id="node11" href="$util-affinity_8c.html#ab716a16a85291314f6fd64bdf8366abb" title="find affinity by its name " alt="" coords="933,157,1112,184"/>
+<area shape="rect" id="node14" href="$util-device_8c.html#a98bf56c79d344f38884b1af3cb36a9ea" title="Get the number of registered devices. " alt="" coords="499,208,642,235"/>
+<area shape="rect" id="node15" href="$util-device_8c.html#aeda89d2b7fa6bdef4cfc46d075542e32" title="Get a pointer to the device name at idx. " alt="" coords="499,259,642,285"/>
+</map>

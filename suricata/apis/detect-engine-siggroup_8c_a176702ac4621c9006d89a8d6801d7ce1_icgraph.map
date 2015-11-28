@@ -1,0 +1,51 @@
+<map id="SigGroupHeadFree" name="SigGroupHeadFree">
+<area shape="rect" id="node2" href="$detect_8c.html#a0ff85d4d7e9776988c8fe1659f65db89" title="Build the destination address portion of the match tree. " alt="" coords="1331,586,1533,613"/>
+<area shape="rect" id="node8" href="$detect_8c.html#aa3952cbb6c857eb9d1b9b2fa7689c0e4" title="BuildDestinationAddressHeads\lWithBothPorts" alt="" coords="1331,175,1533,216"/>
+<area shape="rect" id="node9" href="$detect-engine-address_8h.html#a081587e0db6a4115bd7bcb27fc72100c" title="Frees a DetectAddress instance. " alt="" coords="619,535,754,562"/>
+<area shape="rect" id="node27" href="$detect-engine-port_8h.html#ad0d1047c09f0ace500f304a1c081af9b" title="Free a DetectPort and its members. " alt="" coords="187,485,298,511"/>
+<area shape="rect" id="node18" href="$detect_8c.html#af652b57009cbaba3f977aad7ae3eca22" title="SigAddressCleanupStage1" alt="" coords="1599,915,1777,942"/>
+<area shape="rect" id="node3" href="$detect_8c.html#a72fc70b5d12e86ff5827d2d397233773" title="SigAddressPrepareStage3" alt="" coords="1601,510,1775,537"/>
+<area shape="rect" id="node4" href="$detect_8h.html#a5eab8b8beaf1cc85d8a25a309ea13124" title="Convert the signature list into the runtime match structure. " alt="" coords="1853,535,1958,562"/>
+<area shape="rect" id="node5" href="$detect_8h.html#a8b471081c75864d1c8d4bcb14eaebc3b" title="Load signatures. " alt="" coords="2025,535,2156,562"/>
+<area shape="rect" id="node6" href="$detect-engine_8h.html#aba0e2c94ab90c4390af30af806db271d" title="Reload the detection engine. " alt="" coords="2214,535,2357,562"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="2405,535,2456,562"/>
+<area shape="rect" id="node10" href="$detect_8c.html#afc77848803e5fcaaf39f90ff860140dc" title="CreateGroupedAddrList" alt="" coords="1103,383,1262,410"/>
+<area shape="rect" id="node12" href="$detect-engine-address_8h.html#a4cc59238102c04e83057ce6617763d9a" title="Frees a list of DetectAddress instances. " alt="" coords="837,586,1016,613"/>
+<area shape="rect" id="node22" href="$detect-engine-address-ipv4_8h.html#a3c85b240c7c47383d2dbcffe36cdde8d" title="Cut groups and merge sigs. " alt="" coords="848,410,1005,437"/>
+<area shape="rect" id="node23" href="$detect-engine-address-ipv6_8h.html#a558db72b9d449017c962d736b762296e" title="DetectAddressCutIPv6" alt="" coords="848,359,1005,386"/>
+<area shape="rect" id="node24" href="$detect-engine-address_8h.html#a5f63946f5f3ce24870d1211b1f3bdeb0" title="Same as DetectAddressInsert, but then for inserting a address group object. This also makes sure SigG..." alt="" coords="855,535,998,562"/>
+<area shape="rect" id="node25" href="$detect-engine-address_8c.html#a69bbe731d2e859401b2d36174a8bebf2" title="Merge the + and the &#45; list (+ positive match, &#45; &#39;not&#39; match) " alt="" coords="1349,535,1515,562"/>
+<area shape="rect" id="node11" href="$detect_8c.html#aabe6ab0213639a48e8560e510eb7ca02" title="Fill the global src group head, with the sigs included. " alt="" coords="1601,561,1775,587"/>
+<area shape="rect" id="node13" href="$detect-engine-address_8h.html#ae311f96a3cc92a076434d1112ea6f773" title="Cleans a DetectAddressHead. The functions frees the 3 address group heads(any, ipv4 and ipv6) inside ..." alt="" coords="1089,789,1277,815"/>
+<area shape="rect" id="node14" href="$detect-engine-address_8h.html#ab2e1756cf718c7aedb610c5941d4a8f2" title="Frees a DetectAddressHead instance. " alt="" coords="1349,789,1515,815"/>
+<area shape="rect" id="node21" href="$detect-parse_8h.html#abd9806753735a8d2e753c1a318dae122" title="SigFree" alt="" coords="1399,713,1465,739"/>
+<area shape="rect" id="node15" href="$detect-engine-address_8h.html#ab3a963e12de032ca4aa2c531a4a0f21d" title="Parses an address group sent as a character string and updates the DetectAddressHead sent as the argu..." alt="" coords="1617,649,1759,675"/>
+<area shape="rect" id="node17" href="$detect-engine-address_8h.html#a7b334724d7b8972be5e41e96ac4da12b" title="DetectAddressTestConfVars" alt="" coords="1593,789,1783,815"/>
+<area shape="rect" id="node16" href="$detect-parse_8c.html#a84a84c4f3fd51f473abc014096a35197" title="Parse address string and update signature. " alt="" coords="1844,649,1967,675"/>
+<area shape="rect" id="node19" href="$detect_8h.html#a6fcb4dff660aa88d3521baefa1fe3d51" title="SigGroupCleanup" alt="" coords="1843,915,1967,942"/>
+<area shape="rect" id="node20" href="$detect-engine_8h.html#a507b6b477b36478010d0946149c2d357" title="Free a DetectEngineCtx:: " alt="" coords="2017,915,2165,942"/>
+<area shape="rect" id="node26" href="$detect-engine-address_8c.html#a9329b113f0526a40f64cdf2031b46cd4" title="Setup a single address string, parse it and add the resulting Address&#45;Range(s) to the AddessHead(Dete..." alt="" coords="1111,535,1254,562"/>
+<area shape="rect" id="node28" href="$detect_8c.html#af8308f17a2d3019793ffbebc75d889bd" title="CreateGroupedPortList" alt="" coords="609,157,764,183"/>
+<area shape="rect" id="node29" href="$detect-engine-port_8h.html#aa96929b52a485980356a11188a6e9f16" title="Free a DetectPort list and each of its members. " alt="" coords="373,586,528,613"/>
+<area shape="rect" id="node42" href="$detect-engine-port_8c.html#a75d136f87a9add2205627924c8eb215b" title="DetectPortFreeFunc" alt="" coords="617,106,757,133"/>
+<area shape="rect" id="node47" href="$detect-engine-port_8h.html#a5570ecf75ec3ea537ee51b6ceae88268" title="function for inserting a port group object. This also makes sure SigGroupContainer lists are handled ..." alt="" coords="391,359,510,386"/>
+<area shape="rect" id="node50" href="$detect-engine-port_8c.html#a37cc1e56039761193d64fa6feba1909a" title="Helper function for the parsing process. " alt="" coords="347,713,554,739"/>
+<area shape="rect" id="node30" href="$app-layer-detect-proto_8h.html#ab24c1cac8b75e7744dd57010e310559f" title="register parser at a port " alt="" coords="819,991,1034,1018"/>
+<area shape="rect" id="node39" href="$detect-engine-port_8h.html#af6e6aa0b58f2896b78d81d649d4dd613" title="Function for parsing port strings. " alt="" coords="627,789,746,815"/>
+<area shape="rect" id="node40" href="$detect-engine-port_8h.html#acadde7836a00e3a3fbf1bb4c6ddb72db" title="DetectPortTestConfVars" alt="" coords="603,586,770,613"/>
+<area shape="rect" id="node41" href="$detect-engine-port_8c.html#a122a12a2fc0cc6f70c9f5c2918467d23" title="Helper function for parsing port strings. " alt="" coords="647,637,727,663"/>
+<area shape="rect" id="node31" href="$app-layer-detect-proto_8h.html#a9883134087a5ccfadb4dbddafa04027c" title="AppLayerProtoDetectPPParse\lConfPorts" alt="" coords="1083,1043,1282,1084"/>
+<area shape="rect" id="node32" href="$app-layer-dns-tcp_8h.html#ac637e7cedd8afd651b1cf217d654d285" title="RegisterDNSTCPParsers" alt="" coords="1346,974,1518,1001"/>
+<area shape="rect" id="node34" href="$app-layer-dns-udp_8h.html#a621fd6c4064a0962df00a7dff98c3e12" title="RegisterDNSUDPParsers" alt="" coords="1345,1025,1519,1051"/>
+<area shape="rect" id="node35" href="$app-layer-modbus_8h.html#aa672d3c3fae34a79808da8f9f3043573" title="Function to register the Modbus protocol parsers and other functions. " alt="" coords="1351,1075,1513,1102"/>
+<area shape="rect" id="node36" href="$app-layer-smb_8h.html#aeec3fc7e57e33d4c2df0db5157ccccc2" title="RegisterSMBParsers" alt="" coords="1359,1126,1505,1153"/>
+<area shape="rect" id="node37" href="$app-layer-ssl_8h.html#ac41f8ede008657dd3bd8971a8dc24628" title="Function to register the SSL protocol parser and other functions. " alt="" coords="1361,1177,1503,1203"/>
+<area shape="rect" id="node38" href="$app-layer-template_8h.html#ac39e3903c23aff255a27a6dfcdf2d652" title="RegisterTemplateParsers" alt="" coords="1347,923,1517,950"/>
+<area shape="rect" id="node33" href="$app-layer-parser_8h.html#ac5c64e1bddd13fdc99168538935cfab5" title="AppLayerParserRegisterProtocol\lParsers" alt="" coords="1582,1043,1794,1084"/>
+<area shape="rect" id="node43" href="$detect-engine-port_8h.html#a9468d406aea056ae18ca0a6dc96211bf" title="Function that initialize the HashListTable of destination DetectPort. " alt="" coords="851,55,1002,82"/>
+<area shape="rect" id="node45" href="$detect-engine-port_8h.html#a6acc23a40411bb2c5ffaccfbae349be2" title="Function that initialize the HashListTable of source DetectPort. " alt="" coords="851,106,1002,133"/>
+<area shape="rect" id="node44" href="$detect-engine-port_8h.html#acd33981171b69bf815e756aec7e978f0" title="Function that reset the HashListTable of destination DetectPort (Free and Initialize it) ..." alt="" coords="1099,55,1267,82"/>
+<area shape="rect" id="node46" href="$detect-engine-port_8h.html#a3cd546f126a9baf5fa5daf4d9aed2d89" title="Function that reset the HashListTable of source DetectPort (Free and Initialize it) ..." alt="" coords="1099,106,1266,133"/>
+<area shape="rect" id="node48" href="$detect-engine-port_8h.html#a4f9f89da81d66489b1f7f9ad01f952f3" title="Copy and insert the new DetectPort, with a copy list of sigs. " alt="" coords="612,359,761,386"/>
+<area shape="rect" id="node49" href="$detect-engine-address_8h.html#ac02d2217a26ec2e8f87de581bd0ef6c5" title="Join two addresses groups together. " alt="" coords="860,309,993,335"/>
+</map>

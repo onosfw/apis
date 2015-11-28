@@ -1,0 +1,25 @@
+var structSCInstance__ =
+[
+    [ "checksum_validation", "structSCInstance__.html#a38472f94e8b3cc7e1accecbd298efc1c", null ],
+    [ "daemon", "structSCInstance__.html#a89dd65e4729bcbe6ac6fc638c1c09c71", null ],
+    [ "delayed_detect", "structSCInstance__.html#afe5fd5dc817d41f12dadc7ffe925f7da", null ],
+    [ "disabled_detect", "structSCInstance__.html#ae0b2f126cc59c7750a529368013ea0b7", null ],
+    [ "do_setgid", "structSCInstance__.html#a0d330a50e128386d6d5ef5d0dd1c17e8", null ],
+    [ "do_setuid", "structSCInstance__.html#a957f770b091aee4353a47b87e1b1e232", null ],
+    [ "group_name", "structSCInstance__.html#aa8cf3904f2476144d175b39ed639dd4e", null ],
+    [ "groupid", "structSCInstance__.html#adad06457d4096ac947a5c7381d378edf", null ],
+    [ "keyword_info", "structSCInstance__.html#adc2eb1ee678cba111a424a6704172f73", null ],
+    [ "log_dir", "structSCInstance__.html#ac99cf83ea1e775152ba52d39888f9afc", null ],
+    [ "offline", "structSCInstance__.html#ae44ff48f7d526ef53abf77cfdb9feaa8", null ],
+    [ "pcap_dev", "structSCInstance__.html#abce65c9e13ea5dff5874abe104ad3dfb", null ],
+    [ "pid_filename", "structSCInstance__.html#adf5f7df3b48dfa879a55ebed638a9301", null ],
+    [ "regex_arg", "structSCInstance__.html#a77c02baa1ee6f65409695a74ec2092a7", null ],
+    [ "run_mode", "structSCInstance__.html#ae44ae054d573499fce3207fe3068e7c1", null ],
+    [ "runmode_custom_mode", "structSCInstance__.html#a139b4efce1db3ef596662e16fb93ef2d", null ],
+    [ "sig_file", "structSCInstance__.html#a14fbe0181938d8aefc1fcf0bb642a1b7", null ],
+    [ "sig_file_exclusive", "structSCInstance__.html#a347deaa63817615317feccbaf22f7d69", null ],
+    [ "start_time", "structSCInstance__.html#a0991c697dba89aa46a77e329a32de5fe", null ],
+    [ "user_name", "structSCInstance__.html#a093301b03e46f448e158ecda6b2a549f", null ],
+    [ "userid", "structSCInstance__.html#a7159d31cecf2d43064a0b9f1321de632", null ],
+    [ "verbose", "structSCInstance__.html#ae4632eb956e2a22098e7501147419934", null ]
+];

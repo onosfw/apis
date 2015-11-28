@@ -1,0 +1,8 @@
+<map id="SignatureIsFileMd5Inspecting" name="SignatureIsFileMd5Inspecting">
+<area shape="rect" id="node2" href="$detect-engine-siggroup_8h.html#a90b46615fb72578d4e772492ede967f8" title="Set the need magic flag in the sgh. " alt="" coords="249,5,447,32"/>
+<area shape="rect" id="node3" href="$detect_8c.html#a55537a819c877544ef1674973853f09f" title="finalize preparing sgh&#39;s " alt="" coords="497,5,671,32"/>
+<area shape="rect" id="node4" href="$detect_8h.html#a5eab8b8beaf1cc85d8a25a309ea13124" title="Convert the signature list into the runtime match structure. " alt="" coords="721,5,826,32"/>
+<area shape="rect" id="node5" href="$detect_8h.html#a8b471081c75864d1c8d4bcb14eaebc3b" title="Load signatures. " alt="" coords="875,5,1005,32"/>
+<area shape="rect" id="node6" href="$detect-engine_8h.html#aba0e2c94ab90c4390af30af806db271d" title="Reload the detection engine. " alt="" coords="1054,5,1197,32"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1245,5,1296,32"/>
+</map>

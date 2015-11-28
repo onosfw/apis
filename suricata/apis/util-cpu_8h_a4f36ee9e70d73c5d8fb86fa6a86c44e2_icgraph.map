@@ -1,0 +1,50 @@
+<map id="UtilCpuGetNumProcessorsOnline" name="UtilCpuGetNumProcessorsOnline">
+<area shape="rect" id="node2" href="$util-affinity_8h.html#a60e0581f091ba45f813af9b17cba2cc8" title="Return next cpu to use for a given thread family. " alt="" coords="272,157,413,184"/>
+<area shape="rect" id="node46" href="$runmode-af-packet_8c.html#aa44206676da7e92c8d5f1b2442dbe2e0" title="extract information from config file " alt="" coords="1581,500,1701,527"/>
+<area shape="rect" id="node17" href="$runmode-erf-file_8h.html#a4d406431f0ab63d3143b81d3f600b09a" title="RunModeErfFileAutoFp" alt="" coords="1562,157,1721,184"/>
+<area shape="rect" id="node21" href="$runmode-pcap-file_8h.html#a8b3fac464c73a6e2f8bfd8175a9dbc96" title="RunModeFilePcapAutoFp set up the following thread packet handlers: " alt="" coords="1556,259,1727,285"/>
+<area shape="rect" id="node24" href="$util-runmodes_8h.html#a263673ca878720aa97c381465d02381b" title="RunModeSetIPSAutoFp" alt="" coords="1560,360,1723,387"/>
+<area shape="rect" id="node32" href="$util-runmodes_8h.html#aa945fa897a11a3aca339503ccdeda468" title="RunModeSetLiveCaptureAutoFp" alt="" coords="1536,639,1747,665"/>
+<area shape="rect" id="node49" href="$util-cpu_8h.html#ae6afbd9409c14fb37f5a9e70d3f94e79" title="Print a summary of CPUs detected (configured and online) " alt="" coords="467,705,616,732"/>
+<area shape="rect" id="node3" href="$tm-threads_8h.html#a0f83441e03b28d0fb0dfba2923ffaa0d" title="Set the thread options (cpu affinitythread). Priority should be already set by pthread_create. " alt="" coords="461,157,621,184"/>
+<area shape="rect" id="node4" href="$tm-threads_8c.html#ae587bc031308c4d760fd6441136ad684" title="TmThreadsSlotPktAcqLoop" alt="" coords="670,107,853,133"/>
+<area shape="rect" id="node45" href="$tm-threads_8c.html#a86f906803e6e37b43aed5cf1a37c91ee" title="TmThreadsSlotVar" alt="" coords="696,157,827,184"/>
+<area shape="rect" id="node5" href="$tm-threads_8c.html#a25369baa1a83811c880d10bf95cad079" title="We set the slot functions. " alt="" coords="901,107,1032,133"/>
+<area shape="rect" id="node6" href="$tm-threads_8c.html#af78474ba8e49604c9cf705c57cc95f51" title="Creates and returns the TV instance for a new thread. " alt="" coords="1080,107,1200,133"/>
+<area shape="rect" id="node7" href="$tm-threads_8h.html#a0ad83f5fc0de8d0ee23346b19ddf5c3d" title="Creates and returns the TV instance for a Command thread (CMD). This function supports only custom sl..." alt="" coords="1249,5,1487,32"/>
+<area shape="rect" id="node11" href="$tm-threads_8h.html#ae47f93ac82b266764653a7d9e44220d2" title="Creates and returns the TV instance for a Management thread(MGMT). This function supports only custom..." alt="" coords="1271,56,1465,83"/>
+<area shape="rect" id="node13" href="$tm-threads_8h.html#ace687797a257f61387245ec3ec403916" title="Creates and returns the TV instance for a Management thread(MGMT). This function supports only custom..." alt="" coords="2027,107,2221,149"/>
+<area shape="rect" id="node16" href="$tm-threads_8h.html#a3a9723ec915f969865c976c6b7b52252" title="Creates and returns a TV instance for a Packet Processing Thread. This function doesn&#39;t support custo..." alt="" coords="1265,309,1471,336"/>
+<area shape="rect" id="node8" href="$detect-engine-loader_8h.html#adf5194d673bf98d3bb964e10ec1872e5" title="spawn the detect loader manager thread " alt="" coords="1551,5,1731,32"/>
+<area shape="rect" id="node9" href="$detect-engine_8h.html#a3dd8dd8e9160b754f6be5b7136f5f891" title="setup multi&#45;detect / multi&#45;tenancy " alt="" coords="2269,7,2472,33"/>
+<area shape="rect" id="node10" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="2520,139,2571,165"/>
+<area shape="rect" id="node12" href="$counters_8h.html#a21cd088e883d698355768801db6f5e9d" title="Spawns the wakeup, and the management thread used by the stats api. " alt="" coords="2301,59,2441,85"/>
+<area shape="rect" id="node14" href="$flow-manager_8h.html#a20dbca5b9bd98fe6c7a3de02d6487a4c" title="spawn the flow manager thread " alt="" coords="2281,113,2461,140"/>
+<area shape="rect" id="node15" href="$flow-manager_8h.html#a83c270c95bd002fd66653df0b56224db" title="spawn the flow recycler thread " alt="" coords="2279,164,2462,191"/>
+<area shape="rect" id="node20" href="$runmode-erf-file_8h.html#a915f2f8caa7767da0f772a01421d9739" title="RunModeErfFileSingle" alt="" coords="1565,208,1717,235"/>
+<area shape="rect" id="node23" href="$runmode-pcap-file_8h.html#a0b2361b53d1001da4064cac92706a590" title="Single thread version of the Pcap file processing. " alt="" coords="1559,309,1724,336"/>
+<area shape="rect" id="node29" href="$util-runmodes_8h.html#a6dd10c519f023a760231bf09302de3d7" title="RunModeSetIPSWorker" alt="" coords="1560,411,1723,437"/>
+<area shape="rect" id="node18" href="$runmode-erf-file_8h.html#a2fa5ee6e088800426e896df9aeff1048" title="RunModeErfFileRegister" alt="" coords="1804,157,1969,184"/>
+<area shape="rect" id="node19" href="$runmodes_8h.html#aa5565123b11fa026e96b91b23db91ba9" title="Register all runmodes in the engine. " alt="" coords="2275,512,2466,539"/>
+<area shape="rect" id="node22" href="$runmode-pcap-file_8h.html#ac0d7c8cc1a9e09f97cb2fa18dfb6c554" title="RunModeFilePcapRegister" alt="" coords="1797,208,1976,235"/>
+<area shape="rect" id="node25" href="$runmode-ipfw_8h.html#ab98f939c839da52cdfa459f4369c7881" title="RunModeIpsIPFWAutoFp" alt="" coords="1801,259,1973,285"/>
+<area shape="rect" id="node27" href="$runmode-nfq_8h.html#a74ab8fb81b460f68e5b2989c9575e41a" title="RunModeIpsNFQAutoFp" alt="" coords="1803,360,1970,387"/>
+<area shape="rect" id="node26" href="$runmode-ipfw_8h.html#ae06ebfcccd6f11438a720a3b5753e5ac" title="RunModeIpsIPFWRegister" alt="" coords="2035,309,2213,336"/>
+<area shape="rect" id="node28" href="$runmode-nfq_8h.html#a9357135b637234befb24cfcefde1e95e" title="RunModeIpsNFQRegister" alt="" coords="2037,411,2211,437"/>
+<area shape="rect" id="node30" href="$runmode-ipfw_8h.html#a17d8ec657d20d82a53849a56e9db4b82" title="RunModeIpsIPFWWorker" alt="" coords="1801,309,1973,336"/>
+<area shape="rect" id="node31" href="$runmode-nfq_8h.html#aa10ad0e1cc7e8cb8738e88d97a4722d5" title="RunModeIpsNFQWorker" alt="" coords="1803,411,1970,437"/>
+<area shape="rect" id="node33" href="$runmode-af-packet_8h.html#af741b481e72c7d4e52637797fa320ea6" title="RunModeIdsAFPAutoFp" alt="" coords="1805,563,1969,589"/>
+<area shape="rect" id="node35" href="$runmode-erf-dag_8h.html#a70b2fc6e66952233a4152397b09c64c4" title="RunModeIdsErfDagAutoFp" alt="" coords="1797,613,1976,640"/>
+<area shape="rect" id="node37" href="$runmode-netmap_8h.html#a8dfba4755e54c47d166ebfc0fa9297b4" title="RunModeIdsNetmapAutoFp" alt="" coords="1795,664,1979,691"/>
+<area shape="rect" id="node39" href="$runmode-nflog_8h.html#a90b0f9d4cb07d2038585ce39116e5f76" title="RunModeIdsNflogAutoFp" alt="" coords="1802,715,1971,741"/>
+<area shape="rect" id="node41" href="$runmode-pcap_8h.html#a5a917ab959eb97ad190049c17ace53be" title="RunModIdsPcapAutoFp set up the following thread packet handlers: " alt="" coords="1803,765,1971,792"/>
+<area shape="rect" id="node43" href="$runmode-pfring_8h.html#a03d46b27b5c687483ac9f89476f490b6" title="RunModeIdsPfringAutoFp" alt="" coords="1801,816,1973,843"/>
+<area shape="rect" id="node34" href="$runmode-af-packet_8h.html#abf510dda35701437fc571d5b5f0f1f6e" title="RunModeIdsAFPRegister" alt="" coords="2039,512,2209,539"/>
+<area shape="rect" id="node36" href="$runmode-erf-dag_8h.html#a48e70c4e7988fa65ee295b869150cfa6" title="RunModeErfDagRegister" alt="" coords="2040,588,2208,615"/>
+<area shape="rect" id="node38" href="$runmode-netmap_8h.html#a8b229716bfd3fd0ed1c627350b1fb7da" title="RunModeIdsNetmapRegister" alt="" coords="2029,645,2219,672"/>
+<area shape="rect" id="node40" href="$runmode-nflog_8h.html#aaabe731f1245f1a7f8cfb9a1e9bd417b" title="RunModeIdsNflogRegister" alt="" coords="2036,708,2212,735"/>
+<area shape="rect" id="node42" href="$runmode-pcap_8h.html#a16e1fcee3ffd97b1987150fdd11cbbd5" title="RunModeIdsPcapRegister" alt="" coords="2037,765,2211,792"/>
+<area shape="rect" id="node44" href="$runmode-pfring_8h.html#a60ccf23e33d96ce4ad0e111902f1984b" title="RunModeIdsPfringRegister" alt="" coords="2035,816,2213,843"/>
+<area shape="rect" id="node47" href="$runmode-af-packet_8h.html#a4607fda68e0f4b15bc3207cec646da96" title="Single thread version of the AF_PACKET processing. " alt="" coords="1807,461,1966,488"/>
+<area shape="rect" id="node48" href="$runmode-af-packet_8h.html#a1402fe271c8a1f767de444b2d9535722" title="Workers version of the AF_PACKET processing. " alt="" coords="1801,512,1972,539"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="DetectEngineThreadCtxDeinit" name="DetectEngineThreadCtxDeinit">
+<area shape="rect" id="node2" href="$detect-engine_8h.html#a72c337802af74e71c4ea8fca8a68978c" title="initialize thread specific detection engine context " alt="" coords="251,5,431,32"/>
+<area shape="rect" id="node3" href="$detect_8c.html#a5e60360acb3a43baa3699fb8df8087a6" title="DetectThreadDeinit" alt="" coords="274,56,409,83"/>
+<area shape="rect" id="node4" href="$detect_8h.html#ae7a6e0f8b7fbe88c9c7ca064b7892c7c" title="TmModuleDetectRegister" alt="" coords="480,56,651,83"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="699,56,834,83"/>
+<area shape="rect" id="node6" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="883,56,981,83"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="1029,31,1179,57"/>
+<area shape="rect" id="node8" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1227,56,1277,83"/>
+</map>

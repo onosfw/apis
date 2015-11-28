@@ -1,0 +1,11 @@
+<map id="HostShutdown" name="HostShutdown">
+<area shape="rect" id="node2" href="$host-queue_8c.html#a6e9c2e72bfe62ff58e8bd41f266e1791" title="remove a host from the queue " alt="" coords="179,5,282,32"/>
+<area shape="rect" id="node3" href="$host_8c.html#abe1406a89d6ad93b2428882beb665e98" title="HostFree" alt="" coords="193,56,269,83"/>
+<area shape="rect" id="node9" href="$host_8c.html#a8f52c874c6841552d22458d332368828" title="print some host stats " alt="" coords="177,107,285,133"/>
+<area shape="rect" id="node10" href="$host-queue_8c.html#a7e76955821887c95f27f0b05c51c945e" title="Destroy a host queue. " alt="" coords="163,157,298,184"/>
+<area shape="rect" id="node4" href="$host_8c.html#a683e5e0fc80dce344fac3abc3d8a0341" title="HostClearMemory" alt="" coords="347,56,475,83"/>
+<area shape="rect" id="node5" href="$host-storage_8c.html#a8c5e26defafcfcbf9ddfe70bdcdf866d" title="HostFreeStorage" alt="" coords="523,81,645,108"/>
+<area shape="rect" id="node6" href="$host-storage_8c.html#a5483e281f7966e428421b6f0721fd914" title="HostStorageSize" alt="" coords="694,31,815,57"/>
+<area shape="rect" id="node8" href="$util-storage_8c.html#a842a9a77b4fb19baf4b10fc9ed2bd3fb" title="StorageFreeAll" alt="" coords="701,81,809,108"/>
+<area shape="rect" id="node7" href="$util-storage_8c.html#a7cc083db4db0385f32d65439b82827f9" title="get the size of the void array used to store the pointers " alt="" coords="864,31,979,57"/>
+</map>

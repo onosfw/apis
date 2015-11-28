@@ -1,0 +1,14 @@
+<map id="AppLayerParserRegisterHasEventsFunc" name="AppLayerParserRegisterHasEventsFunc">
+<area shape="rect" id="node2" href="$app-layer-dns-tcp_8h.html#ac637e7cedd8afd651b1cf217d654d285" title="RegisterDNSTCPParsers" alt="" coords="245,5,417,32"/>
+<area shape="rect" id="node10" href="$app-layer-dns-udp_8h.html#a621fd6c4064a0962df00a7dff98c3e12" title="RegisterDNSUDPParsers" alt="" coords="243,56,418,83"/>
+<area shape="rect" id="node11" href="$group__httplayer.html#ga23aaf4c00574fa636459e4377429ac13" title="Register the HTTP protocol and state handling functions to APP layer of the engine. " alt="" coords="259,107,402,133"/>
+<area shape="rect" id="node12" href="$app-layer-modbus_8h.html#aa672d3c3fae34a79808da8f9f3043573" title="Function to register the Modbus protocol parsers and other functions. " alt="" coords="249,157,412,184"/>
+<area shape="rect" id="node13" href="$app-layer-template_8h.html#ac39e3903c23aff255a27a6dfcdf2d652" title="RegisterTemplateParsers" alt="" coords="245,208,416,235"/>
+<area shape="rect" id="node3" href="$app-layer-parser_8h.html#ac5c64e1bddd13fdc99168538935cfab5" title="AppLayerParserRegisterProtocol\lParsers" alt="" coords="467,99,679,141"/>
+<area shape="rect" id="node4" href="$app-layer_8h.html#a13e4dfafdc60d054467da61ea15744f9" title="Setup the app layer. " alt="" coords="729,107,839,133"/>
+<area shape="rect" id="node5" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="916,157,1015,184"/>
+<area shape="rect" id="node8" href="$util-running-modes_8h.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title="ListKeywords" alt="" coords="915,56,1016,83"/>
+<area shape="rect" id="node9" href="$util-running-modes_8h.html#ad03a2414917a2fc87f4be0370c4c8fd7" title="ListAppLayerProtocols" alt="" coords="889,107,1042,133"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="1091,107,1240,133"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1288,132,1339,159"/>
+</map>

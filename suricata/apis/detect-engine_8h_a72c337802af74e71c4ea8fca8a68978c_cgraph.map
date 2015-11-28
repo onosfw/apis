@@ -1,0 +1,8 @@
+<map id="DetectEngineThreadCtxInit" name="DetectEngineThreadCtxInit">
+<area shape="rect" id="node2" href="$detect-engine_8c.html#a63d4bf27597bca7bf5f42b6831f7009f" title="DetectEngineGetCurrent" alt="" coords="260,5,425,32"/>
+<area shape="rect" id="node3" href="$detect-engine_8c.html#afa37c731956ef8b6b4281def0da39c1f" title="DetectEngineMultiTenantEnabled" alt="" coords="235,56,451,83"/>
+<area shape="rect" id="node4" href="$detect-engine-mpm_8h.html#a83d9b52390b1b858e4ee0c5d24093e1e" title="DetectEngineThreadCtxDeinit" alt="" coords="245,107,441,133"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#aea038f0105b5e6a67a1bf32d2ccf463c" title="RunmodeIsUnittests" alt="" coords="271,157,414,184"/>
+<area shape="rect" id="node6" href="$counters_8c.html#a85284c96fa9935606e5cac996152bb58" title="Registers a counter, whose value holds the average of all the values assigned to it. " alt="" coords="257,208,428,235"/>
+<area shape="rect" id="node7" href="$counters_8c.html#a7bae5ee323fcf0d82c933600b870eb93" title="Registers a normal, unqualified counter. " alt="" coords="269,259,417,285"/>
+</map>

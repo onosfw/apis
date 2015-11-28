@@ -1,0 +1,14 @@
+<map id="LogFileFreeCtx" name="LogFileFreeCtx">
+<area shape="rect" id="node2" href="$alert-fastlog_8h.html#a457fff50b30f04fdd5d65bf150c5af2b" title="Create a new LogFileCtx for &quot;fast&quot; output style. " alt="" coords="175,5,310,32"/>
+<area shape="rect" id="node8" href="$log-httplog_8h.html#af152ae114b059595c0d581c526180fdd" title="Create a new http log LogFileCtx. " alt="" coords="179,56,307,83"/>
+<area shape="rect" id="node10" href="$log-stats_8c.html#a780def82593accbdad6e3d3082967a07" title="Create a new http log LogFileCtx. " alt="" coords="175,107,310,133"/>
+<area shape="rect" id="node12" href="$log-tcp-data_8h.html#a5a11841841c8fe89e5d6540e342fd636" title="Create a new http log LogFileCtx. " alt="" coords="166,157,319,184"/>
+<area shape="rect" id="node3" href="$alert-fastlog_8h.html#a546fa535f9c66dcd88f3f19ac4f14adb" title="TmModuleAlertFastLogRegister" alt="" coords="377,5,583,32"/>
+<area shape="rect" id="node4" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="641,81,775,108"/>
+<area shape="rect" id="node5" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="824,81,923,108"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1168,81,1219,108"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="971,107,1120,133"/>
+<area shape="rect" id="node9" href="$log-httplog_8h.html#a949e5c8d6351a52bc91d17e7b08518bc" title="TmModuleLogHttpLogRegister" alt="" coords="381,56,579,83"/>
+<area shape="rect" id="node11" href="$log-stats_8h.html#a5767d99954b4c810a6d55f1c5a9ca5c7" title="TmModuleLogStatsLogRegister" alt="" coords="377,107,583,133"/>
+<area shape="rect" id="node13" href="$log-tcp-data_8h.html#a564d20b750b7219b55abac47e5b2162d" title="TmModuleLogTcpDataLogRegister" alt="" coords="368,157,592,184"/>
+</map>

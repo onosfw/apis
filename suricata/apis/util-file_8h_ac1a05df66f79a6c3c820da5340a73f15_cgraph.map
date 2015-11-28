@@ -1,0 +1,6 @@
+<map id="FileDisableStoringForTransaction" name="FileDisableStoringForTransaction">
+<area shape="rect" id="node2" href="$app-layer-parser_8c.html#a61937469c7d97a4b5d778b939d408025" title="AppLayerParserGetFiles" alt="" coords="271,5,435,32"/>
+<area shape="rect" id="node4" href="$util-file_8c.html#a21a0806a28e71c6de35331ed74bc4f86" title="set no store flag, close file if needed " alt="" coords="269,56,437,83"/>
+<area shape="rect" id="node3" href="$flow-util_8c.html#a897ee3b52fa7876e9780704dbc2d1b11" title="Function to map the protocol to the defined FLOW_PROTO_* enumeration. " alt="" coords="486,5,637,32"/>
+<area shape="rect" id="node5" href="$util-file_8c.html#aceab4d89c885592602733d25c329a063" title="FileMagicSize" alt="" coords="509,56,613,83"/>
+</map>

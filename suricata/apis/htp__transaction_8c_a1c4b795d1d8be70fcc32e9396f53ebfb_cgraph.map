@@ -1,0 +1,5 @@
+<map id="htp_tx_set_config" name="htp_tx_set_config">
+<area shape="rect" id="node2" href="$htp__config_8c.html#acf3f525de9bfaf3023ecad391cf243c0" title="htp_config_destroy" alt="" coords="179,5,311,32"/>
+<area shape="rect" id="node3" href="$htp__hooks_8c.html#a58b480fb42419dec49170dbeb1189a73" title="htp_hook_destroy" alt="" coords="360,5,485,32"/>
+<area shape="rect" id="node4" href="$htp__list_8c.html#a61ba9d208a9a1cea26c574adb5fc9cf4" title="htp_list_array_destroy" alt="" coords="534,5,685,32"/>
+</map>

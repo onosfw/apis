@@ -1,0 +1,14 @@
+<map id="DefragInitConfig" name="DefragInitConfig">
+<area shape="rect" id="node2" href="$util-byte_8c.html#aff93b9381b90e88415cb6f8c5daa8bca" title="ByteExtractStringUint32" alt="" coords="171,5,333,32"/>
+<area shape="rect" id="node4" href="$conf_8c.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="217,56,287,83"/>
+<area shape="rect" id="node8" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true. " alt="" coords="199,107,305,133"/>
+<area shape="rect" id="node9" href="$defrag-hash_8c.html#a040fce8d838aba1a3c2945f74b5e047b" title="DefragTrackerAlloc" alt="" coords="185,157,319,184"/>
+<area shape="rect" id="node10" href="$defrag-queue_8c.html#a542182fe7c718b5bd2a664a7cb38077c" title="add a tracker to a queue " alt="" coords="174,208,330,235"/>
+<area shape="rect" id="node11" href="$defrag-queue_8c.html#a76254cc10a68aafcceacfaf47773da2a" title="DefragTrackerQueueInit" alt="" coords="171,259,333,285"/>
+<area shape="rect" id="node12" href="$util-misc_8c.html#ad06f7f59424271edbb160b18ce10f70b" title="ParseSizeStringU64" alt="" coords="182,309,322,336"/>
+<area shape="rect" id="node13" href="$util-random_8c.html#a4b7c890f27dd0dbc69427497f47429d1" title="create a seed number to pass to rand() , rand_r(), and similars " alt="" coords="178,360,326,387"/>
+<area shape="rect" id="node3" href="$util-byte_8c.html#a43dab0146a4fbdf54e3c1dba707b0534" title="ByteExtractString" alt="" coords="381,5,507,32"/>
+<area shape="rect" id="node5" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="393,56,495,83"/>
+<area shape="rect" id="node6" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="555,31,709,57"/>
+<area shape="rect" id="node7" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="601,81,663,108"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="HTPMalloc" name="HTPMalloc">
+<area shape="rect" id="node2" href="$app-layer-htp-mem_8c.html#a14a0a66992c52f2ab29ee00c71367b77" title="Check if alloc&#39;ing &quot;size&quot; would mean we&#39;re over memcap. " alt="" coords="142,5,279,32"/>
+<area shape="rect" id="node3" href="$app-layer-htp-mem_8c.html#a7e6f923aed04e624dc73d3789b1e6b2d" title="HTPIncrMemuse" alt="" coords="150,56,271,83"/>
+</map>

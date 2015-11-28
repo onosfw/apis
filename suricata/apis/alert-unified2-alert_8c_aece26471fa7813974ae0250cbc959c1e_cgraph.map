@@ -1,0 +1,8 @@
+<map id="Unified2AlertOpenFileCtx" name="Unified2AlertOpenFileCtx">
+<area shape="rect" id="node2" href="$util-conf_8c.html#a78afc07a179cdd6bd1522f1d5437c46d" title="ConfigGetLogDirectory" alt="" coords="224,31,379,57"/>
+<area shape="rect" id="node7" href="$util-time_8c.html#abca16b834f22ae2b71d62fa72618408a" title="TimeGet" alt="" coords="265,81,337,108"/>
+<area shape="rect" id="node3" href="$conf_8c.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="427,31,498,57"/>
+<area shape="rect" id="node4" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="547,31,650,57"/>
+<area shape="rect" id="node5" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="745,5,807,32"/>
+<area shape="rect" id="node6" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="699,56,853,83"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="htp_tx_data_t" name="htp_tx_data_t">
+<area shape="rect" id="node2" href="$structhtp__tx__t.html" title="htp_tx_t" alt="" coords="1199,547,1268,573"/>
+<area shape="rect" id="node16" href="$structhtp__connp__t.html" title="htp_connp_t" alt="" coords="1481,779,1575,805"/>
+<area shape="rect" id="node17" href="$structhtp__log__t.html" title="htp_log_t" alt="" coords="1685,733,1760,760"/>
+<area shape="rect" id="node19" href="$structhtp__urlenp__t.html" title="htp_urlenp_t" alt="" coords="1481,361,1575,388"/>
+<area shape="rect" id="node3" href="$structhtp__conn__t.html" title="htp_conn_t" alt="" coords="894,868,981,895"/>
+<area shape="rect" id="node4" href="$structbstr__t.html" title="bstr_t" alt="" coords="579,433,634,460"/>
+<area shape="rect" id="node5" href="$structhtp__mpartp__t.html" title="htp_mpartp_t" alt="" coords="888,160,987,187"/>
+<area shape="rect" id="node7" href="$structhtp__multipart__part__t.html" title="htp_multipart_part_t" alt="" coords="1165,148,1302,175"/>
+<area shape="rect" id="node9" href="$structhtp__file__t.html" title="htp_file_t" alt="" coords="900,603,975,629"/>
+<area shape="rect" id="node15" href="$structhtp__uri__t.html" title="htp_uri_t" alt="" coords="901,653,973,680"/>
+<area shape="rect" id="node6" href="$structhtp__multipart__t.html" title="htp_multipart_t" alt="" coords="553,160,661,187"/>
+<area shape="rect" id="node8" href="$structhtp__table__t.html" title="htp_table_t" alt="" coords="894,57,981,84"/>
+<area shape="rect" id="node10" href="$structhtp__cfg__t.html" title="htp_cfg_t" alt="" coords="569,705,645,732"/>
+<area shape="rect" id="node11" href="$structhtp__decoder__cfg__t.html" title="htp_decoder_cfg_t" alt="" coords="227,508,357,535"/>
+<area shape="rect" id="node12" href="$structhtp__hook__t.html" title="htp_hook_t" alt="" coords="249,817,335,844"/>
+<area shape="rect" id="node13" href="$structhtp__list__array__t.html" title="htp_list_array_t" alt="" coords="6,817,117,844"/>
+<area shape="rect" id="node14" href="$structbstr__builder__t.html" title="bstr_builder_t" alt="" coords="557,72,657,99"/>
+<area shape="rect" id="node18" href="$structhtp__decompressor__t.html" title="htp_decompressor_t" alt="" coords="1163,1036,1303,1063"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="NFQThreadVars_" name="NFQThreadVars_">
+<area shape="rect" id="node2" href="$structThreadVars__.html" title="Per thread variable structure. " alt="" coords="1627,513,1723,540"/>
+<area shape="rect" id="node49" href="$structTmSlot__.html" title="TmSlot_" alt="" coords="1845,467,1915,493"/>
+<area shape="rect" id="node3" href="$structStatsPublicThreadContext__.html" title="Stats Context for a ThreadVars instance. " alt="" coords="1086,195,1269,221"/>
+<area shape="rect" id="node4" href="$structStatsCounter__.html" title="Container to hold the counter variable. " alt="" coords="673,44,780,71"/>
+<area shape="rect" id="node47" href="$structStatsLocalCounter__.html" title="Storage for local counters, with a link to the public counter used for syncs. " alt="" coords="923,27,1061,53"/>
+<area shape="rect" id="node5" href="$structPacketQueue__.html" title="PacketQueue_" alt="" coords="1333,436,1441,463"/>
+<area shape="rect" id="node6" href="$structPacket__.html" title="Packet_" alt="" coords="957,577,1027,604"/>
+<area shape="rect" id="node13" href="$structPktPool__.html" title="PktPool_" alt="" coords="1349,536,1424,563"/>
+<area shape="rect" id="node7" href="$structUDPVars__.html" title="UDPVars_" alt="" coords="684,577,769,604"/>
+<area shape="rect" id="node8" href="$structTCPVars__.html" title="TCPVars_" alt="" coords="685,628,768,655"/>
+<area shape="rect" id="node9" href="$structTCPOpt__.html" title="TCPOpt_" alt="" coords="373,645,451,672"/>
+<area shape="rect" id="node10" href="$structLiveDevice__.html" title="LiveDevice_" alt="" coords="679,679,774,705"/>
+<area shape="rect" id="node11" href="$structICMPV6Hdr__.html" title="ICMPV6Hdr_" alt="" coords="362,236,462,263"/>
+<area shape="rect" id="node20" href="$structICMPV6Vars__.html" title="ICMPV6Vars_" alt="" coords="673,273,780,300"/>
+<area shape="rect" id="node12" href="$structICMPV6Info__.html" title="ICMPV6Info_" alt="" coords="43,236,144,263"/>
+<area shape="rect" id="node14" href="$structHost__.html" title="Host_" alt="" coords="698,889,755,916"/>
+<area shape="rect" id="node15" href="$structAddress__.html" title="Address_" alt="" coords="373,731,451,757"/>
+<area shape="rect" id="node16" href="$structIPFWPacketVars__.html" title="IPFWPacketVars_" alt="" coords="661,991,792,1017"/>
+<area shape="rect" id="node17" href="$structAppLayerDecoderEvents__.html" title="Data structure to store app layer decoder events. " alt="" coords="6,761,181,788"/>
+<area shape="rect" id="node43" href="$structAppLayerParserState__.html" title="AppLayerParserState_" alt="" coords="335,1432,489,1459"/>
+<area shape="rect" id="node18" href="$structPktVar__.html" title="PktVar_" alt="" coords="692,1131,761,1157"/>
+<area shape="rect" id="node19" href="$structIPV6Vars__.html" title="get the highest proto/next header field we know " alt="" coords="684,1181,769,1208"/>
+<area shape="rect" id="node21" href="$structIPV4Vars__.html" title="IPV4Vars_" alt="" coords="684,940,769,967"/>
+<area shape="rect" id="node22" href="$structIPV4Opt__.html" title="IPV4Opt_" alt="" coords="373,937,451,964"/>
+<area shape="rect" id="node23" href="$structICMPV4Vars__.html" title="ICMPV4Vars_" alt="" coords="673,160,780,187"/>
+<area shape="rect" id="node24" href="$structIPV6ExtHdrs__.html" title="IPV6ExtHdrs_" alt="" coords="673,1041,780,1068"/>
+<area shape="rect" id="node25" href="$structIPV6OptJumbo__.html" title="IPV6OptJumbo_" alt="" coords="353,1135,471,1161"/>
+<area shape="rect" id="node26" href="$structIPV6OptRA__.html" title="IPV6OptRA_" alt="" coords="363,1209,461,1236"/>
+<area shape="rect" id="node27" href="$structIPV6GenOptHdr__.html" title="IPV6GenOptHdr_" alt="" coords="350,988,474,1015"/>
+<area shape="rect" id="node28" href="$structIPV6OptHAO__.html" title="IPV6OptHAO_" alt="" coords="358,1060,466,1087"/>
+<area shape="rect" id="node29" href="$structPacketAlerts__.html" title="PacketAlerts_" alt="" coords="675,1251,779,1277"/>
+<area shape="rect" id="node30" href="$structPacketAlert__.html" title="PacketAlert_" alt="" coords="363,1269,461,1296"/>
+<area shape="rect" id="node31" href="$structPPPOESessionHdr__.html" title="PPPOESessionHdr_" alt="" coords="655,324,798,351"/>
+<area shape="rect" id="node32" href="$structNFQPacketVars__.html" title="NFQPacketVars_" alt="" coords="664,375,789,401"/>
+<area shape="rect" id="node33" href="$structPacketEngineEvents__.html" title="PacketEngineEvents_" alt="" coords="651,425,802,452"/>
+<area shape="rect" id="node34" href="$structPktProfiling__.html" title="Per pkt stats storage. " alt="" coords="679,109,775,136"/>
+<area shape="rect" id="node35" href="$structPktProfilingTmmData__.html" title="Per TMM stats storage. " alt="" coords="335,109,489,136"/>
+<area shape="rect" id="node36" href="$structPktProfilingAppData__.html" title="PktProfilingAppData_" alt="" coords="339,160,485,187"/>
+<area shape="rect" id="node37" href="$structPktProfilingDetectData__.html" title="PktProfilingDetectData_" alt="" coords="331,59,493,85"/>
+<area shape="rect" id="node38" href="$structPcapPacketVars__.html" title="PcapPacketVars_" alt="" coords="663,476,790,503"/>
+<area shape="rect" id="node39" href="$structFlow__.html" title="Flow data structure. " alt="" coords="698,1412,755,1439"/>
+<area shape="rect" id="node41" href="$structFlowBucket__.html" title="FlowBucket_" alt="" coords="943,1412,1041,1439"/>
+<area shape="rect" id="node40" href="$structGenericVar__.html" title="GenericVar_" alt="" coords="365,1521,459,1548"/>
+<area shape="rect" id="node42" href="$structDetectEngineStateFlow__.html" title="DetectEngineStateFlow_" alt="" coords="329,1572,495,1599"/>
+<area shape="rect" id="node44" href="$structFlowAddress__.html" title="FlowAddress_" alt="" coords="359,1381,465,1408"/>
+<area shape="rect" id="node45" href="$structSigGroupHead__.html" title="Container for matching data for a signature group. " alt="" coords="355,1329,469,1356"/>
+<area shape="rect" id="node46" href="$structStatsPrivateThreadContext__.html" title="used to hold the private version of the counters registered " alt="" coords="1293,107,1480,133"/>
+<area shape="rect" id="node48" href="$structTmq__.html" title="Tmq_" alt="" coords="1359,661,1414,688"/>
+<area shape="rect" id="node50" href="$structCaptureStats__.html" title="CaptureStats_" alt="" coords="1827,517,1933,544"/>
+</map>

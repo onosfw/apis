@@ -1,0 +1,4 @@
+<map id="SCReputationInitCtx" name="SCReputationInitCtx">
+<area shape="rect" id="node2" href="$util-radix-tree_8c.html#a6b901226de36ffc5d230f652a65a5808" title="Creates a new Radix tree. " alt="" coords="198,5,373,32"/>
+<area shape="rect" id="node3" href="$reputation_8c.html#a869c447768b83c6215e2f4aaa455a7c1" title="Used to SCFree the reputation data that is allocated by Reputation API. " alt="" coords="206,56,365,83"/>
+</map>

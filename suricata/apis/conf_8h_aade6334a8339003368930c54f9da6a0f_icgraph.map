@@ -1,0 +1,51 @@
+<map id="ConfValIsTrue" name="ConfValIsTrue">
+<area shape="rect" id="node2" href="$app-layer-detect-proto_8h.html#ab97551150b79f956615d499899330c79" title="Given a protocol name, checks if proto detection is enabled in the conf file. " alt="" coords="161,378,367,419"/>
+<area shape="rect" id="node20" href="$conf_8h.html#ad05ff3c317a042691169abc26475bb19" title="Retrieve a configuration value as an boolen. " alt="" coords="215,1044,313,1071"/>
+<area shape="rect" id="node33" href="$conf_8h.html#ad9d1cb8a5580a48745859b31f8e90e20" title="ConfGetChildValueBool" alt="" coords="184,1385,344,1412"/>
+<area shape="rect" id="node35" href="$conf_8h.html#a73d6a0209eea403d96408231d112869e" title="Test if a configuration node has a true value. " alt="" coords="173,1592,355,1619"/>
+<area shape="rect" id="node43" href="$defrag-hash_8h.html#a775c1248c43254bf2ae312a518ea3151" title="initialize the configuration " alt="" coords="205,1744,323,1771"/>
+<area shape="rect" id="node45" href="$log-httplog_8h.html#af152ae114b059595c0d581c526180fdd" title="Create a new http log LogFileCtx. " alt="" coords="200,1795,328,1821"/>
+<area shape="rect" id="node47" href="$log-stats_8c.html#a780def82593accbdad6e3d3082967a07" title="Create a new http log LogFileCtx. " alt="" coords="197,1845,331,1872"/>
+<area shape="rect" id="node39" href="$log-pcap_8h.html#ad26144ca07c71b51cb95a6c59ac2eebb" title="PcapLogProfileSetup" alt="" coords="453,1491,597,1517"/>
+<area shape="rect" id="node49" href="$runmodes_8h.html#ab3220172f27e0b691de70955e360bf96" title="RunModeInitializeOutputs" alt="" coords="178,892,350,919"/>
+<area shape="rect" id="node40" href="$util-profiling_8h.html#a19131d1e4739763149fedab6e29d2a73" title="Initialize profiling. " alt="" coords="472,1541,579,1568"/>
+<area shape="rect" id="node41" href="$util-profiling_8h.html#a017cefafebc2276ebf2bfb916fe0adb8" title="SCProfilingKeywordsGlobalInit" alt="" coords="425,1643,626,1669"/>
+<area shape="rect" id="node42" href="$util-profiling_8h.html#a59cfaf09520d50a5ac1b0f61145dd243" title="SCProfilingRulesGlobalInit" alt="" coords="437,1693,614,1720"/>
+<area shape="rect" id="node50" href="$detect-engine-analyzer_8h.html#a324c316ffb71801a0a1711f85b848c60" title="Sets up the rule analyzer according to the config. " alt="" coords="197,1328,331,1355"/>
+<area shape="rect" id="node37" href="$alert-unified2-alert_8h.html#ab48b6cdd070f5f9f7816cdf319d11cf6" title="Create a new LogFileCtx from the provided ConfNode. " alt="" coords="721,1516,857,1543"/>
+<area shape="rect" id="node3" href="$app-layer-parser_8h.html#ac5c64e1bddd13fdc99168538935cfab5" title="AppLayerParserRegisterProtocol\lParsers" alt="" coords="683,277,895,318"/>
+<area shape="rect" id="node5" href="$group__httplayer.html#gaa9b76d8c59e5673794cbe2656c825d74" title="Clears the HTTP server configuration memory used by HTP library. " alt="" coords="469,715,582,741"/>
+<area shape="rect" id="node7" href="$app-layer-dcerpc_8h.html#af33f01d5d703a6338f092a1a580ca6f4" title="RegisterDCERPCParsers" alt="" coords="438,512,613,539"/>
+<area shape="rect" id="node8" href="$app-layer-dcerpc-udp_8h.html#a021b09039e147eef3be6d453e28105b9" title="RegisterDCERPCUDPParsers" alt="" coords="424,107,627,133"/>
+<area shape="rect" id="node9" href="$app-layer-dns-tcp_8h.html#ac637e7cedd8afd651b1cf217d654d285" title="RegisterDNSTCPParsers" alt="" coords="439,157,611,184"/>
+<area shape="rect" id="node10" href="$app-layer-dns-udp_8h.html#a621fd6c4064a0962df00a7dff98c3e12" title="RegisterDNSUDPParsers" alt="" coords="438,208,613,235"/>
+<area shape="rect" id="node11" href="$app-layer-ftp_8h.html#aad9fd179d26143f516519e8f83a8ec95" title="RegisterFTPParsers" alt="" coords="455,259,596,285"/>
+<area shape="rect" id="node12" href="$group__httplayer.html#ga23aaf4c00574fa636459e4377429ac13" title="Register the HTTP protocol and state handling functions to APP layer of the engine. " alt="" coords="454,309,597,336"/>
+<area shape="rect" id="node13" href="$app-layer-modbus_8h.html#aa672d3c3fae34a79808da8f9f3043573" title="Function to register the Modbus protocol parsers and other functions. " alt="" coords="444,360,607,387"/>
+<area shape="rect" id="node14" href="$app-layer-smb2_8h.html#a7d218ff21cb08b160797b4f9c5efb51c" title="RegisterSMB2Parsers" alt="" coords="449,563,601,589"/>
+<area shape="rect" id="node15" href="$app-layer-smb_8h.html#aeec3fc7e57e33d4c2df0db5157ccccc2" title="RegisterSMBParsers" alt="" coords="453,411,598,437"/>
+<area shape="rect" id="node16" href="$app-layer-smtp_8h.html#ab9e232b8d15713907654c886f82e84bc" title="Register the SMTP Protocol parser. " alt="" coords="449,461,602,488"/>
+<area shape="rect" id="node17" href="$app-layer-ssh_8h.html#ad2b97c290b4dd7115bc9ea74af74b525" title="Function to register the SSH protocol parsers and other functions. " alt="" coords="453,613,597,640"/>
+<area shape="rect" id="node18" href="$app-layer-ssl_8h.html#ac41f8ede008657dd3bd8971a8dc24628" title="Function to register the SSL protocol parser and other functions. " alt="" coords="455,664,596,691"/>
+<area shape="rect" id="node19" href="$app-layer-template_8h.html#ac39e3903c23aff255a27a6dfcdf2d652" title="RegisterTemplateParsers" alt="" coords="440,5,611,32"/>
+<area shape="rect" id="node4" href="$app-layer_8h.html#a13e4dfafdc60d054467da61ea15744f9" title="Setup the app layer. " alt="" coords="993,284,1103,311"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="764,816,815,843"/>
+<area shape="rect" id="node21" href="$group__decode.html#gac7665e2409fe6cc688c1ba7bead8cc57" title="Alloc and setup DecodeThreadVars. " alt="" coords="444,1171,607,1197"/>
+<area shape="rect" id="node24" href="$detect-engine_8h.html#a3dd8dd8e9160b754f6be5b7136f5f891" title="setup multi&#45;detect / multi&#45;tenancy " alt="" coords="424,867,627,893"/>
+<area shape="rect" id="node25" href="$runmode-napatech_8c.html#a08164451527c109e56ad5f8948c48a87" title="NapatechRegisterDeviceStreams" alt="" coords="417,1221,634,1248"/>
+<area shape="rect" id="node26" href="$source-nfq_8h.html#a5be8e8b32452e32bb984cf49b73e3021" title="To initialize the NFQ global configuration data. " alt="" coords="472,917,579,944"/>
+<area shape="rect" id="node27" href="$group__afppacket.html#ga63a4c87b1c785d124cbcebe19feb0125" title="Init function for ReceiveAFP. " alt="" coords="448,968,603,995"/>
+<area shape="rect" id="node28" href="$source-pfring_8c.html#ab74f8ec75fde76ef8ab9ec1b6c7bead1" title="Init function for RecievePfring. " alt="" coords="444,1019,607,1045"/>
+<area shape="rect" id="node29" href="$runmodes_8h.html#a07225b8600c17470752ae849ace81e0f" title="RunModeInitialize" alt="" coords="462,1069,589,1096"/>
+<area shape="rect" id="node30" href="$detect-engine-analyzer_8h.html#aed7647b844dab3c14072ad065133b7bb" title="Sets up the fast pattern analyzer according to the config. " alt="" coords="463,1272,587,1299"/>
+<area shape="rect" id="node32" href="$stream-tcp_8h.html#ae02dc80698f907951c8c9dc972093fde" title="To initialize the stream global configuration data. " alt="" coords="454,1120,597,1147"/>
+<area shape="rect" id="node22" href="$group__afppacket.html#ga1a26fc40f8dfa5016aada1955beb9ec2" title="DecodeAFPThreadInit" alt="" coords="714,1145,865,1172"/>
+<area shape="rect" id="node23" href="$source-erf-dag_8c.html#a662c7de24bb6f9bfab58dd71cd90590d" title="DecodeErfDagThreadInit" alt="" coords="706,1196,873,1223"/>
+<area shape="rect" id="node31" href="$detect_8h.html#a8b471081c75864d1c8d4bcb14eaebc3b" title="Load signatures. " alt="" coords="724,1297,855,1324"/>
+<area shape="rect" id="node34" href="$conf_8h.html#a840763787cd0111c51ccbf88230e8369" title="ConfGetChildValueBoolWith\lDefault" alt="" coords="432,1374,619,1415"/>
+<area shape="rect" id="node36" href="$app-layer-htp-xff_8h.html#acd4562af35f33435e8ec7be752120039" title="Function to return XFF configuration from a configuration node. " alt="" coords="468,1592,583,1619"/>
+<area shape="rect" id="node38" href="$alert-unified2-alert_8h.html#a44090e154321190380e32f2d96e81a67" title="TmModuleUnified2AlertRegister" alt="" coords="945,1516,1151,1543"/>
+<area shape="rect" id="node44" href="$defrag_8h.html#a0cb4ee30137354215bb30b7e27f2e1cf" title="DefragInit" alt="" coords="486,1744,565,1771"/>
+<area shape="rect" id="node46" href="$log-httplog_8h.html#a949e5c8d6351a52bc91d17e7b08518bc" title="TmModuleLogHttpLogRegister" alt="" coords="426,1795,625,1821"/>
+<area shape="rect" id="node48" href="$log-stats_8h.html#a5767d99954b4c810a6d55f1c5a9ca5c7" title="TmModuleLogStatsLogRegister" alt="" coords="423,1845,628,1872"/>
+</map>

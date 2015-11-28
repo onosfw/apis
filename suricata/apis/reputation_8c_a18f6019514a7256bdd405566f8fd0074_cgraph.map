@@ -1,0 +1,10 @@
+<map id="SCReputationUpdateIPV6Data" name="SCReputationUpdateIPV6Data">
+<area shape="rect" id="node2" href="$util-radix-tree_8c.html#ac5be947029c47580507fbef220981fd1" title="Adds a new IPV6 address to the Radix tree. " alt="" coords="286,5,437,32"/>
+<area shape="rect" id="node3" href="$reputation_8c.html#ae46122d28f0c8f695d5280fe99249eb0" title="Allocates the Reputation structure for a host/netblock. " alt="" coords="281,56,442,83"/>
+<area shape="rect" id="node4" href="$reputation_8c.html#a529619fc30ad43009d4f1c7042d689fa" title="Apply the transaction of changes to the reputation We use transactions because we cant be locking/unl..." alt="" coords="259,107,464,133"/>
+<area shape="rect" id="node5" href="$reputation_8c.html#a1c2b6efd084033cb6ce8628d86beb527" title="Clone all the data of a reputation When you try to update the feed, if the data you have belongs to a..." alt="" coords="292,157,431,184"/>
+<area shape="rect" id="node6" href="$reputation_8c.html#a5066f5b261751ce82141ed3e3ce715f5" title="Retrieves the Real Reputation of a host (best match), given an ipv6 address in the raw address format..." alt="" coords="260,209,463,250"/>
+<area shape="rect" id="node8" href="$reputation_8c.html#a66855c4afdac1418df4310576ed093c3" title="Retrieves the Real Reputation of a host (exact match), given an ipv6 address in the raw address forma..." alt="" coords="257,274,466,315"/>
+<area shape="rect" id="node7" href="$util-radix-tree_8c.html#a47b1ad27c8f067c5525cf9ecc2c24ff4" title="Checks if an IPV6 address is present in the tree under a netblock. " alt="" coords="519,216,734,243"/>
+<area shape="rect" id="node9" href="$util-radix-tree_8c.html#a1473d8a9e06e24f9b7f0da1b38d45703" title="Checks if an IPV6 address is present in the tree. " alt="" coords="515,281,738,308"/>
+</map>

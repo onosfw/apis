@@ -1,0 +1,7 @@
+<map id="LogTlsLogThread_" name="LogTlsLogThread_">
+<area shape="rect" id="node2" href="$structMemBuffer__.html" title="MemBuffer_" alt="" coords="5,187,99,213"/>
+<area shape="rect" id="node3" href="$structLogTlsFileCtx__.html" title="LogTlsFileCtx_" alt="" coords="123,187,233,213"/>
+<area shape="rect" id="node4" href="$structLogFileCtx__.html" title="LogFileCtx_" alt="" coords="133,96,224,123"/>
+<area shape="rect" id="node5" href="$structPcieFile.html" title="PcieFile" alt="" coords="89,5,159,32"/>
+<area shape="rect" id="node6" href="$structSyslogSetup__.html" title="SyslogSetup_" alt="" coords="183,5,285,32"/>
+</map>

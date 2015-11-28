@@ -1,0 +1,4 @@
+<map id="RunModeSetLiveCaptureWorkers" name="RunModeSetLiveCaptureWorkers">
+<area shape="rect" id="node2" href="$util-device_8c.html#a98bf56c79d344f38884b1af3cb36a9ea" title="Get the number of registered devices. " alt="" coords="273,5,415,32"/>
+<area shape="rect" id="node3" href="$util-device_8c.html#aeda89d2b7fa6bdef4cfc46d075542e32" title="Get a pointer to the device name at idx. " alt="" coords="273,56,415,83"/>
+</map>

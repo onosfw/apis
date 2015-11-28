@@ -1,0 +1,8 @@
+<map id="AppLayerParserRegisterLogger" name="AppLayerParserRegisterLogger">
+<area shape="rect" id="node2" href="$log-httplog_8h.html#af152ae114b059595c0d581c526180fdd" title="Create a new http log LogFileCtx. " alt="" coords="256,31,384,57"/>
+<area shape="rect" id="node3" href="$log-httplog_8h.html#a949e5c8d6351a52bc91d17e7b08518bc" title="TmModuleLogHttpLogRegister" alt="" coords="433,31,631,57"/>
+<area shape="rect" id="node4" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="681,31,815,57"/>
+<area shape="rect" id="node5" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="864,31,963,57"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="1011,5,1160,32"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1208,31,1259,57"/>
+</map>

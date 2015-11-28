@@ -1,0 +1,4 @@
+<map id="BoyerMooreCtxToNocase" name="BoyerMooreCtxToNocase">
+<area shape="rect" id="node2" href="$util-spm-bm_8h.html#ae0829e0adc174f39600c884b1102b30c" title="Setup a Booyer Moore context for nocase search. " alt="" coords="227,5,403,32"/>
+<area shape="rect" id="node3" href="$util-spm_8h.html#a58b05da977fc439a45875f67b9f3dce9" title="Search a pattern in the text using Boyer Moore nocase algorithm (build a bad character shifts array a..." alt="" coords="451,5,629,32"/>
+</map>

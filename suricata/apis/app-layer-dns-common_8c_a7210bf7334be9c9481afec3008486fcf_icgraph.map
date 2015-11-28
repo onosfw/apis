@@ -1,0 +1,8 @@
+<map id="DNSSetEvent" name="DNSSetEvent">
+<area shape="rect" id="node2" href="$app-layer-dns-common_8h.html#a84161199802ac8e81f1a2e8774dc1d89" title="DNSCheckMemcap" alt="" coords="191,56,329,83"/>
+<area shape="rect" id="node3" href="$app-layer-dns-common_8h.html#a8672e0d3530aae07fe8eb493c37fb55a" title="DNSStoreQueryInState" alt="" coords="413,5,571,32"/>
+<area shape="rect" id="node6" href="$app-layer-dns-common_8h.html#a8f868898d2442cd7cffbcb17d5d29728" title="Validation checks for DNS request header. " alt="" coords="165,107,355,133"/>
+<area shape="rect" id="node7" href="$app-layer-dns-common_8h.html#aa27c4d322534fd4004ead861b71821a2" title="Validation checks for DNS response header. " alt="" coords="161,157,359,184"/>
+<area shape="rect" id="node4" href="$app-layer-dns-common_8h.html#ab6abfbc8a4187af939f4f908237acbde" title="DNSStoreAnswerInState" alt="" coords="408,56,576,83"/>
+<area shape="rect" id="node5" href="$app-layer-dns-common_8h.html#af81691096f806dbf5d37465e7cb58ca3" title="DNSReponseParse" alt="" coords="625,56,762,83"/>
+</map>

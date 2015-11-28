@@ -1,0 +1,6 @@
+<map id="SCClassConfAddClasstype" name="SCClassConfAddClasstype">
+<area shape="rect" id="node2" href="$util-hash_8c.html#a3febc8e137f736e4b9977a2ed327b50e" title="HashTableAdd" alt="" coords="282,5,390,32"/>
+<area shape="rect" id="node3" href="$util-hash_8c.html#a516b822a1929236ef67859af6812ed98" title="HashTableLookup" alt="" coords="273,56,399,83"/>
+<area shape="rect" id="node4" href="$util-classification-config_8c.html#aa154e4c2546a2a21051b4708f7fac9ee" title="Returns a new SCClassConfClasstype instance. The classtype string is converted into lowercase..." alt="" coords="241,107,431,133"/>
+<area shape="rect" id="node5" href="$util-classification-config_8c.html#a59d380510cde0f10d358d4201b229b52" title="Frees a SCClassConfClasstype instance. " alt="" coords="480,107,688,133"/>
+</map>

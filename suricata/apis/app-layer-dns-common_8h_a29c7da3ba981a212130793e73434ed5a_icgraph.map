@@ -1,0 +1,15 @@
+<map id="DNSIncrMemcap" name="DNSIncrMemcap">
+<area shape="rect" id="node2" href="$app-layer-dns-common_8h.html#a291a6f0fb8d4d4887237c0d5ed5afa1c" title="DNSStateAlloc" alt="" coords="205,81,315,108"/>
+<area shape="rect" id="node12" href="$app-layer-dns-common_8h.html#ab6abfbc8a4187af939f4f908237acbde" title="DNSStoreAnswerInState" alt="" coords="176,132,344,159"/>
+<area shape="rect" id="node14" href="$app-layer-dns-common_8h.html#a8672e0d3530aae07fe8eb493c37fb55a" title="DNSStoreQueryInState" alt="" coords="181,183,339,209"/>
+<area shape="rect" id="node3" href="$app-layer-dns-tcp_8h.html#ac637e7cedd8afd651b1cf217d654d285" title="RegisterDNSTCPParsers" alt="" coords="394,31,566,57"/>
+<area shape="rect" id="node11" href="$app-layer-dns-udp_8h.html#a621fd6c4064a0962df00a7dff98c3e12" title="RegisterDNSUDPParsers" alt="" coords="393,81,567,108"/>
+<area shape="rect" id="node4" href="$app-layer-parser_8h.html#ac5c64e1bddd13fdc99168538935cfab5" title="AppLayerParserRegisterProtocol\lParsers" alt="" coords="617,49,829,90"/>
+<area shape="rect" id="node5" href="$app-layer_8h.html#a13e4dfafdc60d054467da61ea15744f9" title="Setup the app layer. " alt="" coords="878,56,989,83"/>
+<area shape="rect" id="node6" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="1065,107,1164,133"/>
+<area shape="rect" id="node9" href="$util-running-modes_8h.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title="ListKeywords" alt="" coords="1064,5,1165,32"/>
+<area shape="rect" id="node10" href="$util-running-modes_8h.html#ad03a2414917a2fc87f4be0370c4c8fd7" title="ListAppLayerProtocols" alt="" coords="1038,56,1191,83"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="1240,56,1389,83"/>
+<area shape="rect" id="node8" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1437,81,1488,108"/>
+<area shape="rect" id="node13" href="$app-layer-dns-common_8h.html#af81691096f806dbf5d37465e7cb58ca3" title="DNSReponseParse" alt="" coords="411,132,549,159"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="MemBufferCreateNew" name="MemBufferCreateNew">
+<area shape="rect" id="node2" href="$log-httplog_8c.html#ae8064d0de49861c253b9a11b2cef8336" title="LogHttpLogThreadInit" alt="" coords="219,5,365,32"/>
+<area shape="rect" id="node8" href="$log-stats_8c.html#a191dccccffd4caa7b2cb73a92b35eef8" title="LogStatsLogThreadInit" alt="" coords="215,56,369,83"/>
+<area shape="rect" id="node10" href="$log-tcp-data_8c.html#aaf66f5a654591e48f5123d824b98978e" title="LogTcpDataLogThreadInit" alt="" coords="206,107,378,133"/>
+<area shape="rect" id="node3" href="$log-httplog_8h.html#a949e5c8d6351a52bc91d17e7b08518bc" title="TmModuleLogHttpLogRegister" alt="" coords="439,5,638,32"/>
+<area shape="rect" id="node4" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="699,56,834,83"/>
+<area shape="rect" id="node5" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="883,56,981,83"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1227,56,1277,83"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="1029,81,1179,108"/>
+<area shape="rect" id="node9" href="$log-stats_8h.html#a5767d99954b4c810a6d55f1c5a9ca5c7" title="TmModuleLogStatsLogRegister" alt="" coords="436,56,641,83"/>
+<area shape="rect" id="node11" href="$log-tcp-data_8h.html#a564d20b750b7219b55abac47e5b2162d" title="TmModuleLogTcpDataLogRegister" alt="" coords="427,107,651,133"/>
+</map>

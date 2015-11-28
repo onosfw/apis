@@ -1,0 +1,4 @@
+<map id="SCAsn1DecodeIdentifier" name="SCAsn1DecodeIdentifier">
+<area shape="rect" id="node2" href="$util-decode-asn1_8c.html#a2ad43c6bd699fdb31fa01fa591a1545c" title="check if we have remaining data available, otherwise the parser should stop " alt="" coords="457,5,610,32"/>
+<area shape="rect" id="node3" href="$util-decode-asn1_8c.html#a4c02bbc86660a02ea373a444e399af2a" title="Decode and check the identifier information of the current node that is in extended format..." alt="" coords="221,31,408,57"/>
+</map>

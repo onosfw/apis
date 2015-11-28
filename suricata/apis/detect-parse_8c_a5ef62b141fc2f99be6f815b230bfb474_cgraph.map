@@ -1,0 +1,7 @@
+<map id="SigParseProto" name="SigParseProto">
+<area shape="rect" id="node2" href="$app-layer_8c.html#af0aae4b9744b8b47b382d8a579dedbb2" title="Given a protocol string, returns the corresponding internal protocol id. " alt="" coords="161,15,341,41"/>
+<area shape="rect" id="node4" href="$detect-engine-proto_8c.html#a3abc325cb70de0c52255b0408a6069d0" title="Parses a protocol sent as a string. " alt="" coords="187,67,314,93"/>
+<area shape="rect" id="node3" href="$app-layer-detect-proto_8c.html#aa8a342885c965dfe01d9684d37416e22" title="AppLayerProtoDetectGetProto\lByName" alt="" coords="390,5,589,46"/>
+<area shape="rect" id="node5" href="$util-byte_8c.html#a3f597822e6d108034f77a96513aa0b7b" title="ByteExtractStringUint8" alt="" coords="411,71,567,97"/>
+<area shape="rect" id="node6" href="$util-byte_8c.html#a43dab0146a4fbdf54e3c1dba707b0534" title="ByteExtractString" alt="" coords="637,71,763,97"/>
+</map>

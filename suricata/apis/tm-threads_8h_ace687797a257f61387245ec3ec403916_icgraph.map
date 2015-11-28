@@ -1,0 +1,5 @@
+<map id="TmThreadCreateMgmtThreadByName" name="TmThreadCreateMgmtThreadByName">
+<area shape="rect" id="node2" href="$flow-manager_8h.html#a20dbca5b9bd98fe6c7a3de02d6487a4c" title="spawn the flow manager thread " alt="" coords="250,5,430,32"/>
+<area shape="rect" id="node4" href="$flow-manager_8h.html#a83c270c95bd002fd66653df0b56224db" title="spawn the flow recycler thread " alt="" coords="249,56,431,83"/>
+<area shape="rect" id="node3" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="480,31,531,57"/>
+</map>

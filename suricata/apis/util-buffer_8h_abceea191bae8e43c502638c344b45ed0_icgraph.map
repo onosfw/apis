@@ -1,0 +1,8 @@
+<map id="MemBufferExpand" name="MemBufferExpand">
+<area shape="rect" id="node2" href="$log-stats_8c.html#a26d5e1b66af8b7a6db38a8239ab987a3" title="LogStatsLogger" alt="" coords="185,5,298,32"/>
+<area shape="rect" id="node3" href="$log-stats_8h.html#a5767d99954b4c810a6d55f1c5a9ca5c7" title="TmModuleLogStatsLogRegister" alt="" coords="347,5,552,32"/>
+<area shape="rect" id="node4" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="601,5,735,32"/>
+<area shape="rect" id="node5" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="784,5,883,32"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1128,5,1179,32"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="931,31,1080,57"/>
+</map>

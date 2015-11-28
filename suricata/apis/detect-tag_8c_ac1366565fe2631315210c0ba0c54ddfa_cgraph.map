@@ -1,0 +1,19 @@
+<map id="DetectTagRegister" name="DetectTagRegister">
+<area shape="rect" id="node2" href="$detect-tag_8c.html#a402d3dbd318da53b7c447e35d387d7f4" title="this function will free memory associated with DetectTagData " alt="" coords="201,183,338,209"/>
+<area shape="rect" id="node3" href="$detect-tag_8c.html#a8a1d60d76604354c6abfadd6d626ee7f" title="This function is used to setup a tag for session/host. " alt="" coords="210,233,329,260"/>
+<area shape="rect" id="node17" href="$detect-tag_8c.html#ad008c547b2a01dc23f20ddb925c076e0" title="this function registers unit tests for DetectTag " alt="" coords="187,284,352,311"/>
+<area shape="rect" id="node4" href="$detect-engine-tag_8c.html#a6285dc879a911e137b527d9a04cab0b1" title="This function is used to add a tag to a session (type session) or update it if it&#39;s already installed..." alt="" coords="455,233,550,260"/>
+<area shape="rect" id="node9" href="$detect-engine-tag_8c.html#a4e49ebabf263166aa675f996549ca6b9" title="Add a tag entry for a host. If it already exist, update it. " alt="" coords="443,132,563,159"/>
+<area shape="rect" id="node5" href="$flow-storage_8c.html#a6c4c42d8d7a33d26aecb9341c1eed1e4" title="FlowGetStorageById" alt="" coords="662,284,805,311"/>
+<area shape="rect" id="node7" href="$flow-storage_8c.html#a86d68ba6bba97080667ced2921fc6dd7" title="FlowSetStorageById" alt="" coords="662,233,805,260"/>
+<area shape="rect" id="node6" href="$util-storage_8c.html#ae583f91a48fb1da802d6d8aae8efaa45" title="get storage for id " alt="" coords="861,233,976,260"/>
+<area shape="rect" id="node8" href="$util-storage_8c.html#ad7892e8e521cd8a0d46229502659f562" title="set storage for id " alt="" coords="861,183,976,209"/>
+<area shape="rect" id="node10" href="$host_8c.html#a98f7a1c5351cf64e503718db63581b77" title="HostGetHostFromHash" alt="" coords="653,31,813,57"/>
+<area shape="rect" id="node14" href="$group__hoststorage.html#ga9bbff71a8002ff811f4b58655dad683d" title="Get a value from a given Host storage. " alt="" coords="662,183,805,209"/>
+<area shape="rect" id="node15" href="$host_8c.html#ae1a83c8dcf278f3b546bafdb5a447218" title="HostRelease" alt="" coords="684,132,783,159"/>
+<area shape="rect" id="node16" href="$group__hoststorage.html#ga59a8081e31daa912236b7ba08a1767b5" title="Store a pointer in a given Host storage. " alt="" coords="662,81,805,108"/>
+<area shape="rect" id="node11" href="$host_8c.html#a9e457fc00e7928182853db5d7620df63" title="HostGetKey" alt="" coords="871,5,966,32"/>
+<area shape="rect" id="node13" href="$host_8c.html#ade444d54823b5cb77e9b0b3c21dc1f33" title="HostInit" alt="" coords="885,56,953,83"/>
+<area shape="rect" id="node12" href="$util-hash-lookup3_8c.html#a6b57e35d1649b351ed629d3e022bf85f" title="hashword" alt="" coords="1025,5,1103,32"/>
+<area shape="rect" id="node18" href="$detect-engine-tag_8c.html#a6f151b661cd630b14eea715c59b43640" title="this function registers unit tests for DetectTag " alt="" coords="400,284,605,311"/>
+</map>

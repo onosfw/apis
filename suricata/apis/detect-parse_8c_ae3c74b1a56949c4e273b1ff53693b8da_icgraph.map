@@ -1,0 +1,4 @@
+<map id="SigMatchRemoveSMFromList" name="SigMatchRemoveSMFromList">
+<area shape="rect" id="node2" href="$detect-ipproto_8h.html#acdb7dd67200614dfae7291b594c13fbd" title="DetectIPProtoRemoveAllSMs" alt="" coords="251,5,447,32"/>
+<area shape="rect" id="node3" href="$detect-parse_8h.html#ad6353fe80f6b478067071dc1a587f12b" title="parse a signature " alt="" coords="496,5,571,32"/>
+</map>

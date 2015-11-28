@@ -1,0 +1,27 @@
+<map id="DetectAddressHeadCleanup" name="DetectAddressHeadCleanup">
+<area shape="rect" id="node2" href="$detect-engine-address_8h.html#ab2e1756cf718c7aedb610c5941d4a8f2" title="Frees a DetectAddressHead instance. " alt="" coords="243,319,410,345"/>
+<area shape="rect" id="node8" href="$detect-parse_8h.html#abd9806753735a8d2e753c1a318dae122" title="SigFree" alt="" coords="1231,43,1297,69"/>
+<area shape="rect" id="node3" href="$detect-engine-address_8h.html#a081587e0db6a4115bd7bcb27fc72100c" title="Frees a DetectAddress instance. " alt="" coords="487,319,622,345"/>
+<area shape="rect" id="node23" href="$detect-engine-address_8h.html#a7b334724d7b8972be5e41e96ac4da12b" title="DetectAddressTestConfVars" alt="" coords="459,597,650,624"/>
+<area shape="rect" id="node19" href="$detect-engine-address_8h.html#ab3a963e12de032ca4aa2c531a4a0f21d" title="Parses an address group sent as a character string and updates the DetectAddressHead sent as the argu..." alt="" coords="1430,441,1573,468"/>
+<area shape="rect" id="node22" href="$detect_8c.html#aabe6ab0213639a48e8560e510eb7ca02" title="Fill the global src group head, with the sigs included. " alt="" coords="1177,289,1351,316"/>
+<area shape="rect" id="node24" href="$detect_8c.html#af652b57009cbaba3f977aad7ae3eca22" title="SigAddressCleanupStage1" alt="" coords="465,45,644,72"/>
+<area shape="rect" id="node4" href="$detect-engine-address-ipv4_8h.html#a3c85b240c7c47383d2dbcffe36cdde8d" title="Cut groups and merge sigs. " alt="" coords="709,395,867,421"/>
+<area shape="rect" id="node5" href="$detect-engine-address-ipv6_8h.html#a558db72b9d449017c962d736b762296e" title="DetectAddressCutIPv6" alt="" coords="709,445,867,472"/>
+<area shape="rect" id="node6" href="$detect-engine-address_8h.html#a4cc59238102c04e83057ce6617763d9a" title="Frees a list of DetectAddress instances. " alt="" coords="699,155,877,181"/>
+<area shape="rect" id="node16" href="$detect-engine-address_8h.html#a5f63946f5f3ce24870d1211b1f3bdeb0" title="Same as DetectAddressInsert, but then for inserting a address group object. This also makes sure SigG..." alt="" coords="717,293,859,320"/>
+<area shape="rect" id="node18" href="$detect-engine-address_8c.html#a69bbe731d2e859401b2d36174a8bebf2" title="Merge the + and the &#45; list (+ positive match, &#45; &#39;not&#39; match) " alt="" coords="1181,361,1347,388"/>
+<area shape="rect" id="node21" href="$detect_8c.html#afc77848803e5fcaaf39f90ff860140dc" title="CreateGroupedAddrList" alt="" coords="941,245,1099,272"/>
+<area shape="rect" id="node7" href="$detect-engine-address_8h.html#ae311f96a3cc92a076434d1112ea6f773" title="Cleans a DetectAddressHead. The functions frees the 3 address group heads(any, ipv4 and ipv6) inside ..." alt="" coords="926,93,1114,120"/>
+<area shape="rect" id="node9" href="$detect_8c.html#a0ff85d4d7e9776988c8fe1659f65db89" title="Build the destination address portion of the match tree. " alt="" coords="1163,172,1365,199"/>
+<area shape="rect" id="node15" href="$detect_8c.html#aa3952cbb6c857eb9d1b9b2fa7689c0e4" title="BuildDestinationAddressHeads\lWithBothPorts" alt="" coords="1163,223,1365,265"/>
+<area shape="rect" id="node10" href="$detect_8c.html#a72fc70b5d12e86ff5827d2d397233773" title="SigAddressPrepareStage3" alt="" coords="1414,231,1589,257"/>
+<area shape="rect" id="node11" href="$detect_8h.html#a5eab8b8beaf1cc85d8a25a309ea13124" title="Convert the signature list into the runtime match structure. " alt="" coords="1646,256,1751,283"/>
+<area shape="rect" id="node12" href="$detect_8h.html#a8b471081c75864d1c8d4bcb14eaebc3b" title="Load signatures. " alt="" coords="1808,256,1939,283"/>
+<area shape="rect" id="node13" href="$detect-engine_8h.html#aba0e2c94ab90c4390af30af806db271d" title="Reload the detection engine. " alt="" coords="1987,256,2130,283"/>
+<area shape="rect" id="node14" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="2179,256,2229,283"/>
+<area shape="rect" id="node17" href="$detect-engine-address_8c.html#a9329b113f0526a40f64cdf2031b46cd4" title="Setup a single address string, parse it and add the resulting Address&#45;Range(s) to the AddessHead(Dete..." alt="" coords="949,347,1091,373"/>
+<area shape="rect" id="node20" href="$detect-parse_8c.html#a84a84c4f3fd51f473abc014096a35197" title="Parse address string and update signature. " alt="" coords="1637,441,1760,468"/>
+<area shape="rect" id="node25" href="$detect_8h.html#a6fcb4dff660aa88d3521baefa1fe3d51" title="SigGroupCleanup" alt="" coords="726,43,850,69"/>
+<area shape="rect" id="node26" href="$detect-engine_8h.html#a507b6b477b36478010d0946149c2d357" title="Free a DetectEngineCtx:: " alt="" coords="946,43,1094,69"/>
+</map>

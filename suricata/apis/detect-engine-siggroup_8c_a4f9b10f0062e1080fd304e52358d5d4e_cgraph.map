@@ -1,0 +1,6 @@
+<map id="SigGroupHeadMpmHashInit" name="SigGroupHeadMpmHashInit">
+<area shape="rect" id="node2" href="$util-hashlist_8c.html#afdb92ac7963996878dd3e6b39bce9cdc" title="HashListTableInit" alt="" coords="287,5,411,32"/>
+<area shape="rect" id="node4" href="$detect-engine-siggroup_8c.html#a37a030919d4629fb7ba86fdc365577ac" title="The Compare function to be used by the mpm SigGroupHead hash table &#45; DetectEngineCtx&#45;&gt;sgh_mpm_hash_ta..." alt="" coords="240,56,459,83"/>
+<area shape="rect" id="node5" href="$detect-engine-siggroup_8c.html#aea3646029214f8086718291baee01e9b" title="The hash function to be the used by the mpm SigGroupHead hash table &#45; DetectEngineCtx&#45;&gt;sgh_mpm_hash_t..." alt="" coords="251,107,447,133"/>
+<area shape="rect" id="node3" href="$util-hashlist_8c.html#a06ff5596b0a440c5438975bef16924d9" title="HashListTableDefaultCompare" alt="" coords="507,5,709,32"/>
+</map>

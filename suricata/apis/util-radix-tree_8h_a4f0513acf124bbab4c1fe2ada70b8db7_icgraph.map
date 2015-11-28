@@ -1,0 +1,12 @@
+<map id="SCRadixAddKeyIPV6" name="SCRadixAddKeyIPV6">
+<area shape="rect" id="node2" href="$detect-engine-iponly_8h.html#a9e9b85c4bcf4e04b34f94d6d77bf0ed1" title="Build the radix trees from the lists of parsed adresses in CIDR format the result should be 4 radix t..." alt="" coords="253,5,360,32"/>
+<area shape="rect" id="node8" href="$util-host-os-info_8h.html#a43e9df68cc286def11ec1a11a0331890" title="Used to add the host&#45;os&#45;info data obtained from the conf. " alt="" coords="224,80,389,107"/>
+<area shape="rect" id="node10" href="$reputation_8c.html#a1aeebd697aa55ef33720c264c109840a" title="Used to add a new reputation to the reputation module (only at the startup) " alt="" coords="215,131,399,157"/>
+<area shape="rect" id="node11" href="$reputation_8c.html#a18f6019514a7256bdd405566f8fd0074" title="Update a reputation or insert a new one. If it doesn&#39;t exist it will try to search for the reputation..." alt="" coords="205,181,408,208"/>
+<area shape="rect" id="node3" href="$detect_8c.html#aabe6ab0213639a48e8560e510eb7ca02" title="Fill the global src group head, with the sigs included. " alt="" coords="457,5,631,32"/>
+<area shape="rect" id="node4" href="$detect_8h.html#a5eab8b8beaf1cc85d8a25a309ea13124" title="Convert the signature list into the runtime match structure. " alt="" coords="681,5,786,32"/>
+<area shape="rect" id="node5" href="$detect_8h.html#a8b471081c75864d1c8d4bcb14eaebc3b" title="Load signatures. " alt="" coords="835,5,965,32"/>
+<area shape="rect" id="node6" href="$detect-engine_8h.html#aba0e2c94ab90c4390af30af806db271d" title="Reload the detection engine. " alt="" coords="1014,5,1157,32"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1205,5,1256,32"/>
+<area shape="rect" id="node9" href="$util-host-os-info_8h.html#a78b5426f40b5ab869e7e999ce957aedd" title="Load the host os policy information from the configuration. " alt="" coords="459,80,629,107"/>
+</map>

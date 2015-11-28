@@ -1,0 +1,6 @@
+<map id="HostClearMemory" name="HostClearMemory">
+<area shape="rect" id="node2" href="$host-storage_8c.html#a8c5e26defafcfcbf9ddfe70bdcdf866d" title="HostFreeStorage" alt="" coords="182,56,303,83"/>
+<area shape="rect" id="node3" href="$host-storage_8c.html#a5483e281f7966e428421b6f0721fd914" title="HostStorageSize" alt="" coords="353,5,474,32"/>
+<area shape="rect" id="node5" href="$util-storage_8c.html#a842a9a77b4fb19baf4b10fc9ed2bd3fb" title="StorageFreeAll" alt="" coords="359,56,467,83"/>
+<area shape="rect" id="node4" href="$util-storage_8c.html#a7cc083db4db0385f32d65439b82827f9" title="get the size of the void array used to store the pointers " alt="" coords="523,5,637,32"/>
+</map>

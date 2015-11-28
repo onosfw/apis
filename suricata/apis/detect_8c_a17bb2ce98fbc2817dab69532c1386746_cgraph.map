@@ -1,0 +1,51 @@
+<map id="SigGroupBuild" name="SigGroupBuild">
+<area shape="rect" id="node2" href="$util-cuda-handlers_8h.html#a9c8c25bb5541a21c39e8b60434d68409" title="CudaHandlerGetCudaProfile" alt="" coords="179,5,365,32"/>
+<area shape="rect" id="node3" href="$util-cuda-handlers_8h.html#a05c7456011878d072ee2f651dfa78f86" title="CudaHandlerModuleGetContext" alt="" coords="169,56,375,83"/>
+<area shape="rect" id="node4" href="$detect-engine-mpm_8c.html#a2d57281780fcf3178d1eb08203ab78aa" title="Figured out the FP and their respective content ids for all the sigs in the engine. " alt="" coords="173,107,371,133"/>
+<area shape="rect" id="node8" href="$util-mpm_8c.html#afb5aa4b0f7cf1275aa86dab4d294f71a" title="MpmFactoryGetMpmCtxForProfile" alt="" coords="161,157,383,184"/>
+<area shape="rect" id="node9" href="$detect-engine-mpm_8c.html#a0ca6676add66d43cf3493629b80b3ee9" title="Function to return the multi pattern matcher algorithm to be used by the engine, based on the mpm&#45;alg..." alt="" coords="177,208,367,235"/>
+<area shape="rect" id="node12" href="$util-profiling-rules_8c.html#a0a8dc5cfbedbce8dd6d16bb83596e786" title="Register the rule profiling counters. " alt="" coords="179,259,365,285"/>
+<area shape="rect" id="node14" href="$detect_8c.html#aee7b5495ca908a9bb27207a5241d8b70" title="Preprocess signature, classify ip&#45;only, etc, build sig array. " alt="" coords="185,309,359,336"/>
+<area shape="rect" id="node17" href="$detect_8c.html#aabe6ab0213639a48e8560e510eb7ca02" title="Fill the global src group head, with the sigs included. " alt="" coords="455,360,630,387"/>
+<area shape="rect" id="node32" href="$detect_8c.html#a72fc70b5d12e86ff5827d2d397233773" title="SigAddressPrepareStage3" alt="" coords="185,639,359,665"/>
+<area shape="rect" id="node44" href="$detect_8c.html#a55537a819c877544ef1674973853f09f" title="finalize preparing sgh&#39;s " alt="" coords="185,1085,359,1112"/>
+<area shape="rect" id="node5" href="$detect-engine-mpm_8c.html#aae0deb4aed181596e486f701f951c49e" title="RetrieveFPForSigV2" alt="" coords="471,56,614,83"/>
+<area shape="rect" id="node7" href="$detect-parse_8c.html#ae10f2c60b76e0b41a504ed15a7c3b0f9" title="SigMatchListSMBelongsTo" alt="" coords="453,107,633,133"/>
+<area shape="rect" id="node6" href="$detect-engine-mpm_8c.html#aaac33ba5a61dd7ec7637385cc21b2df1" title="Predict a strength value for patterns. " alt="" coords="738,56,851,83"/>
+<area shape="rect" id="node10" href="$conf_8c.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="507,157,578,184"/>
+<area shape="rect" id="node11" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="743,157,846,184"/>
+<area shape="rect" id="node13" href="$util-profiling-rules_8c.html#a8579992902524fed685aced8948c8250" title="SCProfilingRuleInitCtx" alt="" coords="465,208,620,235"/>
+<area shape="rect" id="node15" href="$util-debug_8c.html#ab793aa1c0db8ab4c177d80f79c085297" title="Returns whether debug messages are enabled to be logged or not. " alt="" coords="469,259,616,285"/>
+<area shape="rect" id="node16" href="$detect_8c.html#abc572b1c2d12d59c00f79c050ae311bb" title="Test is a initialized signature is IP only. " alt="" coords="479,309,607,336"/>
+<area shape="rect" id="node18" href="$detect_8c.html#afc77848803e5fcaaf39f90ff860140dc" title="CreateGroupedAddrList" alt="" coords="715,600,874,627"/>
+<area shape="rect" id="node26" href="$detect_8c.html#a5b61533f2fb4103f1e4d783e0e615da9" title="CreateGroupedAddrListCmp\lMpmMinlen" alt="" coords="701,702,888,743"/>
+<area shape="rect" id="node21" href="$detect-engine-address_8c.html#af82d16bf8b8d0d7ed63920cae0bc8959" title="Frees a DetectAddressHead instance. " alt="" coords="1342,380,1509,407"/>
+<area shape="rect" id="node27" href="$detect-engine-address_8c.html#a3fae813701993e10b784cfae025ec259" title="Returns a new instance of DetectAddressHead. " alt="" coords="715,549,874,576"/>
+<area shape="rect" id="node28" href="$detect-engine-iponly_8c.html#ad2a9018d7c560e0a43cacdca733c18cc" title="Add a signature to the lists of Adrresses in CIDR format (sorted) this step is necesary to build the ..." alt="" coords="725,385,865,412"/>
+<area shape="rect" id="node29" href="$detect-engine-iponly_8c.html#a629ee6e2b4f5d0ba977f80e72e887196" title="Setup the IP Only detection engine context. " alt="" coords="755,436,835,463"/>
+<area shape="rect" id="node30" href="$detect-engine-iponly_8c.html#a88f55e5a31ac387253943acac946e511" title="Build the radix trees from the lists of parsed adresses in CIDR format the result should be 4 radix t..." alt="" coords="741,487,848,513"/>
+<area shape="rect" id="node31" href="$detect-engine-iponly_8c.html#aa19fb5aea7e556c83c630569695aad00" title="Print stats of the IP Only engine. " alt="" coords="750,284,839,311"/>
+<area shape="rect" id="node19" href="$detect-engine-address_8c.html#adcd04f89acefed4c42c90138e8d1872d" title="Copies the contents of one Address group in DetectAddress and returns a new instance of the DetectAdd..." alt="" coords="938,701,1078,728"/>
+<area shape="rect" id="node20" href="$detect-engine-address_8c.html#a93c2ac0d98f92485bd4697ce4d610344" title="Frees a DetectAddress instance. " alt="" coords="1143,424,1278,451"/>
+<area shape="rect" id="node22" href="$detect-engine-address_8c.html#a65f3a277db68ea6b72488d074a8135db" title="Same as DetectAddressInsert, but then for inserting a address group object. This also makes sure SigG..." alt="" coords="937,549,1079,576"/>
+<area shape="rect" id="node25" href="$detect-engine-address_8c.html#a25f8ca3631cd66ca4fff7d18cf0c59af" title="Join two addresses groups together. " alt="" coords="941,600,1075,627"/>
+<area shape="rect" id="node23" href="$detect-engine-port_8c.html#a4a6689fa3d861de5b4d26b120d860d01" title="Copy and insert the new DetectPort, with a copy list of sigs. " alt="" coords="1136,600,1285,627"/>
+<area shape="rect" id="node24" href="$detect-engine-siggroup_8c.html#a51eba76854157da0de4a460887ff391d" title="Copies the bitarray holding the sids from the source SigGroupHead to the destination SigGroupHead..." alt="" coords="1129,549,1293,576"/>
+<area shape="rect" id="node33" href="$detect_8c.html#a0ff85d4d7e9776988c8fe1659f65db89" title="Build the destination address portion of the match tree. " alt="" coords="441,664,644,691"/>
+<area shape="rect" id="node34" href="$detect_8c.html#aa3952cbb6c857eb9d1b9b2fa7689c0e4" title="BuildDestinationAddressHeads\lWithBothPorts" alt="" coords="441,715,644,757"/>
+<area shape="rect" id="node35" href="$detect-engine-port_8c.html#a507de2742f366bbd647fc3165ba6933c" title="Function that free the HashListTable of destination DetectPort. " alt="" coords="463,832,622,859"/>
+<area shape="rect" id="node36" href="$detect-engine-port_8c.html#acf8c247c2e9ec993d64ab97493494676" title="Function that free the HashListTable of source DetectPort. " alt="" coords="463,883,622,909"/>
+<area shape="rect" id="node37" href="$detect-engine-siggroup_8c.html#a13a30f085805e3fc1b514f548e6797d8" title="Frees the hash table &#45; DetectEngineCtx&#45;&gt;sgh_dport_hash_table, allocated by the SigGroupHeadDPortHashI..." alt="" coords="443,933,642,960"/>
+<area shape="rect" id="node38" href="$detect-engine-siggroup_8c.html#a78e1040d25155c86c395eaad1a4467ca" title="Free the mpm arrays that are only used during the init stage. " alt="" coords="443,411,643,437"/>
+<area shape="rect" id="node39" href="$detect-engine-siggroup_8c.html#a0df9c13218236ba3baeb5cea18472f2e" title="Free the sigarrays in the sgh&#39;s. Those are only used during the init stage. " alt="" coords="447,461,638,488"/>
+<area shape="rect" id="node40" href="$detect-engine-siggroup_8c.html#ac076a44d9302d4edce02c940ab1a6d96" title="Frees the hash table &#45; DetectEngineCtx&#45;&gt;sgh_hash_table, allocated by SigGroupHeadHashInit() function..." alt="" coords="461,512,625,539"/>
+<area shape="rect" id="node41" href="$detect-engine-siggroup_8c.html#acc9254e7e1f67d3d6d7d373ebe9de069" title="Frees the hash table &#45; DetectEngineCtx&#45;&gt;sgh_mpm_hash_table, allocated by SigGroupHeadMpmHashInit() fu..." alt="" coords="446,563,639,589"/>
+<area shape="rect" id="node42" href="$detect-engine-siggroup_8c.html#a16f3b6ee3b1d196de0a058c359c12f77" title="Frees the hash table &#45; DetectEngineCtx&#45;&gt;sgh_mpm_uri_hash_table, allocated by SigGroupHeadMpmUriHashIn..." alt="" coords="437,613,648,640"/>
+<area shape="rect" id="node43" href="$detect-engine-siggroup_8c.html#acf4a4d47ba817bcf713fc9cd27496fe9" title="Frees the hash table &#45; DetectEngineCtx&#45;&gt;sgh_sport_hash_table, allocated by the SigGroupHeadSPortHashI..." alt="" coords="444,781,641,808"/>
+<area shape="rect" id="node45" href="$detect-engine-siggroup_8c.html#adabe351a3c3fcfddbfb52aedc361226b" title="build an array of rule id&#39;s for sigs with no mpm Also updated de_ctx::non_mpm_store_cnt_max to track ..." alt="" coords="433,984,653,1011"/>
+<area shape="rect" id="node46" href="$detect-engine-siggroup_8c.html#afcaa505cfc722fa5949d147c84ceca2d" title="Get size of the shortest mpm pattern. " alt="" coords="441,1035,645,1061"/>
+<area shape="rect" id="node47" href="$detect-engine-siggroup_8c.html#a7c67c0a245c8668509c343109a3d4a90" title="Set the need md5 flag in the sgh. " alt="" coords="439,1085,647,1112"/>
+<area shape="rect" id="node48" href="$detect-engine-siggroup_8c.html#a33ea567429b979a6b8c502c97b69af8f" title="Set the need magic flag in the sgh. " alt="" coords="443,1136,642,1163"/>
+<area shape="rect" id="node49" href="$detect-engine-siggroup_8c.html#a13f2a1c1067f81f0089f2dd7128ab670" title="Set the need size flag in the sgh. " alt="" coords="444,1187,641,1213"/>
+<area shape="rect" id="node50" href="$detect-engine-siggroup_8c.html#a8a9e61c440e8f55f760b8ddaff990145" title="Set the filestore_cnt in the sgh. " alt="" coords="454,1238,631,1279"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ReceivePcapThreadInit" name="ReceivePcapThreadInit">
+<area shape="rect" id="node2" href="$util-ioctl_8c.html#a06ff192ee11f48305e2c109930810ddb" title="output max packet size for a link " alt="" coords="214,5,378,32"/>
+<area shape="rect" id="node6" href="$util-device_8c.html#af3435c8a183aae9db0b242fcd595ec7b" title="Get a pointer to the device at idx. " alt="" coords="242,56,350,83"/>
+<area shape="rect" id="node7" href="$counters_8c.html#a7bae5ee323fcf0d82c933600b870eb93" title="Registers a normal, unqualified counter. " alt="" coords="222,107,370,133"/>
+<area shape="rect" id="node5" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="677,120,739,147"/>
+<area shape="rect" id="node3" href="$util-ioctl_8c.html#a3a57369ed733b04856c4c77c1586ea0f" title="output a majorant of hardware header length " alt="" coords="427,5,629,32"/>
+<area shape="rect" id="node4" href="$util-ioctl_8c.html#a8d6364f452edeadeb917dd841bc3bae6" title="output the link MTU " alt="" coords="477,81,579,108"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="DetectAsn1Register" name="DetectAsn1Register">
+<area shape="rect" id="node2" href="$detect-asn1_8c.html#aca8297c1087fb2b7e8a56eaef66fbbdd" title="this function will free memory associated with DetectAsn1Data " alt="" coords="223,31,340,57"/>
+<area shape="rect" id="node3" href="$detect-asn1_8c.html#a65b38053a9a9f7ca6d6f75a5add7b765" title="This function will decode the asn1 data and inspect the resulting nodes to detect if any of the speci..." alt="" coords="218,81,345,108"/>
+<area shape="rect" id="node16" href="$detect-asn1_8c.html#a7c53698eb0836d97ae3afb45ea1042fe" title="this function registers unit tests for DetectAsn1 " alt="" coords="195,132,368,159"/>
+<area shape="rect" id="node4" href="$util-decode-asn1_8c.html#ad624d229bf0cff8e482eac9ac7e36628" title="Destroy an ASN1 Parsing context. " alt="" coords="416,5,555,32"/>
+<area shape="rect" id="node5" href="$util-decode-asn1_8c.html#a0cc466d6d84fa50d8c133398caf5eb90" title="Initialize the data of the ASN1 parser ctx with the asn1 raw buffer. " alt="" coords="430,56,541,83"/>
+<area shape="rect" id="node6" href="$util-decode-asn1_8c.html#ac9a283f9cba180fc3f63cb0c3a67f14d" title="Create a new ASN1 Parsing context. " alt="" coords="426,107,545,133"/>
+<area shape="rect" id="node7" href="$util-decode-asn1_8c.html#a561b6ac5726d5460877e1bd067a5d63b" title="Decode the nodes/frames located at certain position/level. " alt="" coords="427,181,543,208"/>
+<area shape="rect" id="node8" href="$util-decode-asn1_8c.html#aa827e3a4d8e7d40181b49e39083d6778" title="Create a new node at the array stack of frames in the ctx. " alt="" coords="609,55,765,81"/>
+<area shape="rect" id="node9" href="$util-decode-asn1_8c.html#aa2d215f18ece87559ca0778376844e63" title="Decode and check the identifier information of the current node that we are parsing, also check invalid opts. " alt="" coords="603,105,770,132"/>
+<area shape="rect" id="node12" href="$util-decode-asn1_8c.html#af1d21bc08ddf5d483cb373ec5b740507" title="Decode and check the length, of the current node that we are parsing, also check invalid opts..." alt="" coords="609,156,764,183"/>
+<area shape="rect" id="node14" href="$util-decode-asn1_8c.html#a962ed155cc632fd2eb0a7691e35bf6cd" title="Check the content length and perform other inspections and decodings if necessary. " alt="" coords="605,207,768,233"/>
+<area shape="rect" id="node10" href="$util-decode-asn1_8c.html#a2ad43c6bd699fdb31fa01fa591a1545c" title="check if we have remaining data available, otherwise the parser should stop " alt="" coords="1057,156,1210,183"/>
+<area shape="rect" id="node15" href="$util-print_8c.html#ae571482664d670a7c18ae627c32f7e25" title="PrintRawDataFp" alt="" coords="627,308,746,335"/>
+<area shape="rect" id="node11" href="$util-decode-asn1_8c.html#a4c02bbc86660a02ea373a444e399af2a" title="Decode and check the identifier information of the current node that is in extended format..." alt="" coords="820,105,1007,132"/>
+<area shape="rect" id="node13" href="$util-decode-asn1_8c.html#a2893cf4247e59bfea49e4e2a190feda4" title="Decode and check the length, of the current node in definite but extended format, that we are parsing..." alt="" coords="819,207,1008,233"/>
+</map>

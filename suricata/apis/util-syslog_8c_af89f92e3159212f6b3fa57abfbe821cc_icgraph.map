@@ -1,0 +1,12 @@
+<map id="SCSyslogGetFacilityMap" name="SCSyslogGetFacilityMap">
+<area shape="rect" id="node2" href="$alert-syslog_8c.html#a6b87d3f6eddf8d282def8ad9c0fa45b0" title="Create a new LogFileCtx for &quot;syslog&quot; output style. " alt="" coords="235,5,363,32"/>
+<area shape="rect" id="node8" href="$util-debug_8h.html#a125c4fcb11ac1b6e94541650bd993a16" title="Creates a new output interface based on the arguments sent. The kind of output interface to be create..." alt="" coords="224,56,373,83"/>
+<area shape="rect" id="node9" href="$util-debug_8h.html#a7f76e0a2cbc79c8ff3f5450bb02facd7" title="SCLogLoadConfig" alt="" coords="673,107,801,133"/>
+<area shape="rect" id="node3" href="$alert-syslog_8h.html#a5c0f2f022045f5c8dc25f84be941a9c9" title="Function to register the AlertSyslog module. " alt="" coords="422,5,621,32"/>
+<area shape="rect" id="node4" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="670,5,805,32"/>
+<area shape="rect" id="node5" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="881,5,980,32"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1253,56,1304,83"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="1056,56,1205,83"/>
+<area shape="rect" id="node10" href="$util-running-modes_8h.html#ad03a2414917a2fc87f4be0370c4c8fd7" title="ListAppLayerProtocols" alt="" coords="854,56,1007,83"/>
+<area shape="rect" id="node11" href="$util-running-modes_8h.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title="ListKeywords" alt="" coords="880,107,981,133"/>
+</map>

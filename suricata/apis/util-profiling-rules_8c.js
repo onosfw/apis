@@ -1,0 +1,26 @@
+var util_profiling_rules_8c =
+[
+    [ "SCProfileData_", "structSCProfileData__.html", "structSCProfileData__" ],
+    [ "SCProfileDetectCtx_", "structSCProfileDetectCtx__.html", "structSCProfileDetectCtx__" ],
+    [ "SCProfileSummary_", "structSCProfileSummary__.html", "structSCProfileSummary__" ],
+    [ "SCProfileData", "util-profiling-rules_8c.html#ac91f96a839f66c1c06bb48394af00e8c", null ],
+    [ "SCProfileDetectCtx", "util-profiling-rules_8c.html#a9b2cc8edd68b503d696af4e966bb2e41", null ],
+    [ "SCProfileSummary", "util-profiling-rules_8c.html#aa0c438c72bd867be70411344d36ebabb", null ],
+    [ "SC_PROFILING_RULES_SORT_BY_TICKS", "util-profiling-rules_8c.html#ae62fccd8cea8f216b24ba625d404c4aeabf06dd33ca888136ab99eda77a3d905a", null ],
+    [ "SC_PROFILING_RULES_SORT_BY_AVG_TICKS", "util-profiling-rules_8c.html#ae62fccd8cea8f216b24ba625d404c4aead6ce385e493b4810518ffd2790e1a830", null ],
+    [ "SC_PROFILING_RULES_SORT_BY_CHECKS", "util-profiling-rules_8c.html#ae62fccd8cea8f216b24ba625d404c4aea449845482f56c127ff61a2888dafa0d5", null ],
+    [ "SC_PROFILING_RULES_SORT_BY_MATCHES", "util-profiling-rules_8c.html#ae62fccd8cea8f216b24ba625d404c4aeaeb378fa6a44342f3615879a3bf8623b9", null ],
+    [ "SC_PROFILING_RULES_SORT_BY_MAX_TICKS", "util-profiling-rules_8c.html#ae62fccd8cea8f216b24ba625d404c4aeaa4145a3b7ded021b50d038ada50ba26b", null ],
+    [ "SC_PROFILING_RULES_SORT_BY_AVG_TICKS_MATCH", "util-profiling-rules_8c.html#ae62fccd8cea8f216b24ba625d404c4aea5fcbed018d0622864de5fffe48841d4f", null ],
+    [ "SC_PROFILING_RULES_SORT_BY_AVG_TICKS_NO_MATCH", "util-profiling-rules_8c.html#ae62fccd8cea8f216b24ba625d404c4aea886329d954ca46fcf4c7ca13d8ea3534", null ],
+    [ "SCProfilingRuleDestroyCtx", "util-profiling-rules_8c.html#a236d207a562135037e1b3f61f116817c", null ],
+    [ "SCProfilingRuleDump", "util-profiling-rules_8c.html#ac6c2eb6884c130ef39861ed5d5bd5245", null ],
+    [ "SCProfilingRuleInitCounters", "util-profiling-rules_8c.html#a0a8dc5cfbedbce8dd6d16bb83596e786", null ],
+    [ "SCProfilingRuleInitCtx", "util-profiling-rules_8c.html#a8579992902524fed685aced8948c8250", null ],
+    [ "SCProfilingRulesGlobalInit", "util-profiling-rules_8c.html#a59cfaf09520d50a5ac1b0f61145dd243", null ],
+    [ "SCProfilingRuleThreadCleanup", "util-profiling-rules_8c.html#a17afaed10ba1730a9c6bf52117a70461", null ],
+    [ "SCProfilingRuleThreadSetup", "util-profiling-rules_8c.html#a5290012f53623281bc86f77a15fc6326", null ],
+    [ "SCProfilingRuleUpdateCounter", "util-profiling-rules_8c.html#aa4aa10ff0cae640d57d7968bb9c3edf3", null ],
+    [ "profiling_output_to_file", "util-profiling-rules_8c.html#abf698b52e7c834c1c578eb74695e7b5a", null ],
+    [ "profiling_rules_enabled", "util-profiling-rules_8c.html#a9f3b5cd72954503498fa5a175b899bcd", null ]
+];

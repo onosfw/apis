@@ -1,0 +1,6 @@
+<map id="RunmodeGetCurrent" name="RunmodeGetCurrent">
+<area shape="rect" id="node2" href="$runmodes_8h.html#af0574bee659ceec6a87d81674afa2d26" title="RunModeGetMainMode" alt="" coords="198,5,357,32"/>
+<area shape="rect" id="node3" href="$detect_8h.html#a8b471081c75864d1c8d4bcb14eaebc3b" title="Load signatures. " alt="" coords="212,56,343,83"/>
+<area shape="rect" id="node4" href="$detect-engine_8h.html#aba0e2c94ab90c4390af30af806db271d" title="Reload the detection engine. " alt="" coords="406,56,549,83"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="597,56,648,83"/>
+</map>

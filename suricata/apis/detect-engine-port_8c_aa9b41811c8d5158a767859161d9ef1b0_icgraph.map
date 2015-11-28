@@ -1,0 +1,12 @@
+<map id="DetectPortCompareFunc" name="DetectPortCompareFunc">
+<area shape="rect" id="node2" href="$detect-engine-port_8h.html#a9468d406aea056ae18ca0a6dc96211bf" title="Function that initialize the HashListTable of destination DetectPort. " alt="" coords="222,5,373,32"/>
+<area shape="rect" id="node10" href="$detect-engine-port_8h.html#a6acc23a40411bb2c5ffaccfbae349be2" title="Function that initialize the HashListTable of source DetectPort. " alt="" coords="222,56,373,83"/>
+<area shape="rect" id="node3" href="$detect-engine-port_8h.html#acd33981171b69bf815e756aec7e978f0" title="Function that reset the HashListTable of destination DetectPort (Free and Initialize it) ..." alt="" coords="421,5,589,32"/>
+<area shape="rect" id="node4" href="$detect_8c.html#aa3952cbb6c857eb9d1b9b2fa7689c0e4" title="BuildDestinationAddressHeads\lWithBothPorts" alt="" coords="637,23,840,65"/>
+<area shape="rect" id="node5" href="$detect_8c.html#a72fc70b5d12e86ff5827d2d397233773" title="SigAddressPrepareStage3" alt="" coords="889,31,1063,57"/>
+<area shape="rect" id="node6" href="$detect_8h.html#a5eab8b8beaf1cc85d8a25a309ea13124" title="Convert the signature list into the runtime match structure. " alt="" coords="1113,31,1218,57"/>
+<area shape="rect" id="node7" href="$detect_8h.html#a8b471081c75864d1c8d4bcb14eaebc3b" title="Load signatures. " alt="" coords="1267,31,1397,57"/>
+<area shape="rect" id="node8" href="$detect-engine_8h.html#aba0e2c94ab90c4390af30af806db271d" title="Reload the detection engine. " alt="" coords="1446,31,1589,57"/>
+<area shape="rect" id="node9" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1637,31,1688,57"/>
+<area shape="rect" id="node11" href="$detect-engine-port_8h.html#a3cd546f126a9baf5fa5daf4d9aed2d89" title="Function that reset the HashListTable of source DetectPort (Free and Initialize it) ..." alt="" coords="422,56,589,83"/>
+</map>

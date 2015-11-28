@@ -1,0 +1,7 @@
+<map id="TmqhSimpleRegister" name="TmqhSimpleRegister">
+<area shape="rect" id="node2" href="$tmqh-simple_8c.html#a336fa59a450b292bb7b0774baafe18a7" title="TmqhInputSimple" alt="" coords="249,5,373,32"/>
+<area shape="rect" id="node4" href="$tmqh-simple_8c.html#aac4cfe1d61bed34a779ae7ca34f0d9b1" title="TmqhInputSimpleShutdownHandler" alt="" coords="197,56,424,83"/>
+<area shape="rect" id="node5" href="$tmqh-simple_8c.html#af283773cf921baa7698ce6272698c51a" title="TmqhOutputSimple" alt="" coords="243,107,378,133"/>
+<area shape="rect" id="node3" href="$packet-queue_8c.html#a609973832178eed5f62ea8939417b366" title="PacketDequeue" alt="" coords="472,5,587,32"/>
+<area shape="rect" id="node6" href="$packet-queue_8c.html#a1ab70c26cf76410d008c664031a2ced2" title="PacketEnqueue" alt="" coords="472,107,587,133"/>
+</map>

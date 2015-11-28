@@ -1,0 +1,6 @@
+<map id="SCLogInitLogModule" name="SCLogInitLogModule">
+<area shape="rect" id="node2" href="$util-debug_8c.html#a4120eb93b545ac44a94f9ea18fa0cdfe" title="De&#45;Initializes the logging module. " alt="" coords="197,31,357,57"/>
+<area shape="rect" id="node3" href="$util-debug-filters_8c.html#a44212bd19b4180f67604ab7875930f90" title="Releases all the FD filters added to the logging module. " alt="" coords="406,5,570,32"/>
+<area shape="rect" id="node5" href="$util-debug-filters_8c.html#ab0e7a4053c49e131aad3bffb6179b3f5" title="SCLogReleaseFGFilters" alt="" coords="406,56,570,83"/>
+<area shape="rect" id="node4" href="$util-debug-filters_8c.html#acf1151670a03b8c84f065dde8124915b" title="Releases the memory alloted to a FD filter. " alt="" coords="619,5,776,32"/>
+</map>

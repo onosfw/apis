@@ -1,0 +1,7 @@
+<map id="SignatureIsIPOnly" name="SignatureIsIPOnly">
+<area shape="rect" id="node2" href="$detect_8c.html#aee7b5495ca908a9bb27207a5241d8b70" title="Preprocess signature, classify ip&#45;only, etc, build sig array. " alt="" coords="182,5,357,32"/>
+<area shape="rect" id="node3" href="$detect_8h.html#a5eab8b8beaf1cc85d8a25a309ea13124" title="Convert the signature list into the runtime match structure. " alt="" coords="406,5,511,32"/>
+<area shape="rect" id="node4" href="$detect_8h.html#a8b471081c75864d1c8d4bcb14eaebc3b" title="Load signatures. " alt="" coords="560,5,691,32"/>
+<area shape="rect" id="node5" href="$detect-engine_8h.html#aba0e2c94ab90c4390af30af806db271d" title="Reload the detection engine. " alt="" coords="739,5,882,32"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="931,5,981,32"/>
+</map>

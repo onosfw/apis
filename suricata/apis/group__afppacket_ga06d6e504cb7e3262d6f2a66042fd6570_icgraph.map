@@ -1,0 +1,9 @@
+<map id="AFPReleasePacket" name="AFPReleasePacket">
+<area shape="rect" id="node2" href="$group__afppacket.html#gadcd185d5bd2d2529761199165612cad5" title="AF packet read function for ring. " alt="" coords="192,5,328,32"/>
+<area shape="rect" id="node3" href="$group__afppacket.html#ga47336052bf58297a6dc5dbc7ac7da790" title="Main AF_PACKET reading Loop function. " alt="" coords="377,5,501,32"/>
+<area shape="rect" id="node4" href="$group__afppacket.html#ga125f047940f8ff0ea8f5295cd2ce7f3e" title="Registration Function for RecieveAFP. " alt="" coords="550,5,757,32"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="806,5,941,32"/>
+<area shape="rect" id="node6" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="989,5,1088,32"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1333,5,1384,32"/>
+<area shape="rect" id="node8" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="1136,31,1285,57"/>
+</map>

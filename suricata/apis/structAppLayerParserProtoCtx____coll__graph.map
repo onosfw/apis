@@ -1,0 +1,10 @@
+<map id="AppLayerParserProtoCtx_" name="AppLayerParserProtoCtx_">
+<area shape="rect" id="node2" href="$structAppLayerDecoderEvents__.html" title="Data structure to store app layer decoder events. " alt="" coords="5,304,179,331"/>
+<area shape="rect" id="node3" href="$structDetectEngineState__.html" title="DetectEngineState_" alt="" coords="204,304,343,331"/>
+<area shape="rect" id="node4" href="$structDetectEngineStateDirection__.html" title="DetectEngineStateDirection_" alt="" coords="171,200,361,227"/>
+<area shape="rect" id="node5" href="$structDeStateStore__.html" title="DeStateStore_" alt="" coords="201,96,308,123"/>
+<area shape="rect" id="node6" href="$structDeStateStoreItem__.html" title="DeStateStoreItem_" alt="" coords="187,5,321,32"/>
+<area shape="rect" id="node7" href="$structFileContainer__.html" title="FileContainer_" alt="" coords="367,304,473,331"/>
+<area shape="rect" id="node8" href="$structFile__.html" title="File_" alt="" coords="399,200,449,227"/>
+<area shape="rect" id="node9" href="$structFileData__.html" title="FileData_" alt="" coords="386,96,464,123"/>
+</map>

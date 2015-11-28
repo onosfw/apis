@@ -1,0 +1,5 @@
+<map id="DetectIsdataatParse" name="DetectIsdataatParse">
+<area shape="rect" id="node2" href="$util-byte_8c.html#a9cc0b7c198843ccaebe904f4653fb154" title="ByteExtractStringUint16" alt="" coords="197,5,360,32"/>
+<area shape="rect" id="node4" href="$detect-isdataat_8c.html#a1cd5dc7b1ffad8f2bd1db011a8672c37" title="this function will free memory associated with DetectIsdataatData " alt="" coords="211,56,346,83"/>
+<area shape="rect" id="node3" href="$util-byte_8c.html#a43dab0146a4fbdf54e3c1dba707b0534" title="ByteExtractString" alt="" coords="408,5,533,32"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="SigAddressPrepareStage4" name="SigAddressPrepareStage4">
+<area shape="rect" id="node2" href="$detect-engine-siggroup_8c.html#adabe351a3c3fcfddbfb52aedc361226b" title="build an array of rule id&#39;s for sigs with no mpm Also updated de_ctx::non_mpm_store_cnt_max to track ..." alt="" coords="230,5,450,32"/>
+<area shape="rect" id="node3" href="$detect-engine-siggroup_8c.html#afcaa505cfc722fa5949d147c84ceca2d" title="Get size of the shortest mpm pattern. " alt="" coords="238,56,442,83"/>
+<area shape="rect" id="node4" href="$detect-engine-siggroup_8c.html#a7c67c0a245c8668509c343109a3d4a90" title="Set the need md5 flag in the sgh. " alt="" coords="236,107,444,133"/>
+<area shape="rect" id="node6" href="$detect-engine-siggroup_8c.html#a33ea567429b979a6b8c502c97b69af8f" title="Set the need magic flag in the sgh. " alt="" coords="241,157,439,184"/>
+<area shape="rect" id="node8" href="$detect-engine-siggroup_8c.html#a13f2a1c1067f81f0089f2dd7128ab670" title="Set the need size flag in the sgh. " alt="" coords="241,208,439,235"/>
+<area shape="rect" id="node10" href="$detect-engine-siggroup_8c.html#a8a9e61c440e8f55f760b8ddaff990145" title="Set the filestore_cnt in the sgh. " alt="" coords="251,259,429,301"/>
+<area shape="rect" id="node5" href="$detect_8c.html#a7c6d49ee08aad44ee4a57479d1bffae5" title="Check if a signature contains the filemagic keyword. " alt="" coords="499,107,703,133"/>
+<area shape="rect" id="node7" href="$detect_8c.html#acae4c6d6e40b70380d9160a94b647fd2" title="Check if a signature contains the filemd5 keyword. " alt="" coords="504,157,699,184"/>
+<area shape="rect" id="node9" href="$detect_8c.html#a7d1f046185305c1969d1ec51a175170f" title="Check if a signature contains the filesize keyword. " alt="" coords="505,208,698,235"/>
+<area shape="rect" id="node11" href="$detect_8c.html#a4e0a5765170045b081b28e93276e2f2f" title="Check if a signature contains the filestore keyword. " alt="" coords="527,267,675,293"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="DetectPortDpHashInit" name="DetectPortDpHashInit">
+<area shape="rect" id="node2" href="$detect-engine-port_8c.html#aa9b41811c8d5158a767859161d9ef1b0" title="Function that return if the two DetectPort groups are equal or not. " alt="" coords="206,5,373,32"/>
+<area shape="rect" id="node3" href="$detect-engine-port_8c.html#a75d136f87a9add2205627924c8eb215b" title="DetectPortFreeFunc" alt="" coords="219,56,359,83"/>
+<area shape="rect" id="node9" href="$detect-engine-port_8c.html#a537154c866ebdd2436475a90185e1867" title="Generate a hash for a DetectPort group. " alt="" coords="217,107,362,133"/>
+<area shape="rect" id="node10" href="$util-hashlist_8c.html#afdb92ac7963996878dd3e6b39bce9cdc" title="HashListTableInit" alt="" coords="227,157,351,184"/>
+<area shape="rect" id="node4" href="$detect-engine-port_8c.html#a336d41e96ce6898d02ebecc582cc1557" title="Free a DetectPort and its members. " alt="" coords="467,56,578,83"/>
+<area shape="rect" id="node5" href="$detect-engine-port_8c.html#aa96929b52a485980356a11188a6e9f16" title="Free a DetectPort list and each of its members. " alt="" coords="672,56,827,83"/>
+<area shape="rect" id="node6" href="$detect-engine-siggroup_8c.html#a176702ac4621c9006d89a8d6801d7ce1" title="Free a SigGroupHead and its members. " alt="" coords="683,107,816,133"/>
+<area shape="rect" id="node7" href="$detect-engine-mpm_8c.html#a6a1c9264037c5fe5756ea28f6ddab251" title="PatternMatchDestroyGroup" alt="" coords="875,81,1056,108"/>
+<area shape="rect" id="node8" href="$detect-engine-siggroup_8c.html#a6f6c71bc5fff7f350d164523257ebed1" title="SigGroupHeadInitDataFree" alt="" coords="876,132,1055,159"/>
+<area shape="rect" id="node11" href="$util-hashlist_8c.html#a06ff5596b0a440c5438975bef16924d9" title="HashListTableDefaultCompare" alt="" coords="422,157,623,184"/>
+</map>

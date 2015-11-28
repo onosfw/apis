@@ -1,0 +1,11 @@
+<map id="htp_connp_destroy_all" name="htp_connp_destroy_all">
+<area shape="rect" id="node2" href="$group__httplayer.html#ga4d27f058e59815cc3ed5ba1d7f8acf61" title="Function to frees the HTTP state memory and also frees the HTTP connection parser memory which was us..." alt="" coords="205,56,312,83"/>
+<area shape="rect" id="node3" href="$group__httplayer.html#ga23aaf4c00574fa636459e4377429ac13" title="Register the HTTP protocol and state handling functions to APP layer of the engine. " alt="" coords="361,56,503,83"/>
+<area shape="rect" id="node4" href="$app-layer-parser_8h.html#ac5c64e1bddd13fdc99168538935cfab5" title="AppLayerParserRegisterProtocol\lParsers" alt="" coords="553,49,765,90"/>
+<area shape="rect" id="node5" href="$app-layer_8h.html#a13e4dfafdc60d054467da61ea15744f9" title="Setup the app layer. " alt="" coords="814,56,925,83"/>
+<area shape="rect" id="node6" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="1001,107,1100,133"/>
+<area shape="rect" id="node9" href="$util-running-modes_8h.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title="ListKeywords" alt="" coords="1000,5,1101,32"/>
+<area shape="rect" id="node10" href="$util-running-modes_8h.html#ad03a2414917a2fc87f4be0370c4c8fd7" title="ListAppLayerProtocols" alt="" coords="974,56,1127,83"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="1176,56,1325,83"/>
+<area shape="rect" id="node8" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1373,81,1424,108"/>
+</map>

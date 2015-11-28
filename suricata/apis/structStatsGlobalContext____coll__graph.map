@@ -1,0 +1,7 @@
+<map id="StatsGlobalContext_" name="StatsGlobalContext_">
+<area shape="rect" id="node2" href="$structHashTable__.html" title="HashTable_" alt="" coords="26,200,117,227"/>
+<area shape="rect" id="node3" href="$structHashTableBucket__.html" title="HashTableBucket_" alt="" coords="5,96,139,123"/>
+<area shape="rect" id="node4" href="$structStatsPublicThreadContext__.html" title="Stats Context for a ThreadVars instance. " alt="" coords="263,96,445,123"/>
+<area shape="rect" id="node6" href="$structStatsThreadStore__.html" title="per thread store of counters " alt="" coords="336,200,467,227"/>
+<area shape="rect" id="node5" href="$structStatsCounter__.html" title="Container to hold the counter variable. " alt="" coords="301,5,408,32"/>
+</map>

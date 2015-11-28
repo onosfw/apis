@@ -1,0 +1,4 @@
+<map id="UtilCpuPrintSummary" name="UtilCpuPrintSummary">
+<area shape="rect" id="node2" href="$util-cpu_8c.html#a76e3d657a52ccbf2d4c788d1b51a454f" title="Get the number of cpus configured in the system. " alt="" coords="470,5,714,32"/>
+<area shape="rect" id="node3" href="$util-cpu_8c.html#a4f36ee9e70d73c5d8fb86fa6a86c44e2" title="Get the number of cpus online in the system. " alt="" coords="203,31,421,57"/>
+</map>

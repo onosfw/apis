@@ -1,0 +1,4 @@
+<map id="SCRConfDeAllocSCRConfReference" name="SCRConfDeAllocSCRConfReference">
+<area shape="rect" id="node2" href="$util-reference-config_8h.html#aa5128e16bbc86570e6df14d6bc279427" title="Gets the refernce config from the corresponding hash table stored in the Detection Engine Context&#39;s r..." alt="" coords="315,5,475,32"/>
+<area shape="rect" id="node3" href="$util-reference-config_8c.html#a8231f980105c429c36e9aa8a2565fa65" title="Used to free the Reference Config Hash Data that was stored in DetectEngineCtx&#45;&gt;reference_conf_ht Has..." alt="" coords="297,56,493,83"/>
+</map>

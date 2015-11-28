@@ -1,0 +1,8 @@
+<map id="PfringConfigGeThreadsCount" name="PfringConfigGeThreadsCount">
+<area shape="rect" id="node2" href="$runmode-pfring_8h.html#a03d46b27b5c687483ac9f89476f490b6" title="RunModeIdsPfringAutoFp" alt="" coords="251,5,423,32"/>
+<area shape="rect" id="node6" href="$runmode-pfring_8h.html#a2273f9ef551786698a7c6f90ba2daef1" title="RunModeIdsPfringSingle" alt="" coords="254,56,421,83"/>
+<area shape="rect" id="node7" href="$runmode-pfring_8h.html#ad1ce11c37b11e5647edd6f52dae43b5d" title="RunModeIdsPfringWorkers" alt="" coords="248,107,427,133"/>
+<area shape="rect" id="node3" href="$runmode-pfring_8h.html#a60ccf23e33d96ce4ad0e111902f1984b" title="RunModeIdsPfringRegister" alt="" coords="475,56,653,83"/>
+<area shape="rect" id="node4" href="$runmodes_8h.html#aa5565123b11fa026e96b91b23db91ba9" title="Register all runmodes in the engine. " alt="" coords="702,56,893,83"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="941,56,992,83"/>
+</map>

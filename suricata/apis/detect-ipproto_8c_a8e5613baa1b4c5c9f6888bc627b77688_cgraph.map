@@ -1,0 +1,4 @@
+<map id="DetectIPProtoRemoveAllSMs" name="DetectIPProtoRemoveAllSMs">
+<area shape="rect" id="node2" href="$detect-parse_8c.html#a40468bd91dfa6ffb8d8eb4b7d6eef53d" title="free a SigMatch " alt="" coords="298,5,401,32"/>
+<area shape="rect" id="node3" href="$detect-parse_8c.html#ae3c74b1a56949c4e273b1ff53693b8da" title="SigMatchRemoveSMFromList" alt="" coords="251,56,448,83"/>
+</map>

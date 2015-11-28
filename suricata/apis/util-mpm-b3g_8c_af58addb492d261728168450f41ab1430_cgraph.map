@@ -1,0 +1,11 @@
+<map id="B3gGetConfig" name="B3gGetConfig">
+<area shape="rect" id="node2" href="$util-mpm-b3g_8c.html#ad8816e95295cffa66d4120d6a767679c" title="B3gSearch" alt="" coords="207,5,294,32"/>
+<area shape="rect" id="node4" href="$util-mpm-b3g_8c.html#a5409a1b0b06c4d587c24f764d7d0b06c" title="B3gSearchBNDMq" alt="" coords="184,56,317,83"/>
+<area shape="rect" id="node5" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="199,157,302,184"/>
+<area shape="rect" id="node8" href="$conf_8c.html#a4d5920eea97bb4713c41e3ffef423757" title="Lookup the value of a child configuration node by name. " alt="" coords="157,107,344,133"/>
+<area shape="rect" id="node9" href="$util-mpm_8c.html#a0e8ad6311ef4d5d2ade8d7f3f276349d" title="Function to return the default bloomfilter size for the mpm algorithm, which has been defined by the ..." alt="" coords="183,208,318,235"/>
+<area shape="rect" id="node10" href="$util-mpm_8c.html#af053d22d0b7abeda392db8e0a122b74a" title="Function to return the default hash size for the mpm algorithm, which has been defined by the user in..." alt="" coords="186,259,315,285"/>
+<area shape="rect" id="node3" href="$util-mpm_8c.html#a301d9c20764b1514978f73f39adcf861" title="Verify and store a match. " alt="" coords="409,31,530,57"/>
+<area shape="rect" id="node6" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="393,107,546,133"/>
+<area shape="rect" id="node7" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="439,157,500,184"/>
+</map>

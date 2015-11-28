@@ -1,0 +1,16 @@
+<map id="RegisterFTPParsers" name="RegisterFTPParsers">
+<area shape="rect" id="node2" href="$app-layer-parser_8c.html#a88e3531566baa49719a9edd0cb1ef6fa" title="Given a protocol name, checks if the parser is enabled in the conf file. " alt="" coords="208,51,389,93"/>
+<area shape="rect" id="node7" href="$app-layer-parser_8c.html#ab12da1e0fb5d53f08ad527d8c0545edb" title="Register app layer parser for the protocol. " alt="" coords="197,183,400,209"/>
+<area shape="rect" id="node9" href="$app-layer-parser_8c.html#a9d0e2fe5b5c9f000e32a11408336179a" title="AppLayerParserRegisterParser\lAcceptableDataDirection" alt="" coords="197,234,400,275"/>
+<area shape="rect" id="node10" href="$app-layer-parser_8c.html#ad55349f6defb615d8e239052f38005fe" title="AppLayerParserRegisterState\lFuncs" alt="" coords="201,299,396,341"/>
+<area shape="rect" id="node11" href="$app-layer-detect-proto_8c.html#ab97551150b79f956615d499899330c79" title="Given a protocol name, checks if proto detection is enabled in the conf file. " alt="" coords="195,117,402,158"/>
+<area shape="rect" id="node14" href="$app-layer-detect-proto_8c.html#a8b076dfcfe3f401f0eae802ff1b9baca" title="Registers a protocol for protocol detection phase. " alt="" coords="201,365,397,406"/>
+<area shape="rect" id="node15" href="$app-layer-ftp_8c.html#a9b572387c208d154ec5612701b5fe516" title="FTPParserRegisterTests" alt="" coords="215,431,382,457"/>
+<area shape="rect" id="node3" href="$suricata_8c.html#aea038f0105b5e6a67a1bf32d2ccf463c" title="RunmodeIsUnittests" alt="" coords="455,81,598,108"/>
+<area shape="rect" id="node4" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="475,31,578,57"/>
+<area shape="rect" id="node5" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="697,5,759,32"/>
+<area shape="rect" id="node6" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="651,56,805,83"/>
+<area shape="rect" id="node8" href="$flow-util_8c.html#a897ee3b52fa7876e9780704dbc2d1b11" title="Function to map the protocol to the defined FLOW_PROTO_* enumeration. " alt="" coords="451,241,602,268"/>
+<area shape="rect" id="node12" href="$conf_8c.html#abc921a7338a381476e9e40a10e2d543c" title="Check if a value is false. " alt="" coords="471,183,583,209"/>
+<area shape="rect" id="node13" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true. " alt="" coords="473,132,580,159"/>
+</map>

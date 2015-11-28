@@ -1,0 +1,6 @@
+<map id="UnixManagerThreadSpawn" name="UnixManagerThreadSpawn">
+<area shape="rect" id="node2" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="947,5,997,32"/>
+<area shape="rect" id="node3" href="$runmode-unix-socket_8h.html#a304f4f2e8eccfc6974aa3c049cd987ff" title="Single thread version of the Pcap file processing. " alt="" coords="233,31,415,57"/>
+<area shape="rect" id="node4" href="$runmode-unix-socket_8h.html#a7b1f01fe0493956ab7b85823a02c1653" title="RunModeUnixSocketRegister" alt="" coords="464,31,659,57"/>
+<area shape="rect" id="node5" href="$runmodes_8h.html#aa5565123b11fa026e96b91b23db91ba9" title="Register all runmodes in the engine. " alt="" coords="707,31,898,57"/>
+</map>

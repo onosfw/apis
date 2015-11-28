@@ -1,0 +1,12 @@
+<map id="TagHandlePacket" name="TagHandlePacket">
+<area shape="rect" id="node2" href="$host_8c.html#a2cbc81a0891b94c089f7e6b6b4d809dd" title="look up a host in the hash " alt="" coords="181,5,363,32"/>
+<area shape="rect" id="node5" href="$host_8c.html#ae1a83c8dcf278f3b546bafdb5a447218" title="HostRelease" alt="" coords="223,56,321,83"/>
+<area shape="rect" id="node6" href="$detect-engine-tag_8c.html#a51045384aef95201b243c802ce52da51" title="TagHandlePacketHost" alt="" coords="195,157,349,184"/>
+<area shape="rect" id="node11" href="$detect-engine-tag_8c.html#ad6adf5eb6f22b02dd15372e42e5a0dc7" title="TagHostHasTag" alt="" coords="213,107,331,133"/>
+<area shape="rect" id="node3" href="$host_8c.html#a9e457fc00e7928182853db5d7620df63" title="HostGetKey" alt="" coords="435,5,530,32"/>
+<area shape="rect" id="node4" href="$util-hash-lookup3_8c.html#a6b57e35d1649b351ed629d3e022bf85f" title="hashword" alt="" coords="621,5,699,32"/>
+<area shape="rect" id="node7" href="$group__hoststorage.html#ga9bbff71a8002ff811f4b58655dad683d" title="Get a value from a given Host storage. " alt="" coords="411,107,554,133"/>
+<area shape="rect" id="node9" href="$group__hoststorage.html#ga59a8081e31daa912236b7ba08a1767b5" title="Store a pointer in a given Host storage. " alt="" coords="411,157,554,184"/>
+<area shape="rect" id="node8" href="$util-storage_8c.html#ae583f91a48fb1da802d6d8aae8efaa45" title="get storage for id " alt="" coords="603,107,717,133"/>
+<area shape="rect" id="node10" href="$util-storage_8c.html#ad7892e8e521cd8a0d46229502659f562" title="set storage for id " alt="" coords="603,157,717,184"/>
+</map>

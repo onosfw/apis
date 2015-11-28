@@ -1,0 +1,9 @@
+<map id="SCACAddPatternCI" name="SCACAddPatternCI">
+<area shape="rect" id="node2" href="$util-mpm-ac_8h.html#a5ba1adcb60b0bb61538bb6e8420a9def" title="Register the aho&#45;corasick mpm. " alt="" coords="193,56,311,83"/>
+<area shape="rect" id="node3" href="$util-mpm_8h.html#a5f2c4e8d699ef7a5562674a6de86a66e" title="MpmTableSetup" alt="" coords="360,56,477,83"/>
+<area shape="rect" id="node4" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="553,5,652,32"/>
+<area shape="rect" id="node7" href="$util-running-modes_8h.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title="ListKeywords" alt="" coords="552,56,653,83"/>
+<area shape="rect" id="node8" href="$util-running-modes_8h.html#ad03a2414917a2fc87f4be0370c4c8fd7" title="ListAppLayerProtocols" alt="" coords="526,107,679,133"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="925,31,976,57"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="728,56,877,83"/>
+</map>

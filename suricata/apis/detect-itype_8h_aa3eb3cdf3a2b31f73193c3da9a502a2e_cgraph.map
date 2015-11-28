@@ -1,0 +1,5 @@
+<map id="DetectITypeRegister" name="DetectITypeRegister">
+<area shape="rect" id="node2" href="$detect-itype_8c.html#ad2a3434baba61ff973d2b021456f2267" title="this function will free memory associated with DetectITypeData " alt="" coords="225,5,345,32"/>
+<area shape="rect" id="node3" href="$detect-itype_8c.html#af80cfddcc8ba2a768779612da7cc53f5" title="This function is used to match itype rule option set on a packet with those passed via itype: ..." alt="" coords="220,56,351,83"/>
+<area shape="rect" id="node4" href="$detect-itype_8c.html#a48acd5e5d7b60b38e9ce15ec23bfd1ce" title="this function registers unit tests for DetectIType " alt="" coords="197,107,373,133"/>
+</map>

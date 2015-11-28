@@ -1,0 +1,7 @@
+<map id="LogFileLogThreadDeinit" name="LogFileLogThreadDeinit">
+<area shape="rect" id="node2" href="$log-file_8h.html#a21382526aed3b90edfc9dd8b79b0c47e" title="TmModuleLogFileLogRegister" alt="" coords="213,31,408,57"/>
+<area shape="rect" id="node3" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="457,31,591,57"/>
+<area shape="rect" id="node4" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="640,31,739,57"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="787,5,936,32"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="984,31,1035,57"/>
+</map>

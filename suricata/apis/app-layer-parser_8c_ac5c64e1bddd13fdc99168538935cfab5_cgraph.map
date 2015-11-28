@@ -1,0 +1,51 @@
+<map id="AppLayerParserRegisterProtocolParsers" name="AppLayerParserRegisterProtocolParsers">
+<area shape="rect" id="node2" href="$app-layer-detect-proto_8c.html#ab97551150b79f956615d499899330c79" title="Given a protocol name, checks if proto detection is enabled in the conf file. " alt="" coords="543,325,750,366"/>
+<area shape="rect" id="node7" href="$app-layer-detect-proto_8c.html#a634443eaac741160c867d21cc0e96d48" title="Registers a case&#45;sensitive pattern for protocol detection. " alt="" coords="267,298,483,339"/>
+<area shape="rect" id="node8" href="$app-layer-detect-proto_8c.html#a8b076dfcfe3f401f0eae802ff1b9baca" title="Registers a protocol for protocol detection phase. " alt="" coords="549,493,745,534"/>
+<area shape="rect" id="node9" href="$app-layer-dcerpc-common_8h.html#af33f01d5d703a6338f092a1a580ca6f4" title="RegisterDCERPCParsers" alt="" coords="287,415,462,441"/>
+<area shape="rect" id="node10" href="$app-layer-dcerpc-udp_8c.html#a021b09039e147eef3be6d453e28105b9" title="RegisterDCERPCUDPParsers" alt="" coords="273,567,476,593"/>
+<area shape="rect" id="node16" href="$app-layer-dns-tcp_8c.html#ac637e7cedd8afd651b1cf217d654d285" title="RegisterDNSTCPParsers" alt="" coords="289,1543,461,1569"/>
+<area shape="rect" id="node40" href="$app-layer-dns-udp_8c.html#a621fd6c4064a0962df00a7dff98c3e12" title="RegisterDNSUDPParsers" alt="" coords="287,1724,462,1751"/>
+<area shape="rect" id="node42" href="$app-layer-ftp_8c.html#aad9fd179d26143f516519e8f83a8ec95" title="RegisterFTPParsers" alt="" coords="304,364,445,391"/>
+<area shape="rect" id="node44" href="$group__httplayer.html#ga23aaf4c00574fa636459e4377429ac13" title="Register the HTTP protocol and state handling functions to APP layer of the engine. " alt="" coords="303,932,446,959"/>
+<area shape="rect" id="node45" href="$app-layer-modbus_8c.html#aa672d3c3fae34a79808da8f9f3043573" title="Function to register the Modbus protocol parsers and other functions. " alt="" coords="293,836,456,863"/>
+<area shape="rect" id="node46" href="$app-layer-smb_8c.html#aeec3fc7e57e33d4c2df0db5157ccccc2" title="RegisterSMBParsers" alt="" coords="302,668,447,695"/>
+<area shape="rect" id="node47" href="$app-layer-smtp_8c.html#ab9e232b8d15713907654c886f82e84bc" title="Register the SMTP Protocol parser. " alt="" coords="298,983,451,1009"/>
+<area shape="rect" id="node48" href="$app-layer-ssh_8c.html#ad2b97c290b4dd7115bc9ea74af74b525" title="Function to register the SSH protocol parsers and other functions. " alt="" coords="303,617,447,644"/>
+<area shape="rect" id="node49" href="$app-layer-ssl_8c.html#ac41f8ede008657dd3bd8971a8dc24628" title="Function to register the SSL protocol parser and other functions. " alt="" coords="304,465,445,492"/>
+<area shape="rect" id="node50" href="$app-layer-template_8c.html#ac39e3903c23aff255a27a6dfcdf2d652" title="RegisterTemplateParsers" alt="" coords="289,1049,460,1076"/>
+<area shape="rect" id="node3" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="867,613,970,640"/>
+<area shape="rect" id="node4" href="$conf_8c.html#abc921a7338a381476e9e40a10e2d543c" title="Check if a value is false. " alt="" coords="863,357,975,384"/>
+<area shape="rect" id="node5" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true. " alt="" coords="865,307,972,333"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#aea038f0105b5e6a67a1bf32d2ccf463c" title="RunmodeIsUnittests" alt="" coords="847,697,990,724"/>
+<area shape="rect" id="node11" href="$app-layer-parser_8c.html#a88e3531566baa49719a9edd0cb1ef6fa" title="Given a protocol name, checks if the parser is enabled in the conf file. " alt="" coords="556,661,737,702"/>
+<area shape="rect" id="node12" href="$app-layer-parser_8c.html#ab12da1e0fb5d53f08ad527d8c0545edb" title="Register app layer parser for the protocol. " alt="" coords="545,609,748,636"/>
+<area shape="rect" id="node13" href="$app-layer-parser_8c.html#a9d0e2fe5b5c9f000e32a11408336179a" title="AppLayerParserRegisterParser\lAcceptableDataDirection" alt="" coords="545,259,748,301"/>
+<area shape="rect" id="node14" href="$app-layer-parser_8c.html#ad55349f6defb615d8e239052f38005fe" title="AppLayerParserRegisterState\lFuncs" alt="" coords="549,829,744,870"/>
+<area shape="rect" id="node15" href="$app-layer-dcerpc-udp_8h.html#aaaaf471a6efcf0dc8c81f5f9de910043" title="DCERPCUDPParserRegisterTests" alt="" coords="532,208,761,235"/>
+<area shape="rect" id="node17" href="$app-layer-parser_8c.html#ab03a428dbbc04ab52ab3b2dd518ebef5" title="AppLayerParserRegisterDetect\lStateFuncs" alt="" coords="545,1338,748,1379"/>
+<area shape="rect" id="node18" href="$app-layer-parser_8c.html#a5771b6f95b6312689569e69161622fa8" title="AppLayerParserRegisterGet\lEventsFunc" alt="" coords="554,959,739,1001"/>
+<area shape="rect" id="node19" href="$app-layer-parser_8c.html#a473bad28a64a2fa1eda0f94b2a844e87" title="AppLayerParserRegisterGet\lStateProgressCompletionStatus" alt="" coords="542,1025,751,1066"/>
+<area shape="rect" id="node20" href="$app-layer-parser_8c.html#ab6430892232c0764e6d6bcc9c32741a1" title="AppLayerParserRegisterGet\lStateProgressFunc" alt="" coords="554,1090,739,1131"/>
+<area shape="rect" id="node21" href="$app-layer-parser_8c.html#a9e2aba01bb7d7e1a72c067c8cda6712a" title="AppLayerParserRegisterGetTx" alt="" coords="547,1156,747,1183"/>
+<area shape="rect" id="node22" href="$app-layer-parser_8c.html#a19b20316115ceb60724c5395a46419d2" title="AppLayerParserRegisterGet\lTxCnt" alt="" coords="554,1207,739,1249"/>
+<area shape="rect" id="node23" href="$app-layer-parser_8c.html#afeb9006eec85a4c48343f7a78e64fced" title="AppLayerParserRegisterHas\lEventsFunc" alt="" coords="553,1455,741,1497"/>
+<area shape="rect" id="node24" href="$app-layer-parser_8c.html#a1e9ea8d4f67bff35ebebf383c3c7c9e6" title="AppLayerParserRegisterTx\lFreeFunc" alt="" coords="557,1273,736,1314"/>
+<area shape="rect" id="node25" href="$app-layer-detect-proto_8c.html#a9883134087a5ccfadb4dbddafa04027c" title="AppLayerProtoDetectPPParse\lConfPorts" alt="" coords="547,894,746,935"/>
+<area shape="rect" id="node26" href="$app-layer-detect-proto_8c.html#ab24c1cac8b75e7744dd57010e310559f" title="register parser at a port " alt="" coords="811,901,1026,928"/>
+<area shape="rect" id="node27" href="$app-layer-dns-common_8c.html#a793481696e1b95a257ac77e5657e83ff" title="DNSAppLayerRegisterGetEventInfo" alt="" coords="531,2231,763,2257"/>
+<area shape="rect" id="node28" href="$app-layer-dns-common_8c.html#a5314cb6ba856b13a49c39068fb6032ff" title="DNSGetAlstateProgress" alt="" coords="564,2281,729,2308"/>
+<area shape="rect" id="node29" href="$app-layer-dns-common_8c.html#ad5d3a435e01f94e19d47bc5aa104431e" title="get value for &#39;complete&#39; status in DNS " alt="" coords="531,2333,762,2374"/>
+<area shape="rect" id="node30" href="$app-layer-dns-common_8c.html#aa79545b066fa2dec22ab83a9b00a1767" title="DNSGetEvents" alt="" coords="590,1724,703,1751"/>
+<area shape="rect" id="node31" href="$app-layer-dns-common_8c.html#a236df5f89f00a22be7b925f3a6de854e" title="DNSGetTx" alt="" coords="603,1775,690,1801"/>
+<area shape="rect" id="node32" href="$app-layer-dns-common_8c.html#aa2e19999e967a89a9408b2ab3c0759c8" title="DNSGetTxCnt" alt="" coords="593,1825,701,1852"/>
+<area shape="rect" id="node33" href="$app-layer-dns-common_8c.html#ad86d1ed4ea7789f468acf4001d51a961" title="DNSGetTxDetectState" alt="" coords="568,1876,725,1903"/>
+<area shape="rect" id="node34" href="$app-layer-dns-common_8c.html#aa862924f4f882435beadabd0bf3abe47" title="DNSHasEvents" alt="" coords="589,1927,705,1953"/>
+<area shape="rect" id="node35" href="$app-layer-dns-common_8c.html#a92419df2df0931bf389707fc487fa520" title="DNSSetTxDetectState" alt="" coords="569,1977,725,2004"/>
+<area shape="rect" id="node36" href="$app-layer-dns-common_8c.html#a291a6f0fb8d4d4887237c0d5ed5afa1c" title="DNSStateAlloc" alt="" coords="591,2028,702,2055"/>
+<area shape="rect" id="node37" href="$app-layer-dns-common_8c.html#a5ad9b5165043891cdc51fedc4192505d" title="DNSStateFree" alt="" coords="593,2079,701,2105"/>
+<area shape="rect" id="node38" href="$app-layer-dns-common_8c.html#a12557305e822910fe3a8039e6942993b" title="DNSStateHasTxDetectState" alt="" coords="551,2129,742,2156"/>
+<area shape="rect" id="node39" href="$app-layer-dns-common_8c.html#ad29564e9e5b500620f01230df89be7f2" title="dns transaction cleanup callback " alt="" coords="559,2180,735,2207"/>
+<area shape="rect" id="node41" href="$app-layer-dns-udp_8h.html#a85dfa315b836077f80db4d2c189721ad" title="DNSUDPParserRegisterTests" alt="" coords="547,2500,747,2527"/>
+<area shape="rect" id="node43" href="$app-layer-ftp_8c.html#a9b572387c208d154ec5612701b5fe516" title="FTPParserRegisterTests" alt="" coords="563,5,730,32"/>
+</map>

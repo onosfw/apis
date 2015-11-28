@@ -1,0 +1,5 @@
+<map id="OutputRegisterFlowLogger" name="OutputRegisterFlowLogger">
+<area shape="rect" id="node2" href="$tm-modules_8c.html#a3fb6558d5b50932b206812d4afe145de" title="get the id of a module from it&#39;s name " alt="" coords="233,31,399,57"/>
+<area shape="rect" id="node3" href="$tm-modules_8c.html#a3a0bd493c799543f1b0b8c7e8c67e283" title="get a tm module ptr by name " alt="" coords="449,5,604,32"/>
+<area shape="rect" id="node4" href="$tm-modules_8c.html#a7f664acae02a48d8ab795b31342dbe66" title="Given a TM Module, returns its id. " alt="" coords="449,56,605,83"/>
+</map>

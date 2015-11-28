@@ -1,0 +1,16 @@
+<map id="SCClassConfLoadClassficationConfigFile" name="SCClassConfLoadClassficationConfigFile">
+<area shape="rect" id="node2" href="$suricata_8c.html#aea038f0105b5e6a67a1bf32d2ccf463c" title="RunmodeIsUnittests" alt="" coords="542,5,685,32"/>
+<area shape="rect" id="node3" href="$util-classification-config_8c.html#adfae672bf4eb293c5dc187c0989ebb14" title="Inits the context to be used by the Classification Config parsing API. " alt="" coords="262,133,453,174"/>
+<area shape="rect" id="node11" href="$util-classification-config_8c.html#a4aca4c44c3c9c580f114c280a5424210" title="Parses the Classification Config file and updates the DetectionEngineCtx&#45;&gt;class_conf_ht with the Clas..." alt="" coords="278,249,437,276"/>
+<area shape="rect" id="node4" href="$util-hash_8c.html#a9d52964329648870595ceaf6b2e15ea7" title="HashTableFree" alt="" coords="558,56,669,83"/>
+<area shape="rect" id="node5" href="$util-hash_8c.html#afdcdf86ea96706d879fd214a894aeb07" title="HashTableInit" alt="" coords="562,107,665,133"/>
+<area shape="rect" id="node7" href="$util-classification-config_8c.html#af4bd23c8fa4c14f02f815da7579a72fe" title="Used to compare two Classtypes that have been stored in the HashTable. This function is supplied as a..." alt="" coords="517,158,710,199"/>
+<area shape="rect" id="node8" href="$util-classification-config_8c.html#a6a381045dcbd5676589b842f17d06767" title="Used to free the Classification Config Hash Data that was stored in DetectEngineCtx&#45;&gt;class_conf_ht Ha..." alt="" coords="773,224,992,251"/>
+<area shape="rect" id="node10" href="$util-classification-config_8c.html#a22004a0e75f47a551cea5e62a37e0f64" title="Hashing function to be used to hash the Classtype name. Would be supplied as an argument to the HashT..." alt="" coords="502,275,725,301"/>
+<area shape="rect" id="node6" href="$util-hash_8c.html#a2efa72a976a8595198b1c084c18246d4" title="HashTableDefaultCompare" alt="" coords="793,107,973,133"/>
+<area shape="rect" id="node9" href="$util-classification-config_8c.html#a59d380510cde0f10d358d4201b229b52" title="Frees a SCClassConfClasstype instance. " alt="" coords="1040,300,1248,327"/>
+<area shape="rect" id="node12" href="$util-classification-config_8c.html#a70312e55da5ef079122b3d420987a784" title="Parses a line from the classification file and adds it to Classtype hash table in DetectEngineCtx..." alt="" coords="521,325,706,352"/>
+<area shape="rect" id="node13" href="$util-hash_8c.html#a3febc8e137f736e4b9977a2ed327b50e" title="HashTableAdd" alt="" coords="829,275,937,301"/>
+<area shape="rect" id="node14" href="$util-hash_8c.html#a516b822a1929236ef67859af6812ed98" title="HashTableLookup" alt="" coords="819,325,946,352"/>
+<area shape="rect" id="node15" href="$util-classification-config_8c.html#aa154e4c2546a2a21051b4708f7fac9ee" title="Returns a new SCClassConfClasstype instance. The classtype string is converted into lowercase..." alt="" coords="787,376,978,403"/>
+</map>

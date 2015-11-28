@@ -1,0 +1,9 @@
+<map id="ConfGetRootNode" name="ConfGetRootNode">
+<area shape="rect" id="node2" href="$conf-yaml-loader_8h.html#a056e9d2e14a2291ceeb74528ea14e6a7" title="Load configuration from a YAML file. " alt="" coords="191,56,321,83"/>
+<area shape="rect" id="node8" href="$conf-yaml-loader_8h.html#ad667715150b1ec41b2c58a2c4f979a6a" title="Load configuration from a YAML string. " alt="" coords="185,107,327,133"/>
+<area shape="rect" id="node3" href="$util-running-modes_8h.html#ad03a2414917a2fc87f4be0370c4c8fd7" title="ListAppLayerProtocols" alt="" coords="377,5,530,32"/>
+<area shape="rect" id="node6" href="$util-running-modes_8h.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title="ListKeywords" alt="" coords="403,56,504,83"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#ac610b3e188e72ab85cec4727f5be194e" title="LoadYamlConfig" alt="" coords="594,107,713,133"/>
+<area shape="rect" id="node4" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="579,56,728,83"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="776,81,827,108"/>
+</map>

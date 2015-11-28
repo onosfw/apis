@@ -1,0 +1,14 @@
+<map id="AlertFastLogInitCtx" name="AlertFastLogInitCtx">
+<area shape="rect" id="node2" href="$util-logopenfile_8c.html#a48dccb24aadffd47f27f2bfe9d5aac0c" title="LogFileFreeCtx() Destroy a LogFileCtx (Close the file and free memory) " alt="" coords="218,5,329,32"/>
+<area shape="rect" id="node4" href="$util-logopenfile_8c.html#aecf090c1d20b5506b7ad24192dad5514" title="LogFileNewCtx() Get a new LogFileCtx. " alt="" coords="217,56,329,83"/>
+<area shape="rect" id="node5" href="$util-logopenfile_8c.html#aa420f59dbec22b32897acb61ccda3b80" title="open a generic output &quot;log file&quot;, which may be a regular file or a socket " alt="" coords="190,107,357,133"/>
+<area shape="rect" id="node3" href="$output_8c.html#a28fd4c19cfdd446c2a48a29e0c3c954d" title="Unregister a file rotation flag. " alt="" coords="405,5,621,32"/>
+<area shape="rect" id="node6" href="$conf_8c.html#a4d5920eea97bb4713c41e3ffef423757" title="Lookup the value of a child configuration node by name. " alt="" coords="669,56,856,83"/>
+<area shape="rect" id="node8" href="$util-conf_8c.html#a78afc07a179cdd6bd1522f1d5437c46d" title="ConfigGetLogDirectory" alt="" coords="436,107,591,133"/>
+<area shape="rect" id="node12" href="$util-path_8c.html#a7941df317633e88e4f9bb89806b20691" title="Check if a path is absolute. " alt="" coords="458,157,569,184"/>
+<area shape="rect" id="node13" href="$output_8c.html#a092b7de4262ce0cd8c37fa8bc864f0c9" title="Register a flag for file rotation notification. " alt="" coords="411,208,616,235"/>
+<area shape="rect" id="node7" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="1057,56,1210,83"/>
+<area shape="rect" id="node9" href="$conf_8c.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="727,107,798,133"/>
+<area shape="rect" id="node10" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="905,107,1007,133"/>
+<area shape="rect" id="node11" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="1103,107,1164,133"/>
+</map>

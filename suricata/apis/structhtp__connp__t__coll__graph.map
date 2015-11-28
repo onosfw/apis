@@ -1,0 +1,19 @@
+<map id="htp_connp_t" name="htp_connp_t">
+<area shape="rect" id="node4" href="$structhtp__tx__t.html" title="htp_tx_t" alt="" coords="1004,781,1073,808"/>
+<area shape="rect" id="node17" href="$structhtp__log__t.html" title="htp_log_t" alt="" coords="1160,885,1235,912"/>
+<area shape="rect" id="node2" href="$structhtp__conn__t.html" title="htp_conn_t" alt="" coords="1078,407,1164,433"/>
+<area shape="rect" id="node3" href="$structbstr__t.html" title="bstr_t" alt="" coords="563,96,617,123"/>
+<area shape="rect" id="node5" href="$structhtp__mpartp__t.html" title="htp_mpartp_t" alt="" coords="253,647,352,673"/>
+<area shape="rect" id="node7" href="$structhtp__multipart__part__t.html" title="htp_multipart_part_t" alt="" coords="345,781,481,808"/>
+<area shape="rect" id="node9" href="$structhtp__file__t.html" title="htp_file_t" alt="" coords="628,407,703,433"/>
+<area shape="rect" id="node15" href="$structhtp__uri__t.html" title="htp_uri_t" alt="" coords="815,527,887,553"/>
+<area shape="rect" id="node16" href="$structhtp__urlenp__t.html" title="htp_urlenp_t" alt="" coords="811,885,904,912"/>
+<area shape="rect" id="node6" href="$structhtp__multipart__t.html" title="htp_multipart_t" alt="" coords="5,407,112,433"/>
+<area shape="rect" id="node8" href="$structhtp__table__t.html" title="htp_table_t" alt="" coords="643,647,729,673"/>
+<area shape="rect" id="node10" href="$structhtp__cfg__t.html" title="htp_cfg_t" alt="" coords="1377,407,1452,433"/>
+<area shape="rect" id="node11" href="$structhtp__decoder__cfg__t.html" title="htp_decoder_cfg_t" alt="" coords="1470,96,1599,123"/>
+<area shape="rect" id="node12" href="$structhtp__hook__t.html" title="htp_hook_t" alt="" coords="1282,96,1368,123"/>
+<area shape="rect" id="node13" href="$structhtp__list__array__t.html" title="htp_list_array_t" alt="" coords="1270,5,1380,32"/>
+<area shape="rect" id="node14" href="$structbstr__builder__t.html" title="bstr_builder_t" alt="" coords="137,407,236,433"/>
+<area shape="rect" id="node18" href="$structhtp__decompressor__t.html" title="htp_decompressor_t" alt="" coords="914,407,1053,433"/>
+</map>

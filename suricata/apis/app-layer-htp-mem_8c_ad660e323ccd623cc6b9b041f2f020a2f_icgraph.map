@@ -1,0 +1,20 @@
+<map id="HTPDecrMemuse" name="HTPDecrMemuse">
+<area shape="rect" id="node2" href="$app-layer-htp-mem_8h.html#acabec20e8b4154c7770b069deeed9003" title="HTPFree" alt="" coords="181,157,256,184"/>
+<area shape="rect" id="node3" href="$app-layer-htp-body_8h.html#a540bd610fc5acf3a4a29a0e88511a898" title="Append a chunk of body to the HtpBody struct. " alt="" coords="333,157,488,184"/>
+<area shape="rect" id="node6" href="$group__httplayer.html#ga4e4c23379c2cae52909e781908f9be45" title="Free the information held in the request body. " alt="" coords="361,208,460,235"/>
+<area shape="rect" id="node7" href="$app-layer-htp-body_8h.html#af05061b640e4988830731d66224f9b39" title="Free request body chunks that are already fully parsed. " alt="" coords="357,107,464,133"/>
+<area shape="rect" id="node8" href="$group__httplayer.html#ga4d27f058e59815cc3ed5ba1d7f8acf61" title="Function to frees the HTTP state memory and also frees the HTTP connection parser memory which was us..." alt="" coords="357,259,464,285"/>
+<area shape="rect" id="node17" href="$app-layer-htp_8c.html#a7c8de21b238af723ac6783faf36c5940" title="HtpRequestBodyHandleMultipart" alt="" coords="304,5,517,32"/>
+<area shape="rect" id="node4" href="$group__httplayer.html#ga44076de04240313e46c32ca79db458cc" title="Function callback to append chunks for Requests. " alt="" coords="571,69,778,96"/>
+<area shape="rect" id="node18" href="$detect-engine_8c.html#a8422e40fa6bb17b318380539ab23d4e6" title="DetectEngineThreadCtxFree" alt="" coords="317,309,505,336"/>
+<area shape="rect" id="node5" href="$app-layer-htp_8c.html#a8aa0e9412fdf4208cc75ab25ad925a2e" title="Function callback to append chunks for Responses. " alt="" coords="566,145,783,172"/>
+<area shape="rect" id="node9" href="$group__httplayer.html#ga23aaf4c00574fa636459e4377429ac13" title="Register the HTTP protocol and state handling functions to APP layer of the engine. " alt="" coords="603,259,746,285"/>
+<area shape="rect" id="node10" href="$app-layer-parser_8h.html#ac5c64e1bddd13fdc99168538935cfab5" title="AppLayerParserRegisterProtocol\lParsers" alt="" coords="833,251,1045,293"/>
+<area shape="rect" id="node11" href="$app-layer_8h.html#a13e4dfafdc60d054467da61ea15744f9" title="Setup the app layer. " alt="" coords="1094,259,1205,285"/>
+<area shape="rect" id="node12" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="1281,208,1380,235"/>
+<area shape="rect" id="node15" href="$util-running-modes_8h.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title="ListKeywords" alt="" coords="1280,309,1381,336"/>
+<area shape="rect" id="node16" href="$util-running-modes_8h.html#ad03a2414917a2fc87f4be0370c4c8fd7" title="ListAppLayerProtocols" alt="" coords="1254,259,1407,285"/>
+<area shape="rect" id="node13" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="1456,259,1605,285"/>
+<area shape="rect" id="node14" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1653,233,1704,260"/>
+<area shape="rect" id="node19" href="$detect-engine_8h.html#a83d9b52390b1b858e4ee0c5d24093e1e" title="DetectEngineThreadCtxDeinit" alt="" coords="577,309,773,336"/>
+</map>

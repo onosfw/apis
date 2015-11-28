@@ -1,0 +1,9 @@
+<map id="src/detect&#45;filemagic.h" name="src/detect&#45;filemagic.h">
+<area shape="rect" id="node2" href="$detect-filemagic_8c.html" title="src/detect&#45;filemagic.c" alt="" coords="5,80,152,107"/>
+<area shape="rect" id="node3" href="$detect_8c.html" title="src/detect.c" alt="" coords="176,80,267,107"/>
+<area shape="rect" id="node4" href="$log-file_8c.html" title="src/log&#45;file.c" alt="" coords="291,80,384,107"/>
+<area shape="rect" id="node5" href="$log-filestore_8c.html" title="src/log&#45;filestore.c" alt="" coords="408,80,531,107"/>
+<area shape="rect" id="node6" href="$output-file_8c.html" title="src/output&#45;file.c" alt="" coords="555,80,667,107"/>
+<area shape="rect" id="node7" href="$output-filedata_8c.html" title="src/output&#45;filedata.c" alt="" coords="691,80,828,107"/>
+<area shape="rect" id="node8" href="$output-json-file_8c.html" title="src/output&#45;json&#45;file.c" alt="" coords="853,80,992,107"/>
+</map>

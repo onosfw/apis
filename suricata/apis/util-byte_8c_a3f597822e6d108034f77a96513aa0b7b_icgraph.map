@@ -1,0 +1,6 @@
+<map id="ByteExtractStringUint8" name="ByteExtractStringUint8">
+<area shape="rect" id="node2" href="$detect-icode_8c.html#a960fa38dfde927cbf094f43a8d75ead4" title="This function is used to parse icode options passed via icode: keyword. " alt="" coords="211,5,341,32"/>
+<area shape="rect" id="node3" href="$detect-itype_8c.html#a7ac0062499fad3d92e243b2fd62240a3" title="This function is used to parse itype options passed via itype: keyword. " alt="" coords="212,56,340,83"/>
+<area shape="rect" id="node4" href="$detect-engine-proto_8h.html#a3abc325cb70de0c52255b0408a6069d0" title="Parses a protocol sent as a string. " alt="" coords="213,107,339,133"/>
+<area shape="rect" id="node5" href="$detect-parse_8c.html#a5ef62b141fc2f99be6f815b230bfb474" title="Parses the protocol supplied by the Signature. " alt="" coords="389,107,496,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="B3gDestroyCtx" name="B3gDestroyCtx">
+<area shape="rect" id="node2" href="$util-mpm-b3g_8c.html#a82682e31da5677cb158d2cd0b058fdfc" title="B3gFreePattern" alt="" coords="190,5,303,32"/>
+<area shape="rect" id="node3" href="$util-bloomfilter_8c.html#a3c3dbaf4623cde3e11053dbda54808bd" title="BloomFilterFree" alt="" coords="189,56,304,83"/>
+<area shape="rect" id="node4" href="$util-bloomfilter_8c.html#aad6c6efd117519dc78b591ca5085e077" title="BloomFilterMemoryCnt" alt="" coords="169,107,325,133"/>
+<area shape="rect" id="node5" href="$util-bloomfilter_8c.html#af17943fb5792b7f4d856ce4541c58228" title="BloomFilterMemorySize" alt="" coords="166,157,327,184"/>
+</map>

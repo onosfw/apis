@@ -1,0 +1,16 @@
+<map id="LogStatsLogInitCtx" name="LogStatsLogInitCtx">
+<area shape="rect" id="node2" href="$conf_8c.html#a4d5920eea97bb4713c41e3ffef423757" title="Lookup the value of a child configuration node by name. " alt="" coords="420,157,607,184"/>
+<area shape="rect" id="node4" href="$conf_8c.html#abc921a7338a381476e9e40a10e2d543c" title="Check if a value is false. " alt="" coords="217,56,329,83"/>
+<area shape="rect" id="node5" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true. " alt="" coords="220,107,327,133"/>
+<area shape="rect" id="node6" href="$util-logopenfile_8c.html#a48dccb24aadffd47f27f2bfe9d5aac0c" title="LogFileFreeCtx() Destroy a LogFileCtx (Close the file and free memory) " alt="" coords="218,5,329,32"/>
+<area shape="rect" id="node8" href="$util-logopenfile_8c.html#aecf090c1d20b5506b7ad24192dad5514" title="LogFileNewCtx() Get a new LogFileCtx. " alt="" coords="217,208,329,235"/>
+<area shape="rect" id="node9" href="$util-logopenfile_8c.html#aa420f59dbec22b32897acb61ccda3b80" title="open a generic output &quot;log file&quot;, which may be a regular file or a socket " alt="" coords="190,259,357,285"/>
+<area shape="rect" id="node3" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="942,184,1095,211"/>
+<area shape="rect" id="node7" href="$output_8c.html#a28fd4c19cfdd446c2a48a29e0c3c954d" title="Unregister a file rotation flag. " alt="" coords="405,5,621,32"/>
+<area shape="rect" id="node10" href="$util-conf_8c.html#a78afc07a179cdd6bd1522f1d5437c46d" title="ConfigGetLogDirectory" alt="" coords="436,309,591,336"/>
+<area shape="rect" id="node14" href="$util-path_8c.html#a7941df317633e88e4f9bb89806b20691" title="Check if a path is absolute. " alt="" coords="458,208,569,235"/>
+<area shape="rect" id="node15" href="$output_8c.html#a092b7de4262ce0cd8c37fa8bc864f0c9" title="Register a flag for file rotation notification. " alt="" coords="411,259,616,285"/>
+<area shape="rect" id="node11" href="$conf_8c.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="670,259,741,285"/>
+<area shape="rect" id="node12" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="790,247,893,273"/>
+<area shape="rect" id="node13" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="988,247,1049,273"/>
+</map>

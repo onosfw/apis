@@ -1,0 +1,7 @@
+<map id="HTPFileOpen" name="HTPFileOpen">
+<area shape="rect" id="node2" href="$util-file_8c.html#a5deb7215759d322285a1f8033331e14a" title="allocate a FileContainer " alt="" coords="155,5,283,32"/>
+<area shape="rect" id="node3" href="$util-file_8c.html#a32f303a11593eb8c61a23771ed2ebfe9" title="Open a new File. " alt="" coords="171,56,266,83"/>
+<area shape="rect" id="node5" href="$util-file_8c.html#a3d85b9941cc60859430414e1394085e1" title="FilePrune" alt="" coords="180,107,257,133"/>
+<area shape="rect" id="node6" href="$util-file_8c.html#a41de3fd0e6ce8ae8b1fc356071c217f5" title="Set the TX id for a file. " alt="" coords="179,157,258,184"/>
+<area shape="rect" id="node4" href="$util-file_8c.html#a4a24c3fe4b3e7b02481cf62aa9416fd5" title="FileContainerAdd" alt="" coords="331,56,453,83"/>
+</map>

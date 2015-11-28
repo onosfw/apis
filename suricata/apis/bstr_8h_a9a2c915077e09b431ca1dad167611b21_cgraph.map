@@ -1,0 +1,6 @@
+<map id="bstr_add_c" name="bstr_add_c">
+<area shape="rect" id="node2" href="$bstr_8c.html#a87094fb0fdfd15f430caa0e91d091511" title="bstr_add_mem" alt="" coords="142,31,250,57"/>
+<area shape="rect" id="node3" href="$bstr_8c.html#ad6bdcaadaf0034880584515edbca2427" title="bstr_adjust_len" alt="" coords="299,5,410,32"/>
+<area shape="rect" id="node4" href="$bstr_8c.html#a51bc377ac30a1092e84a4c3ab3d289f9" title="bstr_expand" alt="" coords="308,56,401,83"/>
+<area shape="rect" id="node5" href="$bstr_8c.html#ac28786b1f330ae5992293ba028db9936" title="bstr_adjust_size" alt="" coords="459,56,576,83"/>
+</map>

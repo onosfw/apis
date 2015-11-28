@@ -1,0 +1,9 @@
+<map id="DetectWindowParse" name="DetectWindowParse">
+<area shape="rect" id="node2" href="$detect-window_8c.html#a1f8a149f58eb4383ad8ba15310b795d1" title="this function is used to add the parsed window sizedata into the current signature ..." alt="" coords="198,31,341,57"/>
+<area shape="rect" id="node3" href="$detect-window_8h.html#a491d18ea5295c3743b9ee40fe4abd89d" title="Registration function for window: keyword. " alt="" coords="389,31,547,57"/>
+<area shape="rect" id="node4" href="$detect_8h.html#a21706286b0acefa72fcbdd3b37daa55f" title="SigTableSetup" alt="" coords="595,31,701,57"/>
+<area shape="rect" id="node5" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="751,56,849,83"/>
+<area shape="rect" id="node8" href="$util-running-modes_8h.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title="ListKeywords" alt="" coords="749,5,851,32"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="899,5,1048,32"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1096,31,1147,57"/>
+</map>

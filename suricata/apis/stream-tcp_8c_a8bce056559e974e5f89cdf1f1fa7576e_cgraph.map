@@ -1,0 +1,5 @@
+<map id="StreamTcp3whsQueueSynAck" name="StreamTcp3whsQueueSynAck">
+<area shape="rect" id="node2" href="$stream-tcp_8c.html#a4623bdd0fc62727f5021649ad2f73489" title="StreamTcp3whsFindSynAckBy\lSynAck" alt="" coords="257,5,461,46"/>
+<area shape="rect" id="node3" href="$stream-tcp_8c.html#a89c9973d678db064e54f760cc1d372a8" title="Check if alloc&#39;ing &quot;size&quot; would mean we&#39;re over memcap. " alt="" coords="271,71,446,97"/>
+<area shape="rect" id="node4" href="$stream-tcp_8c.html#a59514802880d4d9475c3cffb5d3a7716" title="StreamTcpIncrMemuse" alt="" coords="279,121,438,148"/>
+</map>

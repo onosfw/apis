@@ -1,0 +1,51 @@
+<map id="TmModuleDetectRegister" name="TmModuleDetectRegister">
+<area shape="rect" id="node2" href="$detect_8c.html#aef746f215cb23d3da4e714086e5674ef" title="Detection engine thread wrapper. " alt="" coords="265,998,327,1024"/>
+<area shape="rect" id="node41" href="$detect_8c.html#a478fa4e3fa1bd7a8f5b137e2280f768d" title="DetectExitPrintStats" alt="" coords="225,1074,367,1100"/>
+<area shape="rect" id="node42" href="$detect_8c.html#a5e60360acb3a43baa3699fb8df8087a6" title="DetectThreadDeinit" alt="" coords="229,1124,363,1151"/>
+<area shape="rect" id="node44" href="$detect_8c.html#ac8b57e29ff4e17eec439b5e0eb334ed2" title="DetectThreadInit" alt="" coords="237,1175,355,1202"/>
+<area shape="rect" id="node46" href="$detect-engine-alert_8c.html#a352e97b222bb239a5881d98bdc307784" title="PacketAlertTagInit" alt="" coords="231,1226,361,1252"/>
+<area shape="rect" id="node47" href="$detect_8c.html#af240932a900fa2b7236f6a81a9052ab5" title="SigRegisterTests" alt="" coords="235,1276,357,1303"/>
+<area shape="rect" id="node3" href="$app-layer-parser_8c.html#a5d36767e076ef8376251c27326532e55" title="AppLayerParserProtocolSupportsTxs" alt="" coords="944,795,1181,822"/>
+<area shape="rect" id="node5" href="$group__sigstate.html#gad76e9cb6462b7784633d17b1347f771b" title="update flow&#39;s inspection id&#39;s " alt="" coords="661,20,896,47"/>
+<area shape="rect" id="node7" href="$flow_8c.html#a1135a66e64bd8fe19166c853ea0e7986" title="FlowGetAppProtocol" alt="" coords="707,1815,850,1842"/>
+<area shape="rect" id="node8" href="$flow_8c.html#aca700f93b37d88672923ffb56949d640" title="get &#39;disruption&#39; flags: GAP/DEPTH/PASS " alt="" coords="697,1866,860,1892"/>
+<area shape="rect" id="node9" href="$detect_8c.html#a61bb19b95a3c2e79149321a3c97f2db0" title="Signature match function. " alt="" coords="445,972,584,999"/>
+<area shape="rect" id="node4" href="$flow-util_8c.html#a897ee3b52fa7876e9780704dbc2d1b11" title="Function to map the protocol to the defined FLOW_PROTO_* enumeration. " alt="" coords="1230,878,1381,904"/>
+<area shape="rect" id="node6" href="$app-layer-parser_8c.html#a7f1dcf0b6977ba926f6fcd8b585aaf09" title="AppLayerParserSetTransaction\lInspectId" alt="" coords="961,13,1164,54"/>
+<area shape="rect" id="node10" href="$app-layer-parser_8c.html#a1b68b6c50518601316ad3fcd0595f7ae" title="AppLayerParserGetStateVersion" alt="" coords="673,972,884,999"/>
+<area shape="rect" id="node11" href="$app-layer-parser_8c.html#a8580f53b8295c5ebe6db119a6cf72eda" title="AppLayerParserHasDecoder\lEvents" alt="" coords="969,953,1157,994"/>
+<area shape="rect" id="node12" href="$group__sigstate.html#gaaea2ddcec2d9f3549aea0de468834039" title="Continue DeState detection of the signatures stored in the state. " alt="" coords="670,770,887,796"/>
+<area shape="rect" id="node14" href="$group__sigstate.html#ga4cd5aba6758fd5795f477973b5f2fdfb" title="Match app layer sig list against app state and store relevant match information. " alt="" coords="682,922,875,948"/>
+<area shape="rect" id="node17" href="$group__sigstate.html#gad37bfa7d57fcfc7c457a1028c0da4f80" title="Check if we need to inspect this state. " alt="" coords="684,1429,873,1470"/>
+<area shape="rect" id="node18" href="$detect-engine-address_8c.html#ae4e549997d38f9c71c391759850aeb87" title="Match a packets address against a signatures addrs array. " alt="" coords="693,1495,865,1522"/>
+<area shape="rect" id="node19" href="$detect-engine-address_8c.html#a5a6209520e3f9cc6f5dc49785c99fd7c" title="Match a packets address against a signatures addrs array. " alt="" coords="693,1546,865,1572"/>
+<area shape="rect" id="node20" href="$detect-engine-hcbd_8c.html#afa506fc8bb70de03ef020c98fe38b328" title="DetectEngineCleanHCBDBuffers" alt="" coords="671,1596,887,1623"/>
+<area shape="rect" id="node21" href="$detect-engine-hhd_8c.html#a19a71d7de1a33d25111a56dd2d39fb89" title="DetectEngineCleanHHDBuffers" alt="" coords="675,1647,882,1674"/>
+<area shape="rect" id="node22" href="$detect-engine-hsbd_8c.html#a329d79b960f3851d0e9cc6b2df99097c" title="DetectEngineCleanHSBDBuffers" alt="" coords="671,1698,886,1724"/>
+<area shape="rect" id="node23" href="$detect-engine-payload_8c.html#a8d4a8e4745728305bb0ffac7ca87d90c" title="Do the content inspection &amp; validation for a signature. " alt="" coords="686,1749,871,1790"/>
+<area shape="rect" id="node24" href="$detect-engine-payload_8c.html#a4a530698ed6792e050c5e19cc7bc8c3d" title="Do the content inspection &amp; validation for a signature for a stream chunk. " alt="" coords="685,122,872,164"/>
+<area shape="rect" id="node25" href="$group__sigstate.html#gae49e923c7e86601c4a96caf9ab2d4f24" title="Reset a DetectEngineState state. " alt="" coords="695,188,862,215"/>
+<area shape="rect" id="node26" href="$group__sigstate.html#gabf15c37dbdf92918d6f107087ff082fb" title="Reset de state for active tx&#39; To be used on detect engine reload. " alt="" coords="684,820,873,847"/>
+<area shape="rect" id="node27" href="$detect-engine-port_8c.html#a637368836f6fa36f6262c68ef87cd42b" title="Function that find the group matching address in a group head. " alt="" coords="981,1138,1144,1164"/>
+<area shape="rect" id="node28" href="$detect-engine-proto_8c.html#a2d76d51a313493c5982350b3a08f0666" title="see if a DetectProto contains a certain proto " alt="" coords="975,1214,1150,1240"/>
+<area shape="rect" id="node16" href="$detect_8c.html#ac00c13ef5905a82b6726875f9a6b0e69" title="Apply action(s) and Set &#39;drop&#39; sig info, if applicable. " alt="" coords="966,1276,1159,1303"/>
+<area shape="rect" id="node29" href="$util-file_8c.html#a8d0027995cc6b94f6d2050ba34d29b65" title="disable file size tracking for this flow " alt="" coords="713,239,845,266"/>
+<area shape="rect" id="node30" href="$util-file_8c.html#a2e90fa490c7e99c3f68dc4c5aa5a929d" title="disable file magic lookups for this flow " alt="" coords="717,290,840,316"/>
+<area shape="rect" id="node31" href="$util-file_8c.html#a0c4833dca46ad7a04fee0c0fb588a458" title="disable file md5 calc for this flow " alt="" coords="723,340,835,367"/>
+<area shape="rect" id="node32" href="$util-file_8c.html#ab065f3a6000cff1ebd420a0d5627a8b4" title="disable file storage for a flow " alt="" coords="715,391,843,418"/>
+<area shape="rect" id="node33" href="$util-file_8c.html#aa25274003572b8545e2b3c1da6319919" title="FileForceMagic" alt="" coords="723,442,834,468"/>
+<area shape="rect" id="node34" href="$util-file_8c.html#a8ca03542d8c7527dbb8b2da742b00267" title="FileForceMd5" alt="" coords="728,492,829,519"/>
+<area shape="rect" id="node13" href="$flow_8c.html#afb864b6392ad4eddbdf7092d4ec4e78e" title="FlowGetAppState" alt="" coords="1000,859,1125,886"/>
+<area shape="rect" id="node35" href="$flow_8c.html#a31dc69acbfa8279be8ddec1106ee5713" title="Set the IPOnly scanned flag for &#39;direction&#39;. This function handles the locking too. " alt="" coords="711,594,846,620"/>
+<area shape="rect" id="node36" href="$util-var_8c.html#a87ec4a01436cbc5f9edc316ca7f8b530" title="GenericVarFree" alt="" coords="722,668,835,695"/>
+<area shape="rect" id="node37" href="$detect-engine-iponly_8c.html#aea2959f5eec2fa16158a5f0f3e513423" title="Match a packet against the IP Only detection engine contexts. " alt="" coords="709,1175,848,1202"/>
+<area shape="rect" id="node15" href="$detect-engine-alert_8c.html#ab0e97bac79257b8d920009e1d5ec7161" title="append a signature match to a packet " alt="" coords="995,1074,1130,1100"/>
+<area shape="rect" id="node38" href="$detect-engine-alert_8c.html#a464327c97eb2fde5f130af99e80133bc" title="Check the threshold of the sigs that match, set actions, break on pass action This function iterate t..." alt="" coords="711,1327,846,1354"/>
+<area shape="rect" id="node39" href="$detect-engine-mpm_8c.html#af1613cbe5b35302adbf5d0180ecb6cff" title="cleans up the mpm instance after a match " alt="" coords="702,719,855,746"/>
+<area shape="rect" id="node40" href="$util-print_8c.html#ae571482664d670a7c18ae627c32f7e25" title="PrintRawDataFp" alt="" coords="719,1378,838,1404"/>
+<area shape="rect" id="node43" href="$detect-engine-mpm_8h.html#a83d9b52390b1b858e4ee0c5d24093e1e" title="DetectEngineThreadCtxDeinit" alt="" coords="417,1124,613,1151"/>
+<area shape="rect" id="node45" href="$detect-engine-mpm_8h.html#a72c337802af74e71c4ea8fca8a68978c" title="initialize thread specific detection engine context " alt="" coords="425,1175,605,1202"/>
+<area shape="rect" id="node48" href="$detect_8h.html#aa658eff4c22a038ccf9bdf0939e892aa" title="DetectSimdRegisterTests" alt="" coords="428,1226,601,1252"/>
+<area shape="rect" id="node49" href="$detect-engine-iponly_8c.html#a224bdd0af5a55555a48caae8beecec63" title="IPOnlyRegisterTests" alt="" coords="443,1276,587,1303"/>
+<area shape="rect" id="node50" href="$detect-parse_8c.html#aaa2b3a78425646ca308c0e5be539a282" title="SigParseRegisterTests" alt="" coords="436,1327,593,1354"/>
+</map>

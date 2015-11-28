@@ -1,0 +1,4 @@
+<map id="MimeDecFreeField" name="MimeDecFreeField">
+<area shape="rect" id="node2" href="$util-decode-mime_8h.html#a82b345284faab53ee752e6bfaccd9b96" title="Frees a mime entity tree. " alt="" coords="187,5,325,32"/>
+<area shape="rect" id="node3" href="$util-decode-mime_8h.html#a54d1eb3487732d7088bfa6a9cfa0b933" title="Parses an entire message when available in its entirety (wraps the line&#45;based parsing functions) ..." alt="" coords="374,5,533,32"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="bstr_builder_destroy" name="bstr_builder_destroy">
+<area shape="rect" id="node2" href="$htp__multipart_8h.html#aed39a287d90d4fa9ab464444c77697c4" title="htp_mpartp_destroy" alt="" coords="193,417,330,444"/>
+<area shape="rect" id="node46" href="$htp__transcoder_8c.html#a86a9a18ddecb35422b934bf270bfccbd" title="htp_transcode_bstr" alt="" coords="195,527,328,553"/>
+<area shape="rect" id="node48" href="$htp__urlencoded_8h.html#af33fd291b4052411413bb776b9489ecf" title="htp_urlenp_destroy" alt="" coords="195,472,327,499"/>
+<area shape="rect" id="node3" href="$htp__multipart_8h.html#a33c3b3a82d145b68e450333c6e0c19ac" title="htp_mpartp_create" alt="" coords="407,337,537,364"/>
+<area shape="rect" id="node6" href="$htp__transaction_8c.html#a0d9bedcb7fd819340ebd8e8271263191" title="htp_tx_destroy_incomplete" alt="" coords="383,417,561,444"/>
+<area shape="rect" id="node4" href="$htp__private_8h.html#a5828725587fa5f395faa80e7d2059194" title="htp_ch_multipart_callback\l_request_headers" alt="" coords="613,301,787,342"/>
+<area shape="rect" id="node5" href="$htp__config_8h.html#a476cb8af65fec9a8a59d89b10c8f9880" title="htp_config_register\l_multipart_parser" alt="" coords="845,301,977,342"/>
+<area shape="rect" id="node7" href="$htp__connection__private_8h.html#a9c3166bd9ba64e90d9b3cf98ebb61a8d" title="htp_conn_destroy" alt="" coords="637,468,763,495"/>
+<area shape="rect" id="node14" href="$htp__transaction_8h.html#a38191123e58ad54c815b5291b38ae1ae" title="htp_tx_create" alt="" coords="649,367,751,393"/>
+<area shape="rect" id="node32" href="$htp__transaction_8h.html#a92daf5a21d1005ed658239203bab72e2" title="htp_tx_destroy" alt="" coords="646,417,754,444"/>
+<area shape="rect" id="node8" href="$htp__connection__parser_8h.html#a8716f61f158d3d39552dbdaccc4157f2" title="htp_connp_destroy_all" alt="" coords="835,728,987,755"/>
+<area shape="rect" id="node9" href="$group__httplayer.html#ga4d27f058e59815cc3ed5ba1d7f8acf61" title="Function to frees the HTTP state memory and also frees the HTTP connection parser memory which was us..." alt="" coords="1059,732,1165,759"/>
+<area shape="rect" id="node10" href="$group__httplayer.html#ga23aaf4c00574fa636459e4377429ac13" title="Register the HTTP protocol and state handling functions to APP layer of the engine. " alt="" coords="1243,749,1386,776"/>
+<area shape="rect" id="node11" href="$app-layer-parser_8h.html#ac5c64e1bddd13fdc99168538935cfab5" title="AppLayerParserRegisterProtocol\lParsers" alt="" coords="1441,827,1653,869"/>
+<area shape="rect" id="node12" href="$app-layer_8h.html#a13e4dfafdc60d054467da61ea15744f9" title="Setup the app layer. " alt="" coords="1750,920,1861,947"/>
+<area shape="rect" id="node13" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="2004,920,2103,947"/>
+<area shape="rect" id="node15" href="$htp__connection__parser_8h.html#ae9f11134051280a0127eaa26c63b0c4d" title="htp_connp_tx_create" alt="" coords="839,367,982,393"/>
+<area shape="rect" id="node16" href="$htp__request_8c.html#ae4a3e37c2a1e728db9f80cca8e53c6fa" title="htp_connp_REQ_IDLE" alt="" coords="1035,232,1189,259"/>
+<area shape="rect" id="node17" href="$htp__connection__parser_8h.html#af87403d33d361ee171e6e098a233ef3d" title="htp_connp_create" alt="" coords="1252,257,1377,284"/>
+<area shape="rect" id="node18" href="$htp__request_8c.html#a9bb99f12643c2be1ff5a74bce80aab47" title="htp_connp_REQ_CONNECT\l_PROBE_DATA" alt="" coords="1451,202,1643,243"/>
+<area shape="rect" id="node26" href="$htp__request_8c.html#a2212edc93dc47fd615a30297f8faad60" title="htp_connp_req_data" alt="" coords="3355,220,3493,247"/>
+<area shape="rect" id="node28" href="$htp__transaction_8h.html#a6b642aabfa0688477a73138803e8a96c" title="htp_tx_state_request\l_complete" alt="" coords="1243,309,1387,350"/>
+<area shape="rect" id="node25" href="$htp__util_8c.html#a81fca26cac57032120c6796bda2a660c" title="htp_connp_in_state\l_as_string" alt="" coords="3154,213,3289,254"/>
+<area shape="rect" id="node19" href="$htp__request_8c.html#ac6178cc04104e5e5e469489f5e77c04d" title="htp_connp_REQ_CONNECT\l_WAIT_RESPONSE" alt="" coords="1957,231,2149,273"/>
+<area shape="rect" id="node20" href="$htp__request_8c.html#a3e8c194c19ebdaaa21fe107e328e3a75" title="htp_connp_REQ_CONNECT\l_CHECK" alt="" coords="2197,195,2389,237"/>
+<area shape="rect" id="node21" href="$htp__transaction_8h.html#aed95ccccf477ee8adeb83291a2104156" title="htp_tx_state_request\l_headers" alt="" coords="2447,297,2591,338"/>
+<area shape="rect" id="node22" href="$htp__request_8c.html#af7b83f68a53afa0a16e0d78300b63a46" title="htp_connp_REQ_HEADERS" alt="" coords="2649,304,2839,331"/>
+<area shape="rect" id="node23" href="$htp__request_8c.html#a801f66183cf5693361eca92d66607314" title="htp_connp_REQ_PROTOCOL" alt="" coords="2889,413,3087,440"/>
+<area shape="rect" id="node24" href="$htp__transaction_8h.html#aaaf7174643f67cdb075d45333b6fd7b5" title="htp_tx_state_request_line" alt="" coords="3136,413,3307,440"/>
+<area shape="rect" id="node27" href="$htp__connection__parser_8h.html#acc7723b7ab867bfde9d5ef78c1faf446" title="htp_connp_close" alt="" coords="3541,308,3661,335"/>
+<area shape="rect" id="node29" href="$htp__request_8c.html#a2702260435d65d58ff1ef824cfdc1091" title="htp_connp_REQ_FINALIZE" alt="" coords="1455,312,1639,339"/>
+<area shape="rect" id="node30" href="$htp__request_8c.html#aa5ab1e26414167266d8d0b98eb712723" title="htp_connp_REQ_BODY\l_IDENTITY" alt="" coords="1724,94,1887,135"/>
+<area shape="rect" id="node31" href="$htp__request_8c.html#ad207aff5c7e4a68d2a539ffd9e3fd623" title="htp_connp_REQ_BODY\l_DETERMINE" alt="" coords="1972,149,2135,190"/>
+<area shape="rect" id="node33" href="$htp__transaction_8c.html#a9256c1eaab954ec27241d1ad51067b55" title="htp_tx_finalize" alt="" coords="1059,417,1165,444"/>
+<area shape="rect" id="node34" href="$htp__transaction_8c.html#a76675e7e250e24c1ac47c49b4181aff8" title="htp_tx_state_response\l_complete_ex" alt="" coords="1237,442,1392,483"/>
+<area shape="rect" id="node35" href="$htp__response_8c.html#a779958ef7d3b3742be8b13170c0a8977" title="htp_connp_RES_FINALIZE" alt="" coords="1455,616,1638,643"/>
+<area shape="rect" id="node45" href="$htp__transaction_8h.html#adcbbf6a88718344b9cbe0c5f508a07ce" title="htp_tx_state_response\l_complete" alt="" coords="1469,442,1624,483"/>
+<area shape="rect" id="node36" href="$htp__response_8c.html#a35978034dd65239e911dd33f7c751332" title="htp_connp_RES_BODY\l_IDENTITY_CL_KNOWN" alt="" coords="1718,525,1893,566"/>
+<area shape="rect" id="node44" href="$htp__response_8c.html#a2c9732ce72c12038353a4483475e180c" title="htp_connp_RES_BODY\l_IDENTITY_STREAM_CLOSE" alt="" coords="1702,710,1909,751"/>
+<area shape="rect" id="node37" href="$htp__response_8c.html#a5bf0430de9af721db6e03c90ec63adf6" title="htp_connp_RES_BODY\l_DETERMINE" alt="" coords="1972,575,2135,617"/>
+<area shape="rect" id="node38" href="$htp__response_8c.html#a92faf3d17df2d54dd67bd7fbe80fb525" title="htp_connp_RES_HEADERS" alt="" coords="2198,616,2389,643"/>
+<area shape="rect" id="node40" href="$htp__util_8c.html#af31ead38ae0851c906b72d93d9a29d5a" title="htp_connp_out_state\l_as_string" alt="" coords="2673,595,2815,637"/>
+<area shape="rect" id="node39" href="$htp__response_8c.html#ab601564fadb2bb9ff37cd75b448a03d7" title="htp_connp_RES_BODY\l_CHUNKED_LENGTH" alt="" coords="2437,566,2600,607"/>
+<area shape="rect" id="node42" href="$htp__response_8c.html#a45043cdc1b581e62abbf2423be76ea2a" title="htp_connp_RES_LINE" alt="" coords="2441,683,2596,709"/>
+<area shape="rect" id="node41" href="$htp__response_8c.html#a7bf7c40f55013deddf338b903e4310a4" title="htp_connp_res_data" alt="" coords="3355,395,3493,421"/>
+<area shape="rect" id="node43" href="$htp__transaction_8h.html#a524d59cd184104370ade58fb200f2379" title="htp_tx_state_response\l_start" alt="" coords="2667,743,2821,785"/>
+<area shape="rect" id="node47" href="$htp__transcoder_8c.html#a31718600e56773087712711de6710492" title="htp_transcode_params" alt="" coords="395,535,549,561"/>
+<area shape="rect" id="node49" href="$htp__private_8h.html#a2ad3aba77f1ebdcc30f1dea10068386f" title="htp_ch_urlencoded_callback\l_request_line" alt="" coords="379,469,565,510"/>
+<area shape="rect" id="node50" href="$htp__config_8h.html#ae769cd9063e9432caf6dce6013306df0" title="htp_config_register\l_urlencoded_parser" alt="" coords="633,519,767,561"/>
+</map>

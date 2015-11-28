@@ -1,0 +1,18 @@
+<map id="AppLayerParserGetTx" name="AppLayerParserGetTx">
+<area shape="rect" id="node2" href="$app-layer-parser_8h.html#a7f1dcf0b6977ba926f6fcd8b585aaf09" title="AppLayerParserSetTransaction\lInspectId" alt="" coords="205,158,408,199"/>
+<area shape="rect" id="node11" href="$app-layer-parser_8h.html#ad6f51a14b9525561ce37cbb65160a664" title="active TX retrieval for logging only ops " alt="" coords="739,217,941,258"/>
+<area shape="rect" id="node12" href="$group__sigstate.html#gaaea2ddcec2d9f3549aea0de468834039" title="Continue DeState detection of the signatures stored in the state. " alt="" coords="465,5,682,32"/>
+<area shape="rect" id="node13" href="$group__sigstate.html#ga4cd5aba6758fd5795f477973b5f2fdfb" title="Match app layer sig list against app state and store relevant match information. " alt="" coords="477,56,670,83"/>
+<area shape="rect" id="node14" href="$group__sigstate.html#gabf15c37dbdf92918d6f107087ff082fb" title="Reset de state for active tx&#39; To be used on detect engine reload. " alt="" coords="212,107,401,133"/>
+<area shape="rect" id="node15" href="$output-streaming_8c.html#a9970962efe18bf5ae597f70a19c3ad85" title="Http Body Iterator for logging. " alt="" coords="247,275,366,301"/>
+<area shape="rect" id="node16" href="$app-layer-htp-xff_8h.html#af49719780cb74ccfcef61ef5dc51d26d" title="Function to return XFF IP if any in the selected transaction. The caller needs to lock the flow..." alt="" coords="231,325,382,352"/>
+<area shape="rect" id="node3" href="$group__sigstate.html#gad76e9cb6462b7784633d17b1347f771b" title="Update the inspect id. " alt="" coords="456,157,691,184"/>
+<area shape="rect" id="node4" href="$detect_8h.html#a61bb19b95a3c2e79149321a3c97f2db0" title="Signature match function. " alt="" coords="771,107,909,133"/>
+<area shape="rect" id="node5" href="$detect_8c.html#aef746f215cb23d3da4e714086e5674ef" title="Detection engine thread wrapper. " alt="" coords="989,140,1051,167"/>
+<area shape="rect" id="node6" href="$detect_8h.html#ae7a6e0f8b7fbe88c9c7ca064b7892c7c" title="TmModuleDetectRegister" alt="" coords="1099,140,1269,167"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="1318,140,1453,167"/>
+<area shape="rect" id="node8" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="1501,140,1600,167"/>
+<area shape="rect" id="node9" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="1648,173,1797,200"/>
+<area shape="rect" id="node10" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1845,173,1896,200"/>
+<area shape="rect" id="node17" href="$app-layer-htp-xff_8h.html#a019a88513f614a8dbe24247d9b0a2c4d" title="Function to return XFF IP if any. The caller needs to lock the flow. " alt="" coords="520,325,627,352"/>
+</map>

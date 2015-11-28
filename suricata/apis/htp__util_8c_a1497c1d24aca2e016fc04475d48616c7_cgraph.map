@@ -1,0 +1,5 @@
+<map id="htp_connp_is_line_ignorable" name="htp_connp_is_line_ignorable">
+<area shape="rect" id="node2" href="$htp__private_8h.html#a90ec198a62babe0db3d63024ec9d5118" title="htp_connp_is_line_terminator" alt="" coords="241,31,431,57"/>
+<area shape="rect" id="node3" href="$htp__private_8h.html#aa515e1e25cc42162e95469b4d6c575c9" title="htp_is_line_empty" alt="" coords="495,5,622,32"/>
+<area shape="rect" id="node4" href="$htp__private_8h.html#a8b599459708fac234b83e8d8fe58b258" title="htp_is_line_whitespace" alt="" coords="480,56,637,83"/>
+</map>

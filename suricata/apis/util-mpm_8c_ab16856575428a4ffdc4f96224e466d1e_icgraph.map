@@ -1,0 +1,17 @@
+<map id="MpmInitCtx" name="MpmInitCtx">
+<area shape="rect" id="node2" href="$app-layer-detect-proto_8h.html#a61db7c59a74519fe05cc3a9d86781385" title="The first function to be called. This initializes a global protocol detection context. " alt="" coords="144,56,325,83"/>
+<area shape="rect" id="node9" href="$detect-engine-mpm_8h.html#ac71ec23a4e9dddead829f116544001b4" title="PatternMatchPrepare" alt="" coords="162,107,307,133"/>
+<area shape="rect" id="node10" href="$detect-engine-mpm_8h.html#a63c65d2e349d7dc763961732528caa2d" title="Prepare the pattern matcher ctx in a sig group head. " alt="" coords="145,157,325,184"/>
+<area shape="rect" id="node3" href="$app-layer_8h.html#a13e4dfafdc60d054467da61ea15744f9" title="Setup the app layer. " alt="" coords="849,56,959,83"/>
+<area shape="rect" id="node4" href="$util-running-modes_8h.html#ad03a2414917a2fc87f4be0370c4c8fd7" title="ListAppLayerProtocols" alt="" coords="1009,5,1162,32"/>
+<area shape="rect" id="node7" href="$util-running-modes_8h.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title="ListKeywords" alt="" coords="1035,56,1136,83"/>
+<area shape="rect" id="node8" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="1036,107,1135,133"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="1211,56,1360,83"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1408,107,1459,133"/>
+<area shape="rect" id="node11" href="$detect_8c.html#a0ff85d4d7e9776988c8fe1659f65db89" title="Build the destination address portion of the match tree. " alt="" coords="373,132,576,159"/>
+<area shape="rect" id="node16" href="$detect_8c.html#aa3952cbb6c857eb9d1b9b2fa7689c0e4" title="BuildDestinationAddressHeads\lWithBothPorts" alt="" coords="373,183,576,225"/>
+<area shape="rect" id="node12" href="$detect_8c.html#a72fc70b5d12e86ff5827d2d397233773" title="SigAddressPrepareStage3" alt="" coords="625,157,799,184"/>
+<area shape="rect" id="node13" href="$detect_8h.html#a5eab8b8beaf1cc85d8a25a309ea13124" title="Convert the signature list into the runtime match structure. " alt="" coords="851,157,957,184"/>
+<area shape="rect" id="node14" href="$detect_8h.html#a8b471081c75864d1c8d4bcb14eaebc3b" title="Load signatures. " alt="" coords="1020,157,1151,184"/>
+<area shape="rect" id="node15" href="$detect-engine_8h.html#aba0e2c94ab90c4390af30af806db271d" title="Reload the detection engine. " alt="" coords="1214,157,1357,184"/>
+</map>

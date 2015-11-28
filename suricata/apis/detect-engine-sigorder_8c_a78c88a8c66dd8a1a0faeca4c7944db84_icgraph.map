@@ -1,0 +1,6 @@
+<map id="SCSigSignatureOrderingModuleCleanup" name="SCSigSignatureOrderingModuleCleanup">
+<area shape="rect" id="node2" href="$detect-engine_8h.html#a507b6b477b36478010d0946149c2d357" title="Free a DetectEngineCtx:: " alt="" coords="262,5,410,32"/>
+<area shape="rect" id="node3" href="$detect_8h.html#a8b471081c75864d1c8d4bcb14eaebc3b" title="Load signatures. " alt="" coords="271,56,401,83"/>
+<area shape="rect" id="node4" href="$detect-engine_8h.html#aba0e2c94ab90c4390af30af806db271d" title="Reload the detection engine. " alt="" coords="459,56,602,83"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="651,56,701,83"/>
+</map>

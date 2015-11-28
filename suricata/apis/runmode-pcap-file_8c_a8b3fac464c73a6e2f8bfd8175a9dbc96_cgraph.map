@@ -1,0 +1,51 @@
+<map id="RunModeFilePcapAutoFp" name="RunModeFilePcapAutoFp">
+<area shape="rect" id="node2" href="$conf_8c.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="854,208,925,235"/>
+<area shape="rect" id="node6" href="$detect-engine_8c.html#ab671a7bd77e40c3d8433ff46bd43374b" title="Check if detection is enabled. " alt="" coords="259,309,407,336"/>
+<area shape="rect" id="node7" href="$source-pcap-file_8c.html#af429c087ae37e17b1ff3a8cf63304280" title="PcapFileGlobalInit" alt="" coords="269,360,397,387"/>
+<area shape="rect" id="node8" href="$util-runmodes_8c.html#a489ab6586f887830804c9d396e95c457" title="create a queue string for autofp to pass to the flow queue handler. " alt="" coords="234,411,433,453"/>
+<area shape="rect" id="node10" href="$runmodes_8c.html#a07225b8600c17470752ae849ace81e0f" title="RunModeInitialize" alt="" coords="270,157,397,184"/>
+<area shape="rect" id="node16" href="$util-runmodes_8c.html#af0eec250820d2db9a2bae6f0d620ad35" title="RunmodeSetFlowStreamAsync" alt="" coords="231,477,436,504"/>
+<area shape="rect" id="node18" href="$runmodes_8c.html#a7d2ba9fcb621395068f1f182b93d98d9" title="SetupOutputs" alt="" coords="282,528,385,555"/>
+<area shape="rect" id="node20" href="$util-time_8c.html#ae13be7166791afc9e813cb3b79f324b6" title="TimeModeSetOffline" alt="" coords="263,629,404,656"/>
+<area shape="rect" id="node21" href="$tm-modules_8c.html#a3a0bd493c799543f1b0b8c7e8c67e283" title="get a tm module ptr by name " alt="" coords="256,680,411,707"/>
+<area shape="rect" id="node19" href="$tm-threads_8c.html#a6cf6491e6eb3b8cd303e0e611091ea1e" title="Appends a new entry to the slots. " alt="" coords="535,553,692,580"/>
+<area shape="rect" id="node22" href="$tm-threads_8c.html#ac0e074117df241b52004b4b1c5228b8e" title="Creates and returns a TV instance for a Packet Processing Thread. This function doesn&#39;t support custo..." alt="" coords="230,731,437,757"/>
+<area shape="rect" id="node45" href="$tm-threads_8c.html#a6121f124848a0f3961e4eee3faf34f8e" title="TmThreadGetNbThreads" alt="" coords="250,832,417,859"/>
+<area shape="rect" id="node46" href="$tm-threads_8c.html#ae91e211f1f8350abcd67b23c58dcf577" title="TmThreadSetCPU" alt="" coords="268,883,399,909"/>
+<area shape="rect" id="node47" href="$tm-threads_8c.html#af5c7ad411065ae98710138b400f84633" title="Spawns a thread associated with the ThreadVars instance tv. " alt="" coords="273,781,394,808"/>
+<area shape="rect" id="node49" href="$util-cpu_8c.html#a4f36ee9e70d73c5d8fb86fa6a86c44e2" title="Get the number of cpus online in the system. " alt="" coords="224,933,443,960"/>
+<area shape="rect" id="node3" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="1083,107,1186,133"/>
+<area shape="rect" id="node4" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="1302,56,1455,83"/>
+<area shape="rect" id="node5" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="1348,107,1409,133"/>
+<area shape="rect" id="node9" href="$suricata-common_8h.html#a7e9938e922f1dfd71bc01995bc2b7777" title="strlcat" alt="" coords="584,419,643,445"/>
+<area shape="rect" id="node11" href="$conf_8c.html#ad05ff3c317a042691169abc26475bb19" title="Retrieve a configuration value as an boolen. " alt="" coords="565,157,662,184"/>
+<area shape="rect" id="node13" href="$util-affinity_8c.html#ae1a3c113aa148b64530ae41a0d5aa67f" title="Extract cpu affinity configuration from current config file. " alt="" coords="793,56,986,83"/>
+<area shape="rect" id="node15" href="$conf_8c.html#a1383ef0374af39daea9af86c53919c02" title="Retrieve a configuration value as a float. " alt="" coords="563,208,663,235"/>
+<area shape="rect" id="node12" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true. " alt="" coords="836,157,943,184"/>
+<area shape="rect" id="node14" href="$util-affinity_8c.html#ab716a16a85291314f6fd64bdf8366abb" title="find affinity by its name " alt="" coords="1045,5,1224,32"/>
+<area shape="rect" id="node17" href="$flow-hash_8c.html#a608c7569788adc7c116253c9eae67747" title="FlowDisableTcpReuseHandling" alt="" coords="511,477,716,504"/>
+<area shape="rect" id="node23" href="$tm-threads_8c.html#af78474ba8e49604c9cf705c57cc95f51" title="Creates and returns the TV instance for a new thread. " alt="" coords="553,731,673,757"/>
+<area shape="rect" id="node44" href="$tm-threads_8c.html#a7b792091fc079fe5b2cf755e5f53849a" title="TmThreadsRegisterThread" alt="" coords="525,680,702,707"/>
+<area shape="rect" id="node24" href="$tm-threads_8c.html#a901bedcd2161f466a67de9a4ad88aba8" title="Set a thread flag. " alt="" coords="1544,507,1677,533"/>
+<area shape="rect" id="node25" href="$tm-queues_8c.html#ace94ae034c7dd71ab2c4057283bb54b5" title="TmqGetQueueByName" alt="" coords="810,629,969,656"/>
+<area shape="rect" id="node26" href="$tm-queues_8c.html#a69e4ed1bf80a56d98afbb5992f6c4093" title="TmqCreateQueue" alt="" coords="827,680,952,707"/>
+<area shape="rect" id="node27" href="$tm-queuehandlers_8c.html#a9f14e45e62be8d624dc2dfb57c809545" title="TmqhGetQueueHandlerByName" alt="" coords="784,731,995,757"/>
+<area shape="rect" id="node28" href="$tm-threads_8c.html#a25369baa1a83811c880d10bf95cad079" title="We set the slot functions. " alt="" coords="824,832,955,859"/>
+<area shape="rect" id="node43" href="$tm-threads_8c.html#a33a706eef27334eebefb3f0653a37b44" title="Initializes the mutex and condition variables for this TV. " alt="" coords="829,781,949,808"/>
+<area shape="rect" id="node29" href="$tm-threads_8c.html#a86f906803e6e37b43aed5cf1a37c91ee" title="TmThreadsSlotVar" alt="" coords="1069,680,1200,707"/>
+<area shape="rect" id="node42" href="$tm-threads_8c.html#ae587bc031308c4d760fd6441136ad684" title="TmThreadsSlotPktAcqLoop" alt="" coords="1043,832,1226,859"/>
+<area shape="rect" id="node30" href="$util-signal_8c.html#ace72889703113c3d3185d67fc715461e" title="UtilSignalBlock" alt="" coords="1323,756,1434,783"/>
+<area shape="rect" id="node31" href="$tmqh-packetpool_8c.html#ac12e370bb1f5ccbe943cf34454ab7b11" title="PacketPoolInitEmpty" alt="" coords="1306,503,1451,529"/>
+<area shape="rect" id="node32" href="$tm-threads_8c.html#aeda67fab252b97fe5f158ba053a45de7" title="Set the thread options (cpu affinitythread). Priority should be already set by pthread_create. " alt="" coords="1299,807,1459,833"/>
+<area shape="rect" id="node33" href="$suricata_8c.html#ae44adde25e112c3693ed1cbb5e6597c0" title="EngineKill" alt="" coords="1339,857,1419,884"/>
+<area shape="rect" id="node34" href="$counters_8c.html#a7252392837ab3054a2a0b0aaf7c06c17" title="StatsSetupPrivate" alt="" coords="1315,655,1443,681"/>
+<area shape="rect" id="node35" href="$tm-threads_8c.html#a3051b9f7e147aecbdfef8a693987e8f3" title="Check if a thread flag is set. " alt="" coords="1535,984,1686,1011"/>
+<area shape="rect" id="node36" href="$tm-threads_8c.html#a9dec77fa2aee796d6435afa70f1ee475" title="Tests if the thread represented in the arg has been unpaused or not. " alt="" coords="1275,959,1483,985"/>
+<area shape="rect" id="node37" href="$tm-threads_8c.html#a1a2a3d971bdab1af519d4aabd46b8f5d" title="Unset a thread flag. " alt="" coords="1305,705,1453,732"/>
+<area shape="rect" id="node38" href="$tm-threads_8c.html#a3e6a7d6f5867c6909351b1ee45dc2a0b" title="Separate run function so we can call it recursively. " alt="" coords="1301,351,1456,377"/>
+<area shape="rect" id="node40" href="$tmqh-packetpool_8c.html#a7459d4fb3fb4e341f4644fac509e3463" title="TmqhOutputPacketpool" alt="" coords="1531,408,1690,435"/>
+<area shape="rect" id="node39" href="$packet-queue_8c.html#a609973832178eed5f62ea8939417b366" title="PacketDequeue" alt="" coords="1553,313,1668,340"/>
+<area shape="rect" id="node41" href="$tm-threads_8c.html#afbb02380645247d1256fe2a20701e92a" title="Waits till the specified flag(s) is(are) set. We don&#39;t bother if the kill flag has been set or not on..." alt="" coords="1303,1060,1455,1087"/>
+<area shape="rect" id="node48" href="$tm-threads_8c.html#a30ae4af36f2b0389107a54a8dc00691c" title="Appends this TV to tv_root based on its type. " alt="" coords="551,781,676,808"/>
+<area shape="rect" id="node50" href="$util-cpu_8c.html#a76e3d657a52ccbf2d4c788d1b51a454f" title="Get the number of cpus configured in the system. " alt="" coords="491,933,735,960"/>
+</map>

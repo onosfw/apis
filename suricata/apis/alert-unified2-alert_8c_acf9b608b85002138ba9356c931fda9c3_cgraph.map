@@ -1,0 +1,10 @@
+<map id="Unified2AlertRotateFile" name="Unified2AlertRotateFile">
+<area shape="rect" id="node2" href="$alert-unified2-alert_8c.html#a729e89e2fb433ccd5f5aa571dc8c47a3" title="Function to close unified2 file. " alt="" coords="220,5,372,32"/>
+<area shape="rect" id="node3" href="$alert-unified2-alert_8c.html#aece26471fa7813974ae0250cbc959c1e" title="Read the config set the file pointer, open the file. " alt="" coords="211,56,381,83"/>
+<area shape="rect" id="node4" href="$util-conf_8c.html#a78afc07a179cdd6bd1522f1d5437c46d" title="ConfigGetLogDirectory" alt="" coords="429,31,584,57"/>
+<area shape="rect" id="node9" href="$util-time_8c.html#abca16b834f22ae2b71d62fa72618408a" title="TimeGet" alt="" coords="471,81,543,108"/>
+<area shape="rect" id="node5" href="$conf_8c.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="633,31,703,57"/>
+<area shape="rect" id="node6" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="753,31,855,57"/>
+<area shape="rect" id="node7" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="951,5,1012,32"/>
+<area shape="rect" id="node8" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="905,56,1058,83"/>
+</map>

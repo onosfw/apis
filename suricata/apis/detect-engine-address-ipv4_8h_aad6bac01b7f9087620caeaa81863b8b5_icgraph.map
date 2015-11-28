@@ -1,0 +1,12 @@
+<map id="DetectAddressJoinIPv4" name="DetectAddressJoinIPv4">
+<area shape="rect" id="node2" href="$detect-engine-address_8h.html#ac02d2217a26ec2e8f87de581bd0ef6c5" title="Join two addresses groups together. " alt="" coords="213,56,347,83"/>
+<area shape="rect" id="node3" href="$detect_8c.html#afc77848803e5fcaaf39f90ff860140dc" title="CreateGroupedAddrList" alt="" coords="395,56,554,83"/>
+<area shape="rect" id="node4" href="$detect_8c.html#aabe6ab0213639a48e8560e510eb7ca02" title="Fill the global src group head, with the sigs included. " alt="" coords="854,5,1029,32"/>
+<area shape="rect" id="node9" href="$detect_8c.html#a0ff85d4d7e9776988c8fe1659f65db89" title="Build the destination address portion of the match tree. " alt="" coords="603,56,805,83"/>
+<area shape="rect" id="node11" href="$detect_8c.html#aa3952cbb6c857eb9d1b9b2fa7689c0e4" title="BuildDestinationAddressHeads\lWithBothPorts" alt="" coords="603,107,805,149"/>
+<area shape="rect" id="node5" href="$detect_8h.html#a5eab8b8beaf1cc85d8a25a309ea13124" title="Convert the signature list into the runtime match structure. " alt="" coords="1078,31,1183,57"/>
+<area shape="rect" id="node6" href="$detect_8h.html#a8b471081c75864d1c8d4bcb14eaebc3b" title="Load signatures. " alt="" coords="1232,31,1363,57"/>
+<area shape="rect" id="node7" href="$detect-engine_8h.html#aba0e2c94ab90c4390af30af806db271d" title="Reload the detection engine. " alt="" coords="1411,31,1554,57"/>
+<area shape="rect" id="node8" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1603,31,1653,57"/>
+<area shape="rect" id="node10" href="$detect_8c.html#a72fc70b5d12e86ff5827d2d397233773" title="SigAddressPrepareStage3" alt="" coords="854,56,1029,83"/>
+</map>

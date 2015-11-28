@@ -1,0 +1,8 @@
+<map id="SCReputationClone" name="SCReputationClone">
+<area shape="rect" id="node2" href="$reputation_8c.html#a7096e18a6dad06db82d1ebc2ad08ca1d" title="Retrieves the Reputation of a host (best match), given an ipv4 address in the raw address format..." alt="" coords="196,5,399,46"/>
+<area shape="rect" id="node3" href="$reputation_8c.html#a50043716cc3cba23cc8f81f61d717239" title="Retrieves the Reputation of a host (exact match), given an ipv4 address in the raw address format..." alt="" coords="193,70,402,111"/>
+<area shape="rect" id="node4" href="$reputation_8c.html#a51c3917da8907c24955355edfea3be6a" title="Retrieves the Reputation of a host (best match), given an ipv6 address in the raw address format..." alt="" coords="196,135,399,177"/>
+<area shape="rect" id="node5" href="$reputation_8c.html#ad7dbf0318c65747559d84e38ee86101f" title="Retrieves the Reputation of a host (exact match), given an ipv6 address in the raw address format..." alt="" coords="193,201,402,242"/>
+<area shape="rect" id="node6" href="$reputation_8c.html#a0e275be53e97dcdfbf2eda06ae3d7508" title="Update a reputation or insert a new one. If it doesn&#39;t exist it will try to search for the reputation..." alt="" coords="196,267,399,293"/>
+<area shape="rect" id="node7" href="$reputation_8c.html#a18f6019514a7256bdd405566f8fd0074" title="Update a reputation or insert a new one. If it doesn&#39;t exist it will try to search for the reputation..." alt="" coords="196,317,399,344"/>
+</map>

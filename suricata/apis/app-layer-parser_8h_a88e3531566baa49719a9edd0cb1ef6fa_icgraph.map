@@ -1,0 +1,22 @@
+<map id="AppLayerParserConfParserEnabled" name="AppLayerParserConfParserEnabled">
+<area shape="rect" id="node2" href="$group__httplayer.html#gaa9b76d8c59e5673794cbe2656c825d74" title="Clears the HTTP server configuration memory used by HTP library. " alt="" coords="535,26,649,53"/>
+<area shape="rect" id="node4" href="$app-layer-dcerpc_8h.html#af33f01d5d703a6338f092a1a580ca6f4" title="RegisterDCERPCParsers" alt="" coords="249,57,423,83"/>
+<area shape="rect" id="node5" href="$app-layer-dcerpc-udp_8h.html#a021b09039e147eef3be6d453e28105b9" title="RegisterDCERPCUDPParsers" alt="" coords="235,107,437,134"/>
+<area shape="rect" id="node12" href="$app-layer-dns-tcp_8h.html#ac637e7cedd8afd651b1cf217d654d285" title="RegisterDNSTCPParsers" alt="" coords="250,158,422,185"/>
+<area shape="rect" id="node13" href="$app-layer-dns-udp_8h.html#a621fd6c4064a0962df00a7dff98c3e12" title="RegisterDNSUDPParsers" alt="" coords="249,209,423,235"/>
+<area shape="rect" id="node14" href="$app-layer-ftp_8h.html#aad9fd179d26143f516519e8f83a8ec95" title="RegisterFTPParsers" alt="" coords="265,259,407,286"/>
+<area shape="rect" id="node15" href="$group__httplayer.html#ga23aaf4c00574fa636459e4377429ac13" title="Register the HTTP protocol and state handling functions to APP layer of the engine. " alt="" coords="265,310,407,337"/>
+<area shape="rect" id="node16" href="$app-layer-modbus_8h.html#aa672d3c3fae34a79808da8f9f3043573" title="Function to register the Modbus protocol parsers and other functions. " alt="" coords="255,361,417,387"/>
+<area shape="rect" id="node17" href="$app-layer-smb_8h.html#aeec3fc7e57e33d4c2df0db5157ccccc2" title="RegisterSMBParsers" alt="" coords="263,411,409,438"/>
+<area shape="rect" id="node18" href="$app-layer-smtp_8h.html#ab9e232b8d15713907654c886f82e84bc" title="Register the SMTP Protocol parser. " alt="" coords="259,462,413,489"/>
+<area shape="rect" id="node19" href="$app-layer-ssh_8h.html#ad2b97c290b4dd7115bc9ea74af74b525" title="Function to register the SSH protocol parsers and other functions. " alt="" coords="264,513,408,539"/>
+<area shape="rect" id="node20" href="$app-layer-ssl_8h.html#ac41f8ede008657dd3bd8971a8dc24628" title="Function to register the SSL protocol parser and other functions. " alt="" coords="265,563,407,590"/>
+<area shape="rect" id="node21" href="$app-layer-template_8h.html#ac39e3903c23aff255a27a6dfcdf2d652" title="RegisterTemplateParsers" alt="" coords="251,614,421,641"/>
+<area shape="rect" id="node3" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1307,215,1357,242"/>
+<area shape="rect" id="node6" href="$app-layer-parser_8h.html#ac5c64e1bddd13fdc99168538935cfab5" title="AppLayerParserRegisterProtocol\lParsers" alt="" coords="486,335,698,376"/>
+<area shape="rect" id="node7" href="$app-layer_8h.html#a13e4dfafdc60d054467da61ea15744f9" title="Setup the app layer. " alt="" coords="747,241,858,267"/>
+<area shape="rect" id="node8" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="935,266,1033,293"/>
+<area shape="rect" id="node10" href="$util-running-modes_8h.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title="ListKeywords" alt="" coords="933,165,1035,191"/>
+<area shape="rect" id="node11" href="$util-running-modes_8h.html#ad03a2414917a2fc87f4be0370c4c8fd7" title="ListAppLayerProtocols" alt="" coords="907,215,1061,242"/>
+<area shape="rect" id="node9" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="1109,215,1259,242"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="htp_tx_res_set_headers_clear" name="htp_tx_res_set_headers_clear">
+<area shape="rect" id="node2" href="$bstr_8c.html#a1b9ca92f8699af4136e5d1ed38ff73b0" title="bstr_free" alt="" coords="595,41,669,68"/>
+<area shape="rect" id="node3" href="$htp__table_8c.html#a4eb7f8a9d51ad2d6358c87162b7585d4" title="htp_table_create" alt="" coords="226,41,345,68"/>
+<area shape="rect" id="node5" href="$htp__table_8c.html#a408659a54a7dd0e715be8bab67a107e6" title="htp_table_destroy" alt="" coords="223,92,348,118"/>
+<area shape="rect" id="node7" href="$htp__table_8c.html#aa2c2702311ce4bbb7614133098c50b4e" title="htp_table_get_index" alt="" coords="216,142,355,169"/>
+<area shape="rect" id="node8" href="$htp__table_8c.html#aa1f72cd85c808b758b6efd6ea0351524" title="htp_table_size" alt="" coords="232,193,339,220"/>
+<area shape="rect" id="node4" href="$htp__list_8c.html#a03714eb8cf358dd34b29cdb36061af79" title="htp_list_array_create" alt="" coords="403,41,546,68"/>
+<area shape="rect" id="node6" href="$htp__table_8c.html#ac14ab63ac2bc19ac3f61d324b484dd2e" title="htp_table_clear" alt="" coords="419,92,530,118"/>
+</map>

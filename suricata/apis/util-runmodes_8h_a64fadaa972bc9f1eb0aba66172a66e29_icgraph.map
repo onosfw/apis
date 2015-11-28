@@ -1,0 +1,16 @@
+<map id="RunModeSetLiveCaptureWorkers" name="RunModeSetLiveCaptureWorkers">
+<area shape="rect" id="node2" href="$runmode-af-packet_8h.html#a1402fe271c8a1f767de444b2d9535722" title="Workers version of the AF_PACKET processing. " alt="" coords="283,5,453,32"/>
+<area shape="rect" id="node6" href="$runmode-erf-dag_8h.html#ab793c26bd7104604eb8c3f27ebb4f1b9" title="RunModeIdsErfDagWorkers" alt="" coords="275,56,461,83"/>
+<area shape="rect" id="node8" href="$runmode-netmap_8h.html#a0e2182ba798b9ae6f33f7161faa313b3" title="Workers version of the netmap processing. " alt="" coords="273,107,463,133"/>
+<area shape="rect" id="node10" href="$runmode-nflog_8h.html#a0da8f2ed9a7af61ccf6dd0c1b2892817" title="RunModeIdsNflogWorkers" alt="" coords="280,157,456,184"/>
+<area shape="rect" id="node12" href="$runmode-pcap_8c.html#a41a15b254d1b8fbd44f2666e5f6b94a7" title="Workers version of the PCAP LIVE processing. " alt="" coords="281,208,455,235"/>
+<area shape="rect" id="node14" href="$runmode-pfring_8h.html#ad1ce11c37b11e5647edd6f52dae43b5d" title="RunModeIdsPfringWorkers" alt="" coords="279,259,457,285"/>
+<area shape="rect" id="node3" href="$runmode-af-packet_8h.html#abf510dda35701437fc571d5b5f0f1f6e" title="RunModeIdsAFPRegister" alt="" coords="523,5,693,32"/>
+<area shape="rect" id="node4" href="$runmodes_8h.html#aa5565123b11fa026e96b91b23db91ba9" title="Register all runmodes in the engine. " alt="" coords="753,132,943,159"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="992,132,1043,159"/>
+<area shape="rect" id="node7" href="$runmode-erf-dag_8h.html#a48e70c4e7988fa65ee295b869150cfa6" title="RunModeErfDagRegister" alt="" coords="524,56,692,83"/>
+<area shape="rect" id="node9" href="$runmode-netmap_8h.html#a8b229716bfd3fd0ed1c627350b1fb7da" title="RunModeIdsNetmapRegister" alt="" coords="513,107,703,133"/>
+<area shape="rect" id="node11" href="$runmode-nflog_8h.html#aaabe731f1245f1a7f8cfb9a1e9bd417b" title="RunModeIdsNflogRegister" alt="" coords="520,157,696,184"/>
+<area shape="rect" id="node13" href="$runmode-pcap_8h.html#a16e1fcee3ffd97b1987150fdd11cbbd5" title="RunModeIdsPcapRegister" alt="" coords="521,208,695,235"/>
+<area shape="rect" id="node15" href="$runmode-pfring_8h.html#a60ccf23e33d96ce4ad0e111902f1984b" title="RunModeIdsPfringRegister" alt="" coords="519,259,697,285"/>
+</map>

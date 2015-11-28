@@ -1,0 +1,7 @@
+<map id="DetectParseDupSigHashInit" name="DetectParseDupSigHashInit">
+<area shape="rect" id="node2" href="$detect-parse_8c.html#ad10c59daaf359a2f146c63c82bebc739" title="The Compare function to be used by the hash table &#45; DetectEngineCtx&#45;&gt;dup_sig_hash_table. " alt="" coords="241,5,461,32"/>
+<area shape="rect" id="node3" href="$detect-parse_8c.html#a7dc543f475b2644f65c8de5716933a9d" title="The hash free function to be the used by the hash table &#45; DetectEngineCtx&#45;&gt;dup_sig_hash_table. " alt="" coords="254,56,447,83"/>
+<area shape="rect" id="node4" href="$detect-parse_8c.html#af1c35bd16862589f36817779f6526db1" title="The hash function to be the used by the hash table &#45; DetectEngineCtx&#45;&gt;dup_sig_hash_table. " alt="" coords="251,107,450,133"/>
+<area shape="rect" id="node5" href="$util-hashlist_8c.html#afdb92ac7963996878dd3e6b39bce9cdc" title="HashListTableInit" alt="" coords="289,157,413,184"/>
+<area shape="rect" id="node6" href="$util-hashlist_8c.html#a06ff5596b0a440c5438975bef16924d9" title="HashListTableDefaultCompare" alt="" coords="510,157,711,184"/>
+</map>

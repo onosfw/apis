@@ -1,0 +1,8 @@
+<map id="PoolThreadSize" name="PoolThreadSize">
+<area shape="rect" id="node2" href="$stream-tcp_8h.html#a92a4a607332f606574d63bd2ec158ebe" title="StreamTcpThreadInit" alt="" coords="168,5,312,32"/>
+<area shape="rect" id="node3" href="$stream-tcp_8h.html#ac7570830e107bef9adb9c4a729222114" title="TmModuleStreamTcpRegister" alt="" coords="361,5,557,32"/>
+<area shape="rect" id="node4" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="606,5,741,32"/>
+<area shape="rect" id="node5" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="789,5,888,32"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1133,5,1184,32"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="936,31,1085,57"/>
+</map>

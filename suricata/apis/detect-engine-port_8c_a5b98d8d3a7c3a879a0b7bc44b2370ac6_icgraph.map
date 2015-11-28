@@ -1,0 +1,40 @@
+<map id="DetectPortPrint" name="DetectPortPrint">
+<area shape="rect" id="node2" href="$detect_8c.html#af8308f17a2d3019793ffbebc75d889bd" title="CreateGroupedPortList" alt="" coords="421,31,576,57"/>
+<area shape="rect" id="node9" href="$detect-engine-port_8h.html#a5570ecf75ec3ea537ee51b6ceae88268" title="function for inserting a port group object. This also makes sure SigGroupContainer lists are handled ..." alt="" coords="210,131,329,157"/>
+<area shape="rect" id="node22" href="$detect-engine-port_8c.html#a37cc1e56039761193d64fa6feba1909a" title="Helper function for the parsing process. " alt="" coords="166,181,373,208"/>
+<area shape="rect" id="node38" href="$detect-engine-port_8h.html#a24f17837872c6c791f6b9689b18fd297" title="Helper function used to print the list of ports present in this DetectPort list. " alt="" coords="203,5,336,32"/>
+<area shape="rect" id="node39" href="$detect_8c.html#a93d344a4043a9e7aa66d19c0baabf1ec" title="SigAddressPrepareStage5" alt="" coords="182,232,357,259"/>
+<area shape="rect" id="node3" href="$detect_8c.html#aa3952cbb6c857eb9d1b9b2fa7689c0e4" title="BuildDestinationAddressHeads\lWithBothPorts" alt="" coords="1136,89,1339,130"/>
+<area shape="rect" id="node4" href="$detect_8c.html#a72fc70b5d12e86ff5827d2d397233773" title="SigAddressPrepareStage3" alt="" coords="1406,155,1581,181"/>
+<area shape="rect" id="node5" href="$detect_8h.html#a5eab8b8beaf1cc85d8a25a309ea13124" title="Convert the signature list into the runtime match structure. " alt="" coords="1657,205,1762,232"/>
+<area shape="rect" id="node6" href="$detect_8h.html#a8b471081c75864d1c8d4bcb14eaebc3b" title="Load signatures. " alt="" coords="1831,235,1961,261"/>
+<area shape="rect" id="node7" href="$detect-engine_8h.html#aba0e2c94ab90c4390af30af806db271d" title="Reload the detection engine. " alt="" coords="2025,261,2167,288"/>
+<area shape="rect" id="node8" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="2219,325,2269,352"/>
+<area shape="rect" id="node10" href="$detect-engine-port_8h.html#a4f9f89da81d66489b1f7f9ad01f952f3" title="Copy and insert the new DetectPort, with a copy list of sigs. " alt="" coords="424,131,573,157"/>
+<area shape="rect" id="node11" href="$detect-engine-address-ipv4_8h.html#a3c85b240c7c47383d2dbcffe36cdde8d" title="Cut groups and merge sigs. " alt="" coords="653,29,811,56"/>
+<area shape="rect" id="node12" href="$detect-engine-address-ipv6_8h.html#a558db72b9d449017c962d736b762296e" title="DetectAddressCutIPv6" alt="" coords="653,80,811,107"/>
+<area shape="rect" id="node13" href="$detect-engine-address_8h.html#a5f63946f5f3ce24870d1211b1f3bdeb0" title="Same as DetectAddressInsert, but then for inserting a address group object. This also makes sure SigG..." alt="" coords="661,256,803,283"/>
+<area shape="rect" id="node21" href="$detect-engine-address_8h.html#ac02d2217a26ec2e8f87de581bd0ef6c5" title="Join two addresses groups together. " alt="" coords="665,131,799,157"/>
+<area shape="rect" id="node14" href="$detect_8c.html#afc77848803e5fcaaf39f90ff860140dc" title="CreateGroupedAddrList" alt="" coords="909,155,1067,181"/>
+<area shape="rect" id="node17" href="$detect-engine-address_8c.html#a69bbe731d2e859401b2d36174a8bebf2" title="Merge the + and the &#45; list (+ positive match, &#45; &#39;not&#39; match) " alt="" coords="1154,256,1321,283"/>
+<area shape="rect" id="node20" href="$detect-engine-address_8c.html#a9329b113f0526a40f64cdf2031b46cd4" title="Setup a single address string, parse it and add the resulting Address&#45;Range(s) to the AddessHead(Dete..." alt="" coords="917,256,1059,283"/>
+<area shape="rect" id="node15" href="$detect_8c.html#aabe6ab0213639a48e8560e510eb7ca02" title="Fill the global src group head, with the sigs included. " alt="" coords="1406,205,1581,232"/>
+<area shape="rect" id="node16" href="$detect_8c.html#a0ff85d4d7e9776988c8fe1659f65db89" title="Build the destination address portion of the match tree. " alt="" coords="1136,155,1339,181"/>
+<area shape="rect" id="node18" href="$detect-engine-address_8h.html#ab3a963e12de032ca4aa2c531a4a0f21d" title="Parses an address group sent as a character string and updates the DetectAddressHead sent as the argu..." alt="" coords="1422,256,1565,283"/>
+<area shape="rect" id="node19" href="$detect-parse_8c.html#a84a84c4f3fd51f473abc014096a35197" title="Parse address string and update signature. " alt="" coords="1648,256,1771,283"/>
+<area shape="rect" id="node23" href="$detect-engine-port_8h.html#af6e6aa0b58f2896b78d81d649d4dd613" title="Function for parsing port strings. " alt="" coords="439,324,558,351"/>
+<area shape="rect" id="node24" href="$app-layer-detect-proto_8h.html#ab24c1cac8b75e7744dd57010e310559f" title="register parser at a port " alt="" coords="625,437,839,464"/>
+<area shape="rect" id="node25" href="$app-layer-detect-proto_8h.html#a9883134087a5ccfadb4dbddafa04027c" title="AppLayerProtoDetectPPParse\lConfPorts" alt="" coords="889,459,1087,501"/>
+<area shape="rect" id="node26" href="$app-layer-dns-tcp_8h.html#ac637e7cedd8afd651b1cf217d654d285" title="RegisterDNSTCPParsers" alt="" coords="1151,315,1323,341"/>
+<area shape="rect" id="node33" href="$app-layer-dns-udp_8h.html#a621fd6c4064a0962df00a7dff98c3e12" title="RegisterDNSUDPParsers" alt="" coords="1150,365,1325,392"/>
+<area shape="rect" id="node34" href="$app-layer-modbus_8h.html#aa672d3c3fae34a79808da8f9f3043573" title="Function to register the Modbus protocol parsers and other functions. " alt="" coords="1156,416,1319,443"/>
+<area shape="rect" id="node35" href="$app-layer-smb_8h.html#aeec3fc7e57e33d4c2df0db5157ccccc2" title="RegisterSMBParsers" alt="" coords="1165,467,1310,493"/>
+<area shape="rect" id="node36" href="$app-layer-ssl_8h.html#ac41f8ede008657dd3bd8971a8dc24628" title="Function to register the SSL protocol parser and other functions. " alt="" coords="1167,517,1308,544"/>
+<area shape="rect" id="node37" href="$app-layer-template_8h.html#ac39e3903c23aff255a27a6dfcdf2d652" title="RegisterTemplateParsers" alt="" coords="1152,568,1323,595"/>
+<area shape="rect" id="node27" href="$app-layer-parser_8h.html#ac5c64e1bddd13fdc99168538935cfab5" title="AppLayerParserRegisterProtocol\lParsers" alt="" coords="1387,409,1599,450"/>
+<area shape="rect" id="node28" href="$app-layer_8h.html#a13e4dfafdc60d054467da61ea15744f9" title="Setup the app layer. " alt="" coords="1654,401,1765,428"/>
+<area shape="rect" id="node29" href="$util-running-modes_8h.html#ad03a2414917a2fc87f4be0370c4c8fd7" title="ListAppLayerProtocols" alt="" coords="1819,376,1973,403"/>
+<area shape="rect" id="node31" href="$util-running-modes_8h.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title="ListKeywords" alt="" coords="1845,427,1947,453"/>
+<area shape="rect" id="node32" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="1847,325,1945,352"/>
+<area shape="rect" id="node30" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="2021,376,2171,403"/>
+</map>

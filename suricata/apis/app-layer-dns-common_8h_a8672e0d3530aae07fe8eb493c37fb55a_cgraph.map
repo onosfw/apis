@@ -1,0 +1,7 @@
+<map id="DNSStoreQueryInState" name="DNSStoreQueryInState">
+<area shape="rect" id="node2" href="$app-layer-dns-common_8c.html#a84161199802ac8e81f1a2e8774dc1d89" title="DNSCheckMemcap" alt="" coords="237,5,376,32"/>
+<area shape="rect" id="node5" href="$app-layer-dns-common_8c.html#a29c7da3ba981a212130793e73434ed5a" title="DNSIncrMemcap" alt="" coords="245,56,368,83"/>
+<area shape="rect" id="node3" href="$app-layer-dns-common_8c.html#a7210bf7334be9c9481afec3008486fcf" title="DNSSetEvent" alt="" coords="449,56,554,83"/>
+<area shape="rect" id="node6" href="$app-layer-dns-common_8c.html#a8f88edf2f3631e5683930e2ecea3b7f7" title="DNSTransactionFindByTxId" alt="" coords="213,157,400,184"/>
+<area shape="rect" id="node4" href="$app-layer-events_8c.html#aa19aec45221296320307ef2e2803780c" title="Set an app layer decoder event. " alt="" coords="603,49,789,90"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="TmModuleLogTcpDataLogRegister" name="TmModuleLogTcpDataLogRegister">
+<area shape="rect" id="node2" href="$log-tcp-data_8c.html#aeb9a7946c3869127e04b524854ec8c53" title="LogTcpDataLogExitPrintStats" alt="" coords="285,95,480,121"/>
+<area shape="rect" id="node3" href="$log-tcp-data_8c.html#a21cd450ebf51229dca21ac02e1cb360a" title="LogTcpDataLogger" alt="" coords="317,145,449,172"/>
+<area shape="rect" id="node4" href="$log-tcp-data_8c.html#ae688f6648807229c868f8fd234739d87" title="Create a new http log LogFileCtx. " alt="" coords="306,196,459,223"/>
+<area shape="rect" id="node17" href="$log-tcp-data_8c.html#aca718522cd7ce5c0278af618dfc2ac84" title="LogTcpDataLogThreadDeinit" alt="" coords="289,247,477,273"/>
+<area shape="rect" id="node19" href="$log-tcp-data_8c.html#aaf66f5a654591e48f5123d824b98978e" title="LogTcpDataLogThreadInit" alt="" coords="297,297,469,324"/>
+<area shape="rect" id="node21" href="$output_8c.html#a98e004c160ae23a00374fb18b079c0b2" title="Register a streaming data output module. " alt="" coords="277,348,488,375"/>
+<area shape="rect" id="node5" href="$util-conf_8c.html#a78afc07a179cdd6bd1522f1d5437c46d" title="ConfigGetLogDirectory" alt="" coords="783,107,937,133"/>
+<area shape="rect" id="node10" href="$conf_8c.html#a4d5920eea97bb4713c41e3ffef423757" title="Lookup the value of a child configuration node by name. " alt="" coords="767,56,953,83"/>
+<area shape="rect" id="node11" href="$util-logopenfile_8c.html#a48dccb24aadffd47f27f2bfe9d5aac0c" title="LogFileFreeCtx() Destroy a LogFileCtx (Close the file and free memory) " alt="" coords="565,5,675,32"/>
+<area shape="rect" id="node13" href="$util-logopenfile_8c.html#aecf090c1d20b5506b7ad24192dad5514" title="LogFileNewCtx() Get a new LogFileCtx. " alt="" coords="564,284,676,311"/>
+<area shape="rect" id="node14" href="$util-logopenfile_8c.html#aa420f59dbec22b32897acb61ccda3b80" title="open a generic output &quot;log file&quot;, which may be a regular file or a socket " alt="" coords="537,157,703,184"/>
+<area shape="rect" id="node9" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="1335,183,1396,209"/>
+<area shape="rect" id="node6" href="$conf_8c.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="1017,107,1087,133"/>
+<area shape="rect" id="node7" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="1137,107,1239,133"/>
+<area shape="rect" id="node8" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="1289,81,1442,108"/>
+<area shape="rect" id="node12" href="$output_8c.html#a28fd4c19cfdd446c2a48a29e0c3c954d" title="Unregister a file rotation flag. " alt="" coords="752,5,968,32"/>
+<area shape="rect" id="node15" href="$util-path_8c.html#a7941df317633e88e4f9bb89806b20691" title="Check if a path is absolute. " alt="" coords="805,208,915,235"/>
+<area shape="rect" id="node16" href="$output_8c.html#a092b7de4262ce0cd8c37fa8bc864f0c9" title="Register a flag for file rotation notification. " alt="" coords="757,157,963,184"/>
+<area shape="rect" id="node18" href="$util-buffer_8c.html#ae2344f2fa62c9d11b8625bfd886866c9" title="MemBufferFree" alt="" coords="564,335,676,361"/>
+<area shape="rect" id="node20" href="$util-buffer_8c.html#a09fe097baa4bcd2890438b02ea67ee3d" title="MemBufferCreateNew" alt="" coords="544,385,696,412"/>
+</map>

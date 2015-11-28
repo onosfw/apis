@@ -1,0 +1,10 @@
+<map id="HostBitInitCtx" name="HostBitInitCtx">
+<area shape="rect" id="node2" href="$host-bit_8c.html#a6267b44457f0059c992678581a4390f6" title="HostBitFreeAll" alt="" coords="179,80,285,107"/>
+<area shape="rect" id="node7" href="$group__hoststorage.html#ga2428ea46c982c3ecde6b0ab553974d51" title="Register a Host storage. " alt="" coords="160,140,304,167"/>
+<area shape="rect" id="node3" href="$util-var_8c.html#a87ec4a01436cbc5f9edc316ca7f8b530" title="GenericVarFree" alt="" coords="354,61,467,88"/>
+<area shape="rect" id="node4" href="$flow-bit_8c.html#a9ed70252e069b2b27643afb1f6c5eaa9" title="FlowBitFree" alt="" coords="533,5,625,32"/>
+<area shape="rect" id="node5" href="$flow-var_8c.html#a70f203af22716f9e1457bda1bf11ec2d" title="FlowVarFree" alt="" coords="531,56,627,83"/>
+<area shape="rect" id="node6" href="$pkt-var_8c.html#a21a2ad851a644ccbbe1765532e356838" title="PktVarFree" alt="" coords="535,131,623,157"/>
+<area shape="rect" id="node8" href="$util-storage_8c.html#a6c98c1f3549ce0faee1083778abd1227" title="Register new storage. " alt="" coords="353,144,469,171"/>
+<area shape="rect" id="node9" href="$util-storage_8c.html#a742cd0f5c06e15fe16178ae16c8582a2" title="StoragePrintType" alt="" coords="517,181,640,208"/>
+</map>

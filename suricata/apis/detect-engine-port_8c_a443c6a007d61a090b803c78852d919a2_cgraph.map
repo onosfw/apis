@@ -1,0 +1,15 @@
+<map id="DetectPortDpHashReset" name="DetectPortDpHashReset">
+<area shape="rect" id="node2" href="$detect-engine-port_8c.html#a507de2742f366bbd647fc3165ba6933c" title="Function that free the HashListTable of destination DetectPort. " alt="" coords="222,31,381,57"/>
+<area shape="rect" id="node4" href="$detect-engine-port_8c.html#aeceecd0cbb58ca06588fa8d7a9cb9079" title="Function that initialize the HashListTable of destination DetectPort. " alt="" coords="226,107,377,133"/>
+<area shape="rect" id="node3" href="$util-hashlist_8c.html#ae6d947561664d1e91c1502f1def77d7f" title="HashListTableFree" alt="" coords="447,5,579,32"/>
+<area shape="rect" id="node5" href="$detect-engine-port_8c.html#aa9b41811c8d5158a767859161d9ef1b0" title="Function that return if the two DetectPort groups are equal or not. " alt="" coords="430,56,597,83"/>
+<area shape="rect" id="node6" href="$detect-engine-port_8c.html#a75d136f87a9add2205627924c8eb215b" title="DetectPortFreeFunc" alt="" coords="443,107,583,133"/>
+<area shape="rect" id="node12" href="$detect-engine-port_8c.html#a537154c866ebdd2436475a90185e1867" title="Generate a hash for a DetectPort group. " alt="" coords="441,157,586,184"/>
+<area shape="rect" id="node13" href="$util-hashlist_8c.html#afdb92ac7963996878dd3e6b39bce9cdc" title="HashListTableInit" alt="" coords="451,208,575,235"/>
+<area shape="rect" id="node7" href="$detect-engine-port_8c.html#a336d41e96ce6898d02ebecc582cc1557" title="Free a DetectPort and its members. " alt="" coords="691,107,802,133"/>
+<area shape="rect" id="node8" href="$detect-engine-siggroup_8c.html#a176702ac4621c9006d89a8d6801d7ce1" title="Free a SigGroupHead and its members. " alt="" coords="907,56,1040,83"/>
+<area shape="rect" id="node11" href="$detect-engine-port_8c.html#aa96929b52a485980356a11188a6e9f16" title="Free a DetectPort list and each of its members. " alt="" coords="896,107,1051,133"/>
+<area shape="rect" id="node9" href="$detect-engine-mpm_8c.html#a6a1c9264037c5fe5756ea28f6ddab251" title="PatternMatchDestroyGroup" alt="" coords="1099,31,1280,57"/>
+<area shape="rect" id="node10" href="$detect-engine-siggroup_8c.html#a6f6c71bc5fff7f350d164523257ebed1" title="SigGroupHeadInitDataFree" alt="" coords="1100,81,1279,108"/>
+<area shape="rect" id="node14" href="$util-hashlist_8c.html#a06ff5596b0a440c5438975bef16924d9" title="HashListTableDefaultCompare" alt="" coords="646,208,847,235"/>
+</map>

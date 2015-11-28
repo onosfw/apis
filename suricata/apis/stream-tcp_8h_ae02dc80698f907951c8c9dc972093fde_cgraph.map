@@ -1,0 +1,51 @@
+<map id="StreamTcpInitConfig" name="StreamTcpInitConfig">
+<area shape="rect" id="node2" href="$conf_8c.html#aa9a73ee6024346fb296f427369e56f40" title="Retrieve the value of a configuration node. " alt="" coords="1051,126,1122,152"/>
+<area shape="rect" id="node6" href="$conf_8c.html#ad05ff3c317a042691169abc26475bb19" title="Retrieve a configuration value as an boolen. " alt="" coords="262,150,359,176"/>
+<area shape="rect" id="node8" href="$conf_8c.html#a0699665aae394f33c9fe33880891c1e7" title="Retrieve a configuration value as an integer. " alt="" coords="811,151,898,178"/>
+<area shape="rect" id="node3" href="$conf_8c.html#a61d153ebd102e46aac77547f9ca8e24a" title="Get a ConfNode by name. " alt="" coords="1278,164,1381,191"/>
+<area shape="rect" id="node9" href="$suricata_8c.html#a4b40aa623a6feb122601951304064464" title="EngineModeIsIPS" alt="" coords="247,408,374,435"/>
+<area shape="rect" id="node10" href="$flow_8c.html#a05174d1570db7ee4b5a25f5ea7234e87" title="Function to set the function to get protocol specific flow state. " alt="" coords="233,459,389,486"/>
+<area shape="rect" id="node12" href="$util-misc_8c.html#ac799c82481f5e938b2ea704a014c6a0d" title="ParseSizeStringU16" alt="" coords="241,510,381,536"/>
+<area shape="rect" id="node13" href="$util-misc_8c.html#a4a65cb5e0f0109498b38fd1f9bd3a620" title="ParseSizeStringU32" alt="" coords="241,560,381,587"/>
+<area shape="rect" id="node14" href="$util-misc_8c.html#ad06f7f59424271edbb160b18ce10f70b" title="ParseSizeStringU64" alt="" coords="241,611,381,638"/>
+<area shape="rect" id="node15" href="$group__utilpool.html#ga47220da343f227646a7287f82e595b52" title="initialize a thread pool " alt="" coords="801,252,908,279"/>
+<area shape="rect" id="node19" href="$suricata_8c.html#aea038f0105b5e6a67a1bf32d2ccf463c" title="RunmodeIsUnittests" alt="" coords="239,662,382,688"/>
+<area shape="rect" id="node20" href="$counters_8c.html#a6e153d15fc6ea022e954f38fd80fbc0a" title="Registers a counter, which represents a global value. " alt="" coords="493,419,678,446"/>
+<area shape="rect" id="node21" href="$stream_8c.html#a2c70f0a0aab3fabd48ddc16913683259" title="StreamMsgQueueSetMinChunkLen" alt="" coords="197,712,424,739"/>
+<area shape="rect" id="node22" href="$stream-tcp_8c.html#af03aa3237dccab0112a80bb24ded9e19" title="StreamTcpMemuseCounter" alt="" coords="219,763,402,790"/>
+<area shape="rect" id="node23" href="$stream-tcp-reassemble_8c.html#ad1b178831cdeb029f02fd53f08f328cf" title="StreamTcpReassembleInit" alt="" coords="222,307,399,334"/>
+<area shape="rect" id="node38" href="$stream-tcp_8c.html#add92e80f13e88362630ba978ac24c241" title="Function to return the stream back to the pool. It returns the segments in the stream to the segment ..." alt="" coords="229,864,393,891"/>
+<area shape="rect" id="node46" href="$stream-tcp_8c.html#a149be8c880933a5c3d0e4a2de749977b" title="Stream alloc function for the Pool. " alt="" coords="217,927,405,954"/>
+<area shape="rect" id="node48" href="$stream-tcp_8c.html#aeb09a993ff83021bd05e01e8c8787937" title="Pool free function. " alt="" coords="207,814,414,840"/>
+<area shape="rect" id="node49" href="$stream-tcp_8c.html#a434ace0515e1fafb67276969b1e2a7d2" title="StreamTcpSessionPoolInit" alt="" coords="222,1003,399,1030"/>
+<area shape="rect" id="node4" href="$conf_8c.html#a0cb759d7f1e8abc9102f4317ff6b7e62" title="Lookup a child configuration node by name. " alt="" coords="1497,462,1650,488"/>
+<area shape="rect" id="node5" href="$suricata-common_8h.html#aeb79f86261de904967d433c1b5e9a1de" title="strlcpy" alt="" coords="1543,164,1604,191"/>
+<area shape="rect" id="node7" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true. " alt="" coords="532,99,639,126"/>
+<area shape="rect" id="node11" href="$flow-util_8c.html#a897ee3b52fa7876e9780704dbc2d1b11" title="Function to map the protocol to the defined FLOW_PROTO_* enumeration. " alt="" coords="510,470,661,496"/>
+<area shape="rect" id="node16" href="$group__utilpool.html#gad3e9e2ebd42de98ba0e84ae2424c4111" title="Init a Pool. " alt="" coords="1053,354,1120,380"/>
+<area shape="rect" id="node18" href="$group__utilpool.html#ga0cc1f2c68a31a118a91eeb9376075f4d" title="destroy the thread pool " alt="" coords="1029,252,1144,279"/>
+<area shape="rect" id="node17" href="$group__utilpool.html#ga2872120babab18bece5ce3499b4a3fe8" title="PoolFree" alt="" coords="1292,303,1367,330"/>
+<area shape="rect" id="node24" href="$stream-tcp-reassemble_8c.html#a477c59db3b1fef12cb9b1e5e5de0f59f" title="StreamTcpReassembleMemuse\lGlobalCounter" alt="" coords="481,302,690,344"/>
+<area shape="rect" id="node25" href="$stream-tcp-reassemble_8c.html#a6e2b5d05e1f2d5b39843319142e436f0" title="StreamTcpReassemblyConfig" alt="" coords="487,368,684,395"/>
+<area shape="rect" id="node26" href="$util-byte_8c.html#a9cc0b7c198843ccaebe904f4653fb154" title="ByteExtractStringUint16" alt="" coords="773,303,936,330"/>
+<area shape="rect" id="node28" href="$util-byte_8c.html#aff93b9381b90e88415cb6f8c5daa8bca" title="ByteExtractStringUint32" alt="" coords="773,354,936,380"/>
+<area shape="rect" id="node29" href="$stream_8c.html#a8093091e96132a466a13758e52844d5e" title="StreamMsgQueuesInit" alt="" coords="779,506,931,532"/>
+<area shape="rect" id="node35" href="$stream-tcp-reassemble_8c.html#ab4ebd7988b8a196ad81913e13f274c22" title="alloc a tcp segment pool entry " alt="" coords="1011,607,1162,634"/>
+<area shape="rect" id="node36" href="$stream-tcp-reassemble_8c.html#a528a7185ada382fada458afd2fc961a7" title="clean up a tcp segment pool entry " alt="" coords="769,455,940,482"/>
+<area shape="rect" id="node37" href="$stream-tcp-reassemble_8c.html#aa1fb22e94e9c6df8a77e06699f6e86ed" title="TcpSegmentPoolInit" alt="" coords="785,644,925,671"/>
+<area shape="rect" id="node27" href="$util-byte_8c.html#a43dab0146a4fbdf54e3c1dba707b0534" title="ByteExtractString" alt="" coords="1024,303,1149,330"/>
+<area shape="rect" id="node30" href="$stream_8c.html#ad7541852302f86f4b50cb6e950939ae8" title="StreamMsgPoolAlloc" alt="" coords="1015,556,1159,583"/>
+<area shape="rect" id="node32" href="$stream_8c.html#ad6cd583c3811736afb335193f3e703c4" title="StreamMsgInit" alt="" coords="1033,506,1140,532"/>
+<area shape="rect" id="node33" href="$stream_8c.html#a38c2100a3b1c2756eb194d50f0bd49f7" title="StreamMsgPoolFree" alt="" coords="1016,455,1157,482"/>
+<area shape="rect" id="node31" href="$stream-tcp-reassemble_8c.html#ab3131fef1b3b347c72077af35f3817ea" title="Function to Check the reassembly memory usage counter against the allowed max memory usgae for TCP se..." alt="" coords="1231,600,1428,641"/>
+<area shape="rect" id="node34" href="$stream-tcp-reassemble_8c.html#a1117512e3b998a56f41b4457da37c416" title="Function to Decrease the memory usage counter for the TCP reassembly segments. " alt="" coords="1211,430,1448,456"/>
+<area shape="rect" id="node39" href="$group__utilpool.html#gabe4882476fd4ad932ba6f76d7a7523a3" title="return data to thread pool " alt="" coords="791,890,918,916"/>
+<area shape="rect" id="node41" href="$stream_8c.html#a33609da2b57ba141192a381cd168f3f0" title="StreamMsgReturnToPool" alt="" coords="501,814,670,840"/>
+<area shape="rect" id="node42" href="$stream-tcp_8c.html#a73b0702f9f4d8ac41c5c439c4bc49c64" title="StreamTcpDecrMemuse" alt="" coords="503,712,667,739"/>
+<area shape="rect" id="node43" href="$stream-tcp-reassemble_8c.html#ad9e5351fc6f108c2c429436b49c8ace3" title="return all segments in this stream into the pool(s) " alt="" coords="472,763,699,790"/>
+<area shape="rect" id="node45" href="$stream-tcp-sack_8c.html#a51d26dd05d0291d0aade3b482c6326d8" title="Free SACK list from a stream. " alt="" coords="504,864,667,891"/>
+<area shape="rect" id="node40" href="$group__utilpool.html#ga6552ceb7e157bc1ccc9de8bc33c0528e" title="PoolReturn" alt="" coords="1043,814,1130,840"/>
+<area shape="rect" id="node44" href="$stream-tcp-reassemble_8c.html#a11fcdabd0f9f4889f7b15cd098e28c00" title="Function to return the segment back to the pool. " alt="" coords="747,763,962,790"/>
+<area shape="rect" id="node47" href="$stream-tcp_8c.html#a89c9973d678db064e54f760cc1d372a8" title="Check if alloc&#39;ing &quot;size&quot; would mean we&#39;re over memcap. " alt="" coords="498,966,673,992"/>
+<area shape="rect" id="node50" href="$stream-tcp_8c.html#a59514802880d4d9475c3cffb5d3a7716" title="StreamTcpIncrMemuse" alt="" coords="506,1016,665,1043"/>
+</map>

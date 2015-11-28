@@ -1,0 +1,24 @@
+<map id="BoyerMooreCtxDeInit" name="BoyerMooreCtxDeInit">
+<area shape="rect" id="node2" href="$util-spm_8h.html#a58b05da977fc439a45875f67b9f3dce9" title="Search a pattern in the text using Boyer Moore nocase algorithm (build a bad character shifts array a..." alt="" coords="204,5,383,32"/>
+<area shape="rect" id="node3" href="$util-spm_8h.html#a012133adf35686480d833cddd856b05e" title="Search a pattern in the text using Boyer Moore algorithm (build a bad character shifts array and good..." alt="" coords="227,56,360,83"/>
+<area shape="rect" id="node4" href="$detect-content_8h.html#aa294f5bf11a38b4aa61e147e8bf2e825" title="this function will SCFree memory associated with DetectContentData " alt="" coords="227,107,360,133"/>
+<area shape="rect" id="node12" href="$detect-http-client-body_8c.html#a1d0545e1b87f5b55cd7313b0618403e7" title="The function to free the http_client_body data. " alt="" coords="432,157,608,184"/>
+<area shape="rect" id="node14" href="$detect-http-hh_8c.html#ab72c21f69bb8c79a8cca7c4a6566825a" title="The function to free the http_host data. " alt="" coords="454,208,586,235"/>
+<area shape="rect" id="node16" href="$detect-http-hrh_8c.html#a903034b48e6b7898cd7ac00626bbcb88" title="The function to free the http_raw_host data. " alt="" coords="449,259,591,285"/>
+<area shape="rect" id="node18" href="$detect-http-server-body_8c.html#a81b6d4eaebaa0d478553aa4f175e59dc" title="The function to free the http_server_body data. " alt="" coords="203,309,383,336"/>
+<area shape="rect" id="node20" href="$detect-http-ua_8c.html#a05494e5893749aedb0c522d59ef83c09" title="The function to free the http_user_agent data. " alt="" coords="455,360,585,387"/>
+<area shape="rect" id="node22" href="$detect-uricontent_8c.html#a58add1a0bb2a38505195d5f087d5254f" title="this function will Free memory associated with DetectContentData " alt="" coords="220,411,367,437"/>
+<area shape="rect" id="node5" href="$detect-content_8h.html#add7e3676f7860dc1ed0d8262651b5e07" title="DetectContentRegister" alt="" coords="679,107,835,133"/>
+<area shape="rect" id="node11" href="$detect-content_8h.html#af95ab27fe04db279f4ddeba08b733253" title="Function to setup a content pattern. " alt="" coords="449,107,591,133"/>
+<area shape="rect" id="node6" href="$detect_8h.html#a21706286b0acefa72fcbdd3b37daa55f" title="SigTableSetup" alt="" coords="907,259,1013,285"/>
+<area shape="rect" id="node7" href="$util-running-modes_8h.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title="ListKeywords" alt="" coords="1061,233,1163,260"/>
+<area shape="rect" id="node10" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="1063,284,1161,311"/>
+<area shape="rect" id="node8" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="1211,233,1360,260"/>
+<area shape="rect" id="node9" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1408,259,1459,285"/>
+<area shape="rect" id="node13" href="$detect-http-client-body_8h.html#a9ef229c34fa98fd80b88d290f873ae54" title="Registers the keyword handlers for the &quot;http_client_body&quot; keyword. " alt="" coords="658,157,857,184"/>
+<area shape="rect" id="node15" href="$detect-http-hh_8h.html#abcfe931da1da751f8ba5ef7e737076d0" title="Registers the keyword handlers for the &quot;http_host&quot; keyword. " alt="" coords="680,208,835,235"/>
+<area shape="rect" id="node17" href="$detect-http-hrh_8h.html#a0f1316acc03920f52fd9a1b258770c25" title="Registers the keyword handlers for the &quot;http_raw_host&quot; keyword. " alt="" coords="675,259,840,285"/>
+<area shape="rect" id="node19" href="$detect-http-server-body_8h.html#a6d0ca4d1735c6a45f3e23965eab320bb" title="Registers the keyword handlers for the &quot;http_server_body&quot; keyword. " alt="" coords="656,309,859,336"/>
+<area shape="rect" id="node21" href="$detect-http-ua_8h.html#a59045b71fcbdcb9a91718cb3d3d835d7" title="Registers the keyword handlers for the &quot;http_user_agent&quot; keyword. " alt="" coords="680,360,835,387"/>
+<area shape="rect" id="node23" href="$detect-uricontent_8h.html#a730471b2f35dd11621c63cb47c08b75f" title="Registration function for uricontent: keyword. " alt="" coords="435,411,605,437"/>
+</map>

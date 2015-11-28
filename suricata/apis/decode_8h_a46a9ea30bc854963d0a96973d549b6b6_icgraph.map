@@ -1,0 +1,10 @@
+<map id="DecodeNull" name="DecodeNull">
+<area shape="rect" id="node2" href="$source-pcap_8c.html#a4472b637a70511616e225fa8563d03bb" title="This function passes off to link type decoders. " alt="" coords="185,5,282,32"/>
+<area shape="rect" id="node8" href="$source-pcap-file_8c.html#a6fe91932d9ed6fee895232a82f65fdda" title="ReceivePcapFileThreadInit" alt="" coords="144,56,323,83"/>
+<area shape="rect" id="node3" href="$source-pcap_8h.html#a60c81766c6d86f298c28b7e6afd4bf93" title="Registration Function for DecodePcap. " alt="" coords="383,5,590,32"/>
+<area shape="rect" id="node4" href="$suricata_8c.html#a0244eab618439c8cf7e02cd267bb1476" title="RegisterAllModules" alt="" coords="651,31,786,57"/>
+<area shape="rect" id="node5" href="$runmode-unittests_8h.html#af4ef6e372fa252edddd5b1fad38813cd" title="RunUnittests" alt="" coords="835,31,933,57"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#ad351743ba4aecaae3b9b47da48566748" title="StartInternalRunMode" alt="" coords="981,5,1131,32"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1179,31,1229,57"/>
+<area shape="rect" id="node9" href="$source-pcap-file_8h.html#a11a753284083f1df62c9709579f10ffb" title="TmModuleReceivePcapFileRegister" alt="" coords="371,56,602,83"/>
+</map>

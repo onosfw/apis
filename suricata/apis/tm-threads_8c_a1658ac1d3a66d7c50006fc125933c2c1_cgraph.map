@@ -1,0 +1,5 @@
+<map id="TmThreadFree" name="TmThreadFree">
+<area shape="rect" id="node2" href="$counters_8c.html#a09bd1636d92f10107f55cf59f5b4a30f" title="StatsThreadCleanup" alt="" coords="184,12,325,39"/>
+<area shape="rect" id="node4" href="$tm-threads_8c.html#aa6938fc8a75cc9f64967bd1655b374d8" title="TmThreadsUnregisterThread" alt="" coords="161,63,349,89"/>
+<area shape="rect" id="node3" href="$counters_8c.html#aabceecc6ca3d6be4cc51adbf23597ff8" title="Releases the StatsPrivateThreadContext allocated by the user, for storing and updating local counter ..." alt="" coords="398,5,581,46"/>
+</map>

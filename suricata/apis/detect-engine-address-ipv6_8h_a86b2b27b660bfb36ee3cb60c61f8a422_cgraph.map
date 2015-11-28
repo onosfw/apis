@@ -1,0 +1,4 @@
+<map id="DetectAddressJoinIPv6" name="DetectAddressJoinIPv6">
+<area shape="rect" id="node2" href="$detect-engine-address-ipv6_8c.html#a04212e72ac187899db41957af8984c24" title="Compares 2 ipv6 addresses and returns if the first address(a) is greater than the second address(b) o..." alt="" coords="214,5,325,32"/>
+<area shape="rect" id="node3" href="$detect-engine-address-ipv6_8c.html#a86517d0262298eff245b4a1496b83bdc" title="Compares 2 ipv6 addresses and returns if the first address(a) is less than the second address(b) or n..." alt="" coords="215,56,323,83"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="StorageGetSize" name="StorageGetSize">
+<area shape="rect" id="node2" href="$flow-storage_8h.html#addf24d1bbb0b9771b4f27286db99a5dd" title="FlowStorageSize" alt="" coords="351,107,473,133"/>
+<area shape="rect" id="node11" href="$host-storage_8h.html#a5483e281f7966e428421b6f0721fd914" title="HostStorageSize" alt="" coords="173,259,294,285"/>
+<area shape="rect" id="node18" href="$ippair-storage_8h.html#af83d3e0fbb759e3c07a1f75bd6d14b9a" title="IPPairStorageSize" alt="" coords="169,385,298,412"/>
+<area shape="rect" id="node3" href="$flow-util_8h.html#ae1ba1db44e3a77c4829397d5d659c432" title="allocate a flow " alt="" coords="554,56,633,83"/>
+<area shape="rect" id="node7" href="$flow-util_8h.html#ad4befc0a3b97d4a6f794a8b39e75a23b" title="cleanup &amp; free the memory of a flow " alt="" coords="555,107,631,133"/>
+<area shape="rect" id="node9" href="$flow-storage_8h.html#a345a087d8248c9a7c78ff343ab3fd446" title="FlowFreeStorage" alt="" coords="533,157,654,184"/>
+<area shape="rect" id="node4" href="$flow_8h.html#a897689d742258e918e752f50cd93915e" title="initialize the configuration " alt="" coords="737,5,844,32"/>
+<area shape="rect" id="node6" href="$flow_8h.html#a0a2af32f22fdfd78a6fef1a70ee995d8" title="Make sure we have enough spare flows. " alt="" coords="710,56,871,83"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1085,272,1136,299"/>
+<area shape="rect" id="node8" href="$flow_8h.html#a8dae51c56800ed0e22279e49913cd15a" title="shutdown the flow engine " alt="" coords="925,157,1033,184"/>
+<area shape="rect" id="node10" href="$flow_8h.html#ac9dd7439447e120e4fdc6645f83b735f" title="Function clear the flow memory before queueing it to spare flow queue. " alt="" coords="727,157,855,184"/>
+<area shape="rect" id="node12" href="$host_8h.html#aa2576bade76d460d3d37d61199f57471" title="HostClearMemory" alt="" coords="529,208,657,235"/>
+<area shape="rect" id="node16" href="$host-storage_8h.html#a8c5e26defafcfcbf9ddfe70bdcdf866d" title="HostFreeStorage" alt="" coords="351,259,473,285"/>
+<area shape="rect" id="node17" href="$host_8h.html#a833483b5844832e42f038a581d252e03" title="initialize the configuration " alt="" coords="925,309,1032,336"/>
+<area shape="rect" id="node13" href="$host_8h.html#a4da38df867e434a4e5c5f09af2c6662a" title="Cleanup the host engine. " alt="" coords="741,259,840,285"/>
+<area shape="rect" id="node14" href="$host_8c.html#abe1406a89d6ad93b2428882beb665e98" title="HostFree" alt="" coords="753,208,829,235"/>
+<area shape="rect" id="node15" href="$host_8h.html#a607ac192300e83f8971b11f933daa404" title="shutdown the flow engine " alt="" coords="925,233,1033,260"/>
+<area shape="rect" id="node19" href="$ippair_8h.html#a170329ab132d2b6f18404f6a372b44c8" title="IPPairClearMemory" alt="" coords="525,360,661,387"/>
+<area shape="rect" id="node23" href="$ippair-storage_8h.html#a6443a716940550e360ba55ae86933b75" title="IPPairFreeStorage" alt="" coords="347,411,477,437"/>
+<area shape="rect" id="node24" href="$ippair_8h.html#a2a4235071dc993e0bc41e52ff03dab3e" title="initialize the configuration " alt="" coords="355,461,469,488"/>
+<area shape="rect" id="node20" href="$ippair_8h.html#a51331ad656e595f91f1bf3debf53274a" title="Cleanup the ippair engine. " alt="" coords="737,411,844,437"/>
+<area shape="rect" id="node21" href="$ippair_8h.html#a88dc34f06b0be51f6212e3bdbdf8bb7e" title="IPPairFree" alt="" coords="749,360,833,387"/>
+<area shape="rect" id="node22" href="$ippair_8h.html#a95842db3fa0b754102fa4faf4a680b07" title="shutdown the flow engine " alt="" coords="921,360,1037,387"/>
+</map>
