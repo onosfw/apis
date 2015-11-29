@@ -1,5 +1,4 @@
-bplist00Ñ_WebMainResourceÕ	
-^WebResourceURL_WebResourceData_WebResourceMIMEType_WebResourceTextEncodingName_WebResourceFrameName_?https://people.redhat.com/sgrubb/audit/user-login-lifecycle.txtO"<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">User Login Lifecycle Auditing
+User Login Lifecycle Auditing
 =============================
 When people access a computer system, they have to login where a text user 
 name becomes bound to a user ID with associated groups and roles. This
@@ -157,4 +156,3 @@ analysis of what is happening on a system. This will also allow for test suites
 to be created to spot problems with this common understanding of how the
 system should behave so that apps are corrected.
 
-</pre></body></html>Ztext/plainUUTF-8P    ( 7 I _ } ” Ö"÷##                           #	

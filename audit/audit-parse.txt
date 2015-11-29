@@ -1,5 +1,4 @@
-bplist00—_WebMainResource’	
-^WebResourceURL_WebResourceData_WebResourceMIMEType_WebResourceTextEncodingName_WebResourceFrameName_6https://people.redhat.com/sgrubb/audit/audit-parse.txtO9§<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">
+
 Audit Event Parsing Library Specifications
 ==========================================
 
@@ -35,7 +34,7 @@ Name-Value Matching Operators
 -----------------------------
 The ausearch_ functions will select records in its search results based on
 operators used for matching name/value pairs. For fields that are numeric,
-the following mathematical operators are allowed:  =,!=,&gt;,=&gt;,&lt;,&lt;=. The field
+the following mathematical operators are allowed:  =,!=,>,=>,<,<=. The field
 is converted to a number before matching is done. 
 
 For fields that are non-numeric, the operators in use will be: 
@@ -330,4 +329,3 @@ int main(void)
 	return 0;
 }
 
-</pre></body></html>Ztext/plainUUTF-8P    ( 7 I _ } î Õ:u:Ä:Ü                           :á

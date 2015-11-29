@@ -1,5 +1,4 @@
-bplist00—_WebMainResource’	
-^WebResourceURL_WebResourceData_WebResourceMIMEType_WebResourceTextEncodingName_WebResourceFrameName_7https://people.redhat.com/sgrubb/audit/audit-events.txtOB<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">
+
 Guide to writing well formed audit events
 =========================================
 
@@ -292,7 +291,7 @@ Kernel:
 
 if (audit_enabled) {
     struct audit_buffer *ab;
-    uid_t loginuid = from_kuid(&amp;init_user_ns, audit_get_loginuid(current));
+    uid_t loginuid = from_kuid(&init_user_ns, audit_get_loginuid(current));
     unsigned int sessionid = audit_get_sessionid(current);
 
     ab = audit_log_start(NULL, GFP_KERNEL, AUDIT_KERNEL_OTHER);
@@ -309,7 +308,7 @@ User space:
 
     char buf[4096], *acct;
     int fd = audit_open();
-    acct = audit_encode_nv_string("acct", pamh-&gt;user, 0);
+    acct = audit_encode_nv_string("acct", pamh->user, 0);
     snprintf(buf, sizeof(buf), "op=change-password sauid=%d %s",
             audit_getloginuid(), acct);
     audit_log_user_message(fd, AUDIT_USER_CHAUTHTOK, buf, NULL, NULL,
@@ -317,4 +316,3 @@ User space:
     free(acct);
     close(fd);
 
-</pre></body></html>Ztext/plainUUTF-8P    ( 7 I _ } î ŒB÷B·BÁ                           BË

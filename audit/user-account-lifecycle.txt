@@ -1,0 +1,117 @@
+User Account Lifecycle Auditing
+===============================
+When people access a computer system, they must do so under a user account.
+When changes are made such as password, mail dir, home dir, shell, or many
+other things, it may be necessary to know who and when and what was changed.
+When access is no longer needed, the account may be revoked or deleted. This
+document will discuss the needs of the audit system around enrolling, changing,
+and deleting users and groups. The following table lists the events that make
+up the user account lifecycle audit trail:
+
+AUDIT_ADD_USER - user mapping created
+AUDIT_USER_MGMT - user account attribute changed
+AUDIT_USER_CHAUTHTOK - user authentication token (e.g. password) changed
+AUDIT_ROLE_ASSIGN - a role was assigned to user account
+AUDIT_ROLE_REMOVE - a role was removed from user account
+AUDIT_DEL_USER - a user mapping was deleted
+AUDIT_ADD_GROUP - a group mapping was created
+AUDIT_GRP_MGMT - an attribute of the group was changed
+AUDIT_GRP_CHAUTHTOK - group authentication token (e.g. password) changed
+AUDIT_DEL_GROUP - a group mapping was deleted
+
+
+Lifecycle of user accounts
+==========================
+A user is simply a number in the kernel. If a process has CAP_SETUID, it can
+call setuid(2) using almost any number. The number doesn't really have any
+meaning unless its given one outside the kernel. This is done in a lookup
+table which contains the mapping as well as other attributes related to the
+account in /etc/passwd.
+
+When a user is added to the system, either manually or programmatically, by
+adding a line to /etc/passwd, the helper applications should generate 1 event
+using the AUDIT_ADD_USER event type if this was done successfully. There is no
+need to log the creation of any other attribute such as home dir or mail queue
+unless there is a failure. If this is needed, then an AUDIT_USER_MGMT event
+should be used because the mapping exists and setting something else up failed.
+If there are any failures between starting the program and creating the
+mapping, it may be logged as an AUDIT_ADD_USER event with a failure result
+because the mapping was not created.
+
+If shadow passwords are used, all work in the shadow file shall use an 
+AUDIT_USER_MGMT event type because the user mapping exists and we are simply
+modifying the account in some way.
+
+When a user changes their password or other secrets, like a pin, then a 
+AUDIT_USER_CHAUTHTOK event type should be used. If the user or admin changes
+anything else about the account related to fields in /etc/passwd or /etc/shadow,
+then it should be done with an AUDIT_USER_MGMT event type.
+
+If the system supports the notion of roles, such as selinux users, then you
+would record the addition of a role to a user account with an AUDIT_ROLE_ASSIGN
+event. If that role were to be revoked at some point, this would be recorded
+with an AUDIT_ROLE_REMOVE event.
+
+When the day comes that a uid mapping will be removed from /etc/passwd, this
+should be recorded with an AUDIT_DEL_USER event. If there are any failures by
+the program before the mapping is removed, these should be logged as
+AUDIT_USER_MGMT events. It is not necessary to record each attribute as it
+gets removed. Its recommended to record this on failure to remove an attribute
+such as a home dir. But if there is something real important that needs to be
+recorded for future verification, then success events in destroying attributes
+may be needed. This is not normal, though. The AUDIT_DEL_USER would only record
+a failure if all attributes were correctly modified, but for some reason it was
+not possible to write to /etc/group. This should be very rare.
+
+To summarize, during the creation of a user account, there shall be only 1
+AUDIT_ADD_USER event. There may be multiple AUDIT_USER_MGMT events. During
+removal, there shall be only be 1 AUDIT_DEL_USER when the mapping is removed.
+There may be a number of AUDIT_USER_MGMT events.
+
+Group lifecycle
+===============
+The lifecycle of groups is similar to users. The creation of a group id mapping
+by adding a line to /etc/group should result in the creation of an
+AUDIT_ADD_GROUP event. Any failure leading up to the addition in /etc/group
+should be logged with the AUDIT_ADD_GROUP event type. After the creation of
+the group mapping, changes to the group attributes should be logged with an
+AUDIT_GRP_MGMT event. Any events generated while using the shadow group file
+shall result in an event using the AUDIT_GRP_MGMT type because the group
+mapping already exists. When a group is revoked and the line deleted in
+/etc/group, then an AUDIT_DEL_GROUP must be sent. If there are any failures
+before the group mapping is removed, they should be logged under the 
+AUDIT_GRP_MGMT event type.  When a group password or other secrets, like a pin,
+are changed, then a AUDIT_GRP_CHAUTHTOK event type should be used.
+
+In summary, only 1 AUDIT_ADD_GROUP shall be sent during a group mapping
+creation. Multiple AUDIT_GRP_MGMT events may be sent. And only 1
+AUDIT_DEL_GROUP shall be sent on successful mapping removal.
+
+Some utilities will setup both a user account and a unique group related to the
+user name. In this case, it is expected that both an AUDIT_ADD_USER and an
+AUDIT_ADD_GROUP event should be recorded. If the same utility is used to
+remove an account and the group is removed during the same invocation, then it
+is expected that both an AUDIT_DEL_USER and an AUDIT_DEL_GROUP event will be
+recorded.
+
+Recording the events
+====================
+All of these events should be done using a call to audit_log_acct_message() in
+libaudit. This will ensure correct formatting of the event. It will require
+filling in an op field. This is the operation being performed. If the event is
+one of the AUDIT_*_MGMT types, the op should say what about the account is
+being changed. The new value should be recorded in a val= field. If possible,
+the old value may be recorded in a old-val= field. If the event is related to
+a group, there should be a grp= field to record the name of the group. The
+op= and val= fields should make sense as if it were used in the sentence, 
+"I X to Y" where X is the op= and Y is the val=. Also, look for the audit
+document, "audit-events.txt" for more information regarding additional logging
+requirements such as encoding.
+
+Conclusion
+==========
+Having some rules around the user account lifecycle will allow for better
+analysis of what is happening on a system. This will also allow for test suites
+to be created to spot problems with this common understanding of how the 
+system should behave so that apps are corrected.
+

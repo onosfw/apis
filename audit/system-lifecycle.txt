@@ -1,0 +1,94 @@
+System Lifecycle Auditing
+=========================
+This document will go over the events that are associated with starting up
+a system and shutting it down. Knowing what events make up these actions
+allows an analytical application to know the boundaries of all sessions and
+actions a user may perform. It also allows identification of crashed systems
+or malfunctioning services. The following table lists the events that make up
+the system lifecycle in the audit trail:
+
+AUDIT_SYSTEM_BOOT - System boot
+AUDIT_SYSTEM_RUNLEVEL - System runlevel change
+AUDIT_DAEMON_START - Audit daemon startup record
+AUDIT_DAEMON_ABORT - Audit daemon error stop record
+AUDIT_SERVICE_START - Service (daemon) start
+AUDIT_SERVICE_STOP - Service (daemon) stop
+AUDIT_SYSTEM_SHUTDOWN - System shutdown
+AUDIT_DAEMON_END - Audit daemon normal stop record
+
+
+Lifecycle of the system
+=======================
+When the system is powered on, control is eventually turned over to an
+init daemon. This daemon is responsible for starting up all other system
+services and performing an order system shutdown when asked. This init
+daemon should send a AUDIT_SYSTEM_BOOT event after it has done its own
+initialization. Most init systems have different targets or modes of operation
+that the system is turned over for interactive sessions. Examples are
+multi-user console, multi-user graphical, etc. 
+
+Init will determine what runlevel the system is ultimately going to try to
+achieve. When gets there or it fails to get there, it shall issue an
+AUDIT_SYSTEM_RUNLEVEL event to denote which mode of operation it was going
+to be in. If an admin requests that the system switch to another run level,
+then it should issue another AUDIT_SYSTEM_RUNLEVEL event.
+
+During the process of achieving the desired runlevel, the init system will
+start various system services or daemons. When a daemon is started, the init
+program shall issue a AUDIT_SERVICE_START event. The event shall record the
+full path to the daemon or service in a hex encoded format in a field named
+service. Relative paths are forbidden.
+
+One of the first daemons to start up is the audit daemon. It shall issue an
+AUDIT_DAEMON_START to denote that the daemon has been launched. If there is
+an error in its configuration that will not allow it to operate, it should
+issue an AUDIT_DAEMON_ABORT event with an error reason code.
+
+If an admin restarts a service to reload its configuration, the init system
+shall issue an AUDIT_SERVICE_STOP and AUDIT_SERVICE_START event.
+
+When the system is to be shutdown, the init system should start by sending a
+AUDIT_SYSTEM_SHUTDOWN event. As shutdown proceeds, init shall terminate each
+running daemon and record a AUDIT_SERVICE_STOP event. The final service to
+be shutdown should be the audit daemon. It will mark shutdown complete with a
+AUDIT_DAEMON_END event.
+
+
+Recording the events
+====================
+All of these events should be done using a call to audit_log_user_message().
+The following shows how to log the system events:
+
+/* boot */
+audit_log_user_message (fd, AUDIT_SYSTEM_BOOT, "init", NULL, NULL, NULL, 1);
+
+/* run leve change */
+snprintf (buf, sizeof (buf), "old-level=%c new-level=%c", old, level);
+audit_log_user_message (fd, AUDIT_SYSTEM_RUNLEVEL, buf, NULL, NULL, NULL, 1);
+
+/* shutdown */
+audit_log_user_message (fd, AUDIT_SYSTEM_SHUTDOWN, "init", NULL, NULL, NULL, 1);
+
+The service events should be sent after the fork so that the pid of the daemon is recorded but before the execve. The format of the event is as follows:
+
+/* Service start */
+char *buf = audit_encode_nv_string("service", exec_path);
+audit_log_user_message (fd, AUDIT_SERVICE_START, buf, NULL, NULL, NULL, 1);
+free(buf);
+
+Service stop events should be the same os start with the exception of using
+AUDIT_SERVICE_STOP as the event type. If only the pid is available, record
+that as "spid". There must be a way to compare start and stop records to see
+that they balance. (There are as many starts as stops.)
+
+The daemon events should be written by the audit daemon itself. A developer
+should not have to worry about sending these events.
+
+
+Conclusion
+==========
+Having some rules around the system lifecycle will allow for better analysis
+of what is happening on a system. This will also allow for test suites to be
+created to spot problems with this common understanding of how the system
+should behave so that apps are corrected.
+
