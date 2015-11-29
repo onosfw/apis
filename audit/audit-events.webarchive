@@ -1,0 +1,320 @@
+bplist00—_WebMainResource’	
+^WebResourceURL_WebResourceData_WebResourceMIMEType_WebResourceTextEncodingName_WebResourceFrameName_7https://people.redhat.com/sgrubb/audit/audit-events.txtOB<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">
+Guide to writing well formed audit events
+=========================================
+
+Background
+----------
+The audit system is a security subsystem that monitors system and user
+activities based on admin defined rules to ensure compliance with
+organizational security policies. The events should contain enough information
+that a security officer can figure out what has happened on a system later.
+For example, there may be a policy where access to files in a specific
+directory are on a "need to know" basis. The security officer would restrict
+access and allow intended access through group permissions or posix ACLs. But
+how would he know if the intended security policy is working? The audit system
+can be configured to watch who accesses those files and provide the
+information. The security officer can then run reports periodically to make
+sure no unusual access has occurred.
+
+Events
+------
+An audit event is all records that have the same host (node), timestamp, and
+serial number. Each event on a host (node) has a unique timestamp and serial
+number. The serial number separates events that occur during the same
+millisecond. An event may be composed of multiple records which have
+information about different aspects of an audit event.
+
+The audit system has been designed to be able to answer the question, "who did
+what to whom and what was the result." These pieces of information have names.
+The 'who' is the subject. This is the thing doing the action. It is usually
+a process that is running on a user's behalf. The 'what' is generally described
+by the audit event type or a key (this is an admin defined name for the event).
+It let's you know if we are dealing with a file access, login, system shutdown,
+etc. The 'to whom' is called the object. The object is what is being acted
+upon such as a file, socket, user account, or process. The result is either
+success or fail. It either did or did not complete.
+
+When writing events, the author will need to list several attributes so that
+no doubt can be left as to what is being recorded. For example, if we are
+recording the subject, you would naturally assume we are speaking of the
+current uid, which is after all the user. Because of things like sudo or
+su, users can change accounts sometimes. The audit system has a concept of
+loginuid (also referred to as auid) which is the account used to login with.
+But to perform an action, the user invokes a process, so we likely want to show
+which process is acting on the user's behalf. But is pid alone useful when
+reconstructing events? Probably not, so we should record the executable name.
+However, it turns out that if the user invoked a script, the executable is the
+interpreter. So, we also need the command name, too. Because users can log into
+multiple sessions at the same time, we should also disambiguate which session
+they are in with the sessionid. To summarize, we may need to record: uid, auid,
+pid, exec, comm, ses fields just to specify exactly who the subject is. Some
+cases may require more fields.
+
+The same kind of process needs to be thought about when recording the object.
+Suppose the object was a file. Files are contained in one or more inodes on a
+device. This means they have an inode number associated with them. However, a
+user may use an editor to change the file making a temporary copy during
+editing. This temporary file replaces the original, which is deleted, resulting
+in the inode number associated with the file to change. So, we need to record
+the path. But if the path could be relative, we need to also record the
+current working directory. An inode could contain different kinds of file
+objects (like a fifo, directory, socket, or a regular file) so that information
+needs to be included. But in case there is a question about whether access
+should have been allowed, we should also gather attributes such as owner and
+access modes.
+
+The event writer should always think about if there has been enough information
+recorded so that later a security officer knows what the event means.
+
+Fields
+------
+An audit record is composed of multiple fields. Information recorded in these
+fields is held by a name/value pair that contains an '=' between them
+(name=value). Each field is separated from one another by a space.
+
+The value recorded is typically numeric. No attempt should be made to interpret
+the meaning of the value during the creation of the event. For example, if
+uid=0 is being recorded, it is not necessary to say that it's the root account.
+That can be looked up in post processing.
+
+If the value side is not numeric and user space can influence the value
+(such as file names, unauthenticated acct names, process names, etc.) then
+certain precautions will need to be taken. It may turn out that a clever user
+may wish to trick naive parsing to pin blame on another account or to make it
+look like something else was being accessed.
+
+The established convention in this case is to scan the value string to see if
+it has characters that have special meaning to the audit record parser. If it
+does not, the value is enclosed by a double quote '"'. If it contains a
+character with meaning to the parser, then all characters in the value are
+convertered to a hex character encoding so that parsing the field is
+unmistakable. This can also be used for recording data structures if it were
+ever needed. Hex encoding doubles the number of bytes needed to represent the
+value. This is only done when recording a non-numeric value that user space can
+control.
+
+If the value side is text and needs more than one word to explain its meaning,
+then you must "glue" the words together so that they make one word. Remember,
+a space is the separator between fields. Using a space means the parser will
+not pick up some words. It is also not preferred to hex encode them as this
+doubles the disk space needed for something that is entirely avoidable. To
+"glue" the words together, its recommended to use a hyphen.
+
+Field Names
+-----------
+Field names in a record should be consistent so that the parser can make
+sense of the value associated with a field. When writing events, always use
+a known field name and don't make one up. If nothing fits, take a guess and
+make sure you check with the linux-audit mail list to see if it's acceptable.
+Always make the field name completely lower case and no capitalization. If you
+have a need to make the name compound - e.g. prefixed - then use a hyphen to
+"glue" the two pieces together. The value associated with the field needs to
+have the same formatting as listed here or translations of the values can have
+errors. The following list enumerates known field names:
+
+	a?         - numeric, the arguments to a syscall
+	acct       - encoded, a user's account name
+	addr       - the remote address that the user is connecting from
+	arch       - numeric, the elf architecture flags
+	argc       - numeric, the number of arguments to an execve syscall
+	audit_backlog_limit - numeric, audit system's backlog queue size
+	audit_enabled - numeric, audit systems's enable/disable status
+	audit_failure - numeric, audit system's failure mode
+	auid       - numeric, login user id
+	banners    - alphanumeric, banners used on printed page
+	capability - numeric, posix capabilities
+	cap_fi     - numeric, file inherited capability map
+	cap_fp     - numeric, file permitted capability map
+	cap_fver   - numeric, file system capabilities version number
+	cap_pe     - numeric, process effective capability map
+	cap_pi     - numeric, process inherited capability map
+	cap_pp     - numeric, process permitted capability map
+	cipher     - alphanumeric, name of crypto cipher selected
+	code       - numeric, seccomp action code
+	comm       - encoded, command line program name
+	cmd        - encoded, command being executed
+	cwd        - encoded, the current working directory
+	data       - encoded, TTY text
+	default-context - alphanumeric, default MAC context
+	dev        - numeric, in path records, major and minor for device
+	dev        - in avc records, device name as found in /dev
+	device     - encoded, device name
+	dir        - encoded, directory name
+	direction  - alphanumeric, direction of crypto operation
+	egid       - numeric, effective group id
+	enforcing  - numeric, new MAC enforcement status
+	entries    - numeric, number of entries in the netfilter table
+	euid       - numeric, effective user id
+	exe        - encoded, executable name
+	exit       - numeric, syscall exit code
+	family     - numeric, netfilter protocol
+	fd         - numeric, file descriptor number
+	file       - encoded, file name
+	flags      - numeric, mmap syscall flags
+	fe         - numeric, file assigned effective capability map
+	fi         - numeric, file assigned inherited capability map
+	fp         - numeric, file assigned permitted capability map
+	fp         - alphanumeric, crypto key finger print
+	format     - alphanumeric, audit log's format
+	fsgid      - numeric, file system group id
+	fsuid      - numeric, file system user id
+	fver       - numeric, file system capabilities version number
+	gid        - numeric, group id
+	grp        - encoded, group name
+	hostname   - alphanumeric, the hostname that the user is connecting from
+	icmp_type  - numeric, type of icmp message
+	id         - numeric, during account changes, the user id of the account
+	igid       - numeric, ipc object's group id
+	img-ctx    - alphanumeric, the vm's disk image context string
+	ip         - alphanumeric, network address of a printer
+	inode      - numeric, inode number
+	inode_gid  - numeric, group id of the inode's owner
+	inode_uid  - numeric, user id of the inode's owner
+	item       - numeric, which item is being recorded
+	items      - numeric, the number of path records in the event
+	iuid       - numeric, ipc object's user id
+	kernel     - alphanumeric, kernel's version number
+	key        - encoded, key assigned from triggered audit rule
+	kind       - alphabet, server or client in crypto operation
+	ksize      - numeric, key size for crypto operation
+	laddr      - alphanumeric, local network address used in crypto session
+	lport      - alphanumeric, local network port used in crypto session
+	list       - numeric, the audit system's filter list number
+	mac        - alphanumeric, crypto MAC algorithm selected
+	mode       - numeric, mode flags on a file
+	model      - alphanumeric, security model being used for virt
+	msg        - alphanumeric, the payload of the audit record
+	nargs      - numeric, the number of arguments to a socket call
+	name       - encoded, file name in avcs
+	nametype   - alphabet, kind of file operation being referenced
+	net        - alphanumeric, network MAC address
+	new-disk   - encoded, disk being added to vm
+	new-fs     - encoded, file system being added to vm
+	new_gid    - numeric, new group id being assigned
+	new-level  - alphanumeric, new run level
+	new_pe     - numeric, new process effective capability map
+	new_pi     - numeric, new process inherited capability map
+	new_pp     - numeric, new process permitted capability map
+	new-rng    - encoded, device name of rng being added from a vm
+	obj        - alphanumeric, lspp object context string
+	obj_gid    - numeric, group id of object
+	obj_uid    - numeric, user id of object
+	oflag      - numeric, open syscall flags
+	ogid       - numeric, file owner group id
+	old  - numeric, old audit_enabled, audit_backlog, or audit_failure value
+	old-disk   - encoded, disk being removed from vm
+	old_enforcing - numeric, old MAC enforcement status
+	old-fs     - encode, file system being removed from vm
+	old-level  - alphanumeric, old run level
+	old_pe     - numeric, old process effective capability map
+	old_pi     - numeric, old process inherited capability map
+	old_pp     - numeric, old process permitted capability map
+	old_prom   - numeric, network promiscuity flag
+	old-rng    - encoded, device name of rng being removed from a vm
+	op         - alphanumeric, the operation being performed that is audited
+	oauid      - numeric, object's login user id
+	ocomm      - encoded, object's command line name
+	opid       - numeric, object's process id
+	oses       - numeric, object's session id
+	ouid       - numeric, file owner user id
+	parent     - numeric, the inode number of the parent file
+	path       - encoded, file system path name
+	per        - numeric, linux personality
+	perm       - numeric, the file permission being used
+	perm_mask  - numeric, file permission mask that triggered a watch event
+	pid        - numeric, process id
+	printer    - encoded, printer name
+	prom       - numeric, network promiscuity flag
+	proctitle  - encoded, process title and command line parameters
+	proto      - numeric, network protocol
+	qbytes     - numeric, ipc objects quantity of bytes
+	range      - alphanumeric, user's SE Linux range
+	rdev       - numeric, the device identifier (special files only)
+	reason     - alphanumeric, text string denoting a reason for the action
+	res        - alphanumeric, result of the audited operation(success/fail)
+	result     - alphanumeric, result of the audited operation(success/fail)
+	role       - alphanumeric, user's SE linux role
+	rport      - numeric, remote port number
+	saddr      - encoded, struct socket address structure
+	sauid      - numeric, sending login user id
+	scontext   - alphanumeric, the subject's context string
+	selected-context - alphanumeric, new MAC context assigned to session
+	seperm     - alphanumeric, Selinux permission being decided on
+	seresult   - alpha, Selinux AVC decision granted/denied
+	seuser     - alphanumeric, user's SE Linux user acct
+	ses        - numeric, login session id
+	sgid       - numeric, set group id
+	sig        - numeric, signal number
+	sigev_signo - numeric, signal number
+	spid       - numeric, sending process id
+	subj       - alphanumeric, lspp subject's context string
+	success    - alphanumeric, whether the syscall was successful or not
+	suid       - numeric, sending user id
+	syscall    - numeric, syscall number in effect when the event occurred
+	table      - alphanumeric, netfilter table name
+	tclass     - alphanumeric, target's object classification
+	tcontext   - alphanumeric, the target's or object's context string
+	terminal   - alphanumeric, terminal name the user is running programs on
+	tty        - alphanumeric, tty udevice the user is running programs on
+	type       - alphanumeric, the audit record's type
+	uid        - numeric, user id
+	uri        - alphanumeric, URI pointing to a printer
+	user       - alphanumeric, account submitted for authentication
+	uuid       - alphanumeric, a UUID
+	val        - alphanumeric, generic value associated with the operation
+	ver        - numeric, audit daemon's version number
+	virt       - alphanumeric, kind of virtualization being referenced
+	vm         - encoded, virtual machine name
+	vm-ctx     - alphanumeric, the vm's context string
+	watch      - encoded, file name in a watch record
+
+Maintenance
+-----------
+Over time compliance regulations change as do Common Criteria needs. Generally
+once you write an event, you should never alter it. If you do, it's best to 
+send an email to the linux-audit mail list explaining what the change is prior
+to implementing the change. This allows people that might have analysis
+programs to know of the change or discuss options. Additionally, it may be
+necessary to alter your event to change the formatting or field name or field
+order over time. So, please get review to make sure everyone agrees and if
+asked to make changes due to new requirements, please help out.
+
+If you do make changes to your event, you should use the ausearch-test program
+to make sure the new event is well formed. Passing the tests shows that the
+event can still be searched, but you should also ask ausearch to interpret the
+event to make sure any interpretation is what you expect. If not, then you have
+problably used a pre-existing field name for a different purpose.
+
+Logging Code Examples
+---------------------
+Kernel:
+
+if (audit_enabled) {
+    struct audit_buffer *ab;
+    uid_t loginuid = from_kuid(&amp;init_user_ns, audit_get_loginuid(current));
+    unsigned int sessionid = audit_get_sessionid(current);
+
+    ab = audit_log_start(NULL, GFP_KERNEL, AUDIT_KERNEL_OTHER);
+    if (!ab)
+        return;
+    audit_log_format(ab, "auid=%u ses=%u" ,loginuid, sessionid);
+    audit_log_task_context(ab);
+    audit_log_format(ab, " comm=");
+    audit_log_untrustedstring(ab, comm);
+    audit_log_end(ab);
+}
+
+User space:
+
+    char buf[4096], *acct;
+    int fd = audit_open();
+    acct = audit_encode_nv_string("acct", pamh-&gt;user, 0);
+    snprintf(buf, sizeof(buf), "op=change-password sauid=%d %s",
+            audit_getloginuid(), acct);
+    audit_log_user_message(fd, AUDIT_USER_CHAUTHTOK, buf, NULL, NULL,
+            NULL, 0);
+    free(acct);
+    close(fd);
+
+</pre></body></html>Ztext/plainUUTF-8P    ( 7 I _ } î ŒB÷B·BÁ                           BË

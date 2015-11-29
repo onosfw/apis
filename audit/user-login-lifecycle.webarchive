@@ -1,0 +1,160 @@
+bplist00Ñ_WebMainResourceÕ	
+^WebResourceURL_WebResourceData_WebResourceMIMEType_WebResourceTextEncodingName_WebResourceFrameName_?https://people.redhat.com/sgrubb/audit/user-login-lifecycle.txtO"<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">User Login Lifecycle Auditing
+=============================
+When people access a computer system, they have to login where a text user 
+name becomes bound to a user ID with associated groups and roles. This
+document will discuss the auditing needs around authenticating, logging in,
+establishing a session, running jobs on the user's behalf, and logging out.
+These events are required by all system entry points such as display managers,
+network based shell servers, consoles, and automated tasks run on behalf of a
+user. The following table lists the events that make up the user login
+lifecycle audit trail:
+
+AUDIT_CRYPTO_KEY_USER - Create, delete, negotiate crypto keys
+AUDIT_CRYPTO_SESSION - Record parameters set during TLS session establishment
+AUDIT_USER_AUTH - User system access authentication
+AUDIT_LOGIN - Define the login id and information
+AUDIT_USER_ACCT - User system access authorization
+AUDIT_USER_CHAUTHTOK - User acct password or pin changed
+AUDIT_CRED_ACQ - User credential acquired
+AUDIT_USER_ROLE_CHANGE - User changed to a new role
+AUDIT_USER_START - User session start
+AUDIT_USER_LOGIN - User has logged in
+AUDIT_CRED_REFR - User credential refreshed
+AUDIT_GRP_AUTH - Authentication for group password
+AUDIT_CHUSER_ID - Changed user ID supplemental data
+AUDIT_CHGRP_ID - User space group ID changed
+AUDIT_USER_LOGOUT -  User has logged out
+AUDIT_USER_END - User session end
+AUDIT_CRED_DISP - User credential disposed
+AUDIT_ANOM_LOGIN_FAILURES - Failed login limit reached
+AUDIT_ANOM_LOGIN_TIME - Login attempted at bad time
+AUDIT_ANOM_LOGIN_SESSIONS - Max concurrent sessions reached
+AUDIT_ANOM_LOGIN_ACCT - Login attempted to watched acct
+AUDIT_ANOM_LOGIN_LOCATION - Login from forbidden location
+
+Lifecycle of login sessions
+===========================
+When a user logs in for an interactive session, there are a number of events
+that need to be sent to signify various steps in setting up and tearing down
+the session and if this occured successfully or not.
+
+The first event of an interactive login can be different based on whether its
+a network login with encryption or a terminal or non-encrypted network login.
+After the initial crypto setup, both logins follow a similar pattern. First
+we'll go over an encrypted network based login.
+
+To start the encrypted network login, there has to be a diffie-hellman key
+exchange. The application allowing access to the system should generate
+AUDIT_CRYPTO_KEY_USER events. This event signifies the establishment of an
+initial key and the session key. After that, the application should create a
+pair of AUDIT_CRYPTO_SESSION events. This is to say that a transport was
+establish to the server and to the client and what kind of cipher was
+negotiated and key size in each direction. If both of these are successful,
+then we move on to logging in.
+
+Both the encrypted network login and a terminal or unencrypted network login
+shall do the following. To start an interactive session, the user has to
+authenticate himself to the system. Many times this is by typing a password.
+But it can be any kind of authentication including a kerberos ticket or no
+authentication. The AUDIT_USER_AUTH event signifies that they have performed
+this step either successfully or not. Now that we know who the user is, we have
+to follow this with an AUDIT_USER_ACCT event. This event records whether the
+user is authorized to the use the system.
+
+If the user is not authorized to use the system for a specific reason, there
+may be one or more of the following events logged: AUDIT_ANOM_LOGIN_FAILURES,
+AUDIT_ANOM_LOGIN_TIME, AUDIT_ANOM_LOGIN_SESSIONS, or AUDIT_ANOM_LOGIN_LOCATION.
+See the definitions above for what they mean. If the reason does not match
+exactly, then just the AUDIT_USER_ACCT failure event will suffice. There can
+also be an event, AUDIT_ANOM_LOGIN_ACCT, emitted at this time in both cases of
+success or failure if the account has some special significance. For example,
+maybe you don't expect any logins with accounts with a uid less than 1000.
+Its main use is to help escalate a login with IDS software.
+
+The next event in a login sequence shall be AUDIT_CRED_ACQ to signify the
+establishment of user credentials to the session. This means that the uid, gid,
+and supplemental groups have been bound to the session. This should be followed
+immediately with AUDIT_LOGIN which records the assignment of the login uid to
+the session. This login uid is also known as the auid and is used to track the
+actions of the user no matter what account that they may su or sudo to later.
+It is for this reason that root logins should be disallowed. This event is
+done by calling audit_setloginuid() in libaudit.
+
+The next event can be AUDIT_USER_ROLE_CHANGE depending on whether a MAC
+framework that has the notion of roles is in use. It records what role has been
+assigned to the login session. This event is followed by AUDIT_USER_LOGIN to
+signify that the session that is being created is interactive. This is followed
+by AUDIT_USER_START to denote that the session has started.
+
+At this point, the user is free to do anything the session will allow. There
+can be a number of AUDIT_SYSCALL events that the admin has setup to monitor
+access to system objects or suspicious activities. We will not concern
+ourselves with that in this document. But this is when you would see them.
+
+When the user is done, the interactive session has to be torn down. The first
+event in this process is AUDIT_USER_END. This says that the user no longer has
+access to the session. This is followed by AUDIT_USER_LOGOUT which means that
+the session ending was an interactive one. This is followed by AUDIT_CRED_DISP
+to signify that the session software is no longer using the uid and gid of the
+user.
+
+If the login was an encrypted network connection, the application must send
+AUDIT_CRYPTO_KEY_USER events signifying the destruction of each of the
+cryptogrphic tunnel's keys. At this point the logout is complete.
+
+
+Lifecycle of non-login sessions
+===============================
+If there is an action that is performed asynchronously of a logged in user,
+then certain things need to be recorded to establish what was done on their
+behalf. The best example of a non-login session would be a cron job. The cron
+daemon can start a task on behalf of a user, but the session is not interactive.
+
+The first event that the application must record is the AUDIT_USER_ACCT type.
+This is to say that the account is authorized to have a session. As mentioned
+in the section above, a number of AUDIT_ANOM_ events could list why a session
+was not authorized. The next event that must be created is the AUDIT_CRED_ACQ
+to signify that credentials (uid/gid) are bound to the session for the user.
+This is followed by an AUDIT_LOGIN event. This will cause anything afterwards
+to be attributed to the user whom the actions occur for. The way that this
+event is created is by calling audit_setloginuid() in libaudit.
+
+There can optionally be a AUDIT_USER_ROLE_CHANGE event at this point if a MAC
+framework is in use that changes roles from the one that it was currently in.
+The next event should be AUDIT_USER_START. This is to signify that the session
+is now free to perform actions on behalf of the user.
+
+After the actions are complete, then the session must be torn down. The first
+event would be AUDIT_CRED_DISP. This is followed by AUDIT_USER_END. At this
+point the session is over.
+
+
+Group assignment changes
+========================
+If the user runs a utility that assigns a new group to the account, there
+should be an event that is created, AUDIT_GRP_AUTH, to denote whether or not
+the user was successfully authenticated to the group. Thereafter, another event
+should be sent after attempting to change the gid, AUDIT_CHGRP_ID. Note that
+during initial login, this event is not expected. The AUDIT_CRED_ACQ covers
+this. This is intended for utilities like newgrp.
+
+
+Recording the events
+====================
+Typically a programmer would use the audit_log_acct_message to record various
+aspects of the session establishment including the anomaly events. The
+cryptographic events for the diffie-hellman exchange are done with
+audit_log_user_message() because a user is not associated with the session.
+Care must be taken to encode any fields that a user can control to prevent log
+injection attacks.
+
+
+Conclusion
+==========
+Having some rules around the user login lifecycle will allow for better
+analysis of what is happening on a system. This will also allow for test suites
+to be created to spot problems with this common understanding of how the
+system should behave so that apps are corrected.
+
+</pre></body></html>Ztext/plainUUTF-8P    ( 7 I _ } ” Ö"÷##                           #	

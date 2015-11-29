@@ -1,0 +1,333 @@
+bplist00—_WebMainResource’	
+^WebResourceURL_WebResourceData_WebResourceMIMEType_WebResourceTextEncodingName_WebResourceFrameName_6https://people.redhat.com/sgrubb/audit/audit-parse.txtO9§<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">
+Audit Event Parsing Library Specifications
+==========================================
+
+Definitions
+-----------
+An audit event is all records that have the same host (node), timestamp, and
+serial number. Each event on a host (node) has a unique timestamp and serial
+number. An event is composed of multiple records which have information about
+different aspects of an audit event. All events contain information pertaining
+to where something happened (node), when it happened, what did it (subject),
+what was done, to what (object), and the result of the action. Each record
+is denoted by a type which indicates what fields will follow. Information in
+the fields are held by a name/value pair that contains an '=' between them.
+Each field is separated from one another by a space.
+
+
+Ground Rules
+------------
+All functions that begin with ausearch are related to searching for a subset
+of events based on certain criteria. All functions that begin with auparse
+are used to access events, records, and fields sequentially and without
+regard to any search options that may be in effect. All functions return 1
+on success and 0 on failure unless otherwise noted. Where the return type is
+a char pointer, NULL will indicate failure. The data structures will be
+hidden from the external application. Access to fields is a name/value style.
+You access the fields through functions that either return a pointer to a
+zero-terminated array of ASCII characters or integral values. Every function
+(except auparse_init) takes a parameter, au, which is the internal state
+information for the current query.
+
+
+Name-Value Matching Operators
+-----------------------------
+The ausearch_ functions will select records in its search results based on
+operators used for matching name/value pairs. For fields that are numeric,
+the following mathematical operators are allowed:  =,!=,&gt;,=&gt;,&lt;,&lt;=. The field
+is converted to a number before matching is done. 
+
+For fields that are non-numeric, the operators in use will be: 
+	=	The string completely matches
+	!=	The string does not match
+	~	A substring match is done
+	regex	Regular expression is used
+
+
+Field Names
+-----------
+Fields names in a record should be consistent so that the parser can make
+sense of the value associated with a field. When writing events, always use
+a known field name and don't make one up if at all possible. The value
+associated with the field needs to have the same formatting as listed here or
+translation can error. The following list enumerates known field names:
+
+	a? - numeric, the arguments to a syscall
+	acct - encoded, a user's account name
+	addr - the remote address that the user is connecting from
+	arch - numeric, the elf architecture flags
+	argc - numeric, the number of arguments to an execve syscall
+	audit_backlog_limit - numeric, audit system's backlog queue size
+	audit_enabled - numeric, audit systems's enable/disable status
+	audit_failure - numeric, audit system's failure mode
+	auid - numeric, login user id
+	banners - alphanumeric, banners used on printed page
+	capability - numeric, posix capabilities
+	cap_fi - numeric, file inherited capability map
+	cap_fp - numeric, file permitted capability map
+	cap_fver - numeric, file system capabilities version number
+	cap_pe - numeric, process effective capability map
+	cap_pi - numeric, process inherited capability map
+	cap_pp - numeric, process permitted capability map
+	cipher - alphanumeric, name of crypto cipher selected
+	code - numeric, seccomp action code
+	comm - encoded, command line program name
+	cmd - encoded, command being executed
+	cwd - encoded, the current working directory
+	data - encoded, TTY text
+	default-context - alphanumeric, default MAC context
+	dev - numeric, in path records, major and minor for device
+	dev - in avc records, device name as found in /dev
+	device - encoded, device name
+	dir - encoded, directory name
+	direction - alphanumeric, direction of crypto operation
+	egid - numeric, effective group id
+	enforcing - numeric, new MAC enforcement status
+	entries - numeric, number of entries in the netfilter table
+	euid - numeric, effective user id
+	exe - encoded, executable name
+	exit - numeric, syscall exit code
+	family - numeric, netfilter protocol
+	fd - numeric, file descriptor number
+	file - encoded, file name
+	flags - numeric, mmap syscall flags
+	fe - numeric, file assigned effective capability map
+	fi - numeric, file assigned inherited capability map
+	fp - numeric, file assigned permitted capability map
+	fp - alphanumeric, crypto key finger print
+	format - alphanumeric, audit log's format
+	fsgid - numeric, file system group id
+	fsuid - numeric, file system user id
+	fver - numeric, file system capabilities version number
+	gid - numeric, group id
+	hostname - alphanumeric, the hostname that the user is connecting from
+	icmp_type - numeric, type of icmp message
+	id - numeric, during account changes, the user id of the account
+	igid - numeric, ipc object's group id
+	img-ctx - alphanumeric, the vm's disk image context string
+	ip - alphanumeric, network address of a printer
+	inode - numeric, inode number
+	inode_gid - numeric, group id of the inode's owner
+	inode_uid - numeric, user id of the inode's owner
+	item - numeric, which item is being recorded
+	items - numeric, the number of path records in the event
+	iuid - numeric, ipc object's user id
+	kernel - alphanumeric, kernel's version number
+	key - encoded, key assigned from triggered audit rule
+	kind - alphabet, server or client in crypto operation
+	ksize - numeric, key size for crypto operation
+	laddr - alphanumeric, local network address used in crypto session
+	lport - alphanumeric, local network port used in crypto session
+	list - numeric, the audit system's filter list number
+	mac - alphanumeric, crypto MAC algorithm selected
+	mode - numeric, mode flags on a file
+	model - alphanumeric, security model being used for virt
+	msg - alphanumeric, the payload of the audit record
+	nargs - numeric, the number of arguments to a socket call
+	name - encoded, file name in avcs
+	nametype - alphabet, kind of file operation being referenced
+	net - alphanumeric, network MAC address
+	new-disk - encoded, disk being added to vm
+	new-fs - encoded, file system being added to vm
+	new_gid - numeric, new group id being assigned
+	new-level - alphanumeric, new run level
+	new_pe - numeric, new process effective capability map
+	new_pi - numeric, new process inherited capability map
+	new_pp - numeric, new process permitted capability map
+	new-rng - encoded, device name of rng being added from a vm
+	obj - alphanumeric, lspp object context string
+	obj_gid - numeric, group id of object
+	obj_uid - numeric, user id of object
+	oflag - numeric, open syscall flags
+	ogid - numeric, file owner group id
+	old - numeric, old audit_enabled, audit_backlog, or audit_failure value
+	old-disk - encoded, disk being removed from vm
+	old_enforcing - numeric, old MAC enforcement status
+	old-fs - encode, file system being removed from vm
+	old-level - alphanumeric, old run level
+	old_pe - numeric, old process effective capability map
+	old_pi - numeric, old process inherited capability map
+	old_pp - numeric, old process permitted capability map
+	old_prom - numeric, network promiscuity flag
+	old-rng - encoded, device name of rng being removed from a vm
+	op - alphanumeric, the operation being performed that is audited
+	oauid - numeric, process login user id
+	ocomm - encoded, object's command line name
+	opid - numeric, object's process id
+	oses - numeric, object's session id
+	ouid - numeric, file owner user id
+	parent - numeric, the inode number of the parent file
+	path - iencoded, file system path name
+	per - numeric, linux personality
+	perm - numeric, the file permission being used
+	perm_mask - numeric, file permission mask that triggered a watch event
+	pid - numeric, process id
+	printer - encoded, printer name
+	prom - numeric, network promiscuity flag
+	proctitle - encoded, process title and command line parameters
+	proto - numeric, network protocol
+	qbytes - numeric, ipc objects quantity of bytes
+	range - alphanumeric, user's SE Linux range
+	rdev - numeric, the device identifier (special files only)
+	reason - alphanumeric, a text string denoting a reason for the action
+	res - alphanumeric, result of the audited operation (success/fail)
+	result - alphanumeric, result of the audited operation (success/fail)
+	role - alphanumeric, user's SE linux role
+	rport - numeric, remote port number
+	saddr - encoded, struct socket address structure
+        sauid - numeric, sending login user id
+	scontext - alphanumeric, the subject's context string
+	selected-context - alphanumeric, new MAC context assigned to session
+	seuser - alphanumeric, user's SE Linux user acct
+	ses - numeric, login session id
+	sgid - numeric, set group id
+	sig - numeric, signal number
+	sigev_signo - numeric, signal number
+	spid - numeric, sending process id
+	subj- alphanumeric, lspp subject's context string
+	success - alphanumeric, whether the syscall was successful or not
+        suid - numeric, sending user id
+	syscall - numeric, the syscall number in effect when the event occurred
+	table - alphanumeric, netfilter table name
+	tclass - alphanumeric, target's object classification
+	tcontext - alphanumeric, the target's or object's context string
+	terminal - alphanumeric, terminal name the user is running programs on
+	tty - alphanumeric, tty interface that the user is running programs on
+	type - alphanumeric, the audit record's type
+	uid - numeric, user id
+	uri - alphanumeric, URI pointing to a printer
+	user - alphanumeric, account the user claims to be prior to authentication
+	uuid - alphanumeric, a UUID
+	ver - numeric, audit daemon's version number
+	virt - alphanumeric, kind of virtualization being referenced
+	vm - encoded, virtual machine name
+	vm-ctx - alphanumeric, the vm's context string
+	watch - encoded, file name in a watch record
+
+
+Functions
+---------
+auparse_state_t - is an opaque data type used for maintaining library state.
+
+typedef enum { AUSOURCE_LOGS, AUSOURCE_FILE, AUSOURCE_FILE_ARRAY, 
+	AUSOURCE_BUFFER, AUSOURCE_BUFFER_ARRAY } ausource_t;
+
+auparse_state_t *auparse_init(ausource_t source, const void *b, size_t s)
+- allow init of library. Set data source: logs, file, null terminated array of
+filenames, buffer, null terminated array of addresses. The pointer 'b' is used
+to set the file name or pass the buff when those types are given. If buffers
+are used for the source, the 's' parameter shall denote the buffer size. All
+buffers should be a uniform size. Unused portions should be filled with 0's
+to prevent the interpretation of uninitialized memory.
+
+int auparse_reset(auparse_state_t *au) - reset all internal cursors to the 
+beginning.
+
+typedef enum { AUSEARCH_STOP_EVENT, AUSEARCH_STOP_RECORD,
+AUSEARCH_STOP_FIELD } austop_t;
+
+int ausearch_set_param(auparse_state_t *au, const char *field, const char *op,
+                       const char *value, austop_t where) - set search options.
+The field would be the left hand side of the audit name/value pairs. The op
+would be the operator described in the section above telling how to match. The
+value would be the right hand side of the audit field name/value pairs. The
+where parameter tells the search library where to place the internal cursor
+when a match is found. It could be on first field of first record, first field
+of record containing the match, or the field that matches. This function my be
+called more than once to set a compound search condition. Each search
+statement passed in forms an "and" with anything else already in the search
+rule.
+
+int ausearch_clear_param(auparse_state_t *au) - clears any set search rule
+currently in effect.
+
+int ausearch_next_event(auparse_state_t *au) - traverse to the next event that
+yields a match based on the given search criteria.
+
+int auparse_next_event(auparse_state_t *au) - traverse to next event. This
+allows access to time and serial number.
+
+typedef struct
+{
+        time_t sec;             // Event seconds
+        unsigned int milli;     // millisecond of the timestamp
+        unsigned long serial;   // Serial number of the event
+	const char *host;	// Machine's name
+} event_t;
+
+const event_t *auparse_get_timestamp(auparse_state_t *au) - retrieve time
+stamp of current record
+time_t auparse_get_time(auparse_state_t *au) - retrieve time in seconds of
+current record
+time_t auparse_get_milli(auparse_state_t *au) - retrieve milliseconds time of
+current record
+unsigned long auparse_get_serial(auparse_state_t *au) - retrieve serial number
+of current record
+const char *auparse_get_node(auparse_state_t *au) - retrieve host (node) name
+of current record
+int auparse_timestamp_compare(event_t *e1, event_t *e2) - compare 2 timestamps.
+The results are either less than, equal to, or greater than 0 if e1 is found
+to be respectively less than, equal to, or greater than e2.
+
+int auparse_first_record(auparse_state_t *au) - set iterator to first record
+in current event
+
+int auparse_next_record(auparse_state_t *au) - traverse to next record in
+event. This allows access to the event type
+
+int auparse_get_type(auparse_state_t *au) - retrieve type of current record
+
+int auparse_first_field(auparse_state_t *au) - set field pointer to first in
+current record
+
+int auparse_next_field(auparse_state_t *au)  - traverse the fields in a record
+
+const char *auparse_get_record_text(auparse_state_t *au) - return a pointer
+to the full, unparsed record.
+
+const char *auparse_find_field(auparse_state_t *au, const char *name) - find a
+given field in a event or record. Name is the left hand side of the name/value
+pair. Returns pointer to the value as ascii text.
+
+const char *auparse_find_field_next(auparse_state_t *au) - find the next
+occurance of that field in the same record. Returns pointer to the value as
+ascii text.
+
+const char *auparse_get_field_name(auparse_state_t *au) - return current field
+name as a string
+
+const char *auparse_get_field_str(auparse_state_t *au) - return current field
+value as a string
+
+int auparse_get_field_int(auparse_state_t *au) -  return current field value
+as an int
+
+const char *auparse_interpret_field(auparse_state_t *au) - interpret the 
+current field
+
+int auparse_destroy(auparse_state_t *au) - free all data structures and close
+file descriptors
+
+
+Code Example
+------------
+int main(void) 
+{
+	auparse_state_t *au = auparse_init(AUSOURCE_LOGS, NULL, 0);
+	if (au == NULL) 
+		exit(1);
+
+	if (!ausearch_set_param(au, "auid", "=", "500", AUSEARCH_STOP_EVENT)) 
+		exit(1);
+
+	while (ausearch_next_event(au)) {
+		if (auparse_find_field(au, "auid")) {
+			printf("auid=%s\n", auparse_interpret_field(au));
+		}
+	}
+	auparse_destroy(au);
+	return 0;
+}
+
+</pre></body></html>Ztext/plainUUTF-8P    ( 7 I _ } î Õ:u:Ä:Ü                           :á
