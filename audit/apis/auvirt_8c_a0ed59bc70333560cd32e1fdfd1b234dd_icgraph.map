@@ -1,0 +1,16 @@
+<map id="add_proof" name="add_proof">
+<area shape="rect" id="node2" href="$auvirt_8c.html#a8dd303a302efc68ecd4b9c7606f0231b" title="add_resource" alt="" coords="161,5,261,32"/>
+<area shape="rect" id="node5" href="$auvirt_8c.html#a4b6486db465be7b5194e6cf5c21b4846" title="add_start_guest_event" alt="" coords="133,107,288,133"/>
+<area shape="rect" id="node7" href="$auvirt_8c.html#a32c3cb99bab37938e5472ee66a8ffedb" title="add_stop_guest_event" alt="" coords="134,157,287,184"/>
+<area shape="rect" id="node8" href="$auvirt_8c.html#ac182dfed72bd00d08e1d2e41c5a65d23" title="process_anom" alt="" coords="567,208,673,235"/>
+<area shape="rect" id="node9" href="$auvirt_8c.html#ad5caddef089943b6b9719d360888d0e8" title="process_avc_selinux\l_context" alt="" coords="139,259,283,301"/>
+<area shape="rect" id="node12" href="$auvirt_8c.html#aaa6b436ac838fcee3c2e986b6ae92bf6" title="process_machine_id\l_event" alt="" coords="549,315,691,357"/>
+<area shape="rect" id="node13" href="$auvirt_8c.html#a3a1a6ae7545c1dc7186e679449ffa034" title="process_shutdown" alt="" coords="145,376,276,403"/>
+<area shape="rect" id="node15" href="$auvirt_8c.html#a257af4038514cff1f5a0fc3f16ea7d62" title="update_resource" alt="" coords="151,56,270,83"/>
+<area shape="rect" id="node3" href="$auvirt_8c.html#a976d3987ae82743493b53c58043967a6" title="process_resource_event" alt="" coords="337,56,501,83"/>
+<area shape="rect" id="node4" href="$auvirt_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="739,208,789,235"/>
+<area shape="rect" id="node6" href="$auvirt_8c.html#a0ffe586bd61affabe2fdab24fb03da7c" title="process_control_event" alt="" coords="342,157,495,184"/>
+<area shape="rect" id="node10" href="$auvirt_8c.html#ad625d0c8d2aa06cdf5e9f4a9db30d049" title="process_avc_selinux" alt="" coords="347,263,491,289"/>
+<area shape="rect" id="node11" href="$auvirt_8c.html#a419a4ab0bc591a39752f9c3a4241c294" title="process_avc" alt="" coords="572,260,668,287"/>
+<area shape="rect" id="node14" href="$aulast_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="393,376,444,403"/>
+</map>

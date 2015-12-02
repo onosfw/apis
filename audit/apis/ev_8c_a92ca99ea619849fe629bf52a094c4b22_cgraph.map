@@ -1,0 +1,15 @@
+<map id="ev_stat_start" name="ev_stat_start">
+<area shape="rect" id="node2" href="$ev_8c.html#a8a679cfb6606ae3777179c99328253b6" title="ev_start" alt="" coords="484,56,553,83"/>
+<area shape="rect" id="node5" href="$ev_8c.html#ac51b3eef57589446a350c5ec835d3582" title="ev_stat_stat" alt="" coords="161,360,255,387"/>
+<area shape="rect" id="node6" href="$ev_8c.html#a0bf13d75a045921c5bf0a595ecbe368b" title="ev_timer_again" alt="" coords="153,208,263,235"/>
+<area shape="rect" id="node13" href="$ev_8c.html#aaeab7da3c2d89ef6a3fc1032aa553717" title="ev_unref" alt="" coords="624,259,696,285"/>
+<area shape="rect" id="node3" href="$ev_8c.html#a3a7250bf1260b3409f82174be0fe3f4e" title="ev_ref" alt="" coords="631,5,689,32"/>
+<area shape="rect" id="node4" href="$ev_8c.html#ae7cd26810952be6089843b258f7e194b" title="pri_adjust" alt="" coords="621,56,699,83"/>
+<area shape="rect" id="node7" href="$ev_8c.html#a27c4c0e9b9c034e6eb5b4b7b2f45cd50" title="clear_pending" alt="" coords="467,259,570,285"/>
+<area shape="rect" id="node8" href="$ev_8c.html#a43e5c80fb6ae8fc034edf12590fc669a" title="adjustheap" alt="" coords="476,157,561,184"/>
+<area shape="rect" id="node11" href="$ev_8c.html#ac8cbf35622427168038a5d5e83c60ada" title="ev_timer_stop" alt="" coords="313,208,417,235"/>
+<area shape="rect" id="node14" href="$ev_8c.html#abb346d91bc1b3ce62d236226e96439c4" title="ev_timer_start" alt="" coords="313,107,418,133"/>
+<area shape="rect" id="node9" href="$ev_8c.html#a6d5b34210e59ba0d069ba855e5cd31c8" title="downheap" alt="" coords="619,157,701,184"/>
+<area shape="rect" id="node10" href="$ev_8c.html#a0f5ff95ffb7e90f12d1a144b5281cd75" title="upheap" alt="" coords="628,107,692,133"/>
+<area shape="rect" id="node12" href="$ev_8c.html#af7e78879e6a87b8f4fdf4d0a2a854258" title="ev_stop" alt="" coords="485,208,553,235"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="ev_embed_start" name="ev_embed_start">
+<area shape="rect" id="node2" href="$ev_8c.html#a50065698bf4f2a5f6bd655c50bf36c85" title="ev_embeddable_backends" alt="" coords="168,5,344,32"/>
+<area shape="rect" id="node3" href="$ev_8c.html#ae357f7c5d2324b910ce9dc62495cd37b" title="ev_fork_start" alt="" coords="207,56,305,83"/>
+<area shape="rect" id="node7" href="$ev_8c.html#a7e4e197c741842eb09c9e97fe7da16c0" title="ev_io_start" alt="" coords="213,208,299,235"/>
+<area shape="rect" id="node10" href="$ev_8c.html#a9c965fafe2533675d87fee70452f7108" title="ev_prepare_start" alt="" coords="197,107,315,133"/>
+<area shape="rect" id="node4" href="$ev_8c.html#a8a679cfb6606ae3777179c99328253b6" title="ev_start" alt="" coords="399,132,468,159"/>
+<area shape="rect" id="node5" href="$ev_8c.html#ae7cd26810952be6089843b258f7e194b" title="pri_adjust" alt="" coords="523,107,602,133"/>
+<area shape="rect" id="node6" href="$ev_8c.html#a3a7250bf1260b3409f82174be0fe3f4e" title="ev_ref" alt="" coords="533,157,592,184"/>
+<area shape="rect" id="node8" href="$ev_8c.html#a90dbafbd944b223f409259fc233ac2d0" title="wlist_add" alt="" coords="395,195,472,221"/>
+<area shape="rect" id="node9" href="$ev_8c.html#adb249479a0fd7ebd4b48ee7f94f5facc" title="fd_change" alt="" coords="392,245,475,272"/>
+</map>

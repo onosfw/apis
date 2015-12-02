@@ -1,0 +1,9 @@
+<map id="auparse_first_record" name="auparse_first_record">
+<area shape="rect" id="node2" href="$ellist_8c.html#a51a0043e64d2fc5c2a7a215d1bb54064" title="aup_list_first_field" alt="" coords="383,5,510,32"/>
+<area shape="rect" id="node3" href="$auparse_8c.html#afa66d7f4029296023249fccf6c55d93f" title="auparse_next_event" alt="" coords="195,56,333,83"/>
+<area shape="rect" id="node4" href="$ellist_8c.html#ac0d8a9f88274b61fa52968b8df0aeaef" title="aup_list_clear" alt="" coords="395,56,498,83"/>
+<area shape="rect" id="node6" href="$ellist_8c.html#a5eacfe74b9dc4ef334d84f83daae02fe" title="aup_list_set_event" alt="" coords="381,107,512,133"/>
+<area shape="rect" id="node7" href="$ellist_8c.html#a3f70cd6dbaceaa30bb037233b84cd6a0" title="aup_list_append" alt="" coords="389,157,505,184"/>
+<area shape="rect" id="node5" href="$nvlist_8c.html#a0d801c3e9c3c933241b1a5b6db1f6ad1" title="nvlist_clear" alt="" coords="564,56,652,83"/>
+<area shape="rect" id="node8" href="$nvlist_8c.html#a2fd34f6ac6ba3d75f3df96a4ced92b38" title="nvlist_create" alt="" coords="560,157,656,184"/>
+</map>

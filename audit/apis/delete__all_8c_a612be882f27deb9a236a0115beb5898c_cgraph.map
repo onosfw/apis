@@ -1,0 +1,11 @@
+<map id="delete_all_rules" name="delete_all_rules">
+<area shape="rect" id="node2" href="$libaudit_8h.html#a5b898ba19a43bcfbcefa0e68b6669a97" title="audit_get_reply" alt="" coords="178,5,289,32"/>
+<area shape="rect" id="node3" href="$libaudit_8c.html#a782a721fd452bed720596cc1de9cfcaa" title="audit_request_rules\l_list_data" alt="" coords="166,57,301,98"/>
+<area shape="rect" id="node4" href="$netlink_8c.html#ac3c4d121353dbd4e2dc09f2328ba5015" title="audit_send" alt="" coords="349,93,435,120"/>
+<area shape="rect" id="node5" href="$auditctl-listing_8c.html#ae56817f6753c15af92f5f245d5b965be" title="key_match" alt="" coords="190,173,277,200"/>
+<area shape="rect" id="node6" href="$auditctl-llist_8c.html#abe725732c210948585e2c508e1598035" title="list_append" alt="" coords="189,224,277,251"/>
+<area shape="rect" id="node7" href="$auditctl-llist_8c.html#a4033255b17a44866a24082d9863347ad" title="list_clear" alt="" coords="196,275,271,301"/>
+<area shape="rect" id="node8" href="$auditctl-llist_8c.html#ab506965cdf1b6f325755997204d783d9" title="list_create" alt="" coords="192,325,275,352"/>
+<area shape="rect" id="node9" href="$auditctl-llist_8c.html#a519e619812a07cc6fd014e7ebce25305" title="list_first" alt="" coords="199,376,267,403"/>
+<area shape="rect" id="node10" href="$auditctl-llist_8c.html#aa5089b977f7399c98a7f8aada07a75bd" title="list_next" alt="" coords="198,427,269,453"/>
+</map>

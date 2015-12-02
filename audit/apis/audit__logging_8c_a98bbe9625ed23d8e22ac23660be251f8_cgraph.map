@@ -1,0 +1,5 @@
+<map id="audit_log_user_avc_message" name="audit_log_user_avc_message">
+<area shape="rect" id="node2" href="$libaudit_8h.html#ad5d4f3d90471bd4c057cbf4b517249b0" title="audit_msg_type_to_name" alt="" coords="193,5,364,32"/>
+<area shape="rect" id="node3" href="$deprecated_8c.html#a90ac4eb55a92852c40dae1dc1f3bfb4f" title="audit_send_user_message" alt="" coords="190,56,367,83"/>
+<area shape="rect" id="node4" href="$netlink_8c.html#ac3c4d121353dbd4e2dc09f2328ba5015" title="audit_send" alt="" coords="416,56,501,83"/>
+</map>

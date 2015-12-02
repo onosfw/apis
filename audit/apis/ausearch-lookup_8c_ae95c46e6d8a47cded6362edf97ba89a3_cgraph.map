@@ -1,0 +1,5 @@
+<map id="aulookup_syscall" name="aulookup_syscall">
+<area shape="rect" id="node2" href="$libaudit_8h.html#a912bd91c61b560dc1c55a5f8ebc5777e" title="audit_elf_to_machine" alt="" coords="181,5,326,32"/>
+<area shape="rect" id="node3" href="$libaudit_8h.html#a70b40789a9c7fa191120d4d15acc99be" title="audit_syscall_to_name" alt="" coords="176,56,331,83"/>
+<area shape="rect" id="node4" href="$ausearch-llist_8c.html#a0d52a4a362d9ee5c8faf88309f8fd074" title="list_find_item" alt="" coords="204,107,303,133"/>
+</map>

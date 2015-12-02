@@ -1,0 +1,19 @@
+<map id="auparse_interpret_field" name="auparse_interpret_field">
+<area shape="rect" id="node2" href="$auvirt_8c.html#a8dd303a302efc68ecd4b9c7606f0231b" title="add_resource" alt="" coords="221,11,321,38"/>
+<area shape="rect" id="node5" href="$auvirt_8c.html#a0ac9cd32492f0a70a4d75c643124909c" title="extract_virt_fields" alt="" coords="208,163,333,190"/>
+<area shape="rect" id="node16" href="$auparse__test_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="245,113,296,139"/>
+<area shape="rect" id="node10" href="$auvirt_8c.html#ad5caddef089943b6b9719d360888d0e8" title="process_avc_selinux\l_context" alt="" coords="392,316,536,357"/>
+<area shape="rect" id="node3" href="$auvirt_8c.html#a976d3987ae82743493b53c58043967a6" title="process_resource_event" alt="" coords="382,11,546,38"/>
+<area shape="rect" id="node17" href="$zos-remote-plugin_8c.html#acc169f18b007cb6ff995948fdf149f6c" title="push_event" alt="" coords="226,353,315,379"/>
+<area shape="rect" id="node4" href="$auvirt_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="987,159,1037,186"/>
+<area shape="rect" id="node6" href="$auvirt_8c.html#aaa6b436ac838fcee3c2e986b6ae92bf6" title="process_machine_id\l_event" alt="" coords="797,152,939,193"/>
+<area shape="rect" id="node7" href="$auvirt_8c.html#a4b6486db465be7b5194e6cf5c21b4846" title="add_start_guest_event" alt="" coords="387,214,541,241"/>
+<area shape="rect" id="node9" href="$auvirt_8c.html#a32c3cb99bab37938e5472ee66a8ffedb" title="add_stop_guest_event" alt="" coords="387,265,541,291"/>
+<area shape="rect" id="node13" href="$auvirt_8c.html#ac182dfed72bd00d08e1d2e41c5a65d23" title="process_anom" alt="" coords="815,81,921,107"/>
+<area shape="rect" id="node14" href="$auvirt_8c.html#a3a1a6ae7545c1dc7186e679449ffa034" title="process_shutdown" alt="" coords="399,113,529,139"/>
+<area shape="rect" id="node8" href="$auvirt_8c.html#a0ffe586bd61affabe2fdab24fb03da7c" title="process_control_event" alt="" coords="595,218,749,245"/>
+<area shape="rect" id="node11" href="$auvirt_8c.html#ad625d0c8d2aa06cdf5e9f4a9db30d049" title="process_avc_selinux" alt="" coords="600,309,744,335"/>
+<area shape="rect" id="node12" href="$auvirt_8c.html#a419a4ab0bc591a39752f9c3a4241c294" title="process_avc" alt="" coords="820,295,916,322"/>
+<area shape="rect" id="node15" href="$aulast_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="647,113,697,139"/>
+<area shape="rect" id="node18" href="$zos-remote-plugin_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="439,382,489,409"/>
+</map>

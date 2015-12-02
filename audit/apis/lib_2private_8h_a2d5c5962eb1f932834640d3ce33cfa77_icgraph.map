@@ -1,0 +1,8 @@
+<map id="audit_send_user_message" name="audit_send_user_message">
+<area shape="rect" id="node2" href="$libaudit_8h.html#aff6892ca0f5fc8177a05c82ddd716171" title="audit_log_acct_message" alt="" coords="234,5,401,32"/>
+<area shape="rect" id="node3" href="$libaudit_8h.html#a076cfb6d951c1b918c6aa9f263ce604b" title="audit_log_semanage\l_message" alt="" coords="247,57,388,98"/>
+<area shape="rect" id="node4" href="$libaudit_8h.html#a98bbe9625ed23d8e22ac23660be251f8" title="audit_log_user_avc\l_message" alt="" coords="250,122,385,163"/>
+<area shape="rect" id="node5" href="$libaudit_8h.html#a8d0a05c5c4929cf73c5499436a65a022" title="audit_log_user_comm\l_message" alt="" coords="243,187,392,229"/>
+<area shape="rect" id="node6" href="$libaudit_8h.html#ac626fbc646344eeee0eeb19688867a47" title="audit_log_user_command" alt="" coords="232,253,403,280"/>
+<area shape="rect" id="node7" href="$libaudit_8h.html#a2bdcbd807888d0abaf2272c7632cf5df" title="audit_log_user_message" alt="" coords="234,304,401,331"/>
+</map>

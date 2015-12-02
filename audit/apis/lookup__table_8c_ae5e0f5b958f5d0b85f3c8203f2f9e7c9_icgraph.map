@@ -1,0 +1,13 @@
+<map id="audit_name_to_syscall" name="audit_name_to_syscall">
+<area shape="rect" id="node2" href="$libaudit_8h.html#afb4094a532a162e9888b2570e309ce1a" title="audit_rule_syscallbyname_data" alt="" coords="209,81,413,108"/>
+<area shape="rect" id="node11" href="$ausearch-options_8c.html#af9a4e147cf0b2621fa35774443856a55" title="check_params" alt="" coords="257,132,364,159"/>
+<area shape="rect" id="node12" href="$ausyscall_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="285,183,336,209"/>
+<area shape="rect" id="node3" href="$libaudit_8h.html#ab0c95b2b03027cd7386b0683fe4c5c49" title="audit_add_watch_dir" alt="" coords="465,31,607,57"/>
+<area shape="rect" id="node6" href="$auditctl_8c.html#a46a15a79e1c5edbcdc1028026376f1a8" title="check_rule_mismatch" alt="" coords="461,81,611,108"/>
+<area shape="rect" id="node7" href="$auditctl_8c.html#ab3939f6d475f10522466690f7570e30e" title="parse_syscall" alt="" coords="485,132,587,159"/>
+<area shape="rect" id="node4" href="$libaudit_8h.html#a63e724efb2241953af6a17b4a098c563" title="audit_add_dir" alt="" coords="683,5,781,32"/>
+<area shape="rect" id="node5" href="$libaudit_8h.html#ad400d9b2675b3b8235fd261251cc85a4" title="audit_add_watch" alt="" coords="672,56,792,83"/>
+<area shape="rect" id="node8" href="$ausearch-parse_8h.html#a93c25dc67796ee12ca8e51fc5fceac40" title="extract_search_items" alt="" coords="659,132,805,159"/>
+<area shape="rect" id="node9" href="$aureport-scan_8h.html#a2416ffa4a61094358ca3834140d95f4a" title="scan" alt="" coords="857,107,908,133"/>
+<area shape="rect" id="node10" href="$ausearch_8c.html#a4d93a1f02d1348beb0d986f081123109" title="match" alt="" coords="853,157,912,184"/>
+</map>

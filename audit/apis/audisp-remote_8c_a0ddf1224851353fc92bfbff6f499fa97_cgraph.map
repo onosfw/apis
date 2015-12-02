@@ -1,0 +1,11 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$audispd-config_8c.html#a60248df1f866a0bf34a69739b5818c90" title="free_config" alt="" coords="129,5,215,32"/>
+<area shape="rect" id="node3" href="$audispd-config_8c.html#a80be74d519288f016a60b517f272c114" title="load_config" alt="" coords="128,56,216,83"/>
+<area shape="rect" id="node5" href="$plugins_2remote_2queue_8c.html#aaed4456553dde68183c8147a6704f7c6" title="q_append" alt="" coords="133,107,211,133"/>
+<area shape="rect" id="node6" href="$plugins_2remote_2queue_8c.html#a8bd3672fc052d28a1f2da76d0e4ad47a" title="q_close" alt="" coords="139,157,205,184"/>
+<area shape="rect" id="node7" href="$plugins_2remote_2queue_8c.html#a43e52a9f9c2537561e4accb070e6591c" title="q_queue_length" alt="" coords="115,208,229,235"/>
+<area shape="rect" id="node8" href="$remote-fgets_8c.html#a24842dd3094e515a1bd1e28f6107b178" title="remote_fgets" alt="" coords="123,259,221,285"/>
+<area shape="rect" id="node9" href="$remote-fgets_8c.html#ab9203a69b3976bcfd4c7d92df70ee4b3" title="remote_fgets_eof" alt="" coords="111,309,233,336"/>
+<area shape="rect" id="node10" href="$remote-fgets_8c.html#a1870daaf6108054e195873c713bf8ec6" title="remote_fgets_more" alt="" coords="105,360,239,387"/>
+<area shape="rect" id="node4" href="$audispd-config_8c.html#a912743f0e648dd7a5dbdce9682503c56" title="clear_config" alt="" coords="289,56,381,83"/>
+</map>

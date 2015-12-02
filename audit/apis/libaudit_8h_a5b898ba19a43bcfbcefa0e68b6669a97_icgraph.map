@@ -1,0 +1,7 @@
+<map id="audit_get_reply" name="audit_get_reply">
+<area shape="rect" id="node2" href="$libaudit_8h.html#ac9b9812fec3e6be6f2e3206d8afde89f" title="audit_is_enabled" alt="" coords="166,5,285,32"/>
+<area shape="rect" id="node4" href="$libaudit_8h.html#a2af267dc6562e0fa65518e785ea94f27" title="audit_set_pid" alt="" coords="176,56,275,83"/>
+<area shape="rect" id="node5" href="$delete__all_8c.html#a612be882f27deb9a236a0115beb5898c" title="delete_all_rules" alt="" coords="169,107,281,133"/>
+<area shape="rect" id="node3" href="$auditd_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="333,31,384,57"/>
+<area shape="rect" id="node6" href="$autrace_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="333,107,384,133"/>
+</map>

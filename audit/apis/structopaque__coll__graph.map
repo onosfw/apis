@@ -1,0 +1,9 @@
+<map id="opaque" name="opaque">
+<area shape="rect" id="node2" href="$structevent__list__t.html" title="event_list_t" alt="" coords="109,304,197,331"/>
+<area shape="rect" id="node3" href="$struct__rnode.html" title="_rnode" alt="" coords="9,200,71,227"/>
+<area shape="rect" id="node4" href="$structnvlist.html" title="nvlist" alt="" coords="13,109,67,136"/>
+<area shape="rect" id="node5" href="$struct__nvnode.html" title="_nvnode" alt="" coords="5,5,75,32"/>
+<area shape="rect" id="node6" href="$structau__event__t.html" title="au_event_t" alt="" coords="149,200,235,227"/>
+<area shape="rect" id="node7" href="$structexpr.html" title="expr" alt="" coords="222,304,268,331"/>
+<area shape="rect" id="node8" href="$structDatabuf.html" title="Databuf" alt="" coords="342,304,409,331"/>
+</map>

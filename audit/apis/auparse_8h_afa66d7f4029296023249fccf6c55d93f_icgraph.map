@@ -1,0 +1,25 @@
+<map id="auparse_next_event" name="auparse_next_event">
+<area shape="rect" id="node2" href="$auparse_8h.html#ac399d59848dc4c329c2bd38468d43733" title="auparse_first_record" alt="" coords="193,376,333,403"/>
+<area shape="rect" id="node10" href="$auparse_8h.html#a19edbacaf65289c6c547d9b2fa4b4b17" title="ausearch_next_event" alt="" coords="583,195,729,221"/>
+<area shape="rect" id="node15" href="$auparse__test_8c.html#a60254aeb7a5c4a0c94fe43b3ea634094" title="light_test" alt="" coords="619,93,693,120"/>
+<area shape="rect" id="node12" href="$auparse__test_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="1035,119,1085,145"/>
+<area shape="rect" id="node3" href="$auvirt_8c.html#a4b6486db465be7b5194e6cf5c21b4846" title="add_start_guest_event" alt="" coords="579,464,733,491"/>
+<area shape="rect" id="node6" href="$auvirt_8c.html#a32c3cb99bab37938e5472ee66a8ffedb" title="add_stop_guest_event" alt="" coords="579,515,733,541"/>
+<area shape="rect" id="node7" href="$auparse_8h.html#aa51814847288444622d230fba36cc374" title="auparse_next_record" alt="" coords="382,195,525,221"/>
+<area shape="rect" id="node16" href="$auvirt_8c.html#a0ac9cd32492f0a70a4d75c643124909c" title="extract_virt_fields" alt="" coords="391,565,516,592"/>
+<area shape="rect" id="node22" href="$auvirt_8c.html#ac182dfed72bd00d08e1d2e41c5a65d23" title="process_anom" alt="" coords="603,717,709,744"/>
+<area shape="rect" id="node21" href="$auvirt_8c.html#a419a4ab0bc591a39752f9c3a4241c294" title="process_avc" alt="" coords="1012,405,1108,432"/>
+<area shape="rect" id="node19" href="$auvirt_8c.html#ad5caddef089943b6b9719d360888d0e8" title="process_avc_selinux\l_context" alt="" coords="584,398,728,439"/>
+<area shape="rect" id="node18" href="$auvirt_8c.html#a976d3987ae82743493b53c58043967a6" title="process_resource_event" alt="" coords="574,667,738,693"/>
+<area shape="rect" id="node8" href="$zos-remote-plugin_8c.html#acc169f18b007cb6ff995948fdf149f6c" title="push_event" alt="" coords="611,296,701,323"/>
+<area shape="rect" id="node4" href="$auvirt_8c.html#a0ffe586bd61affabe2fdab24fb03da7c" title="process_control_event" alt="" coords="787,515,941,541"/>
+<area shape="rect" id="node5" href="$auvirt_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1179,608,1229,635"/>
+<area shape="rect" id="node9" href="$zos-remote-plugin_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="839,296,889,323"/>
+<area shape="rect" id="node11" href="$auparse__test_8c.html#ad640e57a0ac4831ecd4f38733917f6b3" title="simple_search" alt="" coords="811,245,917,272"/>
+<area shape="rect" id="node13" href="$auparse__test_8c.html#a7499ddbec0df9423fde9a8134ada608b" title="compound_search" alt="" coords="800,93,928,120"/>
+<area shape="rect" id="node14" href="$auparse__test_8c.html#a8410f2cdf211f5a0205cb6e9e016b4a6" title="regex_search" alt="" coords="814,144,914,171"/>
+<area shape="rect" id="node17" href="$auvirt_8c.html#aaa6b436ac838fcee3c2e986b6ae92bf6" title="process_machine_id\l_event" alt="" coords="989,601,1131,642"/>
+<area shape="rect" id="node23" href="$auvirt_8c.html#a3a1a6ae7545c1dc7186e679449ffa034" title="process_shutdown" alt="" coords="591,565,721,592"/>
+<area shape="rect" id="node20" href="$auvirt_8c.html#ad625d0c8d2aa06cdf5e9f4a9db30d049" title="process_avc_selinux" alt="" coords="792,405,936,432"/>
+<area shape="rect" id="node24" href="$aulast_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="839,565,889,592"/>
+</map>

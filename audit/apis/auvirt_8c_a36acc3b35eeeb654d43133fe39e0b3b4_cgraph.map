@@ -1,0 +1,8 @@
+<map id="init_auparse" name="init_auparse">
+<area shape="rect" id="node2" href="$auparse_8c.html#a84e5d95273ebb64964de35839b86e020" title="auparse_init" alt="" coords="147,81,239,108"/>
+<area shape="rect" id="node3" href="$ellist_8c.html#a1499eda3d6bc8b7d7f65e87317c3b4bc" title="aup_list_create" alt="" coords="290,5,401,32"/>
+<area shape="rect" id="node4" href="$data__buf_8c.html#aa1f89b7513c2036e585b2f4fba01736a" title="databuf_append" alt="" coords="288,56,403,83"/>
+<area shape="rect" id="node6" href="$data__buf_8c.html#a5ded06e2e39f379500e1a374ebdfe15c" title="databuf_free" alt="" coords="298,107,393,133"/>
+<area shape="rect" id="node7" href="$data__buf_8c.html#a98efd457e6748ff93dc105f9c34c027b" title="databuf_init" alt="" coords="301,157,390,184"/>
+<area shape="rect" id="node5" href="$data__buf_8c.html#a1e371233d5fab3fae2660a4d8b604e52" title="databuf_print" alt="" coords="451,56,549,83"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="scan" name="scan">
+<area shape="rect" id="node2" href="$aureport-scan_8c.html#a6de4839577043fcd5766cfaab1b83e97" title="classify_conf" alt="" coords="128,5,227,32"/>
+<area shape="rect" id="node3" href="$aureport-scan_8c.html#ac9ff285aa337ba12acafc9cb7490254a" title="classify_success" alt="" coords="116,56,239,83"/>
+<area shape="rect" id="node4" href="$ausearch-parse_8c.html#a93c25dc67796ee12ca8e51fc5fceac40" title="extract_search_items" alt="" coords="104,107,251,133"/>
+<area shape="rect" id="node14" href="$ausearch-string_8c.html#afa26aba5b8abe9d4167032bace799011" title="slist_next" alt="" coords="138,157,217,184"/>
+<area shape="rect" id="node5" href="$auditctl-llist_8c.html#a519e619812a07cc6fd014e7ebce25305" title="list_first" alt="" coords="317,56,385,83"/>
+<area shape="rect" id="node6" href="$auditctl_8c.html#ab3939f6d475f10522466690f7570e30e" title="parse_syscall" alt="" coords="299,107,402,133"/>
+<area shape="rect" id="node13" href="$auditctl-llist_8c.html#aa5089b977f7399c98a7f8aada07a75bd" title="list_next" alt="" coords="315,157,386,184"/>
+<area shape="rect" id="node7" href="$libaudit_8c.html#afb4094a532a162e9888b2570e309ce1a" title="audit_rule_syscallbyname_data" alt="" coords="451,107,655,133"/>
+<area shape="rect" id="node8" href="$libaudit_8c.html#ad9a1153be4e0afaf044a95cd3ef4b2bf" title="audit_detect_machine" alt="" coords="709,31,859,57"/>
+<area shape="rect" id="node10" href="$libaudit_8h.html#a912bd91c61b560dc1c55a5f8ebc5777e" title="audit_elf_to_machine" alt="" coords="711,81,857,108"/>
+<area shape="rect" id="node11" href="$libaudit_8h.html#ae5e0f5b958f5d0b85f3c8203f2f9e7c9" title="audit_name_to_syscall" alt="" coords="707,132,861,159"/>
+<area shape="rect" id="node12" href="$libaudit_8c.html#a2c23d93f9aeedb1f03779c580fa30890" title="audit_rule_syscall_data" alt="" coords="705,183,863,209"/>
+<area shape="rect" id="node9" href="$libaudit_8h.html#ae59e04e91770eaced3555742847ebe70" title="audit_name_to_machine" alt="" coords="912,31,1075,57"/>
+</map>

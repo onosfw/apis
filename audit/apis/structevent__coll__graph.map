@@ -1,0 +1,8 @@
+<map id="event" name="event">
+<area shape="rect" id="node2" href="$structev__timer.html" title="ev_timer" alt="" coords="5,5,77,32"/>
+<area shape="rect" id="node3" href="$structev__signal.html" title="ev_signal" alt="" coords="101,5,179,32"/>
+<area shape="rect" id="node4" href="$structrecord__id.html" title="record_id" alt="" coords="203,5,277,32"/>
+<area shape="rect" id="node5" href="$structaudit__dispatcher__header.html" title="audit_dispatcher_header" alt="" coords="301,5,464,32"/>
+<area shape="rect" id="node6" href="$structevent__base.html" title="event_base" alt="" coords="489,5,577,32"/>
+<area shape="rect" id="node7" href="$structev__io.html" title="ev_io" alt="" coords="603,5,656,32"/>
+</map>

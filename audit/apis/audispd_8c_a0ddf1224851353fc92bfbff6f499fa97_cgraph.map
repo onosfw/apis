@@ -1,0 +1,13 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$audispd-builtins_8h.html#afcd439b9d8ac9158965b9d8ae1ce4e93" title="add_event" alt="" coords="120,5,203,32"/>
+<area shape="rect" id="node3" href="$audispd-builtins_8c.html#a69fc3dde3be42a709181f6e4dd0dca78" title="destroy_af_unix" alt="" coords="104,56,219,83"/>
+<area shape="rect" id="node4" href="$zos-remote-queue_8c.html#a5265e7098b38ce95b6ebbc1dd3f8f3b4" title="destroy_queue" alt="" coords="108,107,215,133"/>
+<area shape="rect" id="node5" href="$audispd-builtins_8c.html#a48dfc51ac514a18c6c7c9d06c5a601da" title="destroy_syslog" alt="" coords="106,157,217,184"/>
+<area shape="rect" id="node6" href="$audispd-config_8c.html#a60248df1f866a0bf34a69739b5818c90" title="free_config" alt="" coords="118,208,205,235"/>
+<area shape="rect" id="node7" href="$audispd-pconfig_8c.html#acf57cc17ef10236302fe8629caf3acbd" title="free_pconfig" alt="" coords="115,259,208,285"/>
+<area shape="rect" id="node8" href="$zos-remote-queue_8c.html#aa411088a400c55394de5497e9e9b4b87" title="init_queue" alt="" coords="121,309,202,336"/>
+<area shape="rect" id="node9" href="$audispd-config_8c.html#a80be74d519288f016a60b517f272c114" title="load_config" alt="" coords="117,360,205,387"/>
+<area shape="rect" id="node11" href="$audispd-llist_8c.html#a7092ffee17673d9f774d0fdf06629de3" title="plist_clear" alt="" coords="121,411,202,437"/>
+<area shape="rect" id="node12" href="$audispd-llist_8c.html#a8fdc7ded4a6cabb21cafcd6666e2315f" title="plist_next" alt="" coords="122,461,201,488"/>
+<area shape="rect" id="node10" href="$audispd-config_8c.html#a912743f0e648dd7a5dbdce9682503c56" title="clear_config" alt="" coords="267,360,359,387"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="audit_determine_machine" name="audit_determine_machine">
+<area shape="rect" id="node2" href="$libaudit_8c.html#ad9a1153be4e0afaf044a95cd3ef4b2bf" title="audit_detect_machine" alt="" coords="224,5,373,32"/>
+<area shape="rect" id="node4" href="$libaudit_8h.html#a912bd91c61b560dc1c55a5f8ebc5777e" title="audit_elf_to_machine" alt="" coords="226,56,371,83"/>
+<area shape="rect" id="node3" href="$libaudit_8h.html#ae59e04e91770eaced3555742847ebe70" title="audit_name_to_machine" alt="" coords="421,56,584,83"/>
+</map>

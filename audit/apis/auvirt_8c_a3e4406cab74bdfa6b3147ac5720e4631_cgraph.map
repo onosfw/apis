@@ -1,0 +1,10 @@
+<map id="create_search_criteria" name="create_search_criteria">
+<area shape="rect" id="node2" href="$auparse_8c.html#ae6b99054f3b69a7f8aa5b4d9d7e49020" title="ausearch_add_expression" alt="" coords="220,29,393,56"/>
+<area shape="rect" id="node5" href="$auparse_8c.html#a854428bab2d2ea7854ebb98cbb787f7c" title="ausearch_add_interpreted_item" alt="" coords="205,80,408,107"/>
+<area shape="rect" id="node6" href="$auparse_8c.html#ae8566f9618c6a2a1b37d2dc6f5b209f7" title="ausearch_add_item" alt="" coords="239,131,374,157"/>
+<area shape="rect" id="node7" href="$auparse_8c.html#aafa1a390bc9574fd510acf1184714065" title="ausearch_add_timestamp_item" alt="" coords="205,181,408,208"/>
+<area shape="rect" id="node3" href="$expression_8c.html#a929757ea3a0979b7248618c6e625b9ee" title="expr_parse" alt="" coords="498,29,585,56"/>
+<area shape="rect" id="node4" href="$expression_8c.html#ad9352f93a49f310b3d03cea40f57f936" title="expr_free" alt="" coords="717,29,793,56"/>
+<area shape="rect" id="node8" href="$auparse_8c.html#a4d3fc572a7b82b788747f32bfa76455c" title="ausearch_add_timestamp\l_item_ex" alt="" coords="456,174,627,215"/>
+<area shape="rect" id="node9" href="$expression_8c.html#a8eb0c55681f38a0c6aace1302ba5a8e5" title="expr_create_timestamp\l_comparison_ex" alt="" coords="675,174,834,215"/>
+</map>

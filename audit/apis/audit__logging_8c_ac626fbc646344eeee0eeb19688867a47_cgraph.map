@@ -1,0 +1,6 @@
+<map id="audit_log_user_command" name="audit_log_user_command">
+<area shape="rect" id="node2" href="$audit__logging_8c.html#a5d4e3f7b599bd9c1cf2f2055ca28c9af" title="audit_encode_value" alt="" coords="250,5,387,32"/>
+<area shape="rect" id="node3" href="$deprecated_8c.html#a90ac4eb55a92852c40dae1dc1f3bfb4f" title="audit_send_user_message" alt="" coords="230,56,407,83"/>
+<area shape="rect" id="node5" href="$audit__logging_8c.html#af19451b35dfc93a2550f1995c53d21e8" title="audit_value_needs_encoding" alt="" coords="224,107,413,133"/>
+<area shape="rect" id="node4" href="$netlink_8c.html#ac3c4d121353dbd4e2dc09f2328ba5015" title="audit_send" alt="" coords="461,56,547,83"/>
+</map>

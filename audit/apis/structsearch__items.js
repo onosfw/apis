@@ -1,0 +1,27 @@
+var structsearch__items =
+[
+    [ "acct", "structsearch__items.html#ab886d5f4a9f08624b492967fa0a755a2", null ],
+    [ "arch", "structsearch__items.html#a538be28fd4a1027224a11130d0a014fc", null ],
+    [ "avc", "structsearch__items.html#a106e8aec26cb44c28a3514ee80462512", null ],
+    [ "comm", "structsearch__items.html#ab6c51893a7b234ec4bee4e86a2e1c990", null ],
+    [ "cwd", "structsearch__items.html#a136a0603c3d07641fa464a874f467e3d", null ],
+    [ "egid", "structsearch__items.html#a90c16c534ce58b0bd3b0ded3bd780e69", null ],
+    [ "euid", "structsearch__items.html#ae5bd502c04ccccf2420e598bee2d515f", null ],
+    [ "exe", "structsearch__items.html#af4d9946efbc42c1672817066c2718ab7", null ],
+    [ "exit", "structsearch__items.html#a786d94ec7b0e8402e6d3a8d1d1b867f6", null ],
+    [ "exit_is_set", "structsearch__items.html#a9825fa6bba8177700e021cb43f35a154", null ],
+    [ "filename", "structsearch__items.html#af11996438720ec337f9b3d9a4ca2a014", null ],
+    [ "gid", "structsearch__items.html#af22d8934ad1c38788e827f66b2f32041", null ],
+    [ "hostname", "structsearch__items.html#aad06d8bca9166b998882ceb4a761575a", null ],
+    [ "key", "structsearch__items.html#a2f27a6d9b0d7b1d0ae8153b5d83ba6c2", null ],
+    [ "loginuid", "structsearch__items.html#aa37a9290e56e7c2b997e9fd591f0a25b", null ],
+    [ "pid", "structsearch__items.html#a402f82dcb3dfb0a0e2801043fe91b1b0", null ],
+    [ "ppid", "structsearch__items.html#a85c73b2e280abd010e00a930cdeec768", null ],
+    [ "session_id", "structsearch__items.html#a59aa9f9b4299b3deae02a1bc6e4173c9", null ],
+    [ "success", "structsearch__items.html#a8de0d707fe0706e006d8e880631e23b4", null ],
+    [ "syscall", "structsearch__items.html#af6e4097d25db8c3505ebd2195c578bf6", null ],
+    [ "terminal", "structsearch__items.html#ad675ca98aec7856b2cd85612fd75d9da", null ],
+    [ "uid", "structsearch__items.html#a7f8b7535f2069e171816213983adcc56", null ],
+    [ "uuid", "structsearch__items.html#a2df70c0b594b29133d6907004ae318bf", null ],
+    [ "vmname", "structsearch__items.html#acc9f738c3c528df1094ce3a12033f04a", null ]
+];

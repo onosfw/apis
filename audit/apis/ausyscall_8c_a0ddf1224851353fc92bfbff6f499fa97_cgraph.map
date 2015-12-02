@@ -1,0 +1,8 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$libaudit_8c.html#ad9a1153be4e0afaf044a95cd3ef4b2bf" title="audit_detect_machine" alt="" coords="111,5,260,32"/>
+<area shape="rect" id="node4" href="$libaudit_8h.html#ab4e994edc0215745ba79ec4655b9bf5f" title="audit_machine_to_name" alt="" coords="104,56,267,83"/>
+<area shape="rect" id="node3" href="$libaudit_8h.html#ae59e04e91770eaced3555742847ebe70" title="audit_name_to_machine" alt="" coords="315,56,477,83"/>
+<area shape="rect" id="node5" href="$libaudit_8h.html#ae5e0f5b958f5d0b85f3c8203f2f9e7c9" title="audit_name_to_syscall" alt="" coords="108,157,263,184"/>
+<area shape="rect" id="node6" href="$libaudit_8h.html#a70b40789a9c7fa191120d4d15acc99be" title="audit_syscall_to_name" alt="" coords="108,208,263,235"/>
+<area shape="rect" id="node7" href="$aulast_8c.html#ae8605e2b78cd4a81b6c6b5c30cb7366a" title="usage" alt="" coords="157,283,214,309"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="src/auditd.c" name="src/auditd.c">
+<area shape="rect" id="node19" href="$libaudit_8h.html" title="libaudit.h" alt="" coords="1800,229,1875,256"/>
+<area shape="rect" id="node27" href="$auditd-event_8h.html" title="auditd&#45;event.h" alt="" coords="1787,80,1891,107"/>
+<area shape="rect" id="node28" href="$auditd-config_8h.html" title="auditd&#45;config.h" alt="" coords="1875,155,1981,181"/>
+<area shape="rect" id="node30" href="$auditd-dispatch_8h.html" title="auditd&#45;dispatch.h" alt="" coords="1966,80,2087,107"/>
+<area shape="rect" id="node31" href="$auditd-listen_8h.html" title="auditd&#45;listen.h" alt="" coords="581,80,683,107"/>
+<area shape="rect" id="node32" href="$ev_8h.html" title="ev.h" alt="" coords="609,155,655,181"/>
+</map>

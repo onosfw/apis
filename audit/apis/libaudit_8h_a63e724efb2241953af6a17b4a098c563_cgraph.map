@@ -1,0 +1,9 @@
+<map id="audit_add_dir" name="audit_add_dir">
+<area shape="rect" id="node2" href="$libaudit_8c.html#ab0c95b2b03027cd7386b0683fe4c5c49" title="audit_add_watch_dir" alt="" coords="152,81,293,108"/>
+<area shape="rect" id="node3" href="$libaudit_8c.html#afb4094a532a162e9888b2570e309ce1a" title="audit_rule_syscallbyname_data" alt="" coords="342,81,546,108"/>
+<area shape="rect" id="node4" href="$libaudit_8c.html#ad9a1153be4e0afaf044a95cd3ef4b2bf" title="audit_detect_machine" alt="" coords="600,5,749,32"/>
+<area shape="rect" id="node6" href="$libaudit_8h.html#a912bd91c61b560dc1c55a5f8ebc5777e" title="audit_elf_to_machine" alt="" coords="602,56,747,83"/>
+<area shape="rect" id="node7" href="$libaudit_8h.html#ae5e0f5b958f5d0b85f3c8203f2f9e7c9" title="audit_name_to_syscall" alt="" coords="597,107,752,133"/>
+<area shape="rect" id="node8" href="$libaudit_8c.html#a2c23d93f9aeedb1f03779c580fa30890" title="audit_rule_syscall_data" alt="" coords="595,157,754,184"/>
+<area shape="rect" id="node5" href="$libaudit_8h.html#ae59e04e91770eaced3555742847ebe70" title="audit_name_to_machine" alt="" coords="803,5,965,32"/>
+</map>

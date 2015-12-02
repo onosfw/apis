@@ -1,0 +1,9 @@
+<map id="list_next" name="list_next">
+<area shape="rect" id="node2" href="$auditctl-listing_8h.html#a9a6118183119608b5965a8df359df828" title="audit_print_reply" alt="" coords="140,5,257,32"/>
+<area shape="rect" id="node3" href="$delete__all_8c.html#a612be882f27deb9a236a0115beb5898c" title="delete_all_rules" alt="" coords="143,56,255,83"/>
+<area shape="rect" id="node5" href="$ausearch-parse_8h.html#a93c25dc67796ee12ca8e51fc5fceac40" title="extract_search_items" alt="" coords="125,107,272,133"/>
+<area shape="rect" id="node8" href="$aulast_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="173,157,224,184"/>
+<area shape="rect" id="node6" href="$ausearch_8c.html#a4d93a1f02d1348beb0d986f081123109" title="match" alt="" coords="320,183,379,209"/>
+<area shape="rect" id="node4" href="$autrace_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="324,56,375,83"/>
+<area shape="rect" id="node7" href="$aureport-scan_8h.html#a2416ffa4a61094358ca3834140d95f4a" title="scan" alt="" coords="324,107,375,133"/>
+</map>

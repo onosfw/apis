@@ -1,0 +1,31 @@
+<map id="process_resource_event" name="process_resource_event">
+<area shape="rect" id="node2" href="$auvirt_8c.html#a8dd303a302efc68ecd4b9c7606f0231b" title="add_resource" alt="" coords="231,208,331,235"/>
+<area shape="rect" id="node7" href="$auparse_8c.html#a95118851361d468b8a2001f93dc8e1ab" title="auparse_find_field" alt="" coords="406,309,533,336"/>
+<area shape="rect" id="node20" href="$auparse_8c.html#ac399d59848dc4c329c2bd38468d43733" title="auparse_first_record" alt="" coords="399,664,539,691"/>
+<area shape="rect" id="node13" href="$auparse_8c.html#a7a0b57dbf2102744be11990d6d94cf73" title="auparse_interpret_field" alt="" coords="393,360,546,387"/>
+<area shape="rect" id="node27" href="$auvirt_8c.html#a0ac9cd32492f0a70a4d75c643124909c" title="extract_virt_fields" alt="" coords="219,461,344,488"/>
+<area shape="rect" id="node30" href="$auvirt_8c.html#a257af4038514cff1f5a0fc3f16ea7d62" title="update_resource" alt="" coords="222,56,341,83"/>
+<area shape="rect" id="node3" href="$auvirt_8c.html#a0ed59bc70333560cd32e1fdfd1b234dd" title="add_proof" alt="" coords="430,5,509,32"/>
+<area shape="rect" id="node15" href="$auvirt_8c.html#a3d5d02ceeb73f7e731dd15364486af43" title="copy_str" alt="" coords="433,208,505,235"/>
+<area shape="rect" id="node16" href="$auvirt_8c.html#a4966249f085d400e8ac16a17665f9a3e" title="event_alloc" alt="" coords="425,259,513,285"/>
+<area shape="rect" id="node17" href="$auvirt_8c.html#a02eb9270d45c7dbd3b4a82ff3d6e2233" title="event_free" alt="" coords="428,107,511,133"/>
+<area shape="rect" id="node18" href="$auvirt_8c.html#a4fe0db05838872a207fbace999f4281a" title="is_resource" alt="" coords="425,56,514,83"/>
+<area shape="rect" id="node19" href="$auditctl-llist_8c.html#abe725732c210948585e2c508e1598035" title="list_append" alt="" coords="425,157,513,184"/>
+<area shape="rect" id="node4" href="$auparse_8c.html#a6022e231aa5de1fc841ccf26465231de" title="auparse_get_milli" alt="" coords="613,95,736,121"/>
+<area shape="rect" id="node5" href="$auparse_8c.html#a8b7f34624f0938cad23ca1a21b14da94" title="auparse_get_serial" alt="" coords="609,183,740,209"/>
+<area shape="rect" id="node6" href="$auparse_8c.html#a732cf54efba332d61e302410da9a13c6" title="auparse_get_time" alt="" coords="612,25,737,52"/>
+<area shape="rect" id="node8" href="$auparse_8c.html#a9e64735b3fc3be4085cfb1a63c8fa760" title="auparse_find_field_next" alt="" coords="595,309,754,336"/>
+<area shape="rect" id="node9" href="$ellist_8c.html#a51a0043e64d2fc5c2a7a215d1bb54064" title="aup_list_first_field" alt="" coords="805,588,931,615"/>
+<area shape="rect" id="node10" href="$ellist_8c.html#a9d6a26e41792a63d43688ec523a5308f" title="aup_list_next" alt="" coords="819,360,917,387"/>
+<area shape="rect" id="node11" href="$nvlist_8c.html#a23fb59f7b1a9e091646bc8f4dbde2328" title="nvlist_find_name" alt="" coords="808,259,928,285"/>
+<area shape="rect" id="node12" href="$nvlist_8c.html#afae765a0fa26a9d15b35de3bc612b08f" title="nvlist_next" alt="" coords="825,309,911,336"/>
+<area shape="rect" id="node14" href="$nvlist_8c.html#af1a0fd4849f481510cf8c4e06af1d15b" title="nvlist_interp_cur_val" alt="" coords="604,360,745,387"/>
+<area shape="rect" id="node21" href="$auparse_8c.html#afa66d7f4029296023249fccf6c55d93f" title="auparse_next_event" alt="" coords="605,664,744,691"/>
+<area shape="rect" id="node22" href="$ellist_8c.html#a3f70cd6dbaceaa30bb037233b84cd6a0" title="aup_list_append" alt="" coords="810,689,926,716"/>
+<area shape="rect" id="node24" href="$ellist_8c.html#ac0d8a9f88274b61fa52968b8df0aeaef" title="aup_list_clear" alt="" coords="817,740,919,767"/>
+<area shape="rect" id="node26" href="$ellist_8c.html#a5eacfe74b9dc4ef334d84f83daae02fe" title="aup_list_set_event" alt="" coords="803,639,933,665"/>
+<area shape="rect" id="node23" href="$nvlist_8c.html#a2fd34f6ac6ba3d75f3df96a4ced92b38" title="nvlist_create" alt="" coords="981,689,1077,716"/>
+<area shape="rect" id="node25" href="$nvlist_8c.html#a0d801c3e9c3c933241b1a5b6db1f6ad1" title="nvlist_clear" alt="" coords="985,740,1073,767"/>
+<area shape="rect" id="node28" href="$auparse_8c.html#ad4a25296d3b6610a062d86f685db74e4" title="auparse_get_field_int" alt="" coords="397,613,542,640"/>
+<area shape="rect" id="node29" href="$auparse_8c.html#ae2f3b1f3f2ce509cd2a64c38bb4cd847" title="auparse_get_field_str" alt="" coords="601,563,748,589"/>
+</map>

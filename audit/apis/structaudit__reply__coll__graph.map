@@ -1,0 +1,5 @@
+<map id="audit_reply" name="audit_reply">
+<area shape="rect" id="node2" href="$structaudit__sig__info.html" title="audit_sig_info" alt="" coords="5,5,107,32"/>
+<area shape="rect" id="node3" href="$structaudit__message.html" title="audit_message" alt="" coords="131,5,241,32"/>
+<area shape="rect" id="node4" href="$structdaemon__conf.html" title="daemon_conf" alt="" coords="266,5,365,32"/>
+</map>

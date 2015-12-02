@@ -1,0 +1,7 @@
+<map id="auditd_consumer_data" name="auditd_consumer_data">
+<area shape="rect" id="node2" href="$structauditd__reply__list.html" title="auditd_reply_list" alt="" coords="113,187,228,213"/>
+<area shape="rect" id="node3" href="$structaudit__reply.html" title="audit_reply" alt="" coords="143,96,228,123"/>
+<area shape="rect" id="node4" href="$structaudit__sig__info.html" title="audit_sig_info" alt="" coords="5,5,107,32"/>
+<area shape="rect" id="node5" href="$structaudit__message.html" title="audit_message" alt="" coords="131,5,241,32"/>
+<area shape="rect" id="node6" href="$structdaemon__conf.html" title="daemon_conf" alt="" coords="267,5,367,32"/>
+</map>

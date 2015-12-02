@@ -1,0 +1,5 @@
+<map id="audit_is_enabled" name="audit_is_enabled">
+<area shape="rect" id="node2" href="$libaudit_8h.html#a5b898ba19a43bcfbcefa0e68b6669a97" title="audit_get_reply" alt="" coords="190,5,301,32"/>
+<area shape="rect" id="node3" href="$libaudit_8c.html#aad74b74ec0b452729a7f2c9c31a3986e" title="audit_request_status" alt="" coords="174,56,317,83"/>
+<area shape="rect" id="node4" href="$netlink_8c.html#ac3c4d121353dbd4e2dc09f2328ba5015" title="audit_send" alt="" coords="365,56,451,83"/>
+</map>

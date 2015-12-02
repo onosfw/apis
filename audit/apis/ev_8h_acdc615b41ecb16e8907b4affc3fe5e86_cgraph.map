@@ -1,0 +1,6 @@
+<map id="ev_suspend" name="ev_suspend">
+<area shape="rect" id="node2" href="$ev_8c.html#aaa98f4074933a58008ef86060aec840d" title="ev_now_update" alt="" coords="147,5,261,32"/>
+<area shape="rect" id="node3" href="$ev_8c.html#a628937c917c9a8774969f0f1331fa390" title="time_update" alt="" coords="309,5,403,32"/>
+<area shape="rect" id="node4" href="$ev_8c.html#abc988e12abf40a21770c145a4a91590b" title="ev_time" alt="" coords="579,5,647,32"/>
+<area shape="rect" id="node5" href="$ev_8c.html#abf54b7f50de2dbf095394a906cf750f4" title="get_clock" alt="" coords="451,31,530,57"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="auparse_reset" name="auparse_reset">
+<area shape="rect" id="node2" href="$ellist_8c.html#ac0d8a9f88274b61fa52968b8df0aeaef" title="aup_list_clear" alt="" coords="158,5,261,32"/>
+<area shape="rect" id="node4" href="$data__buf_8c.html#aa615351221ecda83d58dc2c4b6a9db41" title="databuf_reset" alt="" coords="159,56,260,83"/>
+<area shape="rect" id="node3" href="$nvlist_8c.html#a0d801c3e9c3c933241b1a5b6db1f6ad1" title="nvlist_clear" alt="" coords="315,5,403,32"/>
+<area shape="rect" id="node5" href="$data__buf_8c.html#a1e371233d5fab3fae2660a4d8b604e52" title="databuf_print" alt="" coords="310,56,407,83"/>
+</map>
