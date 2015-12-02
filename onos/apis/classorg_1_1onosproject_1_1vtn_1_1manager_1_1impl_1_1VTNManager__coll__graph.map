@@ -1,0 +1,16 @@
+<map id="org.onosproject.vtn.manager.impl.VTNManager" name="org.onosproject.vtn.manager.impl.VTNManager">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1vtn_1_1manager_1_1VTNService.html" title="VTN application that applies configuration and flows to the device. " alt="" coords="442,5,633,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1host_1_1HostService.html" title="Service for interacting with the inventory of end&#45;station hosts. " alt="" coords="454,70,621,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="448,135,627,177"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupService.html" title="Service for create/update/delete &quot;group&quot; in the devices. " alt="" coords="451,201,624,242"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1LogicalClockService.html" title="Service that issues logical timestamps. " alt="" coords="440,266,635,307"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1DriverService.html" title="Service for obtaining drivers and driver behaviour implementations. " alt="" coords="451,331,624,373"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1DriverResolver.html" title="Entity capable of resolving a driver using its name. " alt="" coords="28,331,201,373"/>
+<area shape="rect" id="node12" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="440,397,635,438"/>
+<area shape="rect" id="node13" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1tenantnetwork_1_1TenantNetworkService.html" title="Service for interacting with the inventory of tenantNetwork. " alt="" coords="417,462,658,503"/>
+<area shape="rect" id="node14" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1virtualport_1_1VirtualPortService.html" title="Service for interacting with the inventory of virtualPort. " alt="" coords="429,527,645,569"/>
+<area shape="rect" id="node15" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="451,593,623,634"/>
+<area shape="rect" id="node16" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="21,585,208,626"/>
+<area shape="rect" id="node17" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipService.html" title="Service responsible for determining the controller instance mastership of a device in a clustered env..." alt="" coords="446,658,629,699"/>
+<area shape="rect" id="node19" href="$interfaceorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigService.html" title="Service for tracking network configurations which specify how the discovered network information shou..." alt="" coords="449,730,625,771"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.core.impl.LogicalClockManager" name="org.onosproject.store.core.impl.LogicalClockManager">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1LogicalClockService.html" title="Service that issues logical timestamps. " alt="" coords="5,5,200,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="5,70,200,111"/>
+</map>

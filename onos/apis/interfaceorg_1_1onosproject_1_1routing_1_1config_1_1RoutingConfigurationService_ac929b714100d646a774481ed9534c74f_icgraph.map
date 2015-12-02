@@ -1,0 +1,8 @@
+<map id="org.onosproject.routing.config.RoutingConfigurationService.isIpPrefixLocal" name="org.onosproject.routing.config.RoutingConfigurationService.isIpPrefixLocal">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1routing_1_1impl_1_1RouterTest.html#a74cc04b55110cda73d43ca9be2cd1bb8" title="Tests adding a IPv4 route whose next hop is the local BGP speaker. " alt="" coords="335,5,561,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1routing_1_1impl_1_1RouterTest.html#a0ea1217addf6c8ab9d900e6176a5ce62" title="Tests adding a IPv6 route whose next hop is the local BGP speaker. " alt="" coords="335,70,561,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1routing_1_1impl_1_1RouterTest.html#a362f846621fc5830103edcf4f653c0fc" title="Tests updating a IPv6 route entry. " alt="" coords="341,135,555,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1routing_1_1impl_1_1RouterAsyncArpTest.html#aea7ee1e7e7cd1d25e24da62d9a9bdd4b" title="Tests adding a route entry with asynchronous HostService replies. " alt="" coords="334,201,562,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1routing_1_1impl_1_1RouterAsyncArpTest.html#a1ffb15f9dda45a90233ee1ab8463b5f5" title="Tests updating a route entry with asynchronous HostService replies. " alt="" coords="611,230,858,271"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1routing_1_1impl_1_1RouterTest.html#a9ef1edf732e0043c1dac9934bd5a5d27" title="Tests updating a IPv4 route entry. " alt="" coords="353,318,543,359"/>
+</map>

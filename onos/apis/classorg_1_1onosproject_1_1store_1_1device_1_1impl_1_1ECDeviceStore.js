@@ -1,0 +1,27 @@
+var classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore =
+[
+    [ "activate", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html#a60b32329211b8b185a3647b7ab58ae99", null ],
+    [ "calcDeltaStats", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html#a6dd23d946df165e309ecce35848b6955", null ],
+    [ "createOrUpdateDevice", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html#a56b88895f92dfbcc378651337a16d567", null ],
+    [ "deactivate", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html#a442ded7aea4f99d4ec6324a529a082a1", null ],
+    [ "getAvailableDevices", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html#a6c8e7ca31f544cc2dfb2c21458e8c1ee", null ],
+    [ "getDevice", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html#a1fc5c5a8a93f218c556bd29ac7cbfa78", null ],
+    [ "getDeviceCount", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html#aef7bfa809fbb77534bc6435cd9b69b45", null ],
+    [ "getDevices", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html#aabeb92e74291cd952760ecb4a3308adc", null ],
+    [ "getPort", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html#a70c20959efd3e981b4e46d37e4946f12", null ],
+    [ "getPortDeltaStatistics", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html#aeb1f9981a551c11935f43cd92facfcef", null ],
+    [ "getPorts", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html#a14527ff50b37551f3469f3fec9edabdd", null ],
+    [ "getPortStatistics", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html#ad8a23ba45d25dfe83acbfcf1f18b4988", null ],
+    [ "isAvailable", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html#a4795a9de74af1c7ab64a335d36a1ecd8", null ],
+    [ "markOffline", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html#a9ff18d88b4a2fa5c7416b9eff86b07bd", null ],
+    [ "removeDevice", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html#ac7458ba357114e03fe98848183c90f43", null ],
+    [ "updatePorts", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html#ac4c356dabf69e3f028cfdb4852f7c8f5", null ],
+    [ "updatePortStatistics", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html#a3bd3d4772b50a9e6ce1817af3af75d6f", null ],
+    [ "updatePortStatus", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html#aaec7fd9a0aa2a131c38ebdeefb051428", null ],
+    [ "clusterCommunicator", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html#a2786f2452634250d72a82a8359ce3cf8", null ],
+    [ "clusterService", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html#ad63aef930d15ed2fbfced3b1850b0df7", null ],
+    [ "deviceClockService", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html#a19e759ca08e6425cb2e504de38d2c649", null ],
+    [ "mastershipService", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html#a74aadcd85b688b564cd76b90ef3151e3", null ],
+    [ "mastershipTermService", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html#a4436a96403dc3a4a6a2ccab964d5e448", null ],
+    [ "storageService", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html#ab20160bb1b52b74e3d95c6c9f2c24e30", null ]
+];

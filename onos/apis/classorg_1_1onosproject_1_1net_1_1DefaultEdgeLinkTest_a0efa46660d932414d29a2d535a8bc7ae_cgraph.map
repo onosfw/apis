@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.DefaultEdgeLinkTest.phantomIngress" name="org.onosproject.net.DefaultEdgeLinkTest.phantomIngress">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1Link.html#a13f6d04f4d252bee19974a6c5398d726" title="Returns the link destination connection point. " alt="" coords="258,5,441,32"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1EdgeLink.html#a9ef0139fa871b5947193a6358d3fc90d" title="Returns the connection point where the host attaches to the network infrastructure. " alt="" coords="266,57,433,98"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1Link.html#aeb28964b9f245a50587122a69477a7ca" title="Returns the link type. " alt="" coords="254,123,445,149"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.device.impl.DeviceManagerTest.deviceConnected" name="org.onosproject.net.device.impl.DeviceManagerTest.deviceConnected">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html#a1d0a9294ac76b293cba4dd77009f539f" title="Returns the device with the specified identifier. " alt="" coords="324,5,503,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html#a5cb6315cfe0303a3b4db8b7e8ef66b48" title="Returns the number of infrastructure devices known to the system. " alt="" coords="311,70,516,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html#a5acd8e40c95caaa8e7b0fc59c30ac3ff" title="Indicates whether or not the device is presently online and available. " alt="" coords="324,135,503,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1device_1_1impl_1_1DeviceManagerTest.html#a07f7cd3bcf9980481e1bfd0532f8afc2" title="org.onosproject.net.device.impl.\lDeviceManagerTest.validateEvents" alt="" coords="299,201,528,242"/>
+</map>

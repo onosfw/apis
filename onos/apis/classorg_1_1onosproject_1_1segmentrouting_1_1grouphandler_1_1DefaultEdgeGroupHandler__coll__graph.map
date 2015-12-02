@@ -1,0 +1,12 @@
+<map id="org.onosproject.segmentrouting.grouphandler.DefaultEdgeGroupHandler" name="org.onosproject.segmentrouting.grouphandler.DefaultEdgeGroupHandler">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1segmentrouting_1_1grouphandler_1_1DefaultGroupHandler.html" title="Default ECMP group handler creation module. " alt="" coords="966,401,1253,442"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1flowobjective_1_1FlowObjectiveService.html" title="Service for programming data plane flow rules in manner independent of specific device table pipeline..." alt="" coords="531,5,749,46"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkService.html" title="Service for interacting with the inventory of infrastructure links. " alt="" coords="559,202,721,243"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1core_1_1ApplicationId.html" title="Application identifier. " alt="" coords="531,268,749,295"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1net_1_1DeviceId.html" title="Immutable representation of a device identity. " alt="" coords="545,357,735,384"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1net_1_1ElementId.html" title="Immutable representation of a network element identity. " alt="" coords="243,357,439,384"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onosproject_1_1net_1_1NetworkResource.html" title="Representation of a network resource, e.g. " alt="" coords="5,350,192,391"/>
+<area shape="rect" id="node12" href="$classorg_1_1onlab_1_1util_1_1KryoNamespace.html" title="Pool of Kryo instances, with classes pre&#45;registered. " alt="" coords="541,408,739,435"/>
+<area shape="rect" id="node16" href="$classorg_1_1onlab_1_1packet_1_1MacAddress.html" title="The class representing MAC address. " alt="" coords="543,607,737,633"/>
+<area shape="rect" id="node20" href="$interfaceorg_1_1onosproject_1_1segmentrouting_1_1config_1_1DeviceProperties.html" title="Mechanism through which group handler module retrieves the device specific attributes such as segment..." alt="" coords="517,885,763,926"/>
+</map>

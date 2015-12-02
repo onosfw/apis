@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.statistic.impl.FlowStatisticManager" name="org.onosproject.net.statistic.impl.FlowStatisticManager">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1statistic_1_1FlowStatisticService.html" title="Service for obtaining individual flow statistic information about device and link in the system..." alt="" coords="283,5,469,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="287,70,465,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1statistic_1_1FlowStatisticStore.html" title="Flow Store to house the computed statistics. " alt="" coords="283,135,469,177"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleService.html" title="Service for injecting flow rules into the environment and for obtaining information about flow rules ..." alt="" coords="293,201,459,242"/>
+</map>

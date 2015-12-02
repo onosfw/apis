@@ -1,0 +1,7 @@
+<map id="org.onosproject.metrics.topology.cli.TopologyEventsMetricsCommand.execute" name="org.onosproject.metrics.topology.cli.TopologyEventsMetricsCommand.execute">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1metrics_1_1topology_1_1TopologyMetricsService.html#af4b2c3a32a1a8c14be37b7fefb9c8658" title="Gets the Event Metric for the Device Events. " alt="" coords="323,5,579,61"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1metrics_1_1topology_1_1TopologyMetricsService.html#a7259058038b7fa3e5514784e4425b1a3" title="Gets the Event Metric for the Topology Graph Events. " alt="" coords="325,85,576,141"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1metrics_1_1topology_1_1TopologyMetricsService.html#ad0945f2132407ea16566d6963bdfe103" title="Gets the Event Metric for the Topology Graph Reasons Events. " alt="" coords="325,165,576,221"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1metrics_1_1topology_1_1TopologyMetricsService.html#aac32aac85c48a3ac48efef4bcf451921" title="Gets the Event Metric for the Host Events. " alt="" coords="329,245,572,301"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1metrics_1_1topology_1_1TopologyMetricsService.html#a900206d6b4298e5451435e6489c7cfa2" title="Gets the Event Metric for the Link Events. " alt="" coords="331,325,570,381"/>
+</map>

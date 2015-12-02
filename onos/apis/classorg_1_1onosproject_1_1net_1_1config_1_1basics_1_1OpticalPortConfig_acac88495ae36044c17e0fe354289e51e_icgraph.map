@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.config.basics.OpticalPortConfig.type" name="org.onosproject.net.config.basics.OpticalPortConfig.type">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1device_1_1impl_1_1OpticalPortOperator.html#a8fc5e27edaf2895932dabdfbe4a18a46" title="Generates a PortDescription containing fields from a PortDescription and an OpticalPortConfig. " alt="" coords="306,5,513,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1config_1_1basics_1_1OpticalPortConfig.html#a2b1539902b16bf3a744706d29af469dc" title="Sets the port type, or updates it if it&#39;s already set. " alt="" coords="300,70,519,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1config_1_1basics_1_1OpticalPortConfigTest.html#a32ef42ff8dbafff8bd2538a2cfc8da41" title="org.onosproject.incubator.net.config.basics.\lOpticalPortConfigTest.testBaseAttrs" alt="" coords="272,135,547,177"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1device_1_1impl_1_1OpticalPortOperatorTest.html#a6a9b5cc71958efcabb2903ccd0e09ef6" title="org.onosproject.net.device.impl.\lOpticalPortOperatorTest.testDescOps" alt="" coords="595,5,839,46"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="org.onosproject.vtnrsc.router.impl.RouterManager" name="org.onosproject.vtnrsc.router.impl.RouterManager">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1router_1_1RouterService.html" title="Service for interacting with the inventory of Routers. " alt="" coords="409,5,601,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1core_1_1ApplicationId.html" title="Application identifier. " alt="" coords="396,71,615,97"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1subnet_1_1SubnetService.html" title="Service for interacting with the inventory of subnets. " alt="" coords="406,122,605,163"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="408,187,603,229"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1tenantnetwork_1_1TenantNetworkService.html" title="Service for interacting with the inventory of tenantNetwork. " alt="" coords="385,253,626,294"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1virtualport_1_1VirtualPortService.html" title="Service for interacting with the inventory of virtualPort. " alt="" coords="397,318,613,359"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="419,465,591,506"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="5,465,192,506"/>
+</map>

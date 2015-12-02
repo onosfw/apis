@@ -1,0 +1,9 @@
+<map id="org.onosproject.net.DefaultDevice.DefaultDevice" name="org.onosproject.net.DefaultDevice.DefaultDevice">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1AbstractAnnotated.html#a2858b84119b1f766fd6222e79efa1b93" title="Returns the key/value annotations. " alt="" coords="232,5,419,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1DefaultDevice.html#a4ac043cc649e35b20869784935ea617c" title="Returns the device chassis id. " alt="" coords="236,70,415,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1DefaultDevice.html#a5308e4a1764a5c7b7e4d968fd2152d75" title="Returns the device hardware version. " alt="" coords="236,135,415,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1DefaultDevice.html#a2a6708e9c55c32e41d31f7d334c0953b" title="Returns the device manufacturer name. " alt="" coords="236,201,415,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1DefaultDevice.html#a2df83991a4220a5e14a4f36ad2acd508" title="Returns the device serial number. " alt="" coords="236,266,415,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1DefaultDevice.html#a9ca7c9ed6e4651f07a02ca49549f39fd" title="Returns the device software version. " alt="" coords="236,331,415,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1net_1_1DefaultDevice.html#a2db7fedcc140b8719964d2a42850471b" title="Returns the type of the infrastructure device. " alt="" coords="236,397,415,438"/>
+</map>

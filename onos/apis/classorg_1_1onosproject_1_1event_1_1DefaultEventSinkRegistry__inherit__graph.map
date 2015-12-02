@@ -1,0 +1,5 @@
+<map id="org.onosproject.event.DefaultEventSinkRegistry" name="org.onosproject.event.DefaultEventSinkRegistry">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1common_1_1event_1_1impl_1_1TestEventDispatcher.html" title="Implements event delivery system that delivers events synchronously, or in&#45;line with the post method ..." alt="" coords="483,5,717,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1event_1_1impl_1_1CoreEventDispatcher.html" title="Simple implementation of an event dispatching service. " alt="" coords="511,70,689,111"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1event_1_1EventSinkRegistry.html" title="Abstraction of an event sink registry capable of tracking sinks based on their event class..." alt="" coords="6,38,191,79"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.incubator.net.resource.label.LabelResourceRequest.toString" name="org.onosproject.incubator.net.resource.label.LabelResourceRequest.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1resource_1_1label_1_1LabelResourceRequest.html#ac3903cba66161876c8cc292a6753392c" title="Returns a device id. " alt="" coords="334,5,613,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1resource_1_1label_1_1LabelResourceRequest.html#a6fe15ebbc04e6a6b8ed781cefb323672" title="Returns request type. " alt="" coords="334,70,613,111"/>
+</map>

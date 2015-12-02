@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.provider.ProviderId.scheme" name="org.onosproject.net.provider.ProviderId.scheme">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html#a5c81a9bbc375f3375eac63059c9711a9" title="org.onosproject.net.provider.\lProviderId.hashCode" alt="" coords="240,5,427,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html#aea8d83e10b4d2b1fb6802d2fa73a5aeb" title="Creates a new primary provider identifier from the specified string. " alt="" coords="240,70,427,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html#af69730b4e49df3835361d4d9dda9d126" title="org.onosproject.net.provider.\lProviderId.toString" alt="" coords="240,135,427,177"/>
+</map>

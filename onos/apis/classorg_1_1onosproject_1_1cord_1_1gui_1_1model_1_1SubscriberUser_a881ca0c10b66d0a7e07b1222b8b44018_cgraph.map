@@ -1,0 +1,5 @@
+<map id="org.onosproject.cord.gui.model.SubscriberUser.SubscriberUser" name="org.onosproject.cord.gui.model.SubscriberUser.SubscriberUser">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cord_1_1gui_1_1model_1_1SubscriberUser.html#a2a218dfa167600c702f553362ca6a468" title="Returns the internal identifier. " alt="" coords="262,5,466,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1cord_1_1gui_1_1model_1_1SubscriberUser.html#a0e14f0ed52d2b6f6181e84dd24bab735" title="Returns the MAC address of the associated device. " alt="" coords="262,70,466,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1cord_1_1gui_1_1model_1_1SubscriberUser.html#aaaa5330cc666e0254547be32a0272201" title="Returns the display name. " alt="" coords="262,135,466,177"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="org.onlab.stc.StepEvent.fromString" name="org.onlab.stc.StepEvent.fromString">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1stc_1_1StepEvent.html#ad161379abdfbf584ad4f64ec215b51cf" title="Creates a new step record. " alt="" coords="246,74,413,115"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1stc_1_1StepEvent.html#a670078a65388dc01e41a8a5bda59c7bf" title="Returns the step command. " alt="" coords="462,5,685,32"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1stc_1_1StepEvent.html#a7d30ffbfe1d276c4698245b14b6596ba" title="Returns the test step or test group name. " alt="" coords="474,56,673,83"/>
+<area shape="rect" id="node5" href="$classorg_1_1onlab_1_1stc_1_1StepEvent.html#a613289b928e61e543227c19eae90dc06" title="Returns the step completion status. " alt="" coords="472,107,675,133"/>
+<area shape="rect" id="node6" href="$classorg_1_1onlab_1_1stc_1_1StepEvent.html#a6341c94a1a7fe34e731c843b9f3bef53" title="Returns the step event time. " alt="" coords="478,157,669,184"/>
+</map>

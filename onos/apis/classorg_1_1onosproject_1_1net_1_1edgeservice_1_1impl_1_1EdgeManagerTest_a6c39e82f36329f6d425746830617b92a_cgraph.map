@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.edgeservice.impl.EdgeManagerTest.testBasics" name="org.onosproject.net.edgeservice.impl.EdgeManagerTest.testBasics">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1NetTestTools.html#ae9ae03458777a79abd6344bc8214805a" title="org.onosproject.net.NetTest\lTools.connectPoint" alt="" coords="321,5,505,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1edgeservice_1_1impl_1_1EdgeManager.html#a9c8258661efbc68d64440c3588ffcc33" title="Returns a collection of all edge point within the current topology. " alt="" coords="294,70,533,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1edgeservice_1_1impl_1_1EdgeManager.html#ac1b2ffdcf8df92a2bb874f7ef103dc6f" title="Indicates whether or not the specified connection point is an edge point. " alt="" coords="294,135,533,177"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1NetTestTools.html#a029d5783693de6b5f34a659e9394061f" title="org.onosproject.net.NetTest\lTools.did" alt="" coords="581,5,765,46"/>
+</map>

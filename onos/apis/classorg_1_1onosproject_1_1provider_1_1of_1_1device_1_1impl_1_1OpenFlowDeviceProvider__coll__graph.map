@@ -1,0 +1,8 @@
+<map id="org.onosproject.provider.of.device.impl.OpenFlowDeviceProvider" name="org.onosproject.provider.of.device.impl.OpenFlowDeviceProvider">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1AbstractProvider.html" title="Base provider implementation. " alt="" coords="355,5,541,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="51,37,237,78"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceProvider.html" title="Abstraction of a device information provider. " alt="" coords="359,70,537,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1cfg_1_1ComponentConfigService.html" title="Service for tracking system&#45;wide configurations for various software components. " alt="" coords="346,135,550,177"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1openflow_1_1controller_1_1OpenFlowController.html" title="Abstraction of an OpenFlow controller. " alt="" coords="334,201,562,242"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceProviderRegistry.html" title="Abstraction of a device provider registry. " alt="" coords="359,266,537,307"/>
+</map>

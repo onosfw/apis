@@ -1,0 +1,4 @@
+var namespaceorg_1_1onosproject_1_1vtnrsc_1_1routerinterface_1_1impl =
+[
+    [ "RouterInterfaceManager", "classorg_1_1onosproject_1_1vtnrsc_1_1routerinterface_1_1impl_1_1RouterInterfaceManager.html", "classorg_1_1onosproject_1_1vtnrsc_1_1routerinterface_1_1impl_1_1RouterInterfaceManager" ]
+];

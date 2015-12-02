@@ -1,0 +1,6 @@
+<map id="org.onosproject.cord.gui.model.JsonFactory" name="org.onosproject.cord.gui.model.JsonFactory">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cord_1_1gui_1_1CordModelCache.html" title="In memory cache of the model of the subscriber&#39;s account. " alt="" coords="279,5,444,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1cord_1_1gui_1_1model_1_1BundleFactory.html" title="Utility factory for creating and/or operating on bundles. " alt="" coords="259,70,463,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1cord_1_1gui_1_1model_1_1UserFactory.html" title="Utility functions on users. " alt="" coords="259,135,463,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1cord_1_1gui_1_1model_1_1XosFunctionFactory.html" title="Utility factory for operating on XOS functions. " alt="" coords="259,201,463,242"/>
+</map>

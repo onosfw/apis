@@ -1,0 +1,4 @@
+<map id="org.onosproject.routing.bgp.BgpSessionManager" name="org.onosproject.routing.bgp.BgpSessionManager">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1routing_1_1bgp_1_1BgpInfoService.html" title="Provides information about BGP peering and routes. " alt="" coords="5,6,187,47"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1routing_1_1BgpService.html" title="Provides a way of interacting with the BGP protocol component. " alt="" coords="211,6,369,47"/>
+</map>

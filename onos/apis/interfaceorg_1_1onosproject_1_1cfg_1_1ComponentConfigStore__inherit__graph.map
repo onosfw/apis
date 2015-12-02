@@ -1,0 +1,4 @@
+<map id="org.onosproject.cfg.ComponentConfigStore" name="org.onosproject.cfg.ComponentConfigStore">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1cfg_1_1GossipComponentConfigStore.html" title="Manages inventory of component configurations in a distributed data store that uses optimistic replic..." alt="" coords="534,5,733,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleComponentConfigStore.html" title="Manages inventory of component configuration properties. " alt="" coords="534,70,733,111"/>
+</map>

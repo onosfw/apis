@@ -1,0 +1,4 @@
+<map id="org.onosproject.openflow.DriverServiceAdapter" name="org.onosproject.openflow.DriverServiceAdapter">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1DriverService.html" title="Service for obtaining drivers and driver behaviour implementations. " alt="" coords="47,97,220,138"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1DriverResolver.html" title="Entity capable of resolving a driver using its name. " alt="" coords="47,6,220,47"/>
+</map>

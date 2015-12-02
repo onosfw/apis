@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.criteria.IPv6ExthdrFlagsCriterion.toString" name="org.onosproject.net.flow.criteria.IPv6ExthdrFlagsCriterion.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1IPv6ExthdrFlagsCriterion.html#a9491ebba0fb6087f4983c827c74d34c6" title="Gets the IPv6 Extension Header pseudo&#45;field flags to match. " alt="" coords="272,5,512,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1IPv6ExthdrFlagsCriterion.html#abbbc2582b24b14c31102b4472f396097" title="Returns the type of criterion. " alt="" coords="288,70,496,111"/>
+</map>

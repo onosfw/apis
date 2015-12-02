@@ -1,0 +1,8 @@
+<map id="org.onlab.packet.Ip6Prefix.valueOf" name="org.onlab.packet.Ip6Prefix.valueOf">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1Ip6PrefixTest.html#afc2408cd2b76f2824b36f6222a5790e2" title="Tests IP prefix contains another IP prefix for IPv6. " alt="" coords="291,5,490,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1Ip6PrefixTest.html#a4c42dfe9b403c74aca8e828309743f57" title="Tests equality of Ip6Prefix for IPv6. " alt="" coords="303,70,478,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1serializers_1_1KryoSerializerTest.html#a1389bf34b83a25cb93facad60c4b0c40" title="org.onosproject.store.serializers.\lKryoSerializerTest.testIp6Prefix" alt="" coords="285,135,496,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1routing_1_1impl_1_1RouterTest.html#a0ea1217addf6c8ab9d900e6176a5ce62" title="Tests adding a IPv6 route whose next hop is the local BGP speaker. " alt="" coords="277,201,504,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1routing_1_1impl_1_1RouterTest.html#aac0eca5f06cbc43632662e20df3d7e05" title="Tests deleting a IPv6 route entry. " alt="" coords="285,266,496,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1routing_1_1impl_1_1RouterTest.html#a362f846621fc5830103edcf4f653c0fc" title="Tests updating a IPv6 route entry. " alt="" coords="283,331,498,373"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.pim.impl.PIMNeighbor.getPrimaryAddr" name="org.onosproject.pim.impl.PIMNeighbor.getPrimaryAddr">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1pim_1_1impl_1_1PIMInterface.html#a7a31f5661a514e318288cefebe7de53d" title="Add a new PIM neighbor to this list. " alt="" coords="246,5,421,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1pim_1_1impl_1_1PIMInterface.html#aa9a48dc82bb7b723cd75da6f14d8d91e" title="Are we the DR on this CP? " alt="" coords="249,70,417,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1pim_1_1impl_1_1PIMInterface.html#afa339a41af40b52f237c305ccad96eef" title="Elect a new DR on this ConnectPoint. " alt="" coords="249,135,417,177"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="org.onosproject.bgp.controller.impl.BgpSessionInfoImpl.BgpSessionInfoImpl" name="org.onosproject.bgp.controller.impl.BgpSessionInfoImpl.BgpSessionInfoImpl">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpSessionInfoImpl.html#af30d760915be7c34cd05047902458519" title="Gets the bgp session type iBGP/eBGP. " alt="" coords="330,5,555,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpSessionInfoImpl.html#a32d3db3f5f440350d163e9f81c2ffb48" title="Gets the negotiated hold time for the session. " alt="" coords="315,70,571,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpSessionInfoImpl.html#ac137fcd983f02a92967d1ac20cfcf6c0" title="Gets the BGP remote bgp AS number. " alt="" coords="317,135,569,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpSessionInfoImpl.html#a200f703c9db3d0626ad5bf9336d97958" title="Gets the BGP ID of BGP peer. " alt="" coords="330,201,555,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpSessionInfoImpl.html#ac5aec0d0f1ee44b2d58125eb5e34da21" title="Gets the BGP version for this bgp peer. " alt="" coords="315,266,571,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpSessionInfoImpl.html#a68d6ef73db9925974e8ffc20cbe6f4aa" title="Gets the BGP version of peer. " alt="" coords="317,331,568,373"/>
+</map>

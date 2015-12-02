@@ -1,0 +1,9 @@
+<map id="org.onosproject.vtnrsc.portpairgroup.impl.PortPairGroupManagerTest" name="org.onosproject.vtnrsc.portpairgroup.impl.PortPairGroupManagerTest">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnrsc_1_1portpairgroup_1_1impl_1_1PortPairGroupManager.html" title="Provides implementation of the portPairGroupService. " alt="" coords="382,62,645,103"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1portpairgroup_1_1PortPairGroupService.html" title="Service for interacting with the inventory of port pair groups. " alt="" coords="5,5,240,46"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="25,70,220,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortPairGroup.html" title="Abstraction of an entity providing Port Pair Group information. " alt="" coords="33,154,212,195"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultPortPairGroup.html" title="Implementation of port pair group. " alt="" coords="415,191,612,233"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1vtnrsc_1_1TenantId.html" title="Immutable representation of a tenant identifier. " alt="" coords="410,323,617,349"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1vtnrsc_1_1PortPairGroupId.html" title="Representation of a Port Pair Group ID. " alt="" coords="424,374,603,415"/>
+</map>

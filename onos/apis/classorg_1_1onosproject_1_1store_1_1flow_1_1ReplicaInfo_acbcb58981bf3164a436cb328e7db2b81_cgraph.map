@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.flow.ReplicaInfo.hashCode" name="org.onosproject.store.flow.ReplicaInfo.hashCode">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1flow_1_1ReplicaInfo.html#a81dd4c465e2fae3b4d4171344d16c7e0" title="Returns the collection of NodeId, where backup copies should be placed. " alt="" coords="229,5,405,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1flow_1_1ReplicaInfo.html#a4ecc2f12f239129cdbe57b8b7cba2007" title="Returns the NodeId, if there is a Node where the master copy should be. " alt="" coords="229,70,405,111"/>
+</map>

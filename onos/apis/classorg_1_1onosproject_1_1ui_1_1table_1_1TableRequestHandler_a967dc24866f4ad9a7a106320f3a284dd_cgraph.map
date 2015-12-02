@@ -1,0 +1,7 @@
+<map id="org.onosproject.ui.table.TableRequestHandler.process" name="org.onosproject.ui.table.TableRequestHandler.process">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1table_1_1TableRequestHandler.html#acf05be9378ddd3dd8c141235f26fd8fa" title="Creates the table model (devoid of data) using getColumnIds() to initialize it, ready to be populated..." alt="" coords="254,5,509,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ui_1_1table_1_1TableRequestHandler.html#a0c2197c414f7068e1cb3589e54f45c17" title="Returns the default column ID to be used when one is not supplied in the payload as the column on whi..." alt="" coords="258,70,505,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1ui_1_1table_1_1TableRequestHandler.html#a95c7e9e1e849d41510c1937b90ce56aa" title="Subclasses should populate the table model by adding rows. " alt="" coords="265,135,498,177"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1ui_1_1RequestHandler.html#a18e0856e53473e97384a70daa0b44e07" title="Sends a message back to the client. " alt="" coords="292,201,471,242"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1table_1_1TableRequestHandler.html#a2222cba049070b81f9c0e487141c9f2d" title="Subclasses should return the array of column IDs with which to initialize their table model..." alt="" coords="558,5,791,46"/>
+</map>

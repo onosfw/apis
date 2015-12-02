@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.device.impl.InternalDeviceOfflineEvent.toString" name="org.onosproject.store.device.impl.InternalDeviceOfflineEvent.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1InternalDeviceOfflineEvent.html#af4e322f14778b6eb4f6232c3de6ed68c" title="org.onosproject.store.device.impl.\lInternalDeviceOfflineEvent.deviceId" alt="" coords="286,5,517,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1InternalDeviceOfflineEvent.html#ae4b2fae718ee237f929a61bf5e52d757" title="org.onosproject.store.device.impl.\lInternalDeviceOfflineEvent.timestamp" alt="" coords="280,70,523,111"/>
+</map>

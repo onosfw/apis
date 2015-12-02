@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.TypedStoredFlowEntry.flowLiveType" name="org.onosproject.net.flow.TypedStoredFlowEntry.flowLiveType">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1statistic_1_1TypedFlowEntryWithLoad.html#ac93a1c0e8259201b68de20b089c306c5" title="Returns current typed flow entry&#39;s polling interval. " alt="" coords="291,5,522,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1statistic_1_1TypedFlowEntryWithLoad.html#a2bfd86702da9d911b021a6a78b604eda" title="Creates a new typed flow entry with load. " alt="" coords="571,5,811,61"/>
+</map>

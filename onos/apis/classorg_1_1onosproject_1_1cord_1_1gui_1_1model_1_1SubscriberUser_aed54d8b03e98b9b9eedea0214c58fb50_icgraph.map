@@ -1,0 +1,4 @@
+<map id="org.onosproject.cord.gui.model.SubscriberUser.getMemento" name="org.onosproject.cord.gui.model.SubscriberUser.getMemento">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cord_1_1gui_1_1model_1_1UrlFilterFunction.html#a05a6ff5f6a89362fdd4d1b6693868d71" title="Create the XOS specific URL suffix for applying state change for the given user. " alt="" coords="259,5,463,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1cord_1_1gui_1_1model_1_1UrlFilterFunctionTest.html#a46e765bfd0478dbd79ea9fa35472726f" title="org.onosproject.cord.gui.model.\lUrlFilterFunctionTest.applyMemo" alt="" coords="513,5,727,46"/>
+</map>

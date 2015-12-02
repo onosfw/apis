@@ -1,0 +1,4 @@
+<map id="org.onosproject.vtnrsc.portpair.PortPairService.getPortPair" name="org.onosproject.vtnrsc.portpair.PortPairService.getPortPair">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnweb_1_1resources_1_1PortPairResourceTest.html#a392ab7633965f0eab8fee6ae1593c897" title="Tests that a fetch of a non&#45;existent port pair object throws an exception. " alt="" coords="273,5,495,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1vtnweb_1_1resources_1_1PortPairResourceTest.html#a7dc8bf9fbf08845e6d1e1d7e866d3735" title="Tests the result of a rest api GET for port pair id. " alt="" coords="256,70,512,111"/>
+</map>

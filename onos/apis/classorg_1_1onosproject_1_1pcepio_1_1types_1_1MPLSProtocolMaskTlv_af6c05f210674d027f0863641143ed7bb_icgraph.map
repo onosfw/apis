@@ -1,0 +1,5 @@
+<map id="org.onosproject.pcepio.types.MPLSProtocolMaskTlv.MPLSProtocolMaskTlv" name="org.onosproject.pcepio.types.MPLSProtocolMaskTlv.MPLSProtocolMaskTlv">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1pcepio_1_1types_1_1MPLSProtocolMaskTlv.html#a773a3e1cfc0d75e00995233dfae75861" title="org.onosproject.pcepio.types.\lMPLSProtocolMaskTlv.equals" alt="" coords="299,5,498,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1pcepio_1_1types_1_1MPLSProtocolMaskTlv.html#a297ea1c40a93f14c00b99c14554ba743" title="Returns newly created MPLSProtocolMaskTlv object. " alt="" coords="302,70,495,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1pcepio_1_1types_1_1MPLSProtocolMaskTlv.html#a8d84fbdfaa8532f51445eea627020188" title="Reads the channel buffer and returns object of MPLS Protocol Mask Tlv. " alt="" coords="302,135,495,177"/>
+</map>

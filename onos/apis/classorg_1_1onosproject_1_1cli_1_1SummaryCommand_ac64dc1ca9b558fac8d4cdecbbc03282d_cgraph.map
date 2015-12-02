@@ -1,0 +1,5 @@
+<map id="org.onosproject.cli.SummaryCommand.execute" name="org.onosproject.cli.SummaryCommand.execute">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1topology_1_1Topology.html#a94ca07314143e2a99688cf982c76aea7" title="Returns the number of infrastructure devices in the topology. " alt="" coords="243,5,434,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1topology_1_1TopologyService.html#a07567e60bc50597c3395a0a9c40dff17" title="Returns the set of clusters in the specified topology. " alt="" coords="243,70,434,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1topology_1_1Topology.html#a62d4256da4ec4cdb8fefb8549d979814" title="Returns the number of infrastructure links in the topology. " alt="" coords="243,135,434,177"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="org.onosproject.ui.topo.PropertyPanelTest.basic" name="org.onosproject.ui.topo.PropertyPanelTest.basic">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1PropertyPanelTest.html#a088338670c8a5bc42c483847f6ec5f52" title="org.onosproject.ui.topo.\lPropertyPanelTest.buttons" alt="" coords="233,5,410,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1PropertyPanelTest.html#a3af072750cf70628befa37560b9da5d5" title="org.onosproject.ui.topo.\lPropertyPanelTest.changeTitle" alt="" coords="221,70,422,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1PropertyPanelTest.html#acbbcb6046bfeb26b67e0684485d282f9" title="org.onosproject.ui.topo.\lPropertyPanelTest.changeType" alt="" coords="219,135,424,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1PropertyPanelTest.html#a78dcdfac8f36f8636b868cb5553d22a3" title="org.onosproject.ui.topo.\lPropertyPanelTest.intValues" alt="" coords="227,201,415,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1PropertyPanelTest.html#a0a731f031f886c0e09d0b9c2308a92f2" title="org.onosproject.ui.topo.\lPropertyPanelTest.longValues" alt="" coords="222,266,421,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1PropertyPanelTest.html#aa027e77d83f2b8aacfdcfb8e2eb9f835" title="org.onosproject.ui.topo.\lPropertyPanelTest.objectValue" alt="" coords="220,331,423,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1PropertyPanelTest.html#ab1a67c78bb3d963ec9e6a2ae48659e93" title="org.onosproject.ui.topo.\lPropertyPanelTest.props" alt="" coords="238,397,405,438"/>
+<area shape="rect" id="node12" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1PropertyPanelTest.html#ade508865796726ba93bac2f0f8e95b88" title="org.onosproject.ui.topo.\lPropertyPanelTest.setId" alt="" coords="240,462,403,503"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1PropertyPanelTest.html#a13c53006e67c9b5d31b4c1124ed7fe7f" title="org.onosproject.ui.topo.\lPropertyPanelTest.separator" alt="" coords="491,331,679,373"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1PropertyPanelTest.html#a1b436b3e8447470b2890097e0538767c" title="org.onosproject.ui.topo.\lPropertyPanelTest.removeAllProps" alt="" coords="472,397,699,438"/>
+<area shape="rect" id="node11" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1PropertyPanelTest.html#aba68b53d3df27efc3df75a778b0d23eb" title="org.onosproject.ui.topo.\lPropertyPanelTest.adjustProps" alt="" coords="484,462,687,503"/>
+</map>

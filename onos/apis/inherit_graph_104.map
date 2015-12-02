@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classorg_1_1onlab_1_1packet_1_1IGMPGroup.html" title="A class to represent Groups for membership query and reports. " alt="" coords="6,31,197,57"/>
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1IGMPMembership.html" title="org.onlab.packet.IGMPMembership" alt="" coords="245,5,472,32"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1IGMPQuery.html" title="org.onlab.packet.IGMPQuery" alt="" coords="263,56,454,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.FlowRuleBatchRequest.asBatchOperation" name="org.onosproject.net.flow.FlowRuleBatchRequest.asBatchOperation">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleBatchRequest.html#aa27744eda4f0c0c871de81dceee7f91c" title="org.onosproject.net.flow.\lFlowRuleBatchRequest.batchId" alt="" coords="323,5,530,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleBatchRequest.html#a7c961c7ba2d5480bef5e25f7a01959d2" title="org.onosproject.net.flow.\lFlowRuleBatchRequest.ops" alt="" coords="334,70,519,111"/>
+</map>

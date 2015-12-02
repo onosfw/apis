@@ -1,0 +1,7 @@
+<map id="org.onosproject.net.resource.ResourceRequest" name="org.onosproject.net.resource.ResourceRequest">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1BandwidthResourceRequest.html" title="Representation of a request for bandwidth resource. " alt="" coords="246,5,461,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1LambdaResourceRequest.html" title="Representation of a request for lambda resource. " alt="" coords="246,70,461,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1LinkResourceRequest.html" title="Representation of a request for link resource. " alt="" coords="246,135,461,177"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1MplsLabelResourceRequest.html" title="Representation of a request for lambda resource. " alt="" coords="246,201,461,242"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1DefaultLinkResourceRequest.html" title="Implementation of LinkResourceRequest. " alt="" coords="510,135,725,177"/>
+</map>

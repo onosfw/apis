@@ -1,0 +1,9 @@
+<map id="apps/test" name="apps/test">
+<area shape="rect" id="node2" href="dir_ea5979a50915f03ecf53caf065c5542d.html" title="demo" alt="" coords="541,63,613,111"/>
+<area shape="rect" id="node3" href="dir_5b29693999b4491d8e8c8df62be13418.html" title="distributed&#45;primitives" alt="" coords="374,63,516,111"/>
+<area shape="rect" id="node4" href="dir_bd1a7e111e5eb67d78e9e3fec3e15f2f.html" title="election" alt="" coords="277,63,349,111"/>
+<area shape="rect" id="node5" href="dir_edbe03b709062e7f71626111dd41cd30.html" title="intent&#45;perf" alt="" coords="173,63,253,111"/>
+<area shape="rect" id="node6" href="dir_9b67a0bb5ab254b79e6329fed727ebdb.html" title="messaging&#45;perf" alt="" coords="38,63,148,111"/>
+<area shape="rect" id="clust2" href="dir_ddc48a22402054aecf8ea32d81ca90ce.html" alt="" coords="27,52,720,121"/>
+<area shape="rect" id="clust1" href="dir_9654b8d08f4bba4e84b362c5fd320bee.html" title="apps" alt="" coords="16,16,731,132"/>
+</map>

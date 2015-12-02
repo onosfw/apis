@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.device.DeviceServiceAdapter.getAvailableDevices" name="org.onosproject.net.device.DeviceServiceAdapter.getAvailableDevices">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1device_1_1DeviceServiceAdapter.html#a41b426b771a9de6eb487b5da50f77ff4" title="Returns a collection of the currently known infrastructure devices. " alt="" coords="281,5,503,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1device_1_1DeviceServiceAdapter.html#a3210da1c649aec222174c10c950af6e4" title="Indicates whether or not the device is presently online and available. " alt="" coords="283,70,501,111"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.device.OduCltPortDescription.OduCltPortDescription" name="org.onosproject.net.device.OduCltPortDescription.OduCltPortDescription">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1AbstractDescription.html#a9230f0f1b251f2cf963bc6dc9ec6be3d" title="Returns the key/value annotations. " alt="" coords="295,5,481,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1device_1_1OduCltPortDescription.html#a36ec97acace2d00e670758faa115b162" title="Returns ODU client signal type. " alt="" coords="278,70,498,111"/>
+</map>

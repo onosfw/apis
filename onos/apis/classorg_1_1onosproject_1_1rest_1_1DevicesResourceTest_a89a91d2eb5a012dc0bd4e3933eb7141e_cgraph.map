@@ -1,0 +1,4 @@
+<map id="org.onosproject.rest.DevicesResourceTest.setUpMocks" name="org.onosproject.rest.DevicesResourceTest.setUpMocks">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html#ab9216fea1d1974d1284e0813adc96b33" title="Returns the current mastership role for the specified device. " alt="" coords="243,5,421,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html#a5acd8e40c95caaa8e7b0fc59c30ac3ff" title="Indicates whether or not the device is presently online and available. " alt="" coords="243,70,421,111"/>
+</map>

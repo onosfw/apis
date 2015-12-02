@@ -1,0 +1,13 @@
+<map id="org.onosproject.cfg.ConfigProperty.type" name="org.onosproject.cfg.ConfigProperty.type">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cfg_1_1ConfigProperty.html#aa35e10804238d25d7c4d30ab39246c8b" title="Returns the property value as a boolean. " alt="" coords="230,5,405,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1cfg_1_1ConfigProperty.html#ab30a6b0868c3ac110a2bfd17b763c4a7" title="Returns the property value as a double. " alt="" coords="230,70,405,111"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1cfg_1_1ConfigProperty.html#a0bf2f76764087eb5bc9e889d82280877" title="Returns the property value as a float. " alt="" coords="230,135,405,177"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1cfg_1_1ConfigProperty.html#a7ff12daf94e9060029e61ff48bc16abd" title="Returns the property value as an integer. " alt="" coords="230,201,405,242"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1cfg_1_1ConfigProperty.html#ab78daaf329647567404fedef2d35d533" title="Returns the property value as a long. " alt="" coords="230,266,405,307"/>
+<area shape="rect" id="node12" href="$classorg_1_1onosproject_1_1cfg_1_1ConfigProperty.html#af8e192d20f01fc67f9f9c0f8da2987c3" title="org.onosproject.cfg.Config\lProperty.toString" alt="" coords="230,331,405,373"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1cfg_1_1ConfigPropertyTest.html#a62fd121037842e3fcb771dc87a643ffd" title="org.onosproject.cfg.Config\lPropertyTest.asBoolean" alt="" coords="454,5,629,46"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1cfg_1_1ConfigPropertyTest.html#a5ee7cb8cacce69253830205c10470fb2" title="org.onosproject.cfg.Config\lPropertyTest.asDouble" alt="" coords="454,70,629,111"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1cfg_1_1ConfigPropertyTest.html#a80dd2f3bca7994f94e0877d6f414211c" title="org.onosproject.cfg.Config\lPropertyTest.asFloat" alt="" coords="454,135,629,177"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1cfg_1_1ConfigPropertyTest.html#ae8640650518d0f89840dd4952277adc3" title="org.onosproject.cfg.Config\lPropertyTest.asInteger" alt="" coords="454,201,629,242"/>
+<area shape="rect" id="node11" href="$classorg_1_1onosproject_1_1cfg_1_1ConfigPropertyTest.html#ad65754e43fe16b8b71816ffba7a6bb43" title="org.onosproject.cfg.Config\lPropertyTest.asLong" alt="" coords="454,266,629,307"/>
+</map>

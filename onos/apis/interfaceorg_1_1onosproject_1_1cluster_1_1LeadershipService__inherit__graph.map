@@ -1,0 +1,6 @@
+<map id="org.onosproject.cluster.LeadershipService" name="org.onosproject.cluster.LeadershipService">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1cluster_1_1LeadershipServiceAdapter.html" title="Test adapter for leadership service. " alt="" coords="513,13,687,54"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1DistributedLeadershipManager.html" title="Distributed Lock Manager implemented on top of ConsistentMap. " alt="" coords="480,78,720,119"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleLeadershipManager.html" title="A trivial implementation of the leadership service. " alt="" coords="509,143,691,185"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1intent_1_1impl_1_1PartitionManagerTest_1_1TestLeadershipService.html" title="LeadershipService that allows us to grab a reference to PartitionManager&#39;s LeadershipEventListener. " alt="" coords="769,5,1007,61"/>
+</map>

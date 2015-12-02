@@ -1,0 +1,9 @@
+<map id="org.onosproject.vtnweb.web.PortChainCodecTest.codecPortChainTest" name="org.onosproject.vtnweb.web.PortChainCodecTest.codecPortChainTest">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortChain.html#aba72a93361182301a8aec515fa0905c3" title="Returns the description of this port chain. " alt="" coords="320,5,499,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortChain.html#a5ccff762ec5702dc910603ea34e9063e" title="Returns the list of flow classifiers associated with this port chain. " alt="" coords="320,70,499,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortChain.html#aa5a073aabd01876ff7c3cf3ca4052564" title="Returns the name of this port chain. " alt="" coords="320,135,499,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortChain.html#abd1bd2089d4372cda2d02b96c87d4885" title="Returns the ID of this port chain. " alt="" coords="320,201,499,242"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortChain.html#acab29881ab4500b6a6dd90830856790c" title="Returns the list of port pair groups associated with this port chain. " alt="" coords="320,266,499,307"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortChain.html#ac54445d211cc0f541facf78f84941ae4" title="Returns the tenant id of this port chain. " alt="" coords="320,331,499,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1vtnrsc_1_1PortChainId.html#a881f75d4f67c0563110d7f72df1d0bfd" title="org.onosproject.vtnrsc.Port\lChainId.toString" alt="" coords="320,397,499,438"/>
+</map>

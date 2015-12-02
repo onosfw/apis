@@ -1,0 +1,6 @@
+<map id="org.onosproject.cordvtn.DestinationInfo.DestinationInfo" name="org.onosproject.cordvtn.DestinationInfo.DestinationInfo">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cordvtn_1_1DestinationInfo.html#a36c456a10aba995083adffeadf974b8d" title="Returns destination ip addresses. " alt="" coords="257,5,420,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1cordvtn_1_1DestinationInfo.html#ac57797bccc7313ca19397e04ea3604f7" title="Returns destination mac address. " alt="" coords="257,70,420,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1cordvtn_1_1DestinationInfo.html#a9f9f87c6014ba23824834c22302b73f4" title="Returns tunnel remote ip address. " alt="" coords="256,135,421,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1cordvtn_1_1DestinationInfo.html#a1d362ef56ddda7bf26b1c92076faad4b" title="Returns tunnel id. " alt="" coords="257,201,420,242"/>
+</map>

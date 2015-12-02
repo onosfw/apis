@@ -1,0 +1,8 @@
+<map id="org.onosproject.vtnweb.resources.PortPairResourceTest" name="org.onosproject.vtnweb.resources.PortPairResourceTest">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnweb_1_1resources_1_1VtnResourceTest.html" title="Base class for VTN REST API tests. " alt="" coords="265,5,487,46"/>
+<area shape="rect" id="node4" title="Mock class for a port pair. " alt="" coords="259,70,493,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortPair.html" title="Abstraction of an entity providing Port Pair information. " alt="" coords="5,77,208,104"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1vtnrsc_1_1PortPairId.html" title="Representation of a Port Pair ID. " alt="" coords="287,135,465,177"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1vtnrsc_1_1TenantId.html" title="Immutable representation of a tenant identifier. " alt="" coords="273,201,479,228"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1portpair_1_1PortPairService.html" title="Service for interacting with the inventory of port pairs. " alt="" coords="275,253,477,294"/>
+</map>

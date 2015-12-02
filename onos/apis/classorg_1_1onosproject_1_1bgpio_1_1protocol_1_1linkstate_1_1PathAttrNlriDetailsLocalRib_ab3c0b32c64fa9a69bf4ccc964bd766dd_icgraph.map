@@ -1,0 +1,5 @@
+<map id="org.onosproject.bgpio.protocol.linkstate.PathAttrNlriDetailsLocalRib.localRibNlridetails" name="org.onosproject.bgpio.protocol.linkstate.PathAttrNlriDetailsLocalRib.localRibNlridetails">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1PathAttrNlriDetailsLocalRib.html#a61fa7aaa964b4fc5378139f690d4d313" title="org.onosproject.bgpio.protocol.linkstate.\lPathAttrNlriDetailsLocalRib.equals" alt="" coords="648,5,901,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1PathAttrNlriDetailsLocalRib.html#a190d58de1e59d1a59738da10357361ec" title="Constructor to initialize parameter. " alt="" coords="345,29,599,85"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpSelectionAlgo.html#a0d347a2b93133512ee2d4cb053473351" title="org.onosproject.bgp.controller.impl.\lBgpSelectionAlgo.compare" alt="" coords="950,5,1175,46"/>
+</map>

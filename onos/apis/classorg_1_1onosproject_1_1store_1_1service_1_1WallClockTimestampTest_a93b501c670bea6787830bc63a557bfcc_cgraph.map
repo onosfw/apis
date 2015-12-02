@@ -1,0 +1,5 @@
+<map id="org.onosproject.store.service.WallClockTimestampTest.testBasic" name="org.onosproject.store.service.WallClockTimestampTest.testBasic">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1service_1_1WallClockTimestamp.html#ac8fbab2d0c8f6fb1ce944f1362cb7eca" title="org.onosproject.store.service.\lWallClockTimestamp.compareTo" alt="" coords="285,5,501,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1service_1_1WallClockTimestamp.html#a80b3a12221458fd1aa1fbea1dd66069d" title="Returns the unixTimestamp. " alt="" coords="875,5,1115,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1service_1_1WallClockTimestamp.html#a4d226e7115705a98f3d9f94f4c552665" title="org.onosproject.store.service.\lWallClockTimestamp.WallClockTimestamp" alt="" coords="550,34,826,75"/>
+</map>

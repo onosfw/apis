@@ -1,0 +1,5 @@
+<map id="org.onosproject.incubator.net.tunnel.Tunnel" name="org.onosproject.incubator.net.tunnel.Tunnel">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotated.html" title="Represents an entity that carries arbitrary annotations. " alt="" coords="6,5,202,32"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1Provided.html" title="Abstraction of an entity supplied by a provider. " alt="" coords="10,56,198,83"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1NetworkResource.html" title="Representation of a network resource, e.g. " alt="" coords="11,107,197,149"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="org.onosproject.virtualbng.VbngManager" name="org.onosproject.virtualbng.VbngManager">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1virtualbng_1_1VbngService.html" title="Provides service of the virtual BNG. " alt="" coords="401,5,575,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1host_1_1HostService.html" title="Service for interacting with the inventory of end&#45;station hosts. " alt="" coords="405,70,571,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1virtualbng_1_1VbngConfigurationService.html" title="Provides information about the virtual BNG configuration. " alt="" coords="401,135,575,177"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1IntentService.html" title="Service for application submitting or withdrawing their intents. " alt="" coords="401,201,575,242"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="402,271,574,313"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="13,306,200,347"/>
+</map>

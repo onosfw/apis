@@ -1,0 +1,6 @@
+<map id="org.onosproject.store.service.Serializer" name="org.onosproject.store.service.Serializer">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1InternalDeviceEventSerializer.html" title="Kryo Serializer for InternalDeviceEvent. " alt="" coords="249,5,501,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1InternalDeviceOfflineEventSerializer.html" title="Kryo Serializer for InternalDeviceOfflineEvent. " alt="" coords="253,86,497,157"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1InternalPortEventSerializer.html" title="Kryo Serializer for InternalPortEvent. " alt="" coords="257,181,492,237"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1InternalPortStatusEventSerializer.html" title="Kryo Serializer for InternalPortStatusEvent. " alt="" coords="261,262,488,333"/>
+</map>

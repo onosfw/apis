@@ -1,0 +1,7 @@
+<map id="org.onosproject.store.service.TransactionException" name="org.onosproject.store.service.TransactionException">
+<area shape="rect" id="node4" title="Transaction failure due to a conflicting transaction in progress. " alt="" coords="670,5,957,46"/>
+<area shape="rect" id="node5" title="Transaction interrupted. " alt="" coords="706,70,921,111"/>
+<area shape="rect" id="node6" title="Transaction failure due to optimistic concurrency violation. " alt="" coords="671,136,956,192"/>
+<area shape="rect" id="node7" title="Transaction timeout. " alt="" coords="714,217,913,258"/>
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1service_1_1StorageException.html" title="Top level exception for Store failures. " alt="" coords="184,107,379,149"/>
+</map>

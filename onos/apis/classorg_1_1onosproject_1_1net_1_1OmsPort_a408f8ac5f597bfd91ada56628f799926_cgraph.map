@@ -1,0 +1,8 @@
+<map id="org.onosproject.net.OmsPort.equals" name="org.onosproject.net.OmsPort.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1AbstractAnnotated.html#a2858b84119b1f766fd6222e79efa1b93" title="Returns the key/value annotations. " alt="" coords="544,5,731,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1DefaultPort.html#ab5c1473ee5c0ddced5a8f2a51799d2a9" title="Indicates whether or not the port is currently up and active. " alt="" coords="293,59,472,101"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1OmsPort.html#ac7195bc685027cacbd0d0cc078ff5d73" title="Creates an OMS port in the specified network element. " alt="" coords="286,125,479,166"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1OmsPort.html#ad57ef3994ff9afdccf69754337f248bd" title="Returns the grid spacing frequency. " alt="" coords="530,73,745,100"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1OmsPort.html#afdb9db49be1785f77a7267fefcca6e38" title="Returns the maximum frequency. " alt="" coords="528,125,747,166"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1OmsPort.html#a3cb028900ee68e0ae0a8b4e7e075d15a" title="Returns the minimum frequency. " alt="" coords="530,190,745,231"/>
+</map>

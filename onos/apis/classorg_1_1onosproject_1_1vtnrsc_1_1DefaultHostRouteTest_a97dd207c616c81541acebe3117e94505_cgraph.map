@@ -1,0 +1,4 @@
+<map id="org.onosproject.vtnrsc.DefaultHostRouteTest.testConstruction" name="org.onosproject.vtnrsc.DefaultHostRouteTest.testConstruction">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1HostRoute.html#a590ceccb7f6c58e017f3df79bd195060" title="Returns the destination address. " alt="" coords="265,5,447,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1HostRoute.html#ae757b8968453f79654df788279b53a4b" title="Returns the next hop address. " alt="" coords="265,70,447,111"/>
+</map>

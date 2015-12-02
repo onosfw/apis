@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.device.impl.BasicDeviceOperator.descriptionOf" name="org.onosproject.net.device.impl.BasicDeviceOperator.descriptionOf">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1Device.html#aa10e801c64753482efe6147a111f9172" title="Returns the device hardware version. " alt="" coords="287,5,486,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1Device.html#a6fd9f6006eafd30a816e210b9c90d0d9" title="Returns the device identifier. " alt="" coords="291,71,483,97"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1Device.html#ac237cab925d19c08837ce3fd23604047" title="Returns the device serial number. " alt="" coords="280,122,493,163"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1Device.html#a55bd0437eeaa07c838dd0ab284c3b463" title="Returns the type of the infrastructure device. " alt="" coords="283,188,490,215"/>
+</map>

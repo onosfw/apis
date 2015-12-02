@@ -1,0 +1,11 @@
+<map id="org.onosproject.cli.net.AddHostToHostIntentCommand.execute" name="org.onosproject.cli.net.AddHostToHostIntentCommand.execute">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1HostToHostIntent.html#acb7ca2faf1de34389aa264bcaada3130" title="org.onosproject.net.intent.\lHostToHostIntent.toString" alt="" coords="313,234,487,275"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1Intent.html#a32751f163a6a746e44a3dc49411d5786" title="org.onosproject.net.intent.\lIntent.key" alt="" coords="548,5,721,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1Intent.html#a95213b848996654ad07bc1b1912dfceb" title="Returns the identifier of the application that requested the intent. " alt="" coords="548,70,721,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1Intent.html#a4f0242ba0f6aa662534da31fcc9fe9d8" title="Returns the priority of the intent. " alt="" coords="548,135,721,177"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1Intent.html#aed36b239b993ffca7966c93f52e5ab42" title="Returns the collection of resources required for this intent. " alt="" coords="548,201,721,242"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1ConnectivityIntent.html#aef4be7678fbfa88b9d130630c14ceecd" title="Returns the match specifying the type of traffic. " alt="" coords="545,266,724,307"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1ConnectivityIntent.html#a01f1e0a2278429c1d252c243f1d103da" title="Returns the action applied to the traffic. " alt="" coords="541,331,728,373"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1ConnectivityIntent.html#a46beafa19039b20ca0de6c96f4f4c028" title="Returns the set of connectivity constraints. " alt="" coords="537,397,733,438"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1HostToHostIntent.html#aacd4a0aa18a7ca0a28a26db9d0808363" title="Returns identifier of the second host. " alt="" coords="548,462,721,503"/>
+</map>

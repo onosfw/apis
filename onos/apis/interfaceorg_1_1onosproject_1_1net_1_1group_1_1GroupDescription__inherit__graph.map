@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.group.GroupDescription" name="org.onosproject.net.group.GroupDescription">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1group_1_1DefaultGroupDescription.html" title="Default implementation of group description interface. " alt="" coords="5,187,179,229"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1Group.html" title="ONOS representation of group that is stored in the system. " alt="" coords="129,97,303,138"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1group_1_1DefaultGroup.html" title="ONOS implementation of default group that is stored in the system. " alt="" coords="129,278,303,319"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1StoredGroupEntry.html" title="Interface that defines set methods for a group entry that is stored in the system. " alt="" coords="253,187,427,229"/>
+</map>

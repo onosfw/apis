@@ -1,0 +1,48 @@
+<map id="org.onosproject.bgpio.types.BgpValueType" name="org.onosproject.bgpio.types.BgpValueType">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1AreaIDTlv.html" title="Provides AreaID Tlv which contains opaque value (32 Bit Area&#45;ID). " alt="" coords="260,5,447,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1As4Path.html" title="Provides Implementation of As4Path BGP Path Attribute. " alt="" coords="260,70,447,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1AsPath.html" title="Provides Implementation of AsPath mandatory BGP Path Attribute. " alt="" coords="260,135,447,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpAttrNodeFlagBitTlv.html" title="Implements BGP attribute node flag. " alt="" coords="249,201,458,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpAttrNodeIsIsAreaId.html" title="Implements BGP attribute ISIS Area Identifier. " alt="" coords="249,266,458,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpAttrNodeMultiTopologyId.html" title="BGP Multi&#45;Topology ID of the LS attribute. " alt="" coords="249,331,458,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpAttrNodeName.html" title="Implements BGP attribute node name. " alt="" coords="249,397,458,438"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpAttrOpaqueNode.html" title="Implements BGP attribute opaque node. " alt="" coords="249,462,458,503"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpAttrRouterIdV4.html" title="Implements BGP attribute node router ID. " alt="" coords="249,527,458,569"/>
+<area shape="rect" id="node11" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpAttrRouterIdV6.html" title="Implements BGP attribute IPv6 router ID. " alt="" coords="249,593,458,634"/>
+<area shape="rect" id="node12" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpLinkAttrIgpMetric.html" title="Implements BGP link IGP metric attribute. " alt="" coords="249,658,458,699"/>
+<area shape="rect" id="node13" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpLinkAttrIsIsAdminstGrp.html" title="Implements BGP attribute Is Is Administrative area. " alt="" coords="249,723,458,765"/>
+<area shape="rect" id="node14" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpLinkAttrMaxLinkBandwidth.html" title="Implements BGP attribute Max Link bandwidth. " alt="" coords="249,789,458,830"/>
+<area shape="rect" id="node15" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpLinkAttrMplsProtocolMask.html" title="Implements BGP MPLS protocol mask attribute. " alt="" coords="249,854,458,895"/>
+<area shape="rect" id="node16" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpLinkAttrName.html" title="Implements BGP link name attribute. " alt="" coords="249,919,458,961"/>
+<area shape="rect" id="node17" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpLinkAttrOpaqLnkAttrib.html" title="Implements BGP link opaque attribute. " alt="" coords="249,985,458,1026"/>
+<area shape="rect" id="node18" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpLinkAttrProtectionType.html" title="Implements BGP link protection type attribute. " alt="" coords="249,1050,458,1091"/>
+<area shape="rect" id="node19" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpLinkAttrSrlg.html" title="Implements BGP link Shared Risk Link Group attribute. " alt="" coords="249,1115,458,1157"/>
+<area shape="rect" id="node20" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpLinkAttrTeDefaultMetric.html" title="Implements BGP link state Default TE metric link attribute. " alt="" coords="249,1181,458,1222"/>
+<area shape="rect" id="node21" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpLinkAttrUnRsrvdLinkBandwidth.html" title="Implements BGP unreserved bandwidth attribute. " alt="" coords="240,1246,467,1287"/>
+<area shape="rect" id="node22" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpPrefixAttrExtRouteTag.html" title="Implements BGP prefix route Extended tag attribute. " alt="" coords="249,1311,458,1353"/>
+<area shape="rect" id="node23" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpPrefixAttrIgpFlags.html" title="Implements BGP prefix IGP Flag attribute. " alt="" coords="249,1377,458,1418"/>
+<area shape="rect" id="node24" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpPrefixAttrMetric.html" title="Implements BGP prefix metric attribute. " alt="" coords="249,1442,458,1483"/>
+<area shape="rect" id="node25" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpPrefixAttrOpaqueData.html" title="Implements BGP prefix opaque data attribute. " alt="" coords="249,1507,458,1549"/>
+<area shape="rect" id="node26" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpPrefixAttrOspfFwdAddr.html" title="Implements BGP prefix OSPF Forwarding address attribute. " alt="" coords="249,1573,458,1614"/>
+<area shape="rect" id="node27" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpPrefixAttrRouteTag.html" title="Implements BGP prefix route tag attribute. " alt="" coords="249,1638,458,1679"/>
+<area shape="rect" id="node28" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1AutonomousSystemTlv.html" title="Provides Autonomous System Tlv which contains opaque value (32 Bit AS Number). " alt="" coords="260,1703,447,1745"/>
+<area shape="rect" id="node29" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1BgpLSIdentifierTlv.html" title="Provides BGPLSIdentifier Tlv which contains opaque value (32 Bit BGPLS&#45;Identifier). " alt="" coords="260,1769,447,1810"/>
+<area shape="rect" id="node30" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1FourOctetAsNumCapabilityTlv.html" title="Provides FourOctetAsNumCapabilityTlv Capability Tlv. " alt="" coords="253,1834,453,1875"/>
+<area shape="rect" id="node31" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPReachabilityInformationTlv.html" title="Provides IP Reachability InformationTlv Tlv which contains IP Prefix. " alt="" coords="258,1899,449,1941"/>
+<area shape="rect" id="node32" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPv4AddressTlv.html" title="Provides Implementation of IPv4AddressTlv. " alt="" coords="260,1965,447,2006"/>
+<area shape="rect" id="node33" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPv6AddressTlv.html" title="Provides Implementation of IPv6AddressTlv. " alt="" coords="260,2030,447,2071"/>
+<area shape="rect" id="node34" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IsIsNonPseudonode.html" title="Provides Implementation of IsIsNonPseudonode Tlv. " alt="" coords="260,2095,447,2137"/>
+<area shape="rect" id="node35" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IsIsPseudonode.html" title="Provides implementation of IsIsPseudonode Tlv. " alt="" coords="260,2161,447,2202"/>
+<area shape="rect" id="node36" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1LinkLocalRemoteIdentifiersTlv.html" title="Provides Implementation of Link Local/Remote IdentifiersTlv. " alt="" coords="254,2226,453,2267"/>
+<area shape="rect" id="node37" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1LinkStateAttributes.html" title="Implements BGP Link state attribute. " alt="" coords="260,2291,447,2333"/>
+<area shape="rect" id="node38" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1LocalPref.html" title="Provides implementation of LocalPref BGP Path Attribute. " alt="" coords="260,2357,447,2398"/>
+<area shape="rect" id="node39" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1Med.html" title="Provides Implementation of Med BGP Path Attribute. " alt="" coords="248,2423,459,2449"/>
+<area shape="rect" id="node40" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1MpReachNlri.html" title="org.onosproject.bgpio.types.\lMpReachNlri" alt="" coords="260,2474,447,2515"/>
+<area shape="rect" id="node41" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1MpUnReachNlri.html" title="Provides Implementation of MpUnReach Nlri BGP Path Attribute. " alt="" coords="260,2539,447,2581"/>
+<area shape="rect" id="node42" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1MultiProtocolExtnCapabilityTlv.html" title="Provides MultiProtocolExtnCapabilityTlv. " alt="" coords="253,2605,454,2646"/>
+<area shape="rect" id="node43" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1NextHop.html" title="Implementation of NextHop BGP Path Attribute. " alt="" coords="260,2670,447,2711"/>
+<area shape="rect" id="node44" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1Origin.html" title="Provides Implementation of mandatory BGP Origin path attribute. " alt="" coords="260,2735,447,2777"/>
+<area shape="rect" id="node45" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1OSPFNonPseudonode.html" title="Provides implementation of OSPFNonPseudonode Tlv. " alt="" coords="260,2801,447,2842"/>
+<area shape="rect" id="node46" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1OSPFPseudonode.html" title="Provides implementation of OSPFPseudonode Tlv. " alt="" coords="260,2866,447,2907"/>
+<area shape="rect" id="node47" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1OSPFRouteTypeTlv.html" title="Provides OSPF Route Type Tlv which contains route type. " alt="" coords="260,2931,447,2973"/>
+</map>

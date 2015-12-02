@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.cluster.messaging.impl.NettyMessagingManager" name="org.onosproject.store.cluster.messaging.impl.NettyMessagingManager">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1netty_1_1NettyMessaging.html" title="Implementation of MessagingService based on Netty framework. " alt="" coords="45,96,251,123"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1store_1_1cluster_1_1messaging_1_1MessagingService.html" title="Interface for low level messaging primitives. " alt="" coords="19,6,277,47"/>
+</map>

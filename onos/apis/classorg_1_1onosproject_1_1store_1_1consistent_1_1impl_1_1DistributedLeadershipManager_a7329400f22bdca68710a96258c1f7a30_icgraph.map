@@ -1,0 +1,3 @@
+<map id="org.onosproject.store.consistent.impl.DistributedLeadershipManager.getLeader" name="org.onosproject.store.consistent.impl.DistributedLeadershipManager.getLeader">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1DistributedLeadershipManager.html#a1d3e62ab39d167caa2d832fc9b5c0729" title="If the local nodeId is the leader for specified topic, this method causes it to step down temporarily..." alt="" coords="312,5,571,46"/>
+</map>

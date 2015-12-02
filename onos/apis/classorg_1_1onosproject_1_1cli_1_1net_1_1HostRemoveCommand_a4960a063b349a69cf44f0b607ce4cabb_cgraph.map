@@ -1,0 +1,5 @@
+<map id="org.onosproject.cli.net.HostRemoveCommand.execute" name="org.onosproject.cli.net.HostRemoveCommand.execute">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1HostId.html#abf8654838897ba5164ba0e2c65f0035c" title="Creates a device id using the supplied ID string. " alt="" coords="264,38,429,79"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1HostId.html#add3e495efaf06d2478648d92f6ecba48" title="Returns the host MAC address. " alt="" coords="477,5,643,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1HostId.html#aebf3e6f3eff5a1bfeee3b61f61f84c9c" title="Returns the host vlan Id. " alt="" coords="477,70,643,111"/>
+</map>

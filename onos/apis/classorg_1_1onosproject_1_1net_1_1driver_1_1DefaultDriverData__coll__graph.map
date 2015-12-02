@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.driver.DefaultDriverData" name="org.onosproject.net.driver.DefaultDriverData">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1DriverData.html" title="Container for data about a device. " alt="" coords="21,171,195,213"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1MutableAnnotations.html" title="Represents an mutable set of simple key/value string annotations. " alt="" coords="17,81,199,122"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotations.html" title="Represents an set of simple key/value string annotations. " alt="" coords="5,5,211,32"/>
+</map>

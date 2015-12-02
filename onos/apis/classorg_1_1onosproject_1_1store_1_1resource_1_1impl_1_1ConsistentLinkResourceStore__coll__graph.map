@@ -1,0 +1,5 @@
+<map id="org.onosproject.store.resource.impl.ConsistentLinkResourceStore" name="org.onosproject.store.resource.impl.ConsistentLinkResourceStore">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1LinkResourceStore.html" title="Manages link resources. " alt="" coords="279,86,494,127"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="297,151,476,193"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="289,217,484,258"/>
+</map>

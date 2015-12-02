@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.link.DefaultLinkDescription" name="org.onosproject.net.link.DefaultLinkDescription">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1AbstractDescription.html" title="Base implementation of an annotated model description. " alt="" coords="5,155,192,197"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotated.html" title="Represents an entity that carries arbitrary annotations. " alt="" coords="106,5,301,32"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1Description.html" title="Base abstraction of a piece of information about network elements. " alt="" coords="180,80,383,107"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkDescription.html" title="Describes an infrastructure link. " alt="" coords="217,155,377,197"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.host.impl.HostManager.getHost" name="org.onosproject.net.host.impl.HostManager.getHost">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1host_1_1impl_1_1HostManagerTest.html#ad1bf37bf381e2e1870cc3d7b9d026bcb" title="org.onosproject.net.host.impl.\lHostManagerTest.hostDetected" alt="" coords="263,5,471,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1host_1_1impl_1_1HostManagerTest.html#ae24cbd06fc6a58602a156698d2a270bf" title="org.onosproject.net.host.impl.\lHostManagerTest.hostDetectedIPv6" alt="" coords="249,70,484,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1host_1_1impl_1_1HostManagerTest.html#a87f66c53b0a5b837a05baf075af8fee7" title="org.onosproject.net.host.impl.\lHostManagerTest.hostVanished" alt="" coords="262,135,471,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1host_1_1impl_1_1HostManagerTest.html#a7931d469ee73a4861af2f074036e1824" title="org.onosproject.net.host.impl.\lHostManagerTest.hostVanishedIPv6" alt="" coords="249,201,485,242"/>
+</map>

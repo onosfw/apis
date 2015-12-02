@@ -1,0 +1,4 @@
+<map id="org.onosproject.routing.impl.RouterTest.testIpv6RouteAdd" name="org.onosproject.routing.impl.RouterTest.testIpv6RouteAdd">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1routing_1_1impl_1_1RouterTest.html#aac0eca5f06cbc43632662e20df3d7e05" title="Tests deleting a IPv6 route entry. " alt="" coords="253,5,464,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1routing_1_1impl_1_1RouterTest.html#a362f846621fc5830103edcf4f653c0fc" title="Tests updating a IPv6 route entry. " alt="" coords="251,70,466,111"/>
+</map>

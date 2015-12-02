@@ -1,0 +1,4 @@
+<map id="org.onosproject.cli.net.FlowsListCommand.getSortedFlows" name="org.onosproject.cli.net.FlowsListCommand.getSortedFlows">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html#adddfe5a01ed42c5094fec234c594fe67" title="Returns a collection of the currently known infrastructure devices. " alt="" coords="305,5,484,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleService.html#a77bcbdced35ba45ef5a8e0ea6d3ae37f" title="Returns the collection of flow entries applied on the specified device. " alt="" coords="289,70,501,111"/>
+</map>

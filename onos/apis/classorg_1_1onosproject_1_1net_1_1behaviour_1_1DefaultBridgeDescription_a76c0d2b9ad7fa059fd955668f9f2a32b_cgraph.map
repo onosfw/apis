@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.behaviour.DefaultBridgeDescription.equals" name="org.onosproject.net.behaviour.DefaultBridgeDescription.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1behaviour_1_1DefaultBridgeDescription.html#a0bf1a5242814a1d9876aa980e25c8fc5" title="org.onosproject.net.behaviour.\lDefaultBridgeDescription.Default\lBridgeDescription" alt="" coords="264,31,477,87"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1AbstractDescription.html#a9230f0f1b251f2cf963bc6dc9ec6be3d" title="Returns the key/value annotations. " alt="" coords="543,5,729,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1behaviour_1_1DefaultBridgeDescription.html#ade92f5c7c9dea821849a9c603dc38dc4" title="Returns bridge identifier . " alt="" coords="526,70,746,111"/>
+</map>

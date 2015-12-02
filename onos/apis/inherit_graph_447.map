@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$enumorg_1_1onosproject_1_1grpc_1_1Device_1_1DeviceType.html" title="Protobuf enum. " alt="" coords="211,5,400,46"/>
+<area shape="rect" id="node3" href="$enumorg_1_1onosproject_1_1grpc_1_1Device_1_1MastershipRole.html" title="Protobuf enum. " alt="" coords="211,70,400,111"/>
+<area shape="rect" id="node4" href="$enumorg_1_1onosproject_1_1grpc_1_1Port_1_1PortType.html" title="Protobuf enum. " alt="" coords="219,135,391,177"/>
+</map>

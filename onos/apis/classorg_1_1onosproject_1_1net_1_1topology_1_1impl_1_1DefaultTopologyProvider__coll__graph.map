@@ -1,0 +1,9 @@
+<map id="org.onosproject.net.topology.impl.DefaultTopologyProvider" name="org.onosproject.net.topology.impl.DefaultTopologyProvider">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1AbstractProvider.html" title="Base provider implementation. " alt="" coords="311,5,497,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="35,33,221,74"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1topology_1_1TopologyProvider.html" title="Means for injecting topology information into the core. " alt="" coords="309,70,499,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="315,135,493,177"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1cfg_1_1ComponentConfigService.html" title="Service for tracking system&#45;wide configurations for various software components. " alt="" coords="302,201,506,242"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkService.html" title="Service for interacting with the inventory of infrastructure links. " alt="" coords="323,266,485,307"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1net_1_1topology_1_1TopologyProviderRegistry.html" title="Abstraction of a network topology provider registry. " alt="" coords="309,337,499,378"/>
+</map>

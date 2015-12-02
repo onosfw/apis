@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceorg_1_1onosproject_1_1net_1_1packet_1_1PacketProcessor.html" title="Abstraction of an inbound packet processor. " alt="" coords="6,5,186,46"/>
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1pim_1_1impl_1_1PIMPacketHandler_1_1PIMPacketProcessor.html" title="Packet processor responsible for handling IGMP packets. " alt="" coords="235,5,495,46"/>
+</map>

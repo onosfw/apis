@@ -1,0 +1,4 @@
+<map id="org.onlab.jdvue.JavaEntity" name="org.onlab.jdvue.JavaEntity">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1jdvue_1_1JavaPackage.html" title="Simple abstraction of a Java package for the purpose of tracking dependencies and requirements..." alt="" coords="5,80,197,107"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1jdvue_1_1JavaSource.html" title="Simple abstraction of a Java source file for the purpose of tracking dependencies and requirements..." alt="" coords="222,80,404,107"/>
+</map>

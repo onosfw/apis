@@ -1,0 +1,4 @@
+<map id="org.onosproject.bgpio.types.IPv6AddressTlv.of" name="org.onosproject.bgpio.types.IPv6AddressTlv.of">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPv6AddressTlv.html#ab41c0b33368fc46ab119e704bd000e4b" title="Constructor to initialize parameters. " alt="" coords="241,5,453,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPv6AddressTlv.html#a15683a6f522c190c0a9a7e4d236e611e" title="Returns Ipv6 address of interface/neighbor. " alt="" coords="501,5,688,46"/>
+</map>

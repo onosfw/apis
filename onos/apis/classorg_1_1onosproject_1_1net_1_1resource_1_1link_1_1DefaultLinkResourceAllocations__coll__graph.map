@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.resource.link.DefaultLinkResourceAllocations" name="org.onosproject.net.resource.link.DefaultLinkResourceAllocations">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1LinkResourceAllocations.html" title="Representation of allocated link resources. " alt="" coords="5,97,219,138"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1resource_1_1ResourceAllocation.html" title="Abstraction of allocated resource. " alt="" coords="17,6,207,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.onosproject.election.ElectionTest" name="org.onosproject.election.ElectionTest">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1cluster_1_1LeadershipService.html" title="Service for leader election. " alt="" coords="423,37,582,78"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="417,125,589,166"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="21,125,208,166"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="423,194,582,235"/>
+</map>

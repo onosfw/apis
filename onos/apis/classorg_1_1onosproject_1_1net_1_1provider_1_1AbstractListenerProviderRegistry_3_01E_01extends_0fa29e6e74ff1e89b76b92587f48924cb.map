@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.provider.AbstractListenerProviderRegistry&lt; E extends Event, L extends EventListener&lt; E &gt;, P extends Provider, S extends ProviderService&lt; P &gt; &gt;" name="org.onosproject.net.provider.AbstractListenerProviderRegistry&lt; E extends Event, L extends EventListener&lt; E &gt;, P extends Provider, S extends ProviderService&lt; P &gt; &gt;">
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1event_1_1EventDeliveryService.html" title="Abstraction of an entity capable of accepting events to be posted and then dispatching them to the ap..." alt="" coords="243,203,429,245"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1event_1_1EventDispatcher.html" title="Abstraction of a mechanism capable of accepting and dispatching events to appropriate event sinks..." alt="" coords="6,170,191,211"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1event_1_1EventSinkRegistry.html" title="Abstraction of an event sink registry capable of tracking sinks based on their event class..." alt="" coords="6,235,191,277"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="org.onosproject.net.device.impl.BasicDeviceOperator.combine" name="org.onosproject.net.device.impl.BasicDeviceOperator.combine">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1Description.html#a546df2cfe2e5a027f36ef24fdb0fc9f4" title="Returns the key/value annotations. " alt="" coords="261,5,536,32"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceDescription.html#a791ac3815e18b0464d7fa6647bf0d7d6" title="Protocol/provider specific URI that can be used to encode the identity information required to commun..." alt="" coords="305,57,493,98"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceDescription.html#a1887d6722cc37ef70da4f243e7ea4d8f" title="Returns the device hardware version. " alt="" coords="301,122,496,163"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceDescription.html#a34040f9eb5c5f1bd7bb775671b730ab3" title="Returns the device serial number. " alt="" coords="293,187,504,229"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1config_1_1basics_1_1BasicDeviceConfig.html#a111d81232c538c87b590cd02d335e16a" title="Returns the device type. " alt="" coords="289,253,508,294"/>
+</map>

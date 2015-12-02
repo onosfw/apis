@@ -1,0 +1,9 @@
+<map id="org.onosproject.store.statistic.impl.DistributedFlowStatisticStore" name="org.onosproject.store.statistic.impl.DistributedFlowStatisticStore">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1statistic_1_1FlowStatisticStore.html" title="Flow Store to house the computed statistics. " alt="" coords="529,5,716,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1serializers_1_1KryoSerializer.html" title="StoreSerializer implementation using Kryo. " alt="" coords="517,70,728,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1store_1_1serializers_1_1StoreSerializer.html" title="Service to serialize Objects into byte array. " alt="" coords="151,11,361,53"/>
+<area shape="rect" id="node5" href="$classorg_1_1onlab_1_1util_1_1KryoNamespace.html" title="Pool of Kryo instances, with classes pre&#45;registered. " alt="" coords="157,77,355,104"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="543,135,702,177"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1store_1_1cluster_1_1messaging_1_1ClusterCommunicationService.html" title="Service for assisting communications between controller cluster nodes. " alt="" coords="493,201,752,242"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipService.html" title="Service responsible for determining the controller instance mastership of a device in a clustered env..." alt="" coords="531,266,714,307"/>
+</map>

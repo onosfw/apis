@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.consistent.impl.DefaultDatabaseState.prepare" name="org.onosproject.store.consistent.impl.DefaultDatabaseState.prepare">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1Transaction.html#a57578896757e096b7475fde52bfa0746" title="Returns the transaction Id. " alt="" coords="293,5,488,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1Transaction.html#aeaaf6ec9a8a7a137d125837443178c15" title="Returns the list of updates that are part of this transaction. " alt="" coords="293,70,488,111"/>
+</map>

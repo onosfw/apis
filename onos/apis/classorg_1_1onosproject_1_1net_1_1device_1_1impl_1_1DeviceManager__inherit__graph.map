@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.device.impl.DeviceManager" name="org.onosproject.net.device.impl.DeviceManager">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="313,133,492,174"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceAdminService.html" title="Service for administering the inventory of infrastructure devices. " alt="" coords="608,166,787,207"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceProviderRegistry.html" title="Abstraction of a device provider registry. " alt="" coords="608,231,787,273"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.service.AtomicCounter" name="org.onosproject.store.service.AtomicCounter">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1DefaultAtomicCounter.html" title="Default implementation for a distributed AtomicCounter backed by partitioned Raft DB..." alt="" coords="248,5,488,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1service_1_1TestAtomicCounter.html" title="Test implementation of atomic counter. " alt="" coords="271,70,465,111"/>
+</map>

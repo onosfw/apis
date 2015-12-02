@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.resource.link.BandwidthResource.of" name="org.onosproject.net.resource.link.BandwidthResource.of">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1util_1_1Bandwidth.html#aaaab3e84d768783191b06aee6fa26358" title="Creates a new instance with given bandwidth. " alt="" coords="269,12,445,39"/>
+<area shape="rect" id="node3" href="$enumorg_1_1onlab_1_1util_1_1DataRateUnit.html#a05e3786ffd25c6bce485fd66f9df7b61" title="Converts given value in this unit to bits per seconds. " alt="" coords="493,5,688,46"/>
+</map>

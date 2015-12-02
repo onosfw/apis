@@ -1,0 +1,3 @@
+<map id="org.onosproject.rest.resources.ComponentConfigWebResource.unsetConfigs" name="org.onosproject.rest.resources.ComponentConfigWebResource.unsetConfigs">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1cfg_1_1ComponentConfigService.html#ac5096ace6b11238357c8623746ccdefd" title="Clears the value of the specified configuration property thus making the property take on its default..." alt="" coords="345,5,549,46"/>
+</map>

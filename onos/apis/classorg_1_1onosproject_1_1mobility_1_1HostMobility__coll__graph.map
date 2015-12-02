@@ -1,0 +1,7 @@
+<map id="org.onosproject.mobility.HostMobility" name="org.onosproject.mobility.HostMobility">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="424,23,603,65"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1host_1_1HostService.html" title="Service for interacting with the inventory of end&#45;station hosts. " alt="" coords="430,99,597,141"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleService.html" title="Service for injecting flow rules into the environment and for obtaining information about flow rules ..." alt="" coords="431,169,596,210"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="427,247,599,289"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="25,285,212,326"/>
+</map>

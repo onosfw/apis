@@ -1,0 +1,6 @@
+<map id="org.onlab.netty.InternalMessage.InternalMessage" name="org.onlab.netty.InternalMessage.InternalMessage">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1netty_1_1InternalMessage.html#a00eec25080138de0c032eac1cd1238cc" title="org.onlab.netty.Internal\lMessage.id" alt="" coords="229,5,384,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1netty_1_1InternalMessage.html#a5436f1131fe97d037b0464a2f3f13a69" title="org.onlab.netty.Internal\lMessage.payload" alt="" coords="229,70,384,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1netty_1_1InternalMessage.html#abf5d279320b70aa82735ce18fa5f3e31" title="org.onlab.netty.Internal\lMessage.sender" alt="" coords="229,135,384,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onlab_1_1netty_1_1InternalMessage.html#a733b41a2d75a80df7ede81f208ef5a58" title="org.onlab.netty.Internal\lMessage.type" alt="" coords="229,201,384,242"/>
+</map>

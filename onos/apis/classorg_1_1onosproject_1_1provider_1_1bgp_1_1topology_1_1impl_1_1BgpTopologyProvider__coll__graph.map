@@ -1,0 +1,7 @@
+<map id="org.onosproject.provider.bgp.topology.impl.BgpTopologyProvider" name="org.onosproject.provider.bgp.topology.impl.BgpTopologyProvider">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1AbstractProvider.html" title="Base provider implementation. " alt="" coords="339,5,525,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="51,37,237,78"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceProvider.html" title="Abstraction of a device information provider. " alt="" coords="343,70,521,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1bgp_1_1controller_1_1BgpController.html" title="Abstraction of an BGP controller. " alt="" coords="333,135,531,177"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceProviderRegistry.html" title="Abstraction of a device provider registry. " alt="" coords="343,201,521,242"/>
+</map>

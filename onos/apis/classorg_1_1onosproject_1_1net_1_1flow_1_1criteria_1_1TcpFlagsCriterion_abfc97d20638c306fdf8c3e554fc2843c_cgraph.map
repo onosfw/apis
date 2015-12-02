@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.criteria.TcpFlagsCriterion.toString" name="org.onosproject.net.flow.criteria.TcpFlagsCriterion.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1TcpFlagsCriterion.html#aa10ed8f8b18a9a6e383f569d63cd453a" title="Gets the TCP flags to match. " alt="" coords="261,5,469,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1TcpFlagsCriterion.html#a350cef55a31fc738f3567f9664d94b98" title="Returns the type of criterion. " alt="" coords="261,70,469,111"/>
+</map>

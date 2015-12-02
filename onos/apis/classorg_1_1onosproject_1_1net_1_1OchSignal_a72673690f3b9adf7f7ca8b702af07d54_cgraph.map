@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.OchSignal.equals" name="org.onosproject.net.OchSignal.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1OchSignal.html#a13a9a1392336c840dac9babdd9b90028" title="Creates an instance with the specified arguments. " alt="" coords="294,38,495,79"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1OchSignal.html#ad64891760467ae8a2b52f4b2b3b20e6a" title="Returns slow width granularity. " alt="" coords="557,5,779,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1OchSignal.html#a0118badc5048592d935f8e4ab1191de4" title="Returns spacing multiplier. " alt="" coords="545,70,791,111"/>
+</map>

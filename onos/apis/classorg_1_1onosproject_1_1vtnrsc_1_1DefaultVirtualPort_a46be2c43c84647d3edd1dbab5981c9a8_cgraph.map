@@ -1,0 +1,17 @@
+<map id="org.onosproject.vtnrsc.DefaultVirtualPort.toString" name="org.onosproject.vtnrsc.DefaultVirtualPort.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultVirtualPort.html#aa85f8cbecee613dc8d3bf279c1855e4e" title="Returns the administrative status of the port,which is up(true) or down(false). " alt="" coords="257,5,455,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultVirtualPort.html#a1394bfdb6c06fb7be86297e39a0236c3" title="Returns the virtualPort allowedAddressPairs. " alt="" coords="251,70,461,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultVirtualPort.html#a587f7ce6fef5f9c969233afca4c2a649" title="Returns the virtualPort bindinghostId. " alt="" coords="257,135,455,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultVirtualPort.html#ad842737ccebfb862bd030305e2c587a4" title="Returns the virtualPort bindingvifDetail. " alt="" coords="257,201,455,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultVirtualPort.html#aae81bbd409b97095a1998a317acb6044" title="Returns the virtualPort bindingVifType. " alt="" coords="509,289,707,330"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultVirtualPort.html#aa1ffabe64f9e94c20a4b72668eb3b5e5" title="Returns the virtualPort bindingVnicType. " alt="" coords="257,318,455,359"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultVirtualPort.html#a62233527c0fa10bb3e8349a6ba4d4a8a" title="Returns the device identifier. " alt="" coords="257,383,455,425"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultVirtualPort.html#a21dcf581b236667fa9d1c00fd4dc8d2f" title="Returns the identifier of the entity that uses this port. " alt="" coords="257,449,455,490"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultVirtualPort.html#a530f554f90400ec4a3b50a59596529c6" title="Returns set of IP addresses for the port, include the IP addresses and subnet identity. " alt="" coords="257,514,455,555"/>
+<area shape="rect" id="node11" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultVirtualPort.html#aa11e3c401485a3ccf6cf5eff4713a112" title="Returns the MAC address. " alt="" coords="257,579,455,621"/>
+<area shape="rect" id="node12" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultVirtualPort.html#a853eba537ad9de8d55653d0423495950" title="Returns the symbolic name for the virtualPort. " alt="" coords="257,645,455,686"/>
+<area shape="rect" id="node13" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultVirtualPort.html#a7495dfdca9c3709a70f8735dae6994f3" title="Returns the network identifier. " alt="" coords="257,710,455,751"/>
+<area shape="rect" id="node14" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultVirtualPort.html#a04142c085e9c8d205d5a3a4557b684d7" title="Returns the security groups. " alt="" coords="257,775,455,817"/>
+<area shape="rect" id="node15" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultVirtualPort.html#aed334e83c2b869f5c8c404e86e739894" title="Returns the state. " alt="" coords="257,841,455,882"/>
+<area shape="rect" id="node16" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultVirtualPort.html#a5a33c9d999b1b47ac208cff4f0c0af7c" title="Returns the port tenantId. " alt="" coords="257,906,455,947"/>
+</map>

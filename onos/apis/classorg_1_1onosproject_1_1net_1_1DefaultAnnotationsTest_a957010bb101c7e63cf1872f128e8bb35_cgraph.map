@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.DefaultAnnotationsTest.noopMerge" name="org.onosproject.net.DefaultAnnotationsTest.noopMerge">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1DefaultAnnotations.html#a5f81a8b8e633fc25a6a71f99a3e51800" title="Returns the set of keys for available annotations.annotation keysNote that this set includes keys for..." alt="" coords="240,5,419,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1DefaultAnnotations.html#af71b210cabf273e9d7231ef79737f9e2" title="Merges the specified base set of annotations and additional sparse annotations into new combined anno..." alt="" coords="240,70,419,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1SparseAnnotations.html#ad79a657dbf2093731119b685b55e8bc4" title="Indicates whether the specified key has been tagged as removed. " alt="" coords="467,37,645,78"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1SparseAnnotations.html#a355dd40c5ab91c061c3dbc54e7484a9d" title="Returns the set of keys for available annotations.annotation keys " alt="" coords="467,102,645,143"/>
+</map>

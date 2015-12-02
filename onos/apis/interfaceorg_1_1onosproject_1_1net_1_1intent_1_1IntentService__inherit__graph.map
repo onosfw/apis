@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.intent.IntentService" name="org.onosproject.net.intent.IntentService">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1impl_1_1IntentManager.html" title="An implementation of intent service. " alt="" coords="478,5,679,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1IntentServiceAdapter.html" title="Test adapter for intent service. " alt="" coords="492,70,665,111"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1TestableIntentService.html" title="Abstraction of an extensible intent service enabled for unit tests. " alt="" coords="492,135,665,177"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1FakeIntentManager.html" title="Fake implementation of the intent service to assist in developing tests of the interface contract..." alt="" coords="763,135,936,177"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="org.onosproject.net.HostId.mac" name="org.onosproject.net.HostId.mac">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1HostId.html#a776a6cfb807693d0e85f97018ba3c753" title="org.onosproject.net.Host\lId.hashCode" alt="" coords="219,201,384,242"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1HostId.html#abf8654838897ba5164ba0e2c65f0035c" title="Creates a device id using the supplied ID string. " alt="" coords="219,266,384,307"/>
+<area shape="rect" id="node13" href="$classorg_1_1onosproject_1_1net_1_1HostId.html#af4198943cafc9ac7f91b860426c8bbb7" title="org.onosproject.net.Host\lId.toString" alt="" coords="219,331,384,373"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1HostRemoveCommand.html#a4960a063b349a69cf44f0b607ce4cabb" title="Executes this command. " alt="" coords="489,5,698,46"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1ConnectPoint.html#ad9c896ab06c69c4f8eb87d9d57ccc362" title="Parse a host connect point from a string. " alt="" coords="500,70,687,111"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1HostId.html#ad1941f7fd8d4979f94668d2f49120a4f" title="Creates a device id using the supplied MAC and default VLAN. " alt="" coords="511,135,676,177"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1rest_1_1HostResourceTest.html#aae774c1214a23b51692e0cd44581ba41" title="Tests that a fetch of a non&#45;existent object throws an exception. " alt="" coords="506,201,681,242"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1rest_1_1HostResourceTest.html#ac0580c70d4e1fb53d988312123a3d193" title="Tests the result of the rest api GET when hosts are defined. " alt="" coords="495,266,691,307"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1net_1_1proxyarp_1_1impl_1_1ProxyArpManagerTest.html#ad0e19f27e422b14333b4cc49d3817f40" title="Test ARP request from internal network to an external host. " alt="" coords="432,331,755,373"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1net_1_1proxyarp_1_1impl_1_1ProxyArpManagerTest.html#a783d9333a6f860fa50377c37cbadc639" title="Test NDP request from internal network to an external host. " alt="" coords="455,397,731,453"/>
+<area shape="rect" id="node11" href="$classorg_1_1onosproject_1_1rest_1_1HostResourceTest.html#aa3aa1c79aacaa2ef4274da25ad816d66" title="Tests fetch of one host by Id. " alt="" coords="466,478,721,519"/>
+<area shape="rect" id="node12" href="$classorg_1_1onosproject_1_1rest_1_1HostResourceTest.html#a05f8f3143b51c71f5ad2f2527bfb5a87" title="Tests fetch of one host by mac and vlan. " alt="" coords="476,544,711,600"/>
+</map>

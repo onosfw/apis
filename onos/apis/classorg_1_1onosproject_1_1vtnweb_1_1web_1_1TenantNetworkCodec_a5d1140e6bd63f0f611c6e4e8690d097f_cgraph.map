@@ -1,0 +1,8 @@
+<map id="org.onosproject.vtnweb.web.TenantNetworkCodec.encode" name="org.onosproject.vtnweb.web.TenantNetworkCodec.encode">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1TenantNetwork.html#a6ed3699811247ffa480e10122bb5bffd" title="Returns the administrative state of the tenantNetwork,which is up(true) or down(false). " alt="" coords="248,5,443,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1TenantNetwork.html#ab64f1e9410cb1d9b8c2aaa11fe7d3a87" title="Returns the tenantNetwork name. " alt="" coords="248,70,443,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1TenantNetwork.html#a08f429ce98a7fab26c57e94113f74855" title="Returns the tenantNetwork segmentation id. " alt="" coords="248,135,443,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1TenantNetwork.html#a0a9ca62d4032ac02abb941e8703f202d" title="Indicates whether this tenantNetwork is shared across all tenants. " alt="" coords="248,201,443,242"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1TenantNetwork.html#a20f15d845b1a2fad306c8799351dd27e" title="Returns the tenantNetwork state. " alt="" coords="248,266,443,307"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1TenantNetwork.html#aed1b9d01ea3482b62a28b9b44d52fa6c" title="Returns the UUID of the tenant that will own the tenantNetwork. " alt="" coords="248,331,443,373"/>
+</map>

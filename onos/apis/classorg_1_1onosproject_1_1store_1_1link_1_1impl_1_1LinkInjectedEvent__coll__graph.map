@@ -1,0 +1,6 @@
+<map id="org.onosproject.store.link.impl.LinkInjectedEvent" name="org.onosproject.store.link.impl.LinkInjectedEvent">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkDescription.html" title="Describes an infrastructure link. " alt="" coords="26,161,187,202"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1Description.html" title="Base abstraction of a piece of information about network elements. " alt="" coords="5,83,208,109"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotated.html" title="Represents an entity that carries arbitrary annotations. " alt="" coords="9,5,204,32"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="212,161,399,202"/>
+</map>

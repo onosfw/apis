@@ -1,0 +1,6 @@
+<map id="org.onosproject.bgpio.types.attr.BgpPrefixAttrExtRouteTag.pfxExtRouteTag" name="org.onosproject.bgpio.types.attr.BgpPrefixAttrExtRouteTag.pfxExtRouteTag">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpPrefixAttrExtRouteTag.html#aaa130345d1b84874d78e78cd2f3f6fcf" title="org.onosproject.bgpio.types.attr.\lBgpPrefixAttrExtRouteTag.equals" alt="" coords="341,5,560,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpPrefixAttrExtRouteTag.html#a4317198c441b527dcfce5ba5227c0f39" title="org.onosproject.bgpio.types.attr.\lBgpPrefixAttrExtRouteTag.hashCode" alt="" coords="331,70,571,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpPrefixAttrExtRouteTag.html#ad85479b1a95dc9b8a1a9d0f95b9a4280" title="Reads the Extended Tag. " alt="" coords="346,135,555,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpPrefixAttrExtRouteTag.html#a5b8183a2980b41677419b13611eeb508" title="org.onosproject.bgpio.types.attr.\lBgpPrefixAttrExtRouteTag.toString" alt="" coords="337,201,564,242"/>
+</map>

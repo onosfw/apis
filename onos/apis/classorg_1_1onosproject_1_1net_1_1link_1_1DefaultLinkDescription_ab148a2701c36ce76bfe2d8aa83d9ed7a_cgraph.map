@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.link.DefaultLinkDescription.toString" name="org.onosproject.net.link.DefaultLinkDescription.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1link_1_1DefaultLinkDescription.html#a9fad03a637fedb418f7c57dc95e4f444" title="Returns the link destination. " alt="" coords="260,5,436,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1link_1_1DefaultLinkDescription.html#aee4328a1179323e5412ba19118ab87d8" title="Returns the link source. " alt="" coords="260,70,436,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1link_1_1DefaultLinkDescription.html#a2d8826842dd9c57eb62770fc60483b8d" title="Returns the link type. " alt="" coords="257,135,439,177"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.OchSignal.OchSignal" name="org.onosproject.net.OchSignal.OchSignal">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1OchSignal.html#ad64891760467ae8a2b52f4b2b3b20e6a" title="Returns slow width granularity. " alt="" coords="269,5,491,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1OchSignal.html#a0118badc5048592d935f8e4ab1191de4" title="Returns spacing multiplier. " alt="" coords="257,70,503,111"/>
+</map>

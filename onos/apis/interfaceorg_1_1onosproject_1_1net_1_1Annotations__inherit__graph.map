@@ -1,0 +1,10 @@
+<map id="org.onosproject.net.Annotations" name="org.onosproject.net.Annotations">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1Driver.html" title="Representation of a specific family of device drivers. " alt="" coords="267,70,440,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1MutableAnnotations.html" title="Represents an mutable set of simple key/value string annotations. " alt="" coords="262,135,445,177"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1net_1_1SparseAnnotations.html" title="Represents an set of sparse key/value string annotations capable of carrying annotation keys tagged f..." alt="" coords="264,201,443,242"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1DefaultDriver.html" title="Default implementation of extensible driver. " alt="" coords="496,5,669,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1openflow_1_1DriverAdapter.html" title="Created by ray on 11/4/15. " alt="" coords="497,70,668,111"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1DriverData.html" title="Container for data about a device. " alt="" coords="496,135,669,177"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1DefaultDriverData.html" title="Default implementation of driver data descriptor. " alt="" coords="720,135,893,177"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1net_1_1DefaultAnnotations.html" title="Represents a set of simple annotations that can be used to add arbitrary attributes to various parts ..." alt="" coords="493,201,672,242"/>
+</map>

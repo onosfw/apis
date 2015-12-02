@@ -1,0 +1,5 @@
+<map id="org.onlab.nio.AbstractMessage" name="org.onlab.nio.AbstractMessage">
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1nio_1_1service_1_1DefaultMessage.html" title="Default message. " alt="" coords="5,155,192,197"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1nio_1_1TestMessage.html" title="Test message for measuring rate and round&#45;trip latency. " alt="" coords="217,163,396,189"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onlab_1_1nio_1_1Message.html" title="Representation of a message transferred via MessageStream. " alt="" coords="126,5,279,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.FlowRuleListener" name="org.onosproject.net.flow.FlowRuleListener">
+<area shape="rect" id="node4" title="Internal flow rule event listener for FlowStatisticManager. " alt="" coords="500,71,751,127"/>
+<area shape="rect" id="node5" title="Internal flow rule event listener. " alt="" coords="491,151,759,193"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.config.basics.BasicDeviceConfig.type" name="org.onosproject.net.config.basics.BasicDeviceConfig.type">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1device_1_1impl_1_1BasicDeviceOperator.html#a244a00e41d8b6a11a103e89282e8b44f" title="Generates a DeviceDescription containing fields from a DeviceDescription and a DeviceConfig. " alt="" coords="278,5,485,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1config_1_1basics_1_1BasicDeviceConfig.html#ad3c056dd03a10478feca8fd3755a4151" title="Sets the device type. " alt="" coords="272,70,491,111"/>
+</map>

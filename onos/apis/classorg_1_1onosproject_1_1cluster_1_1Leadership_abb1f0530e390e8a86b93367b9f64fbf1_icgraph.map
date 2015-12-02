@@ -1,0 +1,6 @@
+<map id="org.onosproject.cluster.Leadership.leader" name="org.onosproject.cluster.Leadership.leader">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cluster_1_1Leadership.html#a2c1ec3c2bf9147802c25ad2ab5c633a1" title="org.onosproject.cluster.\lLeadership.hashCode" alt="" coords="214,5,373,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1cluster_1_1Leadership.html#af0f068937a5aed9fe48cd55de02ed0f0" title="org.onosproject.cluster.\lLeadership.Leadership" alt="" coords="214,70,373,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1cluster_1_1Leadership.html#af24d6d3ff25f55a1e6ec6c3b343fc769" title="org.onosproject.cluster.\lLeadership.toString" alt="" coords="214,135,373,177"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1cluster_1_1Leadership.html#a35e0bc006f8f8747cd9cf9cbfe4eb453" title="org.onosproject.cluster.\lLeadership.equals" alt="" coords="422,70,581,111"/>
+</map>

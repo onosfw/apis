@@ -1,0 +1,5 @@
+<map id="org.onosproject.ovsdb.rfc.tableservice.AbstractOvsdbTableService.equals" name="org.onosproject.ovsdb.rfc.tableservice.AbstractOvsdbTableService.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1tableservice_1_1AbstractOvsdbTableService.html#a1dcd89d66afc934e034cabca01f53c80" title="Constructs a AbstractOvsdbTableService object. " alt="" coords="302,31,578,87"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1tableservice_1_1AbstractOvsdbTableService.html#a9a8e26d1b29d77a93dec7d9709ad1954" title="Get DatabaseSchema entity. " alt="" coords="627,5,877,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1tableservice_1_1AbstractOvsdbTableService.html#a7de2841a935ca222ed222ba71c79cad0" title="Get TableDescription entity. " alt="" coords="628,70,876,111"/>
+</map>

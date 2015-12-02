@@ -1,0 +1,5 @@
+<map id="org.onosproject.distributedprimitives.cli.SetTestGetCommand" name="org.onosproject.distributedprimitives.cli.SetTestGetCommand">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cli_1_1AbstractShellCommand.html" title="Base abstraction of Karaf shell commands. " alt="" coords="255,27,436,69"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1codec_1_1CodecContext.html" title="Context for codecs to use while encoding/decoding. " alt="" coords="5,57,197,98"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1Serializer.html" title="Interface for serialization of store artifacts. " alt="" coords="248,93,443,134"/>
+</map>

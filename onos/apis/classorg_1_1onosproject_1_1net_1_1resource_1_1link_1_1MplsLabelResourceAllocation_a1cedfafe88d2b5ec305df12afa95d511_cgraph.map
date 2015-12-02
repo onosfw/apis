@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.resource.link.MplsLabelResourceAllocation.equals" name="org.onosproject.net.resource.link.MplsLabelResourceAllocation.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1MplsLabelResourceAllocation.html#a37c5afa84bba9fd487753b0447816a7f" title="Creates a new MplsLabelResourceAllocation with MplsLabel object. " alt="" coords="291,5,549,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1MplsLabelResourceAllocation.html#aabb6387d00bc3fcc2496893c89ec3cc2" title="Returns the MPLS label resource. " alt="" coords="598,13,855,54"/>
+</map>

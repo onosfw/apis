@@ -1,0 +1,4 @@
+<map id="org.onosproject.bgpio.types.NextHop.NextHop" name="org.onosproject.bgpio.types.NextHop.NextHop">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1NextHop.html#a1faa484060ce6a30055fa325fb43ec0b" title="org.onosproject.bgpio.types.\lNextHop.equals" alt="" coords="240,5,427,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1NextHop.html#a34389c4db57f74b9c384d49d72677a79" title="Reads from ChannelBuffer and parses NextHop. " alt="" coords="240,70,427,111"/>
+</map>

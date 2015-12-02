@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.group.impl.GroupManager" name="org.onosproject.net.group.impl.GroupManager">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupService.html" title="Service for create/update/delete &quot;group&quot; in the devices. " alt="" coords="336,115,509,157"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupProviderRegistry.html" title="Abstraction for a group provider registry. " alt="" coords="336,181,509,222"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="333,250,512,291"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupStore.html" title="Manages inventory of groups per device; not intended for direct use. " alt="" coords="336,326,509,367"/>
+</map>

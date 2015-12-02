@@ -1,0 +1,14 @@
+<map id="org.onosproject.intentperf.IntentPerfInstaller" name="org.onosproject.intentperf.IntentPerfInstaller">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="848,13,1027,54"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1cfg_1_1ComponentConfigService.html" title="Service for tracking system&#45;wide configurations for various software components. " alt="" coords="835,78,1039,119"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1PartitionService.html" title="Service for interacting with the partition&#45;to&#45;instance assignments. " alt="" coords="851,143,1024,185"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1IntentService.html" title="Service for application submitting or withdrawing their intents. " alt="" coords="851,209,1024,250"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1intentperf_1_1IntentPerfCollector.html" title="Collects and distributes performance samples. " alt="" coords="851,274,1024,315"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1intentperf_1_1IntentPerfUi.html" title="Mechanism to stream data to the GUI. " alt="" coords="427,247,600,289"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onosproject_1_1ui_1_1UiExtensionService.html" title="Service for registering user interface extensions. " alt="" coords="12,247,212,289"/>
+<area shape="rect" id="node12" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="434,378,593,419"/>
+<area shape="rect" id="node14" href="$interfaceorg_1_1onosproject_1_1store_1_1cluster_1_1messaging_1_1ClusterCommunicationService.html" title="Service for assisting communications between controller cluster nodes. " alt="" coords="384,313,643,354"/>
+<area shape="rect" id="node15" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="851,482,1023,523"/>
+<area shape="rect" id="node16" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="420,482,607,523"/>
+<area shape="rect" id="node17" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipService.html" title="Service responsible for determining the controller instance mastership of a device in a clustered env..." alt="" coords="846,551,1029,593"/>
+</map>

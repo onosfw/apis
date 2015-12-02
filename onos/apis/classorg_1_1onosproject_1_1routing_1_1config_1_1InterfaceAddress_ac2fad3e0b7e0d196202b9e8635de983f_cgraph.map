@@ -1,0 +1,7 @@
+<map id="org.onosproject.routing.config.InterfaceAddress.InterfaceAddress" name="org.onosproject.routing.config.InterfaceAddress.InterfaceAddress">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1DeviceId.html#acdda59a035899936c4b013de8015ba10" title="Creates a device id using the supplied URI. " alt="" coords="297,5,476,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1NetTools.html#a330f94640f2d4d148749187cfbf6093b" title="Converts DPIDs of the form xx:xx:xx:xx:xx:xx:xx to OpenFlow provider device URIs. ..." alt="" coords="277,70,496,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1routing_1_1config_1_1InterfaceAddress.html#a68196879421046350dd5fa95727af509" title="Gets the IP address of a BGP speaker configured on an Interface. " alt="" coords="288,135,485,177"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1PortNumber.html#af4b74e15d508cb9820ffea4fba13890e" title="Returns the port number representing the specified long value. " alt="" coords="306,201,467,242"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1DeviceId.html#a769a9277e7bf995f33947e7c2136c3c2" title="org.onosproject.net.Device\lId.DeviceId" alt="" coords="544,5,723,46"/>
+</map>

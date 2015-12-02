@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.device.DeviceAdminService" name="org.onosproject.net.device.DeviceAdminService">
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1device_1_1impl_1_1DeviceManager.html" title="Provides implementation of the device SB &amp; NB APIs. " alt="" coords="718,42,925,83"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="264,42,443,83"/>
+</map>

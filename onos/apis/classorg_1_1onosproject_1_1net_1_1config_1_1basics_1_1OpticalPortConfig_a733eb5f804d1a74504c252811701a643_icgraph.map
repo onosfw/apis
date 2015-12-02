@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.config.basics.OpticalPortConfig.staticPort" name="org.onosproject.net.config.basics.OpticalPortConfig.staticPort">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1device_1_1impl_1_1OpticalPortOperator.html#a4caaecad59b3bcb3607d61ce46b8d6aa" title="Generates an annotation from an existing annotation and OptcalPortConfig. " alt="" coords="306,5,513,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1config_1_1basics_1_1OpticalPortConfigTest.html#af2e22d6cdb24ac2c01b256e87e2701bf" title="org.onosproject.incubator.net.config.basics.\lOpticalPortConfigTest.testAdditionalAttrs" alt="" coords="272,70,547,111"/>
+</map>

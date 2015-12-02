@@ -1,0 +1,4 @@
+<map id="org.onosproject.ovsdb.controller.driver.DefaultOvsdbClient.getLocalPorts" name="org.onosproject.ovsdb.controller.driver.DefaultOvsdbClient.getLocalPorts">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ovsdb_1_1controller_1_1driver_1_1DefaultOvsdbClient.html#a889c53de42cd5de888b9af4765cd5c0c" title="Gets the OVSDB database schema from local. " alt="" coords="302,5,565,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ovsdb_1_1controller_1_1driver_1_1DefaultOvsdbClient.html#a0b07d2f537269d28c7cbe9f41dfcdf6c" title="Gets the ovsdb row. " alt="" coords="310,70,557,111"/>
+</map>

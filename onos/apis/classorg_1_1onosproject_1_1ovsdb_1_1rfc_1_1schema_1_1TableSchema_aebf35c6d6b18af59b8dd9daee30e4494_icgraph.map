@@ -1,0 +1,6 @@
+<map id="org.onosproject.ovsdb.rfc.schema.TableSchema.columnSchemas" name="org.onosproject.ovsdb.rfc.schema.TableSchema.columnSchemas">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1TableSchema.html#a6c857fd07fac4a3a42b0516fc968f35f" title="org.onosproject.ovsdb.rfc.schema.\lTableSchema.hashCode" alt="" coords="278,5,501,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1TableSchema.html#a85ca9f3da4dd6fe53c61e1a240fb4550" title="Constructs a TableSchema object. " alt="" coords="278,70,501,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1TableSchema.html#a1206ebf084895adabf681ab07cf51b4d" title="org.onosproject.ovsdb.rfc.schema.\lTableSchema.toString" alt="" coords="278,135,501,177"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1TableSchema.html#aab6ca5a197942278007c25059b8dd3a7" title="org.onosproject.ovsdb.rfc.schema.\lTableSchema.equals" alt="" coords="550,70,773,111"/>
+</map>

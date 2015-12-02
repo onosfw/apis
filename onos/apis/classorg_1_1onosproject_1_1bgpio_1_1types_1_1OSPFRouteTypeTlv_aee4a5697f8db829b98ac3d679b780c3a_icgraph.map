@@ -1,0 +1,5 @@
+<map id="org.onosproject.bgpio.types.OSPFRouteTypeTlv.OSPFRouteTypeTlv" name="org.onosproject.bgpio.types.OSPFRouteTypeTlv.OSPFRouteTypeTlv">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1OSPFRouteTypeTlv.html#a518a2e600cc17abf192a72174c5833f9" title="org.onosproject.bgpio.types.\lOSPFRouteTypeTlv.equals" alt="" coords="317,5,504,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1OSPFRouteTypeTlv.html#a96ef4af3c1b999d05bcad689169d86bc" title="Returns object of this class with specified routeType. " alt="" coords="317,70,504,111"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1OSPFRouteTypeTlv.html#a0bab904b92596440d3d9df683871af32" title="Compares two objects. " alt="" coords="553,5,762,46"/>
+</map>

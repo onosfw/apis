@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.config.NetworkConfigService.getSubjectFactory" name="org.onosproject.net.config.NetworkConfigService.getSubjectFactory">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1rest_1_1resources_1_1NetworkConfigWebResource.html#a39ec09bba2453d58e657a550f180212e" title="Get all network configuration for a subject class. " alt="" coords="288,5,539,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1config_1_1impl_1_1NetworkConfigManagerTest.html#aa01ca3a838bd1ce5a81d68ed349174b2" title="Tests creation, query and removal of a factory. " alt="" coords="277,70,549,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1config_1_1impl_1_1NetworkConfigManagerTest.html#a697f1d1a5b3e6efe9dc14f1e8477fd7e" title="Tests creation, query and removal of a factory. " alt="" coords="272,135,555,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1rest_1_1resources_1_1NetworkConfigWebResource.html#af27a69ea07cf3eb5391d3079ed04f103" title="Upload bulk network configuration. " alt="" coords="296,201,531,242"/>
+</map>

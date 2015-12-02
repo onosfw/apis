@@ -1,0 +1,3 @@
+<map id="org.onosproject.net.link.LinkService.getIngressLinks" name="org.onosproject.net.link.LinkService.getIngressLinks">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1rest_1_1LinksResourceTest.html#ac3bc9b90e01433f5cf8dff9c0c12655e" title="Tests the result of the rest api GET of links for a specific device, port, and direction. " alt="" coords="240,5,459,61"/>
+</map>

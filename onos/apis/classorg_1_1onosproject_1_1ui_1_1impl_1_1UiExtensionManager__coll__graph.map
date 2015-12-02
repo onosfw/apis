@@ -1,0 +1,5 @@
+<map id="org.onosproject.ui.impl.UiExtensionManager" name="org.onosproject.ui.impl.UiExtensionManager">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1ui_1_1UiExtensionService.html" title="Service for registering user interface extensions. " alt="" coords="253,5,453,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1ui_1_1impl_1_1SpriteService.html" title="Provisional service to keep track of the topology view sprite definitions. " alt="" coords="275,70,432,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipService.html" title="Service responsible for determining the controller instance mastership of a device in a clustered env..." alt="" coords="262,135,445,177"/>
+</map>

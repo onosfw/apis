@@ -1,0 +1,3 @@
+<map id="org.onosproject.segmentrouting.config.DeviceConfiguration.inSameSubnet" name="org.onosproject.segmentrouting.config.DeviceConfiguration.inSameSubnet">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1segmentrouting_1_1config_1_1DeviceConfiguration.html#a941b6ef92462d702acffe11a367becf8" title="Returns the configured subnet prefixes for a segment router. " alt="" coords="302,5,549,46"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.bgpio.types.LinkStateAttributes.read" name="org.onosproject.bgpio.types.LinkStateAttributes.read">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1util_1_1Validation.html#a8ed56d1529508e596b210bc4efa08997" title="Returns first bit in type flags. " alt="" coords="240,5,411,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1util_1_1Validation.html#aa399a6fd36853d2becf09de7e8aeb5e6" title="Returns attribute length. " alt="" coords="240,70,411,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1util_1_1Validation.html#a332d98217473dcbc968483f1f4f76ea2" title="Returns third bit in type flags. " alt="" coords="240,135,411,177"/>
+</map>

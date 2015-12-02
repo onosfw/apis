@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.intent.impl.PartitionManagerTest.TestLeadershipService" name="org.onosproject.store.intent.impl.PartitionManagerTest.TestLeadershipService">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cluster_1_1LeadershipServiceAdapter.html" title="Test adapter for leadership service. " alt="" coords="481,13,655,54"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1cluster_1_1LeadershipService.html" title="Service for leader election. " alt="" coords="273,13,431,54"/>
+</map>

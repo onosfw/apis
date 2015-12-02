@@ -1,0 +1,5 @@
+<map id="org.onosproject.routing.config.LocalIpPrefixEntry.ipPrefix" name="org.onosproject.routing.config.LocalIpPrefixEntry.ipPrefix">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1routing_1_1config_1_1LocalIpPrefixEntry.html#a17ba2fd7b1c5487380452396e7ab7806" title="org.onosproject.routing.config.\lLocalIpPrefixEntry.hashCode" alt="" coords="272,5,469,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1routing_1_1config_1_1LocalIpPrefixEntry.html#a15053997d84a305397d10d8904316982" title="Creates a new IP prefix entry. " alt="" coords="251,70,491,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1routing_1_1config_1_1LocalIpPrefixEntry.html#a41c1e137ad17d6121ce97069fc0d5958" title="org.onosproject.routing.config.\lLocalIpPrefixEntry.equals" alt="" coords="539,70,736,111"/>
+</map>

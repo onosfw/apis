@@ -1,0 +1,4 @@
+<map id="org.onosproject.routing.bgp.BgpSessionManager.getBgpSessions" name="org.onosproject.routing.bgp.BgpSessionManager.getBgpSessions">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1routing_1_1bgp_1_1BgpSessionManagerTest.html#a6a5ef53e425ebaa1652135efe4c5064e" title="Tests that the BGP OPEN with Capability messages have been exchanged, followed by KEEPALIVE..." alt="" coords="296,5,555,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1routing_1_1bgp_1_1BgpSessionManagerTest.html#a4885678881caea0ad11a8036f24cc40f" title="Tests that the BGP OPEN messages have been exchanged, followed by KEEPALIVE. " alt="" coords="296,85,555,141"/>
+</map>

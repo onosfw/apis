@@ -1,0 +1,4 @@
+<map id="org.onosproject.cluster.impl.MastershipManagerTest.relinquishMastership" name="org.onosproject.cluster.impl.MastershipManagerTest.relinquishMastership">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cluster_1_1impl_1_1MastershipManager.html#a831824e5f5c70a2d0330bbd12276cb39" title="Returns the role of the local node for the specified device, without triggering master selection..." alt="" coords="276,5,492,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1cluster_1_1impl_1_1MastershipManager.html#a206612c7bb32d8a48e567b1246cdd160" title="Returns the current master for a given device. " alt="" coords="275,70,493,111"/>
+</map>

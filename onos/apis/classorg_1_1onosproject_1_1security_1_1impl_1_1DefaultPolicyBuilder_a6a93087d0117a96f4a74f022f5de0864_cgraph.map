@@ -1,0 +1,4 @@
+<map id="org.onosproject.security.impl.DefaultPolicyBuilder.getAdminApplicationPermissions" name="org.onosproject.security.impl.DefaultPolicyBuilder.getAdminApplicationPermissions">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1security_1_1impl_1_1DefaultPolicyBuilder.html#ac3de6e4a81b06b612c1a7f7e1f466e90" title="org.onosproject.security.impl.\lDefaultPolicyBuilder.convertToJava\lPermissions" alt="" coords="318,5,549,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1security_1_1AppPermission.html#aa909b7ffec592658e6c888aed607ab94" title="Returns type of permission. " alt="" coords="597,13,763,54"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.newresource.ResourcePath" name="org.onosproject.net.newresource.ResourcePath">
+<area shape="rect" id="node2" title="Represents a resource path which specifies a resource which can be measured as continuous value..." alt="" coords="270,5,485,46"/>
+<area shape="rect" id="node3" title="Represents a resource path which specifies a resource which can be measured as a discrete unit..." alt="" coords="270,70,485,111"/>
+</map>

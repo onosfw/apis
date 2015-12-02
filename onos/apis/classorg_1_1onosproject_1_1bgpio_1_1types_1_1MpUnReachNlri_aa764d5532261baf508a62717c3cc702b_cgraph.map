@@ -1,0 +1,7 @@
+<map id="org.onosproject.bgpio.types.MpUnReachNlri.read" name="org.onosproject.bgpio.types.MpUnReachNlri.read">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1MpUnReachNlri.html#a2b85d006b5f202332bdc46a3994ee6bb" title="Returns AFI. " alt="" coords="515,5,701,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1util_1_1Validation.html#aa399a6fd36853d2becf09de7e8aeb5e6" title="Returns attribute length. " alt="" coords="261,226,432,267"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1MpUnReachNlri.html#a6201c2fd227f893ba3cd39f717dff1a0" title="Constructor to initialize parameters. " alt="" coords="241,109,453,150"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1MpUnReachNlri.html#a30fbde95eb3311bdc410c959ed1eba2b" title="Returns list of MpUnReach Nlri. " alt="" coords="502,74,714,115"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1MpUnReachNlri.html#af74b8407d14e0aaa115eab6a4926aab8" title="Returns SAFI. " alt="" coords="515,149,701,190"/>
+</map>

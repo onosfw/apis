@@ -1,0 +1,3 @@
+<map id="org.onosproject.ui.impl.topo.TrafficLink.hasTraffic" name="org.onosproject.ui.impl.topo.TrafficLink.hasTraffic">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1topo_1_1TrafficLink.html#a5972d63beb9d9160c4ea86b7fe14e0da" title="Adds load statistics, marks the traffic link as having traffic, if the load rate is greater than the ..." alt="" coords="240,5,427,46"/>
+</map>

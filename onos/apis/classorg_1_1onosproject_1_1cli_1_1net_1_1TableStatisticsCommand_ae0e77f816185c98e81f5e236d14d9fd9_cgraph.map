@@ -1,0 +1,6 @@
+<map id="org.onosproject.cli.net.TableStatisticsCommand.getSortedTableStats" name="org.onosproject.cli.net.TableStatisticsCommand.getSortedTableStats">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1DeviceId.html#acdda59a035899936c4b013de8015ba10" title="Creates a device id using the supplied URI. " alt="" coords="323,5,501,46"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html#a1d0a9294ac76b293cba4dd77009f539f" title="Returns the device with the specified identifier. " alt="" coords="323,70,501,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleService.html#a18b050ad7a41ecc4e7f833a7b633f306" title="Returns the collection of flow table statistics of the specified device. " alt="" coords="283,135,541,177"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1DeviceId.html#a769a9277e7bf995f33947e7c2136c3c2" title="org.onosproject.net.Device\lId.DeviceId" alt="" coords="589,5,768,46"/>
+</map>

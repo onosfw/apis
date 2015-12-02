@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.intent.IntentData.errorCount" name="org.onosproject.net.intent.IntentData.errorCount">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1IntentData.html#afab340982cc83431d45296651ae8450f" title="Increments the error count for this intent. " alt="" coords="227,5,434,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1IntentData.html#ab1e73686a46f46b510ceccccd397945d" title="Copy constructor. " alt="" coords="244,70,417,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1IntentData.html#aa3a0449f68ea6315cb5bd99d7ed23661" title="Sets the error count for this intent. " alt="" coords="244,135,417,177"/>
+</map>

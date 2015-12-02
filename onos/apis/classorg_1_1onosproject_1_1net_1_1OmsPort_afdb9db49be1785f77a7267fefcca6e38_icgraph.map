@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.OmsPort.maxFrequency" name="org.onosproject.net.OmsPort.maxFrequency">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1OmsPort.html#a00b4ddc7398df1feed243a60c384041a" title="org.onosproject.net.OmsPort.hashCode" alt="" coords="273,5,525,32"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1OmsPort.html#ac7195bc685027cacbd0d0cc078ff5d73" title="Creates an OMS port in the specified network element. " alt="" coords="302,57,495,98"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1OmsPort.html#a3e46089326efc796fa6b49cf4465d60e" title="org.onosproject.net.OmsPort.to\lString" alt="" coords="297,122,501,163"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1OmsPort.html#a408f8ac5f597bfd91ada56628f799926" title="org.onosproject.net.OmsPort.equals" alt="" coords="574,64,805,91"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.cluster.ClusterServiceAdapter" name="org.onosproject.cluster.ClusterServiceAdapter">
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1store_1_1cluster_1_1StaticClusterService.html" title="org.onosproject.store.cluster.\lStaticClusterService" alt="" coords="719,217,910,258"/>
+<area shape="rect" id="node10" title="ClusterService set up with a very simple cluster &#45; 3 nodes, one is the current node, one is a different active node, and one is an inactive node. " alt="" coords="683,282,946,323"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="267,151,426,193"/>
+</map>

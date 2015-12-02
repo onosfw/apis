@@ -1,0 +1,6 @@
+<map id="org.onosproject.vtnrsc.portpair.impl.PortPairManagerTest.testGetPortPairCount" name="org.onosproject.vtnrsc.portpair.impl.PortPairManagerTest.testGetPortPairCount">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnrsc_1_1portpair_1_1impl_1_1PortPairManager.html#a074b170d258f0c4bc47d116ec76354b9" title="Returns the number of port pairs known to the system. " alt="" coords="342,5,573,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1vtnrsc_1_1portpair_1_1impl_1_1PortPairManagerTest.html#afead2a2fdbfc5a5347224bbaee3dfb4f" title="Checks the operation of createPortPair() method. " alt="" coords="329,70,586,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1vtnrsc_1_1portpair_1_1impl_1_1PortPairManager.html#ac6094ca02b5756224ca062f162d20563" title="Creates a PortPair in the store. " alt="" coords="635,70,866,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortPair.html#ad1e7b9d14284b75b6d76b094ded3a4d4" title="Returns the ID of this port Pair. " alt="" coords="915,70,1093,111"/>
+</map>

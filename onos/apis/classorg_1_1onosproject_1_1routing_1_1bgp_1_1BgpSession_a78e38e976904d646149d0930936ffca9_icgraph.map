@@ -1,0 +1,5 @@
+<map id="org.onosproject.routing.bgp.BgpSession.localInfo" name="org.onosproject.routing.bgp.BgpSession.localInfo">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1routing_1_1bgp_1_1BgpSession.html#a04e976bbe6383c03c1f3f28aa370d64e" title="org.onosproject.routing.bgp.\lBgpSession.channelConnected" alt="" coords="241,5,445,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1routing_1_1bgp_1_1BgpSession.html#ac9fe5035266f397942f5b15361740c21" title="Gets the BGP session 4 octet AS path capability. " alt="" coords="238,70,447,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1routing_1_1bgp_1_1BgpSession.html#af2a4c3f585806f5fd6823b0f1f6d6598" title="Gets the BGP Multiprotocol Extensions for the session. " alt="" coords="251,135,434,177"/>
+</map>

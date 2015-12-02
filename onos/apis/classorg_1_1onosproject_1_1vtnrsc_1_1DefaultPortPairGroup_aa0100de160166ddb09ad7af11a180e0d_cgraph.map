@@ -1,0 +1,4 @@
+<map id="org.onosproject.vtnrsc.DefaultPortPairGroup.exactMatch" name="org.onosproject.vtnrsc.DefaultPortPairGroup.exactMatch">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortPairGroup.html#ab9213a8a6a4ee9ed042e4d54a6c0c9ce" title="Returns the ID of this port pair group. " alt="" coords="251,5,429,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortPairGroup.html#ab356901f064da2fe49f4add437eb73ed" title="Returns the tenant id of this port pair group. " alt="" coords="251,70,429,111"/>
+</map>

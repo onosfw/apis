@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.config.impl.DistributedNetworkConfigStore" name="org.onosproject.store.config.impl.DistributedNetworkConfigStore">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigStore.html" title="Mechanism for distributing and storing network configuration information. " alt="" coords="300,86,476,127"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="291,151,485,193"/>
+</map>

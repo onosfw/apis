@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.device.impl.BasicDeviceOperatorTest.testDescOps" name="org.onosproject.net.device.impl.BasicDeviceOperatorTest.testDescOps">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1Description.html#a546df2cfe2e5a027f36ef24fdb0fc9f4" title="Returns the key/value annotations. " alt="" coords="307,5,581,32"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceDescription.html#ad9422bdc33a397efc91e94f6ee07c7e9" title="Returns the type of the infrastructure device. " alt="" coords="355,57,533,98"/>
+</map>

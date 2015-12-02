@@ -1,0 +1,16 @@
+<map id="org.onosproject.net.intent.MplsPathIntentTest" name="org.onosproject.net.intent.MplsPathIntentTest">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1AbstractIntentTest.html" title="org.onosproject.net.intent.\lAbstractIntentTest" alt="" coords="861,5,1035,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1core_1_1IdGenerator.html" title="A generalized interface for ID generation. " alt="" coords="478,12,690,39"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1TrafficSelector.html" title="Abstraction of a slice of network traffic. " alt="" coords="865,70,1031,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1MplsPathIntent.html" title="Abstraction of explicit MPLS label&#45;switched path. " alt="" coords="861,135,1035,177"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1PathIntent.html" title="Abstraction of explicitly path specified connectivity intent. " alt="" coords="497,107,671,149"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1ConnectivityIntent.html" title="Abstraction of connectivity intent for traffic matching some criteria. " alt="" coords="241,87,415,129"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1Intent.html" title="Abstraction of an application level intent. " alt="" coords="5,87,179,129"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1net_1_1Path.html" title="Representation of a contiguous directed path in a network. " alt="" coords="866,201,1030,228"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1net_1_1Link.html" title="Abstraction of a network infrastructure link. " alt="" coords="503,201,665,228"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotated.html" title="Represents an entity that carries arbitrary annotations. " alt="" coords="230,153,426,180"/>
+<area shape="rect" id="node12" href="$interfaceorg_1_1onosproject_1_1net_1_1Provided.html" title="Abstraction of an entity supplied by a provider. " alt="" coords="234,204,422,231"/>
+<area shape="rect" id="node13" href="$interfaceorg_1_1onosproject_1_1net_1_1NetworkResource.html" title="Representation of a network resource, e.g. " alt="" coords="235,255,421,297"/>
+<area shape="rect" id="node14" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1Key.html" title="Key class for Intents. " alt="" coords="850,252,1046,279"/>
+<area shape="rect" id="node17" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1TrafficTreatment.html" title="Abstraction of network traffic treatment. " alt="" coords="865,369,1031,410"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="org.onosproject.vtnrsc.virtualport.impl.VirtualPortManager" name="org.onosproject.vtnrsc.virtualport.impl.VirtualPortManager">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1virtualport_1_1VirtualPortService.html" title="Service for interacting with the inventory of virtualPort. " alt="" coords="397,5,613,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1core_1_1ApplicationId.html" title="Application identifier. " alt="" coords="396,71,615,97"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="408,122,603,163"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1tenantnetwork_1_1TenantNetworkService.html" title="Service for interacting with the inventory of tenantNetwork. " alt="" coords="385,187,626,229"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="419,253,591,294"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="5,253,192,294"/>
+</map>

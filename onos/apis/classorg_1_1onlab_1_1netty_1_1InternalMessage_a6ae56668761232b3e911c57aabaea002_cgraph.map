@@ -1,0 +1,5 @@
+<map id="org.onlab.netty.InternalMessage.toString" name="org.onlab.netty.InternalMessage.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1netty_1_1InternalMessage.html#a5436f1131fe97d037b0464a2f3f13a69" title="org.onlab.netty.Internal\lMessage.payload" alt="" coords="208,5,363,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1netty_1_1InternalMessage.html#abf5d279320b70aa82735ce18fa5f3e31" title="org.onlab.netty.Internal\lMessage.sender" alt="" coords="208,70,363,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1netty_1_1InternalMessage.html#a733b41a2d75a80df7ede81f208ef5a58" title="org.onlab.netty.Internal\lMessage.type" alt="" coords="208,135,363,177"/>
+</map>

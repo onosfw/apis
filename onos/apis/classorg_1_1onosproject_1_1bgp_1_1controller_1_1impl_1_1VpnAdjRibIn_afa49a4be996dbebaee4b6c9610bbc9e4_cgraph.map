@@ -1,0 +1,9 @@
+<map id="org.onosproject.bgp.controller.impl.VpnAdjRibIn.toString" name="org.onosproject.bgp.controller.impl.VpnAdjRibIn.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1VpnAdjRibIn.html#a7bad5d594ac4a56c5d96d8d57c7df420" title="Update vpn nlri identifier into the tree if nlri identifier exists in tree otherwise add this to the ..." alt="" coords="281,109,506,150"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1VpnAdjRibIn.html#ab570efa61ad98cdd330ccf7976d6e49d" title="Returns the adjacency link. " alt="" coords="555,5,781,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1VpnAdjRibIn.html#aa63f662abb40b6f0f4ebc082c7718c28" title="Returns the adjacency node. " alt="" coords="555,74,781,115"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1VpnAdjRibIn.html#aab8806d35d63429ec767b23b3b37fa1e" title="Returns the adjacency prefix. " alt="" coords="555,149,781,190"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1VpnAdjRibIn.html#ae20c503dfde6ba922f331db919629626" title="Returns the adjacency vpnLink. " alt="" coords="281,226,506,267"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1VpnAdjRibIn.html#a3729c818122495c0249d16b6e68f2fcc" title="Returns the adjacency vpnNode. " alt="" coords="281,291,506,333"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1VpnAdjRibIn.html#abcdce002e85e614b6973899450bcf5aa" title="Returns the adjacency vpnPrefix. " alt="" coords="281,357,506,398"/>
+</map>

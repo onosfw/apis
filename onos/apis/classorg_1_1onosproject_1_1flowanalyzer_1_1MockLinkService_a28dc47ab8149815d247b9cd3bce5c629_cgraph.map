@@ -1,0 +1,4 @@
+<map id="org.onosproject.flowanalyzer.MockLinkService.getDeviceLinks" name="org.onosproject.flowanalyzer.MockLinkService.getDeviceLinks">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1flowanalyzer_1_1MockLinkService.html#aa52818b23576d6f9c6818688c089f4c5" title="Returns set of all infrastructure links leading from the specified device. " alt="" coords="270,5,527,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1flowanalyzer_1_1MockLinkService.html#a89276f67294f2a749bfbb62613705175" title="Returns set of all infrastructure links leading to the specified device. " alt="" coords="269,70,528,111"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.group.GroupOperation.groupType" name="org.onosproject.net.group.GroupOperation.groupType">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1group_1_1GroupOperation.html#aec64034ffde4b958b615e0ee32cd1ed1" title="Creates ADD group operation object. " alt="" coords="232,5,499,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1group_1_1GroupOperation.html#a561930d1b9926602816280b8b197687d" title="Creates DELETE group operation object. " alt="" coords="252,71,479,127"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1group_1_1GroupOperation.html#ab4ed7fbdc0aa6d09c669253be4293dd1" title="Creates MODIFY group operation object. " alt="" coords="252,151,479,207"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1group_1_1GroupOperation.html#a64adb6ce07eb14057fd30b2454337cf1" title="org.onosproject.net.group.\lGroupOperation.equals" alt="" coords="279,231,452,273"/>
+</map>

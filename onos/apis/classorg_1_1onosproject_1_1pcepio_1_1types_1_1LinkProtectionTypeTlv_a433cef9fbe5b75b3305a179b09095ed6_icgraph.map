@@ -1,0 +1,4 @@
+<map id="org.onosproject.pcepio.types.LinkProtectionTypeTlv.LinkProtectionTypeTlv" name="org.onosproject.pcepio.types.LinkProtectionTypeTlv.LinkProtectionTypeTlv">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1pcepio_1_1types_1_1LinkProtectionTypeTlv.html#afa6de21c855d8f42fc2fb8e421653d2c" title="org.onosproject.pcepio.types.\lLinkProtectionTypeTlv.equals" alt="" coords="293,5,488,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1pcepio_1_1types_1_1LinkProtectionTypeTlv.html#a00d8c725e3481611e888b7a71185cc09" title="Reads the channel buffer and returns object of LinkProtectionTypeTlv. " alt="" coords="294,70,487,111"/>
+</map>

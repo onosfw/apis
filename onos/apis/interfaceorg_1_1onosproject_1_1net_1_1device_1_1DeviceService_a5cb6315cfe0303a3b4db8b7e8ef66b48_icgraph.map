@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.device.DeviceService.getDeviceCount" name="org.onosproject.net.device.DeviceService.getDeviceCount">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1device_1_1impl_1_1DeviceManagerTest.html#a5a3c2ef7dd7efe6e7f7d07a20b6f7549" title="org.onosproject.net.device.impl.\lDeviceManagerTest.deviceConnected" alt="" coords="267,5,511,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1device_1_1impl_1_1DeviceManagerTest.html#a07f375e9eb91df799ab25482e25b319c" title="org.onosproject.net.device.impl.\lDeviceManagerTest.deviceDisconnected" alt="" coords="259,70,520,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1device_1_1impl_1_1DeviceManagerTest.html#a8ed6521fa6a7d7e4e2c76cd6c221c076" title="org.onosproject.net.device.impl.\lDeviceManagerTest.removeDevice" alt="" coords="276,135,503,177"/>
+</map>

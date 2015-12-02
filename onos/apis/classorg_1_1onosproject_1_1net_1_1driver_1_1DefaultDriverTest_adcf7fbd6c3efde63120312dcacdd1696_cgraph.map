@@ -1,0 +1,14 @@
+<map id="org.onosproject.net.driver.DefaultDriverTest.basics" name="org.onosproject.net.driver.DefaultDriverTest.basics">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1DefaultDriver.html#a5e93b600a7c34771427cf632a49287c0" title="Indicates whether or not the driver, or any of its parents, support the specified class of behaviour..." alt="" coords="227,70,410,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1DefaultDriver.html#aec02934de27051347f1a913882e9957d" title="Returns the set of keys for available annotations. " alt="" coords="232,169,405,210"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1DefaultDriver.html#a8ab43d384d1f8c609822bd0d53a37d6a" title="org.onosproject.net.driver.\lDefaultDriver.toString" alt="" coords="232,234,405,275"/>
+<area shape="rect" id="node13" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1DefaultDriver.html#a580aa68b55b907c3efc99a203fc26b2a" title="Returns the value of the specified annotation. " alt="" coords="232,299,405,341"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1Driver.html#a4eb4a8e4141b7044f65a2095f2c36b0d" title="Indicates whether or not the driver, or any of its parents, support the specified class of behaviour..." alt="" coords="461,5,635,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1DefaultDriver.html#a9beb31c0770c40edf7a31b98b7cfc0d1" title="Returns the parent driver from which this driver inherits behaviours and properties. " alt="" coords="461,70,635,111"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1DefaultDriver.html#a8821904191a4482f72164859e3f49169" title="Returns the set of behaviours supported by this driver. " alt="" coords="461,135,635,177"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1DefaultDriver.html#af00294217293f02898141460fb785c69" title="Returns the device hardware version. " alt="" coords="461,201,635,242"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1DefaultDriver.html#a7ed1a98f227b7c362ec76a51e69761bf" title="Returns the device manufacturer name. " alt="" coords="459,266,637,307"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1DefaultDriver.html#ac975ae32a2c7c15768064ec30ac59559" title="Returns the driver name. " alt="" coords="461,331,635,373"/>
+<area shape="rect" id="node11" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1DefaultDriver.html#af1b7bec5dacc8e5db592bba73416dd4b" title="Returns the set of annotations as map of key/value properties. " alt="" coords="461,397,635,438"/>
+<area shape="rect" id="node12" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1DefaultDriver.html#aa7bde9db4a4162544416c19d66938252" title="Returns the device software version. " alt="" coords="461,462,635,503"/>
+</map>

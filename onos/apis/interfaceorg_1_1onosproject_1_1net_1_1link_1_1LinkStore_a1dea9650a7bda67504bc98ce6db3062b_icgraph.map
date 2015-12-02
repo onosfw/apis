@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.link.LinkStore.getLinkCount" name="org.onosproject.net.link.LinkStore.getLinkCount">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleLinkStoreTest.html#ab7312019a3aae8d46350de7659ddec49" title="org.onosproject.store.trivial.\lSimpleLinkStoreTest.testAncillary\lVisible" alt="" coords="236,5,455,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1link_1_1impl_1_1GossipLinkStoreTest.html#ad17738736f042ed610cf70010df67a30" title="org.onosproject.store.link.impl.\lGossipLinkStoreTest.testAncillaryVisible" alt="" coords="216,86,475,127"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleLinkStoreTest.html#aab95acb6b5e2999d4e3e12609e0f0517" title="org.onosproject.store.trivial.\lSimpleLinkStoreTest.testGetLinkCount" alt="" coords="221,151,470,193"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1link_1_1impl_1_1GossipLinkStoreTest.html#a35714be31ad0b00aaffadd3238d2eb79" title="org.onosproject.store.link.impl.\lGossipLinkStoreTest.testGetLinkCount" alt="" coords="220,217,471,258"/>
+</map>

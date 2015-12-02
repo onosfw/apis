@@ -1,0 +1,12 @@
+<map id="org.onosproject.ui.topo.BiLinkMapTest" name="org.onosproject.ui.topo.BiLinkMapTest">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1BiLinkTestBase.html" title="Base class for unit tests of BiLink and BiLinkMap. " alt="" coords="867,310,1026,351"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1PortNumber.html" title="Representation of a port number. " alt="" coords="574,146,735,187"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1DeviceId.html" title="Immutable representation of a device identity. " alt="" coords="560,251,749,277"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1ElementId.html" title="Immutable representation of a network element identity. " alt="" coords="254,251,450,277"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1NetworkResource.html" title="Representation of a network resource, e.g. " alt="" coords="11,247,197,289"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1net_1_1Link.html" title="Abstraction of a network infrastructure link. " alt="" coords="271,317,433,344"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1net_1_1LinkKey.html" title="Immutable representation of a link identity. " alt="" coords="563,379,747,405"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1net_1_1ConnectPoint.html" title="Abstraction of a network connection point expressed as a pair of the network element identifier and p..." alt="" coords="561,430,748,471"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotated.html" title="Represents an entity that carries arbitrary annotations. " alt="" coords="6,317,202,344"/>
+<area shape="rect" id="node12" href="$interfaceorg_1_1onosproject_1_1net_1_1Provided.html" title="Abstraction of an entity supplied by a provider. " alt="" coords="10,368,198,395"/>
+</map>

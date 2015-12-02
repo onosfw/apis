@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.meter.MeterRequest.bands" name="org.onosproject.net.meter.MeterRequest.bands">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1meter_1_1impl_1_1MeterManager.html#a1ea0b6e6fa8159c18f249a84d62a6850" title="Adds a meter to the system and performs it installation. " alt="" coords="229,5,488,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1meter_1_1impl_1_1MeterManager.html#afb9084d0b097b124645821299710eb6d" title="Remove a meter from the system and the dataplane. " alt="" coords="229,70,488,111"/>
+</map>

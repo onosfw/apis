@@ -1,0 +1,9 @@
+<map id="org.onosproject.rest.StatisticsResourceTest" name="org.onosproject.rest.StatisticsResourceTest">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1rest_1_1ResourceTest.html" title="Base class for REST API tests. " alt="" coords="254,8,477,35"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkService.html" title="Service for interacting with the inventory of infrastructure links. " alt="" coords="285,61,446,102"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1statistic_1_1StatisticService.html" title="Service for obtaining statistic information about link in the system. " alt="" coords="272,126,459,167"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1Link.html" title="Abstraction of a network infrastructure link. " alt="" coords="285,200,446,227"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotated.html" title="Represents an entity that carries arbitrary annotations. " alt="" coords="6,149,202,176"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1net_1_1Provided.html" title="Abstraction of an entity supplied by a provider. " alt="" coords="10,200,198,227"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1net_1_1NetworkResource.html" title="Representation of a network resource, e.g. " alt="" coords="11,251,197,293"/>
+</map>

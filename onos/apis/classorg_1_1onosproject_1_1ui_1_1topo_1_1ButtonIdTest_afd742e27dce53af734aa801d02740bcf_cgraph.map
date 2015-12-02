@@ -1,0 +1,5 @@
+<map id="org.onosproject.ui.topo.ButtonIdTest.same" name="org.onosproject.ui.topo.ButtonIdTest.same">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1ButtonId.html#a7984cf08efd1b654af897a11e52dff6c" title="org.onosproject.ui.topo.\lButtonId.equals" alt="" coords="214,5,373,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1ButtonId.html#a2990ff6886db4f7e9393adf7c69182c8" title="Creates a button ID with the given identifier. " alt="" coords="422,5,581,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1ButtonId.html#aa9149c7b3a6407988291fc9427f17194" title="Returns the identifier for this button. " alt="" coords="630,5,789,46"/>
+</map>

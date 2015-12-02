@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.device.DefaultDeviceDescription" name="org.onosproject.net.device.DefaultDeviceDescription">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1AbstractDescription.html" title="Base implementation of an annotated model description. " alt="" coords="501,5,688,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotated.html" title="Represents an entity that carries arbitrary annotations. " alt="" coords="6,44,202,71"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1Description.html" title="Base abstraction of a piece of information about network elements. " alt="" coords="251,71,453,97"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceDescription.html" title="Carrier of immutable information about a device. " alt="" coords="505,70,684,111"/>
+</map>

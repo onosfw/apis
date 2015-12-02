@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.intent.FlowRuleIntent.flowRules" name="org.onosproject.net.intent.FlowRuleIntent.flowRules">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1FlowRuleIntent.html#a954f75b6f8f0783191f5b9ad94f67afd" title="Creates a flow rule intent with the specified flow rules and resources. " alt="" coords="227,5,429,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1FlowRuleIntent.html#aa1346ba2fd730ae76e86e590f9196562" title="org.onosproject.net.intent.\lFlowRuleIntent.toString" alt="" coords="241,70,415,111"/>
+</map>

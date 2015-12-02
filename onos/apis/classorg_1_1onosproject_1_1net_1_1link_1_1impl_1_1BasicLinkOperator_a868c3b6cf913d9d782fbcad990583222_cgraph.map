@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.link.impl.BasicLinkOperator.combine" name="org.onosproject.net.link.impl.BasicLinkOperator.combine">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1config_1_1basics_1_1BasicLinkConfig.html#a5ecbb70b4e650d53bb864eec48efa35b" title="Returns link bandwidth in terms of Mbps. " alt="" coords="243,5,461,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1config_1_1basics_1_1BasicLinkConfig.html#a4c94bf96f10aa6c2e25ec1b9e7ff4493" title="Returns if link is durable in the network model or not. " alt="" coords="243,70,461,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1config_1_1basics_1_1BasicLinkConfig.html#ac53642196accfea75076bfd64d2bb2b3" title="Returns link latency in terms of nanos. " alt="" coords="243,135,461,177"/>
+</map>

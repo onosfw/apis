@@ -1,0 +1,5 @@
+<map id="org.onosproject.segmentrouting.DefaultRoutingHandler.populateRoutingRulesForLinkStatusChange" name="org.onosproject.segmentrouting.DefaultRoutingHandler.populateRoutingRulesForLinkStatusChange">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html#adddfe5a01ed42c5094fec234c594fe67" title="Returns a collection of the currently known infrastructure devices. " alt="" coords="325,5,504,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipService.html#ac847c2ae66c83b215f9f313fd506734d" title="Returns true if the local controller is the Master for the specified deviceId. " alt="" coords="307,70,522,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipService.html#a988cc1b60a5b0569c7aaceb3e529a140" title="Returns the role of the local node for the specified device, without triggering master selection..." alt="" coords="571,70,781,111"/>
+</map>

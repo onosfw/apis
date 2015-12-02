@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.link.impl.LinkManagerTest.removeLinksAsAdminByConnectionPoint" name="org.onosproject.net.link.impl.LinkManagerTest.removeLinksAsAdminByConnectionPoint">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkService.html#a1d1f3e5c6e83c908b987d99591440b71" title="Returns the infrastructure links between the specified source and destination connection points..." alt="" coords="318,5,479,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkService.html#acc2e721a83e4382f31ccab1bcb739832" title="Returns the count of all known infrastructure links. " alt="" coords="313,70,484,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1Link.html#a08627aabcd43982af8c20cb6c01ae02a" title="Returns the link source connection point. " alt="" coords="307,136,490,163"/>
+</map>

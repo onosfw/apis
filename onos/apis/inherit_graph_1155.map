@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1persistence_1_1impl_1_1PersistentMap_3_01K_00_01V_01_4.html" title="A map implementation that stores and receives all data from a serialized internal map..." alt="" coords="123,5,338,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1ConsistentMapBackedJavaMap_3_01K_00_01V_01_4.html" title="Standard java Map backed by a ConsistentMap. " alt="" coords="102,70,359,111"/>
+</map>

@@ -1,0 +1,9 @@
+var namespaceorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1exception =
+[
+    [ "AbnormalJsonNodeException", "classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1exception_1_1AbnormalJsonNodeException.html", "classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1exception_1_1AbnormalJsonNodeException" ],
+    [ "BridgeCreateException", "classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1exception_1_1BridgeCreateException.html", "classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1exception_1_1BridgeCreateException" ],
+    [ "ColumnSchemaNotFoundException", "classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1exception_1_1ColumnSchemaNotFoundException.html", "classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1exception_1_1ColumnSchemaNotFoundException" ],
+    [ "TableSchemaNotFoundException", "classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1exception_1_1TableSchemaNotFoundException.html", "classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1exception_1_1TableSchemaNotFoundException" ],
+    [ "UnsupportedException", "classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1exception_1_1UnsupportedException.html", "classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1exception_1_1UnsupportedException" ],
+    [ "VersionMismatchException", "classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1exception_1_1VersionMismatchException.html", "classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1exception_1_1VersionMismatchException" ]
+];

@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.resource.link.MplsLabel.MplsLabel" name="org.onosproject.net.resource.link.MplsLabel.MplsLabel">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1MplsLabel.html#affecba225cb393a2157c8d6626038d25" title="org.onosproject.net.resource.link.\lMplsLabel.equals" alt="" coords="270,5,485,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1MplsLabel.html#a23c71b774cd9c475957341837fc175fc" title="Creates a new instance with given MPLS label. " alt="" coords="270,70,485,111"/>
+</map>

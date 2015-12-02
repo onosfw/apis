@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceorg_1_1onosproject_1_1store_1_1flow_1_1ReplicaInfoService.html" title="Service to return where the replica should be placed. " alt="" coords="5,5,181,46"/>
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1flow_1_1impl_1_1ReplicaInfoManager.html" title="Manages replica placement information. " alt="" coords="230,5,434,46"/>
+</map>

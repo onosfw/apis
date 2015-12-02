@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.device.DefaultPortDescription.portSpeed" name="org.onosproject.net.device.DefaultPortDescription.portSpeed">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1device_1_1DefaultPortDescription.html#a75895932b08e04d236c1527349d86888" title="Creates a port description using the supplied information. " alt="" coords="272,5,496,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1device_1_1DefaultPortDescription.html#a91c2bc2308cbd2eb1332beb645a93f2e" title="org.onosproject.net.device.\lDefaultPortDescription.hashCode" alt="" coords="275,86,493,127"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1device_1_1DefaultPortDescription.html#aab20ec68b5cf7927d5619c790138e7dd" title="org.onosproject.net.device.\lDefaultPortDescription.toString" alt="" coords="283,151,485,193"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.intent.constraint.LinkTypeConstraint" name="org.onosproject.net.intent.constraint.LinkTypeConstraint">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1constraint_1_1BooleanConstraint.html" title="Abstract base class for various constraints that evaluate link viability in a yes/no fashion..." alt="" coords="5,97,240,138"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1Constraint.html" title="Representation of a connectivity constraint capable of evaluating a link and determining the cost of ..." alt="" coords="36,6,209,47"/>
+</map>

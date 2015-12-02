@@ -1,0 +1,4 @@
+var classorg_1_1onlab_1_1graph_1_1TarjanGraphSearch_3_01V_01extends_01Vertex_00_01E_01extends_01Edge_3_01V_01_4_01_4 =
+[
+    [ "search", "classorg_1_1onlab_1_1graph_1_1TarjanGraphSearch_3_01V_01extends_01Vertex_00_01E_01extends_01Edge_3_01V_01_4_01_4.html#a3dc6d15fcc2ee398f53991d19304d283", null ]
+];

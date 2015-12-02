@@ -1,0 +1,5 @@
+<map id="org.onosproject.cli.net.AnnotateDeviceCommand" name="org.onosproject.cli.net.AnnotateDeviceCommand">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cli_1_1AbstractShellCommand.html" title="Base abstraction of Karaf shell commands. " alt="" coords="55,99,236,141"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1codec_1_1CodecContext.html" title="Context for codecs to use while encoding/decoding. " alt="" coords="137,6,329,47"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="260,99,447,141"/>
+</map>

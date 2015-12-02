@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.Lambda" name="org.onosproject.net.Lambda">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1IndexedLambda.html" title="Implementation of Lambda simply designated by an index number of wavelength. " alt="" coords="5,81,187,122"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1OchSignal.html" title="Implementation of Lambda representing OCh (Optical Channel) Signal. " alt="" coords="212,88,409,115"/>
+</map>

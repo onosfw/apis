@@ -1,0 +1,5 @@
+<map id="org.onosproject.ui.topo.LinkHighlightTest.basic" name="org.onosproject.ui.topo.LinkHighlightTest.basic">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1LinkHighlight.html#ad20aa0fcc497dc770f2abee968a09126" title="Generates the CSS classes string from the flavor and any optional mods. " alt="" coords="213,38,384,79"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1LinkHighlight.html#aa351e2b0daba71a4f9f03034ed95b25c" title="Returns the highlight flavor. " alt="" coords="446,5,605,46"/>
+<area shape="rect" id="node4" href="$enumorg_1_1onosproject_1_1ui_1_1topo_1_1LinkHighlight_1_1Flavor.html#a57de6601a2abcb2fd46b8e33c61bba00" title="org.onosproject.ui.topo.\lLinkHighlight.Flavor.toString" alt="" coords="432,70,619,111"/>
+</map>

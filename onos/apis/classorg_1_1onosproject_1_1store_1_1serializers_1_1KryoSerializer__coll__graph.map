@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.serializers.KryoSerializer" name="org.onosproject.store.serializers.KryoSerializer">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1store_1_1serializers_1_1StoreSerializer.html" title="Service to serialize Objects into byte array. " alt="" coords="5,83,216,125"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1util_1_1KryoNamespace.html" title="Pool of Kryo instances, with classes pre&#45;registered. " alt="" coords="240,91,437,117"/>
+</map>

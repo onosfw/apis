@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.statistic.DefaultLoad.latest" name="org.onosproject.net.statistic.DefaultLoad.latest">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1statistic_1_1DefaultLoadTest.html#a7ff43eab093edbefc0759b15a91727ca" title="Tests the current&#45;previous constructor. " alt="" coords="249,5,487,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1statistic_1_1DefaultLoadTest.html#a3864e7169de94e59329a11cf404b3ac4" title="Tests the current&#45;previous&#45;interval constructor. " alt="" coords="249,85,487,141"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1statistic_1_1DefaultLoadTest.html#a44395bc124b6828950508622467025da" title="Tests the default constructor. " alt="" coords="241,166,495,207"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1statistic_1_1DefaultLoad.html#af2df947a34f4a4f1a2f74168c884f281" title="org.onosproject.net.statistic.\lDefaultLoad.toString" alt="" coords="275,231,461,273"/>
+</map>

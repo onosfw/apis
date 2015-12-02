@@ -1,0 +1,6 @@
+<map id="org.onosproject.app.impl.ApplicationManager.getState" name="org.onosproject.app.impl.ApplicationManager.getState">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1app_1_1impl_1_1ApplicationManagerTest.html#a165268eff877b78df1ec8e265367ca1a" title="org.onosproject.app.impl.\lApplicationManagerTest.activate" alt="" coords="493,35,705,77"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1app_1_1impl_1_1ApplicationManagerTest.html#a3a9f53550e210c8de79f821fedf4029b" title="org.onosproject.app.impl.\lApplicationManagerTest.deactivate" alt="" coords="755,6,981,47"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1app_1_1impl_1_1ApplicationManagerTest.html#a2a8bb83861b302d204d193e4a0f460f6" title="org.onosproject.app.impl.\lApplicationManagerTest.install" alt="" coords="243,90,443,131"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1app_1_1impl_1_1ApplicationManagerTest.html#a1b494282039a3128ee7fed2e28df5bb1" title="org.onosproject.app.impl.\lApplicationManagerTest.uninstall" alt="" coords="491,101,706,142"/>
+</map>

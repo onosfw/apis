@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.DefaultAnnotations.merge" name="org.onosproject.net.DefaultAnnotations.merge">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1SparseAnnotations.html#ad79a657dbf2093731119b685b55e8bc4" title="Indicates whether the specified key has been tagged as removed. " alt="" coords="232,5,411,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1SparseAnnotations.html#a355dd40c5ab91c061c3dbc54e7484a9d" title="Returns the set of keys for available annotations.annotation keys " alt="" coords="232,70,411,111"/>
+</map>

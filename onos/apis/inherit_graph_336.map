@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ControllerNode.html" title="Represents a controller instance as a member in a cluster. " alt="" coords="6,5,165,46"/>
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cluster_1_1DefaultControllerNode.html" title="Default implementation of a controller instance descriptor. " alt="" coords="214,5,373,46"/>
+</map>

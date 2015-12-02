@@ -1,0 +1,13 @@
+<map id="org.onosproject.provider.host.impl.HostLocationProvider" name="org.onosproject.provider.host.impl.HostLocationProvider">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1AbstractProvider.html" title="Base provider implementation. " alt="" coords="457,5,644,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="37,33,224,74"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1host_1_1HostProvider.html" title="Provider of information about hosts and their location on the network. " alt="" coords="467,70,634,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="461,135,640,177"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1host_1_1HostService.html" title="Service for interacting with the inventory of end&#45;station hosts. " alt="" coords="467,201,634,242"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1cfg_1_1ComponentConfigService.html" title="Service for tracking system&#45;wide configurations for various software components. " alt="" coords="449,266,653,307"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1net_1_1topology_1_1TopologyService.html" title="Service for providing network topology information. " alt="" coords="455,331,646,373"/>
+<area shape="rect" id="node12" href="$interfaceorg_1_1onosproject_1_1net_1_1packet_1_1PacketService.html" title="Service for intercepting data plane packets and for emitting synthetic outbound packets. " alt="" coords="461,397,641,438"/>
+<area shape="rect" id="node13" href="$interfaceorg_1_1onosproject_1_1net_1_1host_1_1HostProviderRegistry.html" title="Abstraction of a host provider registry. " alt="" coords="467,462,634,503"/>
+<area shape="rect" id="node15" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="465,533,637,574"/>
+<area shape="rect" id="node16" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="37,567,224,609"/>
+</map>

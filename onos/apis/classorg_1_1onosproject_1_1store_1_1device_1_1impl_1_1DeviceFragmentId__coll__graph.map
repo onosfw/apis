@@ -1,0 +1,6 @@
+<map id="org.onosproject.store.device.impl.DeviceFragmentId" name="org.onosproject.store.device.impl.DeviceFragmentId">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1DeviceId.html" title="Immutable representation of a device identity. " alt="" coords="8,184,197,211"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1ElementId.html" title="Immutable representation of a network element identity. " alt="" coords="5,99,200,125"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1NetworkResource.html" title="Representation of a network resource, e.g. " alt="" coords="9,6,196,47"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="289,177,476,218"/>
+</map>

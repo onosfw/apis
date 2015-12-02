@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.Device.manufacturer" name="org.onosproject.net.Device.manufacturer">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1codec_1_1impl_1_1DeviceCodec.html#ab119c5551972d2d95516c23853d479c6" title="org.onosproject.codec.impl.\lDeviceCodec.encode" alt="" coords="331,5,514,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1impl_1_1DriverManager.html#aa7c049d8689ae9bbee1810027d95ca98" title="Returns the driver for the specified device. " alt="" coords="322,70,523,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1DevicesListCommand.html#a8a1ce3e93b18e83476f5d363e6f4e40a" title="Prints information about the specified device. " alt="" coords="312,135,533,177"/>
+</map>

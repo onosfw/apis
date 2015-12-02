@@ -1,0 +1,8 @@
+<map id="org.onosproject.net.link.LinkProvider" name="org.onosproject.net.link.LinkProvider">
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalConfigProvider.html" title="OpticalConfigProvider emulates the SB network provider for optical switches, optical links and any ot..." alt="" coords="501,70,680,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1optical_1_1OpticalLinkProvider.html" title="Ancillary provider to activate/deactivate optical links as their respective devices go online or offl..." alt="" coords="512,135,669,177"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1provider_1_1lldp_1_1impl_1_1LldpLinkProvider.html" title="Provider which uses LLDP and BDDP packets to detect network infrastructure links. ..." alt="" coords="482,201,699,242"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1provider_1_1pcep_1_1topology_1_1impl_1_1PcepTopologyProvider.html" title="Provider which uses an PCEP controller to detect network infrastructure topology. ..." alt="" coords="451,331,730,373"/>
+<area shape="rect" id="node9" title="Provider of devices and links parsed from a JSON configuration structure. " alt="" coords="489,397,692,438"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="5,201,192,242"/>
+</map>

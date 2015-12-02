@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.intent.FlowRuleIntent.FlowRuleIntent" name="org.onosproject.net.intent.FlowRuleIntent.FlowRuleIntent">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1Intent.html#a95213b848996654ad07bc1b1912dfceb" title="Returns the identifier of the application that requested the intent. " alt="" coords="256,5,429,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1FlowRuleIntent.html#a6cbb44fb5c30c35325f7dbc3386989cb" title="Returns a collection of flow rules to be set. " alt="" coords="256,70,429,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1Intent.html#aed36b239b993ffca7966c93f52e5ab42" title="Returns the collection of resources required for this intent. " alt="" coords="256,135,429,177"/>
+</map>

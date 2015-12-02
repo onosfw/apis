@@ -1,0 +1,5 @@
+<map id="org.onosproject.bgpio.types.OSPFNonPseudonode.OSPFNonPseudonode" name="org.onosproject.bgpio.types.OSPFNonPseudonode.OSPFNonPseudonode">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1OSPFNonPseudonode.html#ad983937ad8cc774e43915d07876f839c" title="org.onosproject.bgpio.types.\lOSPFNonPseudonode.equals" alt="" coords="345,5,541,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1OSPFNonPseudonode.html#a7ebc3471b277633ec45e8c07655832b2" title="Returns object of this class with specified routerID. " alt="" coords="349,70,536,111"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1OSPFNonPseudonode.html#a9f7643201784b87323174d10b47bbba9" title="Compares two objects. " alt="" coords="590,5,813,46"/>
+</map>

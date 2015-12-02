@@ -1,0 +1,4 @@
+var classorg_1_1onlab_1_1graph_1_1DijkstraGraphSearch_3_01V_01extends_01Vertex_00_01E_01extends_01Edge_3_01V_01_4_01_4 =
+[
+    [ "search", "classorg_1_1onlab_1_1graph_1_1DijkstraGraphSearch_3_01V_01extends_01Vertex_00_01E_01extends_01Edge_3_01V_01_4_01_4.html#ae052623f19d5e202e6973a8623c2e5b5", null ]
+];

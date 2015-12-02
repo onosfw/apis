@@ -1,0 +1,8 @@
+<map id="org.onosproject.net.DefaultHost.equals" name="org.onosproject.net.DefaultHost.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1DefaultHost.html#adcd88d43ef196ce777c49f871a9f5046" title="Creates an end&#45;station host using the supplied information. " alt="" coords="232,103,411,145"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1DefaultHost.html#a4d4bac8bc36e34068e214317062841fc" title="Returns set of IP addresses currently bound to the host MAC address. " alt="" coords="232,169,411,210"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1AbstractAnnotated.html#a2858b84119b1f766fd6222e79efa1b93" title="Returns the key/value annotations. " alt="" coords="459,5,645,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1DefaultHost.html#a5b6845300ae4757ab300805d975c43cd" title="Returns the most recent host location where the host attaches to the network edge. " alt="" coords="463,70,641,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1DefaultHost.html#a4da4aa201901687ff494011abb294106" title="Returns the host MAC address. " alt="" coords="463,135,641,177"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1DefaultHost.html#a87dcf8a447fbdb87a06b1ab6f4ecc6ba" title="Returns the VLAN ID tied to this host. " alt="" coords="463,201,641,242"/>
+</map>

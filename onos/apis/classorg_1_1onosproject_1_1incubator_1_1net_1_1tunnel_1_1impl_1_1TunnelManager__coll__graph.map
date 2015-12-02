@@ -1,0 +1,6 @@
+<map id="org.onosproject.incubator.net.tunnel.impl.TunnelManager" name="org.onosproject.incubator.net.tunnel.impl.TunnelManager">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1TunnelService.html" title="Service for interacting with the inventory of tunnels. " alt="" coords="329,115,562,157"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1TunnelAdminService.html" title="Service for administering the inventory of provisioned tunnels. " alt="" coords="329,181,562,222"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1TunnelProviderRegistry.html" title="Abstraction of an tunnel provider registry. " alt="" coords="329,246,562,287"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1TunnelStore.html" title="Manages inventory of tunnel; not intended for direct use. " alt="" coords="329,315,562,357"/>
+</map>

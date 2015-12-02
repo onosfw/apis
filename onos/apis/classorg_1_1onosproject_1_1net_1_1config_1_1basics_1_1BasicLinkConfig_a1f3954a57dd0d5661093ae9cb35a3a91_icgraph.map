@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.config.basics.BasicLinkConfig.type" name="org.onosproject.net.config.basics.BasicLinkConfig.type">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1link_1_1impl_1_1BasicLinkOperator.html#aa18f83a1fefb29be026b0e01b0ed448a" title="Generates a LinkDescription containing fields from a LinkDescription and a LinkConfig. " alt="" coords="287,5,476,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1link_1_1impl_1_1BasicLinkOperator.html#a22209f0ccb328dfd3911ecc5adcb21e0" title="Generates a link description from a link config entity. " alt="" coords="539,34,749,75"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1config_1_1basics_1_1BasicLinkConfig.html#ad4cc344b3568cafb8e302b4221bf30ee" title="Sets the link type. " alt="" coords="272,122,491,163"/>
+</map>

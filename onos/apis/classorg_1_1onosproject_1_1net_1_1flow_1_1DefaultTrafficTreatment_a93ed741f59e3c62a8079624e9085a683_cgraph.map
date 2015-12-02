@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.DefaultTrafficTreatment.hashCode" name="org.onosproject.net.flow.DefaultTrafficTreatment.hashCode">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultTrafficTreatment.html#a57c8769f9ed506d8e926f216baa54ab6" title="Returns the list of treatment instructions that will be applied further down the pipeline. " alt="" coords="284,5,495,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultTrafficTreatment.html#af84c3d7393b8eab7a72e1865a2c0f31c" title="Returns the list of treatment instructions that will be applied immediately. " alt="" coords="277,70,501,111"/>
+</map>

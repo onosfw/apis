@@ -1,0 +1,4 @@
+<map id="org.onosproject.ui.table.TableRequestHandler.getColumnIds" name="org.onosproject.ui.table.TableRequestHandler.getColumnIds">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1table_1_1TableRequestHandler.html#acf05be9378ddd3dd8c141235f26fd8fa" title="Creates the table model (devoid of data) using getColumnIds() to initialize it, ready to be populated..." alt="" coords="289,5,543,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1table_1_1TableRequestHandler.html#a967dc24866f4ad9a7a106320f3a284dd" title="Processes the incoming message payload from the client. " alt="" coords="593,5,791,46"/>
+</map>

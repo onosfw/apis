@@ -1,0 +1,11 @@
+<map id="org.onosproject.dhcp.impl.DhcpManager" name="org.onosproject.dhcp.impl.DhcpManager">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1dhcp_1_1DhcpService.html" title="DHCP Service Interface. " alt="" coords="719,5,897,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1host_1_1HostProviderRegistry.html" title="Abstraction of a host provider registry. " alt="" coords="725,70,891,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1packet_1_1PacketService.html" title="Service for intercepting data plane packets and for emitting synthetic outbound packets. " alt="" coords="718,135,898,177"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1host_1_1HostProviderService.html" title="Means of conveying host information to the core. " alt="" coords="725,253,891,294"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1dhcp_1_1DhcpStore.html" title="DHCPStore Interface. " alt="" coords="719,318,897,359"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigRegistry.html" title="Service for tracking network configuration factories. " alt="" coords="720,383,896,425"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigService.html" title="Service for tracking network configurations which specify how the discovered network information shou..." alt="" coords="312,371,488,413"/>
+<area shape="rect" id="node13" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="722,451,894,493"/>
+<area shape="rect" id="node14" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="307,475,493,517"/>
+</map>

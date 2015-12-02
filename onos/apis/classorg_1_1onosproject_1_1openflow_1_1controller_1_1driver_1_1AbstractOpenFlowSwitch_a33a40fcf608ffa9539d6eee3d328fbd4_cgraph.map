@@ -1,0 +1,4 @@
+<map id="org.onosproject.openflow.controller.driver.AbstractOpenFlowSwitch.setRole" name="org.onosproject.openflow.controller.driver.AbstractOpenFlowSwitch.setRole">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1openflow_1_1controller_1_1driver_1_1AbstractOpenFlowSwitch.html#aa22ffb9fc8363330281a1bd8484d5430" title="Gets a string version of the ID for this switch. " alt="" coords="317,5,581,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1openflow_1_1controller_1_1driver_1_1RoleHandler.html#a6630f20d3861abcd1a1b4d408f6690d6" title="Send a role request with the given role to the switch and update the pending request and timestamp..." alt="" coords="317,70,581,111"/>
+</map>

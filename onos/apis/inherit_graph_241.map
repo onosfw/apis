@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceorg_1_1onosproject_1_1bgp_1_1controller_1_1BgpPeerManager.html" title="Responsible for keeping track of the current set BGPLS peers connected to the system. " alt="" coords="5,5,203,46"/>
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpControllerImpl_1_1BgpPeerManagerImpl.html" title="Implementation of an BGP Peer which is responsible for keeping track of connected peers and the state..." alt="" coords="251,5,506,46"/>
+</map>

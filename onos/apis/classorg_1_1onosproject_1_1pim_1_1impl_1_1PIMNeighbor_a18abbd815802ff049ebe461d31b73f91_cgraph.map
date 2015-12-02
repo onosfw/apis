@@ -1,0 +1,5 @@
+<map id="org.onosproject.pim.impl.PIMNeighbor.refresh" name="org.onosproject.pim.impl.PIMNeighbor.refresh">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1pim_1_1impl_1_1PIMInterface.html#af67072751f76bc3f430530ce75d802c1" title="Get the designated router on this connection. " alt="" coords="221,5,445,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1pim_1_1PIMHello.html#a38d36b8e034a724cd70c0ede3c632e71" title="org.onlab.packet.pim.PIMHello.get\lOptions" alt="" coords="222,70,445,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1pim_1_1impl_1_1PIMNeighbor.html#ae26962d08d5a3510ef126336d303dce7" title="Is this neighbor the designated router on this connect point? " alt="" coords="249,135,417,177"/>
+</map>

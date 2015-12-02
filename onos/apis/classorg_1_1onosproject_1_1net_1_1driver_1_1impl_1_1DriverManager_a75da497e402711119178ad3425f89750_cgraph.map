@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.driver.impl.DriverManager.unregisterProvider" name="org.onosproject.net.driver.impl.DriverManager.unregisterProvider">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1DriverProvider.html#a6b1fd92d09084f125aafa78dc45be3a8" title="Returns the set of driver types and behaviour implementations to be made available by this provider..." alt="" coords="301,5,475,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1DefaultDriverProvider.html#a09d23176b57c8ae223db657a64a95b21" title="Removes the specified drivers from the provider. " alt="" coords="270,70,506,111"/>
+</map>

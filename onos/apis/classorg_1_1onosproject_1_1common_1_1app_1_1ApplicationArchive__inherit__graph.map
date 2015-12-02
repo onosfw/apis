@@ -1,0 +1,4 @@
+<map id="org.onosproject.common.app.ApplicationArchive" name="org.onosproject.common.app.ApplicationArchive">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1app_1_1GossipApplicationStore.html" title="Manages inventory of applications in a distributed data store that uses optimistic replication and go..." alt="" coords="525,5,699,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleApplicationStore.html" title="Manages inventory of network control applications. " alt="" coords="521,70,703,111"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="org.onosproject.net.edgeservice.impl.EdgeManagerTest.testLinkUpdates" name="org.onosproject.net.edgeservice.impl.EdgeManagerTest.testLinkUpdates">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1ConnectPoint.html#ae26d775b79f3be42a1a2eafc0c0c51b6" title="Returns the identifier of the infrastructure device if the connection point belongs to a network elem..." alt="" coords="293,5,480,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1NetTestTools.html#ae02450e910262fd89cd02d9664044967" title="org.onosproject.net.NetTest\lTools.link" alt="" coords="295,70,479,111"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1ConnectPoint.html#ab72d1d5fc602684d5e8abebf9d0f7c22" title="Returns the connection port number. " alt="" coords="293,135,480,177"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1ConnectPoint.html#a71dbaeabb12421d31bac7c7ec8547535" title="Returns the network element identifier. " alt="" coords="528,5,715,46"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1NetTestTools.html#ae9ae03458777a79abd6344bc8214805a" title="org.onosproject.net.NetTest\lTools.connectPoint" alt="" coords="529,70,713,111"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1NetTestTools.html#a029d5783693de6b5f34a659e9394061f" title="org.onosproject.net.NetTest\lTools.did" alt="" coords="763,70,947,111"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.driver.impl.DriverManager.registerProvider" name="org.onosproject.net.driver.impl.DriverManager.registerProvider">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1DefaultDriverProvider.html#ad85e745b9e4556ce76db3a2da0f5c1d3" title="Adds the specified drivers to the provider. " alt="" coords="257,5,471,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1DriverProvider.html#a6b1fd92d09084f125aafa78dc45be3a8" title="Returns the set of driver types and behaviour implementations to be made available by this provider..." alt="" coords="277,70,451,111"/>
+</map>

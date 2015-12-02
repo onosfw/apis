@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.resource.link.LambdaResourceAllocation.equals" name="org.onosproject.net.resource.link.LambdaResourceAllocation.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1LambdaResourceAllocation.html#a488868c91062f97d9117fce314ff7298" title="Creates a new LambdaResourceAllocation with LambdaResource object. " alt="" coords="278,5,565,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1LambdaResourceAllocation.html#a52cb08e80c3485d5a502f3814f7324b3" title="Returns the lambda resource. " alt="" coords="613,13,840,54"/>
+</map>

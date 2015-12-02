@@ -1,0 +1,4 @@
+<map id="org.onosproject.bgpio.protocol.ver4.BgpUpdateMsgVer4.toString" name="org.onosproject.bgpio.protocol.ver4.BgpUpdateMsgVer4.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1ver4_1_1BgpUpdateMsgVer4.html#abcd0ab43092e36149e4af2ee544d2dd5" title="Returns NLRI list of prefix. " alt="" coords="291,5,520,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1ver4_1_1BgpUpdateMsgVer4.html#a7c8d2fce85e690acad01f55aa5e5c596" title="Returns withdrawn Routes. " alt="" coords="283,70,527,111"/>
+</map>

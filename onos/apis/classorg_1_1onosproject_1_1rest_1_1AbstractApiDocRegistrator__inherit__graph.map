@@ -1,0 +1,10 @@
+<map id="org.onosproject.rest.AbstractApiDocRegistrator" name="org.onosproject.rest.AbstractApiDocRegistrator">
+<area shape="rect" id="node2" href="$classorg_1_1onos_1_1acl_1_1impl_1_1ApiDocRegistrator.html" title="org.onos.acl.impl.ApiDoc\lRegistrator" alt="" coords="293,5,461,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1cordfabric_1_1ApiDocRegistrator.html" title="org.onosproject.cordfabric.\lApiDocRegistrator" alt="" coords="289,70,465,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1demo_1_1ApiDocRegistrator.html" title="org.onosproject.demo.Api\lDocRegistrator" alt="" coords="292,135,463,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1dhcp_1_1rest_1_1ApiDocRegistrator.html" title="org.onosproject.dhcp.rest.\lApiDocRegistrator" alt="" coords="291,201,464,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1openstackswitching_1_1web_1_1ApiDocRegistrator.html" title="org.onosproject.openstackswitching.web.\lApiDocRegistrator" alt="" coords="246,266,509,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1rest_1_1impl_1_1ApiDocRegistrator.html" title="org.onosproject.rest.impl.\lApiDocRegistrator" alt="" coords="293,331,462,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1segmentrouting_1_1web_1_1ApiDocRegistrator.html" title="org.onosproject.segmentrouting.web.\lApiDocRegistrator" alt="" coords="259,397,495,438"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1virtualbng_1_1ApiDocRegistrator.html" title="org.onosproject.virtualbng.\lApiDocRegistrator" alt="" coords="290,462,465,503"/>
+</map>

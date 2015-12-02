@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.intent.constraint.ObstacleConstraint.obstacles" name="org.onosproject.net.intent.constraint.ObstacleConstraint.obstacles">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1constraint_1_1ObstacleConstraint.html#a87da3e391d95694b08fc614fa5144643" title="Returns true if the specified link satisfies the constraint. " alt="" coords="296,5,531,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1constraint_1_1ObstacleConstraint.html#a36d728a244f9337e084fb8ac7dc81ba0" title="Creates a new constraint that the specified device are not passed through. " alt="" coords="288,70,539,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1constraint_1_1ObstacleConstraint.html#a5b5501493e86dfec24e02d9a20481cb0" title="org.onosproject.net.intent.constraint.\lObstacleConstraint.toString" alt="" coords="296,135,531,177"/>
+</map>

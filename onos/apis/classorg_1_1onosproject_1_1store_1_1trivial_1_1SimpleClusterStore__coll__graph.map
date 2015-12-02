@@ -1,0 +1,8 @@
+<map id="org.onosproject.store.trivial.SimpleClusterStore" name="org.onosproject.store.trivial.SimpleClusterStore">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterStore.html" title="Manages inventory of controller cluster nodes; not intended for direct use. " alt="" coords="283,86,442,127"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1PartitionService.html" title="Service for interacting with the partition&#45;to&#45;instance assignments. " alt="" coords="276,151,449,193"/>
+<area shape="rect" id="node7" href="$classorg_1_1onlab_1_1packet_1_1IpAddress.html" title="A class representing an IP address. " alt="" coords="272,220,453,247"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1event_1_1EventDeliveryService.html" title="Abstraction of an entity capable of accepting events to be posted and then dispatching them to the ap..." alt="" coords="270,273,455,314"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1event_1_1EventDispatcher.html" title="Abstraction of a mechanism capable of accepting and dispatching events to appropriate event sinks..." alt="" coords="15,273,201,314"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onosproject_1_1event_1_1EventSinkRegistry.html" title="Abstraction of an event sink registry capable of tracking sinks based on their event class..." alt="" coords="15,338,201,379"/>
+</map>

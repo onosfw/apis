@@ -1,0 +1,8 @@
+<map id="org.onosproject.routing.config.Interface.equals" name="org.onosproject.routing.config.Interface.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1VlanId.html#ab3ef9441e7724ca84548cd6f09eb1454" title="org.onlab.packet.VlanId.equals" alt="" coords="251,20,453,47"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1routing_1_1config_1_1Interface.html#a1a019d4bcba7f7112b85fe0c600b28c9" title="Creates an Interface based on a connection point, a set of interface IP addresses, and a MAC address. " alt="" coords="253,134,451,175"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1routing_1_1config_1_1Interface.html#adfabff41555f4757fb5ce98783d04b7d" title="Retrieves the set of IP addresses that are assigned to the interface. " alt="" coords="501,70,699,111"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1routing_1_1config_1_1Interface.html#ac7636310a19f5a4bff661cde8d7dd66f" title="Retrieves the VLAN ID that is assigned to the interface. " alt="" coords="501,201,699,242"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1VlanId.html#a7c0b981ac8b919a7014438f4ec0f5157" title="org.onlab.packet.VlanId.\lVlanId" alt="" coords="519,5,681,46"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1routing_1_1config_1_1Interface.html#a06c4307916d515a993a55dc6c97f844c" title="Retrieves the connection point that this interface maps to. " alt="" coords="501,135,699,177"/>
+</map>

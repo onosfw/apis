@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.statistic.DefaultLoadTest.testDefaultConstructor" name="org.onosproject.net.statistic.DefaultLoadTest.testDefaultConstructor">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1statistic_1_1DefaultLoad.html#a024983f8704915be993798fd03929396" title="Obtain the latest bytes counter viewed on that link. " alt="" coords="309,5,496,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1statistic_1_1DefaultLoad.html#a524de42276ce5189232c40a9a2692edc" title="Obtain the current observed rate (in bytes/s) on a link. " alt="" coords="309,70,496,111"/>
+</map>

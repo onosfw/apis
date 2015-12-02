@@ -1,0 +1,9 @@
+<map id="org.onosproject.bgpio.types.IPv6AddressTlv.address" name="org.onosproject.bgpio.types.IPv6AddressTlv.address">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPv6AddressTlv.html#ae9654577ad2459cdc19673989428851b" title="Compares two objects. " alt="" coords="736,22,923,63"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPv6AddressTlv.html#a0d52a04cdabab8e782203835d46ebd10" title="org.onosproject.bgpio.types.\lIPv6AddressTlv.hashCode" alt="" coords="253,51,440,92"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPv6AddressTlv.html#ab41c0b33368fc46ab119e704bd000e4b" title="Constructor to initialize parameters. " alt="" coords="241,116,453,158"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPv6AddressTlv.html#ac7c9f8cf6007e9fee45d66d7e8e83df6" title="Reads the channel buffer and returns object of IPv6AddressTlv. " alt="" coords="253,182,440,223"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPv6AddressTlv.html#a7591f613a83760b3eb885b2ae0790538" title="org.onosproject.bgpio.types.\lIPv6AddressTlv.toString" alt="" coords="253,247,440,288"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPv6AddressTlv.html#a2ab98e3580d3a554fda912d13abbc55b" title="org.onosproject.bgpio.types.\lIPv6AddressTlv.equals" alt="" coords="501,51,688,92"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPv6AddressTlv.html#a9b18c7f8f25fc622839a1654fab39e9b" title="Returns object of this class with specified values. " alt="" coords="501,116,688,158"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.DefaultFlowEntry.packets" name="org.onosproject.net.flow.DefaultFlowEntry.packets">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowEntry.html#a75e68bcd6c493b894e56511287bcf85d" title="org.onosproject.net.flow.\lDefaultFlowEntry.DefaultFlowEntry" alt="" coords="227,5,455,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowEntry.html#a9987f3b8f050342e3289d721ba131643" title="Number of packets seen by this entry. " alt="" coords="245,70,438,111"/>
+</map>

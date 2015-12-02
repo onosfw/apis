@@ -1,0 +1,5 @@
+<map id="org.onosproject.store.trivial.SimpleIntentStore.batchWrite" name="org.onosproject.store.trivial.SimpleIntentStore.batchWrite">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleIntentStore.html#a59010c6b20145587ee4cc610ba9adb2d" title="Writes an IntentData object to the store. " alt="" coords="249,38,431,79"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1IntentData.html#aca59d00b0aeb03d90a4e2a2ce262d294" title="Determines whether an intent data update is allowed. " alt="" coords="481,5,685,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1IntentEvent.html#ae7aacc5d9622de24e9132106153a3c2a" title="Creates an IntentEvent based on the state contained in the given intent data. " alt="" coords="496,70,669,111"/>
+</map>

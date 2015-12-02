@@ -1,0 +1,8 @@
+<map id="org.onosproject.store.trivial.SystemClockTimestamp.nanoTimestamp" name="org.onosproject.store.trivial.SystemClockTimestamp.nanoTimestamp">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SystemClockTimestamp.html#ad46f07d860d926fe5c6e2d8f41ac6cc8" title="org.onosproject.store.trivial.\lSystemClockTimestamp.compareTo" alt="" coords="645,13,880,54"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SystemClockTimestamp.html#a766e63ab3c149500788d90f84bb0b72e" title="org.onosproject.store.trivial.\lSystemClockTimestamp.hashCode" alt="" coords="343,38,572,80"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SystemClockTimestamp.html#ad5a25cb431c9198fda24f99c775c5af8" title="org.onosproject.store.trivial.\lSystemClockTimestamp.SystemClock\lTimestamp" alt="" coords="333,104,582,160"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SystemClockTimestamp.html#a4cb2a0eb952e035df0d91fe79c78d50a" title="org.onosproject.store.trivial.\lSystemClockTimestamp.systemTimestamp" alt="" coords="318,185,597,226"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SystemClockTimestamp.html#afd24bfd9580a07240d27ef72624fb783" title="org.onosproject.store.trivial.\lSystemClockTimestamp.toString" alt="" coords="350,250,565,292"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SystemClockTimestamp.html#ad9cddf50ea87193c4c5d8da1d20eeb4e" title="org.onosproject.store.trivial.\lSystemClockTimestamp.equals" alt="" coords="659,112,867,153"/>
+</map>

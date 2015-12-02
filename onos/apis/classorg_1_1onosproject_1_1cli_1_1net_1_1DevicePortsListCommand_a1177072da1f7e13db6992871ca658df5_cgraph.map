@@ -1,0 +1,4 @@
+<map id="org.onosproject.cli.net.DevicePortsListCommand.printDevice" name="org.onosproject.cli.net.DevicePortsListCommand.printDevice">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1util_1_1Frequency.html#afae0f4013b184d5db1e15d5ede849998" title="Returns an instance representing the specified value in GHz. " alt="" coords="259,5,461,32"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1DefaultPort.html#aa1e9d78c133ca6dec14d2ae425de2c0c" title="Returns the current port speed in Mbps. " alt="" coords="271,57,449,98"/>
+</map>

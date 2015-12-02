@@ -1,0 +1,3 @@
+<map id="org.onosproject.store.intent.impl.GossipIntentStore.getIntentData" name="org.onosproject.store.intent.impl.GossipIntentStore.getIntentData">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1intent_1_1impl_1_1GossipIntentStore.html#aa569bed2983c6badec3236838e072cf7" title="Checks to see whether the calling instance is the master for processing this intent, or more specifically, the key contained in this intent. " alt="" coords="267,5,479,46"/>
+</map>

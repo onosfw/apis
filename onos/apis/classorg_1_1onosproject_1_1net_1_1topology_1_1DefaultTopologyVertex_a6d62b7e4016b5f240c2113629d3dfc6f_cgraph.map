@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.topology.DefaultTopologyVertex.equals" name="org.onosproject.net.topology.DefaultTopologyVertex.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1topology_1_1DefaultTopologyVertex.html#abf0616cfcc2a4eec8cb8be4db117f38d" title="Creates a new topology vertex. " alt="" coords="251,5,506,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1topology_1_1DefaultTopologyVertex.html#ad2aa3024038f28289f4aaaf02edcbdda" title="Returns the associated infrastructure device identification. " alt="" coords="555,13,763,54"/>
+</map>

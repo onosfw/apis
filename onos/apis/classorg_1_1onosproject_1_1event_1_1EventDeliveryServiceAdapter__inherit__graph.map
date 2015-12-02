@@ -1,0 +1,5 @@
+<map id="org.onosproject.event.EventDeliveryServiceAdapter" name="org.onosproject.event.EventDeliveryServiceAdapter">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1event_1_1EventDeliveryService.html" title="Abstraction of an entity capable of accepting events to be posted and then dispatching them to the ap..." alt="" coords="109,97,293,138"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1event_1_1EventDispatcher.html" title="Abstraction of a mechanism capable of accepting and dispatching events to appropriate event sinks..." alt="" coords="5,6,189,47"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1event_1_1EventSinkRegistry.html" title="Abstraction of an event sink registry capable of tracking sinks based on their event class..." alt="" coords="214,6,399,47"/>
+</map>

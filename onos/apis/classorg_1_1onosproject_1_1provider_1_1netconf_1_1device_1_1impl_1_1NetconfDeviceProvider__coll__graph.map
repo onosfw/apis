@@ -1,0 +1,12 @@
+<map id="org.onosproject.provider.netconf.device.impl.NetconfDeviceProvider" name="org.onosproject.provider.netconf.device.impl.NetconfDeviceProvider">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1AbstractProvider.html" title="Base provider implementation. " alt="" coords="744,5,931,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="320,33,507,74"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceProvider.html" title="Abstraction of a device information provider. " alt="" coords="748,70,927,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="748,135,927,177"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1netconf_1_1NetconfController.html" title="Abstraction of an NETCONF controller. " alt="" coords="756,201,919,242"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceProviderRegistry.html" title="Abstraction of a device provider registry. " alt="" coords="748,266,927,307"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigRegistry.html" title="Service for tracking network configuration factories. " alt="" coords="749,331,925,373"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigService.html" title="Service for tracking network configurations which specify how the discovered network information shou..." alt="" coords="325,331,501,373"/>
+<area shape="rect" id="node13" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="751,406,923,447"/>
+<area shape="rect" id="node14" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="320,435,507,477"/>
+</map>

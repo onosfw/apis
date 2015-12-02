@@ -1,0 +1,5 @@
+<map id="org.onosproject.bgprouter.NextHop.NextHop" name="org.onosproject.bgprouter.NextHop.NextHop">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgprouter_1_1NextHop.html#a9b7eb8e0f80139825afa20c5768c01c5" title="Returns the next hop group. " alt="" coords="227,5,400,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgprouter_1_1NextHop.html#aa459f489b8ac383448ba1d7dd6700384" title="Returns the next hop&#39;s IP address. " alt="" coords="227,70,400,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgprouter_1_1NextHop.html#a40c65805202c7720f60265da581114e9" title="Returns the next hop&#39;s MAC address. " alt="" coords="227,135,400,177"/>
+</map>

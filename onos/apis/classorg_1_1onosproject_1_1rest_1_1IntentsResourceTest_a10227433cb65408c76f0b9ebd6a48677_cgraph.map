@@ -1,0 +1,5 @@
+<map id="org.onosproject.rest.IntentsResourceTest.testBadRemove" name="org.onosproject.rest.IntentsResourceTest.testBadRemove">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html#aaa10f7406ce9e3e1a863bb0c199f1b14" title="Returns an existing application id from a given id. " alt="" coords="257,5,429,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1IntentService.html#ab77697aaeb8feadfbc4980660d54d991" title="Fetches an intent based on its key. " alt="" coords="256,70,429,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1Key.html#ad073db03d6d3d19cfc01e2c74f78b9d3" title="Creates a key based on the provided string. " alt="" coords="256,135,429,177"/>
+</map>

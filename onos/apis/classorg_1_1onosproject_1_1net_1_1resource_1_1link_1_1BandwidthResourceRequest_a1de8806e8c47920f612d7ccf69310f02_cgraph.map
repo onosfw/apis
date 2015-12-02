@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.resource.link.BandwidthResourceRequest.equals" name="org.onosproject.net.resource.link.BandwidthResourceRequest.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1BandwidthResourceRequest.html#ab4e6169b4c3e9ca42e88aab9d95033d7" title="Creates a new BandwidthResourceRequest with BandwidthResource object. " alt="" coords="285,5,595,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1BandwidthResourceRequest.html#af85891fec4e10ed580b65ccc882c153d" title="Returns the bandwidth resource. " alt="" coords="643,13,893,54"/>
+</map>

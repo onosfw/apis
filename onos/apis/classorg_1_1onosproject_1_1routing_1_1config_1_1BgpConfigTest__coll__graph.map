@@ -1,0 +1,4 @@
+<map id="org.onosproject.routing.config.BgpConfigTest" name="org.onosproject.routing.config.BgpConfigTest">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1IpAddress.html" title="A class representing an IP address. " alt="" coords="5,91,187,117"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1ConnectPoint.html" title="Abstraction of a network connection point expressed as a pair of the network element identifier and p..." alt="" coords="211,83,397,125"/>
+</map>

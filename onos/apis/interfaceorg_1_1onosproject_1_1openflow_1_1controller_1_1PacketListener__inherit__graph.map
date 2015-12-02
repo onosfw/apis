@@ -1,0 +1,4 @@
+<map id="org.onosproject.openflow.controller.PacketListener" name="org.onosproject.openflow.controller.PacketListener">
+<area shape="rect" id="node2" title="Mock packet listener that accumulates packets. " alt="" coords="283,5,589,61"/>
+<area shape="rect" id="node3" title="Internal Packet Provider implementation. " alt="" coords="283,86,589,127"/>
+</map>

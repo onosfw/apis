@@ -1,0 +1,5 @@
+<map id="org.onosproject.security.impl.SecurityModeManager.getPrintableRequestedPermissions" name="org.onosproject.security.impl.SecurityModeManager.getPrintableRequestedPermissions">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1security_1_1impl_1_1DefaultPolicyBuilder.html#ac3de6e4a81b06b612c1a7f7e1f466e90" title="org.onosproject.security.impl.\lDefaultPolicyBuilder.convertToJava\lPermissions" alt="" coords="310,5,541,61"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1security_1_1store_1_1SecurityModeStore.html#a6ce8ba1f64b064d280edfb606a038b43" title="Returns a list of permissions that have been requested by given application. " alt="" coords="280,86,571,127"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1security_1_1AppPermission.html#aa909b7ffec592658e6c888aed607ab94" title="Returns type of permission. " alt="" coords="619,13,784,54"/>
+</map>

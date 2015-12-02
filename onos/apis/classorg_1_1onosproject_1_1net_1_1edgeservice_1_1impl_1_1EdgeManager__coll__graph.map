@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.edgeservice.impl.EdgeManager" name="org.onosproject.net.edgeservice.impl.EdgeManager">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1edge_1_1EdgePortService.html" title="Service for interacting with an inventory of network edge ports. " alt="" coords="317,86,486,127"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="312,151,491,193"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1topology_1_1TopologyService.html" title="Service for providing network topology information. " alt="" coords="306,217,497,258"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1net_1_1packet_1_1PacketService.html" title="Service for intercepting data plane packets and for emitting synthetic outbound packets. " alt="" coords="311,282,491,323"/>
+</map>

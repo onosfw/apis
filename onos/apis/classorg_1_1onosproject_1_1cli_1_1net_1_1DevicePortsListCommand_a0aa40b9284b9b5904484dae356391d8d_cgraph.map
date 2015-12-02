@@ -1,0 +1,4 @@
+<map id="org.onosproject.cli.net.DevicePortsListCommand.jsonPorts" name="org.onosproject.cli.net.DevicePortsListCommand.jsonPorts">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html#a3aa00dea557888f545668439498bdb08" title="Returns the list of ports associated with the device. " alt="" coords="295,5,473,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1Device.html#a6fd9f6006eafd30a816e210b9c90d0d9" title="Returns the device identifier. " alt="" coords="288,71,480,97"/>
+</map>

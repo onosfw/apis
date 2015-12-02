@@ -1,0 +1,5 @@
+<map id="org.onosproject.rest.resources.StatisticsWebResource" name="org.onosproject.rest.resources.StatisticsWebResource">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1rest_1_1AbstractWebResource.html" title="Abstract REST resource. " alt="" coords="113,97,303,138"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1rest_1_1BaseResource.html" title="Base abstraction of a JAX&#45;RS resource. " alt="" coords="5,13,195,40"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1codec_1_1CodecContext.html" title="Context for codecs to use while encoding/decoding. " alt="" coords="220,6,412,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.onosproject.provider.netconf.flow.impl.NetconfFlowRuleProvider" name="org.onosproject.provider.netconf.flow.impl.NetconfFlowRuleProvider">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1AbstractProvider.html" title="Base provider implementation. " alt="" coords="304,5,491,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="36,30,223,71"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleProvider.html" title="Abstraction of a flow rule provider. " alt="" coords="315,70,480,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleProviderRegistry.html" title="Abstraction for a flow rule provider registry. " alt="" coords="310,135,485,177"/>
+</map>

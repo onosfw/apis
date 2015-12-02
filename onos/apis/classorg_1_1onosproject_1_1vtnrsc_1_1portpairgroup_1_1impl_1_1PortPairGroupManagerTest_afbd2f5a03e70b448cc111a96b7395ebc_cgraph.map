@@ -1,0 +1,6 @@
+<map id="org.onosproject.vtnrsc.portpairgroup.impl.PortPairGroupManagerTest.testRemovePortPairGroup" name="org.onosproject.vtnrsc.portpairgroup.impl.PortPairGroupManagerTest.testRemovePortPairGroup">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnrsc_1_1portpairgroup_1_1impl_1_1PortPairGroupManager.html#a1434fd2ac48bbf5efb2e99b14fc29ca3" title="Deletes portPairGroup by given portPairGroupId. " alt="" coords="415,5,697,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1vtnrsc_1_1portpairgroup_1_1impl_1_1PortPairGroupManagerTest.html#af800e17b9e278c3cbe45458aee186f5e" title="Checks the operation of createPortPairGroup() method. " alt="" coords="393,70,719,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1vtnrsc_1_1portpairgroup_1_1impl_1_1PortPairGroupManager.html#a9aad6565c4d63285ab73bcb92594de2f" title="Creates a PortPairGroup in the store. " alt="" coords="769,70,1045,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortPairGroup.html#ab9213a8a6a4ee9ed042e4d54a6c0c9ce" title="Returns the ID of this port pair group. " alt="" coords="1093,70,1272,111"/>
+</map>

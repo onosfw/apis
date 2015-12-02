@@ -1,0 +1,6 @@
+<map id="org.onosproject.cfg.ConfigPropertyTest.asFloat" name="org.onosproject.cfg.ConfigPropertyTest.asFloat">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cfg_1_1ConfigProperty.html#ab30a6b0868c3ac110a2bfd17b763c4a7" title="Returns the property value as a double. " alt="" coords="230,5,405,46"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1cfg_1_1ConfigProperty.html#a0bf2f76764087eb5bc9e889d82280877" title="Returns the property value as a float. " alt="" coords="230,70,405,111"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1cfg_1_1ConfigProperty.html#a3c0ecd0cd5a5f7998a4a5999f27e2900" title="Returns the property type. " alt="" coords="454,5,629,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1cfg_1_1ConfigProperty.html#a359e4e31eb8128c228edff69b6c39686" title="Returns the property value as a string. " alt="" coords="454,70,629,111"/>
+</map>

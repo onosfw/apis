@@ -1,0 +1,6 @@
+<map id="org.onosproject.bgpio.protocol.linkstate.PathAttrNlriDetails.protocolID" name="org.onosproject.bgpio.protocol.linkstate.PathAttrNlriDetails.protocolID">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1PathAttrNlriDetails.html#a426a0834a9717325fbed28ebb09907b2" title="org.onosproject.bgpio.protocol.linkstate.\lPathAttrNlriDetails.equals" alt="" coords="307,5,560,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1PathAttrNlriDetails.html#a5949630e983bb6640f1c5ba1c7d553e9" title="org.onosproject.bgpio.protocol.linkstate.\lPathAttrNlriDetails.hashCode" alt="" coords="307,70,560,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1PathAttrNlriDetails.html#aa420f4fb0dc0811383cd1502fa85d1eb" title="Sets protocolID with specified protocolID. " alt="" coords="307,135,560,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1PathAttrNlriDetails.html#ab49e382431fe6d05791f74ad806ac4ce" title="org.onosproject.bgpio.protocol.linkstate.\lPathAttrNlriDetails.toString" alt="" coords="307,201,560,242"/>
+</map>

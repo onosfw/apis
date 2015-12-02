@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.serializers.KryoSerializerTest.assertAnnotationsEquals" name="org.onosproject.store.serializers.KryoSerializerTest.assertAnnotationsEquals">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1SparseAnnotations.html#a355dd40c5ab91c061c3dbc54e7484a9d" title="Returns the set of keys for available annotations.annotation keys " alt="" coords="365,5,544,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotations.html#a6681c97625ae3cdb29f3adbde418b155" title="Returns the value of the specified annotation. " alt="" coords="334,71,575,97"/>
+</map>

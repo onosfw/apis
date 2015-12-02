@@ -1,0 +1,9 @@
+<map id="org.onlab.packet.ndp.RouterAdvertisementTest.testDeserialize" name="org.onlab.packet.ndp.RouterAdvertisementTest.testDeserialize">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1ndp_1_1RouterAdvertisement.html#a797414706b6900d0e2556482366116e4" title="Gets current hop limit. " alt="" coords="279,5,502,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1ndp_1_1RouterAdvertisement.html#a7a749e546cc092b10735c29011c50e18" title="Gets managed address configuration flag. " alt="" coords="297,70,484,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1packet_1_1ndp_1_1RouterAdvertisement.html#af7019ab392b7b0c3472ad91bc9b7c3b1" title="Gets other configuration flag. " alt="" coords="297,135,484,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onlab_1_1packet_1_1ndp_1_1RouterAdvertisement.html#aac07a4ce201c88dab493c85f616fb441" title="Gets the Neighbor Discovery Protocol packet options. " alt="" coords="297,201,484,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onlab_1_1packet_1_1ndp_1_1RouterAdvertisement.html#a420c1c898d5b09f89a23b6a8a5650899" title="Gets reachable time. " alt="" coords="281,266,500,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onlab_1_1packet_1_1ndp_1_1RouterAdvertisement.html#a63a834a646d243318f6c723465d45e71" title="Gets retransmission timer. " alt="" coords="278,331,503,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1onlab_1_1packet_1_1ndp_1_1RouterAdvertisement.html#a1e03b520af66baf014c7e1d474d93e84" title="Gets router lifetime. " alt="" coords="284,397,497,438"/>
+</map>

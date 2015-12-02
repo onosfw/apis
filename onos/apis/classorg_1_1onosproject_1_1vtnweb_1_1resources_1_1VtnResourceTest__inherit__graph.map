@@ -1,0 +1,4 @@
+<map id="org.onosproject.vtnweb.resources.VtnResourceTest" name="org.onosproject.vtnweb.resources.VtnResourceTest">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1vtnweb_1_1resources_1_1FlowClassifierResourceTest.html" title="Unit tests for flow classifier REST APIs. " alt="" coords="414,5,637,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1vtnweb_1_1resources_1_1PortPairResourceTest.html" title="Unit tests for port pair REST APIs. " alt="" coords="414,70,637,111"/>
+</map>

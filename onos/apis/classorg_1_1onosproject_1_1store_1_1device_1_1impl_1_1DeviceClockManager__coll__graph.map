@@ -1,0 +1,6 @@
+<map id="org.onosproject.store.device.impl.DeviceClockManager" name="org.onosproject.store.device.impl.DeviceClockManager">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceClockService.html" title="Interface for a logical clock service that vends per device timestamps. " alt="" coords="272,5,451,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1cluster_1_1NodeId.html" title="Controller cluster identity. " alt="" coords="282,70,441,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipTermService.html" title="Service to obtain mastership term information. " alt="" coords="270,135,453,177"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="282,201,441,242"/>
+</map>

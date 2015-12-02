@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceorg_1_1onosproject_1_1rest_1_1ApiDocService.html" title="Service for registering REST API documentation resources. " alt="" coords="5,5,165,46"/>
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1rest_1_1impl_1_1ApiDocManager.html" title="Implementation of the REST API documentation tracker. " alt="" coords="214,5,383,46"/>
+</map>

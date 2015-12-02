@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.config.impl.BasicNetworkConfigs" name="org.onosproject.net.config.impl.BasicNetworkConfigs">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigRegistry.html" title="Service for tracking network configuration factories. " alt="" coords="653,25,829,66"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigService.html" title="Service for tracking network configurations which specify how the discovered network information shou..." alt="" coords="280,13,456,54"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="655,93,827,134"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="275,117,461,158"/>
+</map>

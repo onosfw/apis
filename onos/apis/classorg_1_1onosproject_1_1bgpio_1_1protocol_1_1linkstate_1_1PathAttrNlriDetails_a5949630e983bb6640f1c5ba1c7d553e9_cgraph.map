@@ -1,0 +1,5 @@
+<map id="org.onosproject.bgpio.protocol.linkstate.PathAttrNlriDetails.hashCode" name="org.onosproject.bgpio.protocol.linkstate.PathAttrNlriDetails.hashCode">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1PathAttrNlriDetails.html#a40fa6992d082cbbba42b68ec4c714509" title="Returns Identifier. " alt="" coords="307,5,560,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1PathAttrNlriDetails.html#a8eb0c0cd930efb6c5ea423734169728d" title="Returns path attributes. " alt="" coords="307,70,560,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1PathAttrNlriDetails.html#a86aa3761ea4e5abea2a98976cfb70583" title="Returns protocolID. " alt="" coords="307,135,560,177"/>
+</map>

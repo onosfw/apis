@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.device.DeviceProviderRegistry" name="org.onosproject.net.device.DeviceProviderRegistry">
+<area shape="rect" id="node3" title="Proxy object to handle DeviceProviderRegistry calls. " alt="" coords="602,5,830,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1incubator_1_1rpc_1_1grpc_1_1GrpcRemoteServiceTest_1_1MTestDeviceProviderRegistry.html" title="DeviceProvider on Metro side. " alt="" coords="568,71,864,127"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1device_1_1impl_1_1DeviceManager.html" title="Provides implementation of the device SB &amp; NB APIs. " alt="" coords="613,151,819,193"/>
+</map>

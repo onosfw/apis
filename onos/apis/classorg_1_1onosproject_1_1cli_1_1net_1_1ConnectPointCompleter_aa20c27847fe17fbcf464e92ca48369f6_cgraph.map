@@ -1,0 +1,4 @@
+<map id="org.onosproject.cli.net.ConnectPointCompleter.complete" name="org.onosproject.cli.net.ConnectPointCompleter.complete">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html#adddfe5a01ed42c5094fec234c594fe67" title="Returns a collection of the currently known infrastructure devices. " alt="" coords="272,5,451,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html#a3aa00dea557888f545668439498bdb08" title="Returns the list of ports associated with the device. " alt="" coords="272,70,451,111"/>
+</map>

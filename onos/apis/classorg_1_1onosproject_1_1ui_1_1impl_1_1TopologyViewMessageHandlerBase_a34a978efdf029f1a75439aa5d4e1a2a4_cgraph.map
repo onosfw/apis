@@ -1,0 +1,5 @@
+<map id="org.onosproject.ui.impl.TopologyViewMessageHandlerBase.linkMessage" name="org.onosproject.ui.impl.TopologyViewMessageHandlerBase.linkMessage">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1UiMessageHandler.html#af64452cb19bbbef28c4044ffdb606595" title="Returns a freshly minted object node. " alt="" coords="309,5,504,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1Link.html#acf1fc94f2bd3518acc74e57bdea0e432" title="Returns the link state. " alt="" coords="309,71,504,97"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1Link.html#aeb28964b9f245a50587122a69477a7ca" title="Returns the link type. " alt="" coords="311,121,502,148"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="org.onosproject.net.AbstractElement" name="org.onosproject.net.AbstractElement">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1AbstractModel.html" title="Base implementation of a network model entity. " alt="" coords="499,69,685,110"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1AbstractAnnotated.html" title="Base abstraction of an annotated entity. " alt="" coords="255,73,441,114"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotated.html" title="Represents an entity that carries arbitrary annotations. " alt="" coords="6,7,202,33"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1Element.html" title="Base abstraction of a network element, i.e. " alt="" coords="499,13,685,40"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1Provided.html" title="Abstraction of an entity supplied by a provider. " alt="" coords="254,21,442,48"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1ElementId.html" title="Immutable representation of a network element identity. " alt="" coords="494,141,690,168"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1net_1_1NetworkResource.html" title="Representation of a network resource, e.g. " alt="" coords="255,138,441,179"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="org.onosproject.store.trivial.SimpleIntentStore.getPendingData" name="org.onosproject.store.trivial.SimpleIntentStore.getPendingData">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleIntentStore.html#ad07a07d61b2aeb747f07d502494319e3" title="Checks to see whether the calling instance is the master for processing this intent, or more specifically, the key contained in this intent. " alt="" coords="278,5,461,46"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.onosproject.bgpio.protocol.linkstate.NodeDescriptors.NodeDescriptors" name="org.onosproject.bgpio.protocol.linkstate.NodeDescriptors.NodeDescriptors">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1NodeDescriptors.html#ab6458f5ed01bc4235a0f07ce07676c82" title="org.onosproject.bgpio.protocol.linkstate.\lNodeDescriptors.compareTo" alt="" coords="608,5,861,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1NodeDescriptors.html#a35eb64b266804d36c10661ad17e9990d" title="org.onosproject.bgpio.protocol.linkstate.\lNodeDescriptors.equals" alt="" coords="307,34,560,75"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1NodeDescriptors.html#ae11a4c5c9ba83cf78171127c26b672f9" title="Reads node descriptors Sub&#45;TLVs. " alt="" coords="307,99,560,141"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1BgpLinkLSIdentifier.html#ab1d009281f80614480f34fd5a3cdcd05" title="org.onosproject.bgpio.protocol.linkstate.\lBgpLinkLSIdentifier.compareTo" alt="" coords="909,5,1163,46"/>
+</map>

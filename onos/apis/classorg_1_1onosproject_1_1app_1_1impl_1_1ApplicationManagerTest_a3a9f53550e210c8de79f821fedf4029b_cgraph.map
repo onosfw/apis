@@ -1,0 +1,7 @@
+<map id="org.onosproject.app.impl.ApplicationManagerTest.deactivate" name="org.onosproject.app.impl.ApplicationManagerTest.deactivate">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1app_1_1impl_1_1ApplicationManagerTest.html#a165268eff877b78df1ec8e265367ca1a" title="org.onosproject.app.impl.\lApplicationManagerTest.activate" alt="" coords="281,121,493,162"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1app_1_1impl_1_1ApplicationManager.html#a40e96ea9ede986a1617e77ad51015f29" title="Return the application state. " alt="" coords="809,135,999,177"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1app_1_1impl_1_1ApplicationManagerTest.html#a2a8bb83861b302d204d193e4a0f460f6" title="org.onosproject.app.impl.\lApplicationManagerTest.install" alt="" coords="541,70,741,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1app_1_1impl_1_1ApplicationManager.html#ab73c47049542998c3239f3236b22cac6" title="Returns the set of all installed applications. " alt="" coords="789,70,1019,111"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1app_1_1impl_1_1ApplicationManager.html#a98672720d79b833a5fd5c82bee14503e" title="Returns the application with the supplied application identifier. " alt="" coords="793,5,1015,46"/>
+</map>

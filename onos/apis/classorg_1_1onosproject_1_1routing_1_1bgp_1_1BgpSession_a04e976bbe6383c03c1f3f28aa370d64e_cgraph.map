@@ -1,0 +1,4 @@
+<map id="org.onosproject.routing.bgp.BgpSession.channelConnected" name="org.onosproject.routing.bgp.BgpSession.channelConnected">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1routing_1_1bgp_1_1BgpSession.html#a78e38e976904d646149d0930936ffca9" title="Gets the BGP Session local information. " alt="" coords="259,5,442,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1routing_1_1bgp_1_1BgpSession.html#a1a364e47f97a4e3bcf5c4c5c337059a3" title="Gets the BGP Session remote information. " alt="" coords="259,70,442,111"/>
+</map>

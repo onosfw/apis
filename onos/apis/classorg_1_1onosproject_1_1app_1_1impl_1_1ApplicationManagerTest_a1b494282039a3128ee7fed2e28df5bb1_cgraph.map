@@ -1,0 +1,6 @@
+<map id="org.onosproject.app.impl.ApplicationManagerTest.uninstall" name="org.onosproject.app.impl.ApplicationManagerTest.uninstall">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1app_1_1impl_1_1ApplicationManager.html#ab73c47049542998c3239f3236b22cac6" title="Returns the set of all installed applications. " alt="" coords="517,5,747,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1app_1_1impl_1_1ApplicationManagerTest.html#a2a8bb83861b302d204d193e4a0f460f6" title="org.onosproject.app.impl.\lApplicationManagerTest.install" alt="" coords="269,69,469,110"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1app_1_1impl_1_1ApplicationManager.html#a98672720d79b833a5fd5c82bee14503e" title="Returns the application with the supplied application identifier. " alt="" coords="521,70,743,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1app_1_1impl_1_1ApplicationManager.html#a40e96ea9ede986a1617e77ad51015f29" title="Return the application state. " alt="" coords="537,135,727,177"/>
+</map>

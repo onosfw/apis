@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.device.impl.OpticalPortOperator.combine" name="org.onosproject.net.device.impl.OpticalPortOperator.combine">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1config_1_1basics_1_1OpticalPortConfig.html#a64c57ccffe220aae6a59e4fb08f0018e" title="Returns the port name associated with this port configuration. " alt="" coords="261,5,480,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1config_1_1basics_1_1OpticalPortConfig.html#a33269482a3e02550a124d945bc671e12" title="Returns the output lambda configured for this port. " alt="" coords="261,70,480,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1config_1_1basics_1_1OpticalPortConfig.html#a733eb5f804d1a74504c252811701a643" title="Returns the string&#45;representation of name of the output port. " alt="" coords="261,135,480,177"/>
+</map>

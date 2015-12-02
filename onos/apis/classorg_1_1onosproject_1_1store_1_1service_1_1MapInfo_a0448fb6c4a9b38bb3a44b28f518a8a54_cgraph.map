@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.service.MapInfo.MapInfo" name="org.onosproject.store.service.MapInfo.MapInfo">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1service_1_1MapInfo.html#a59d3ce840f411aaa762f9b6a3ad1bb48" title="Returns the name of the map. " alt="" coords="248,5,443,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1service_1_1MapInfo.html#a3dc08e3bde4a1990b4d8b9f08a0ef20f" title="Returns the number of entries in the map. " alt="" coords="248,70,443,111"/>
+</map>

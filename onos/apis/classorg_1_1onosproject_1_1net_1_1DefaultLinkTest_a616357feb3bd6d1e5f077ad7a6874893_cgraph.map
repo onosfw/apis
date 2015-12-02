@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.DefaultLinkTest.basics" name="org.onosproject.net.DefaultLinkTest.basics">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1DefaultLinkTest.html#ad25670ddf6db4b45f48a13637890f353" title="org.onosproject.net.Default\lLinkTest.cp" alt="" coords="239,5,417,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1Link.html#a13f6d04f4d252bee19974a6c5398d726" title="Returns the link destination connection point. " alt="" coords="237,71,419,97"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1Link.html#a08627aabcd43982af8c20cb6c01ae02a" title="Returns the link source connection point. " alt="" coords="237,121,419,148"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1Link.html#aeb28964b9f245a50587122a69477a7ca" title="Returns the link type. " alt="" coords="233,172,423,199"/>
+</map>

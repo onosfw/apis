@@ -1,0 +1,6 @@
+<map id="org.onosproject.routing.config.BgpSpeaker.hashCode" name="org.onosproject.routing.config.BgpSpeaker.hashCode">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1routing_1_1config_1_1BgpSpeaker.html#a76447bb73cbc2671e24c167a70310fc4" title="Gets the connect point where the BGP speaker is attached. " alt="" coords="257,5,455,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1routing_1_1config_1_1BgpSpeaker.html#ab3ce866226dc2cf56ed0d7b54e62b81b" title="Gets all IP addresses configured on all Interfaces of the BGP speaker. " alt="" coords="251,70,461,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1routing_1_1config_1_1BgpSpeaker.html#a77a32b973495baea95912dbdc16120a2" title="Gets the MAC address of the BGP speaker. " alt="" coords="257,135,455,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1routing_1_1config_1_1BgpSpeaker.html#a0498daf2e367094276f0c5200b10213e" title="Gets the BGP speaker name. " alt="" coords="257,201,455,242"/>
+</map>

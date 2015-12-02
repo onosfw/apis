@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.intent.SinglePointToMultiPointIntentTest.basics" name="org.onosproject.net.intent.SinglePointToMultiPointIntentTest.basics">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1Intent.html#a95213b848996654ad07bc1b1912dfceb" title="Returns the identifier of the application that requested the intent. " alt="" coords="373,5,547,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1SinglePointToMultiPointIntentTest.html#abef515a2379c0957ed48e3f093159974" title="Creates a new intent, but always a like intent, i.e. " alt="" coords="318,70,602,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1ConnectivityIntent.html#aef4be7678fbfa88b9d130630c14ceecd" title="Returns the match specifying the type of traffic. " alt="" coords="371,135,549,177"/>
+</map>

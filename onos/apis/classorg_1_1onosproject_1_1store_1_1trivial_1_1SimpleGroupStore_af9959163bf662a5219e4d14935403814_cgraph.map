@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.trivial.SimpleGroupStore.removeGroupEntry" name="org.onosproject.store.trivial.SimpleGroupStore.removeGroupEntry">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupDescription.html#a5bcd16c2f5ae71674b75546e160c2dec" title="Returns device identifier on which this group object is created. " alt="" coords="296,5,472,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1Group.html#ac596c275357bec9061f6577e8e8fc86a" title="Returns group identifier associated with a group object. " alt="" coords="297,70,471,111"/>
+</map>

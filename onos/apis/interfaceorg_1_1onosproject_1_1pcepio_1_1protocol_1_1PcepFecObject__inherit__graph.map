@@ -1,0 +1,12 @@
+<map id="org.onosproject.pcepio.protocol.PcepFecObject" name="org.onosproject.pcepio.protocol.PcepFecObject">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1pcepio_1_1protocol_1_1PcepFecObjectIPv4.html" title="Abstraction of an entity providing PCEP FEC Object of Type 1 IPv4 Node ID. " alt="" coords="295,5,502,46"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1pcepio_1_1protocol_1_1PcepFecObjectIPv4Adjacency.html" title="Abstraction of an entity providing FEC Object of Type 3 IPv4 Adjacency. " alt="" coords="295,70,502,111"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1pcepio_1_1protocol_1_1PcepFecObjectIPv4UnnumberedAdjacency.html" title="Abstraction of an entity providing PCEP FEC Object of Type is 5 Unnumbered Adjacency with IPv4 NodeID..." alt="" coords="261,135,536,177"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1pcepio_1_1protocol_1_1PcepFecObjectIPv6.html" title="Abstraction of an entity providing FEC Object of Type is 2 IPv6 Node ID. " alt="" coords="295,201,502,242"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1pcepio_1_1protocol_1_1PcepFecObjectIPv6Adjacency.html" title="Abstraction of an entity providing FEC Object of Type is 4 IPv6 Adjacency. " alt="" coords="295,266,502,307"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1pcepio_1_1protocol_1_1ver1_1_1PcepFecObjectIPv4Ver1.html" title="Provides Pcep Fec Object IPv4 object. " alt="" coords="617,5,853,46"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1pcepio_1_1protocol_1_1ver1_1_1PcepFecObjectIPv4AdjacencyVer1.html" title="Provides PCEP fec Object IPv4 Adjacency object. " alt="" coords="617,70,853,111"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1pcepio_1_1protocol_1_1ver1_1_1PcepFecObjectIPv4UnnumberedAdjacencyVer1.html" title="Provides Pcep Fec Object IPv4 Unnumbered Adjacency object. " alt="" coords="584,135,885,177"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1pcepio_1_1protocol_1_1ver1_1_1PcepFecObjectIPv6Ver1.html" title="Provides Pcep Fec Object IPv6 object. " alt="" coords="617,201,853,242"/>
+<area shape="rect" id="node11" href="$classorg_1_1onosproject_1_1pcepio_1_1protocol_1_1ver1_1_1PcepFecObjectIPv6AdjacencyVer1.html" title="Provides Pcep Fec Object IPv6 Adjacency object. " alt="" coords="617,266,853,307"/>
+</map>

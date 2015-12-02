@@ -1,0 +1,5 @@
+var classorg_1_1onosproject_1_1store_1_1config_1_1impl_1_1DistributedNetworkConfigStoreTest_1_1MockConfigFactory =
+[
+    [ "MockConfigFactory", "classorg_1_1onosproject_1_1store_1_1config_1_1impl_1_1DistributedNetworkConfigStoreTest_1_1MockConfigFactory.html#ab35bb7a86232c2c6d5f008c4f8aeff76", null ],
+    [ "createConfig", "classorg_1_1onosproject_1_1store_1_1config_1_1impl_1_1DistributedNetworkConfigStoreTest_1_1MockConfigFactory.html#a38c4acf32841be1f4b70a66ae0af5773", null ]
+];

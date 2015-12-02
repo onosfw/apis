@@ -1,0 +1,14 @@
+<map id="org.onosproject.vtnrsc.DefaultSubnet.DefaultSubnet" name="org.onosproject.vtnrsc.DefaultSubnet.DefaultSubnet">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultSubnet.html#a00c048605785012a034d4d812b9ce471" title="Returns the cidr. " alt="" coords="251,5,448,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultSubnet.html#a583d0f4782590bfa98ce2933ef93e2c9" title="Returns true if DHCP is enabled and return false if DHCP is disabled. " alt="" coords="251,70,448,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultSubnet.html#a2b41d06b24c86117374715bcfbc1ee56" title="Returns the gateway IP address. " alt="" coords="251,135,448,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultSubnet.html#ae1a1eeef3566b4ca46897c7a92aa31aa" title="Returns a collection of hostRoutes. " alt="" coords="251,201,448,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultSubnet.html#a88a42df1e16d57c7e9e9e90e1cd3b36f" title="Returns the subnet identifier. " alt="" coords="251,266,448,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultSubnet.html#a58d4524eb5f9a1d71605953adbfd7ccc" title="Returns the ipV6AddressMode. " alt="" coords="251,331,448,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultSubnet.html#aec6863a9beca08fc02919210c532399a" title="Returns the ipV6RaMode.A valid value is dhcpv6&#45;stateful, dhcpv6&#45;stateless, or slaac. " alt="" coords="251,397,448,438"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultSubnet.html#aff3d1d73284eb45c1cd59804b23f1613" title="Returns the IP version, which is 4 or 6. " alt="" coords="251,462,448,503"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultSubnet.html#aa560ccfb5a2d3d5622e4c8d2d30b89d2" title="Returns the network identifier. " alt="" coords="251,527,448,569"/>
+<area shape="rect" id="node11" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultSubnet.html#ad4bc1e6e756e54da57c4e221974b72cd" title="Indicates whether this tenantNetwork is shared across all tenants. " alt="" coords="251,593,448,634"/>
+<area shape="rect" id="node12" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultSubnet.html#a969bec043d8cda44107accd7b174546a" title="Returns the name of the subnet. " alt="" coords="251,658,448,699"/>
+<area shape="rect" id="node13" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultSubnet.html#a5e12bfaeb7aa1cc81613e654c8aaa0bf" title="Returns tenant identifier. " alt="" coords="251,723,448,765"/>
+</map>

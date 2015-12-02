@@ -1,0 +1,4 @@
+<map id="org.onosproject.ui.table.cell.DefaultCellFormatter" name="org.onosproject.ui.table.cell.DefaultCellFormatter">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1table_1_1cell_1_1AbstractCellFormatter.html" title="Base implementation of a CellFormatter. " alt="" coords="219,5,405,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1ui_1_1table_1_1CellFormatter.html" title="Defines a formatter for cell values. " alt="" coords="6,42,167,83"/>
+</map>

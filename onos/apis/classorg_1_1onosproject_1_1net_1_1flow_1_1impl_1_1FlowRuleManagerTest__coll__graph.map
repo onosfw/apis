@@ -1,0 +1,9 @@
+<map id="org.onosproject.net.flow.impl.FlowRuleManagerTest" name="org.onosproject.net.flow.impl.FlowRuleManagerTest">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleProviderRegistry.html" title="Abstraction for a flow rule provider registry. " alt="" coords="650,43,825,85"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleService.html" title="Service for injecting flow rules into the environment and for obtaining information about flow rules ..." alt="" coords="655,131,820,173"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleListener.html" title="Entity capable of receiving flow rule related events. " alt="" coords="321,181,487,222"/>
+<area shape="rect" id="node11" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1AbstractProvider.html" title="Base provider implementation. " alt="" coords="311,311,497,353"/>
+<area shape="rect" id="node12" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="24,347,211,389"/>
+<area shape="rect" id="node13" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleProvider.html" title="Abstraction of a flow rule provider. " alt="" coords="321,377,487,418"/>
+<area shape="rect" id="node14" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleProviderService.html" title="Service through which flow rule providers can inject information into the core. " alt="" coords="653,413,822,454"/>
+</map>

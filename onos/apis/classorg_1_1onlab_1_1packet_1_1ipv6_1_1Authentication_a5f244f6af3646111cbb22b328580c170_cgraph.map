@@ -1,0 +1,4 @@
+<map id="org.onlab.packet.ipv6.Authentication.deserialize" name="org.onlab.packet.ipv6.Authentication.deserialize">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1ipv6_1_1Authentication.html#a8c4e1a2fb437d09eaf232471a6f90555" title="Deserializer function for authentication headers. " alt="" coords="353,5,655,32"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1ipv6_1_1Authentication.html#a76d36f06cbf5e4f206f41061f6756e43" title="Gets the total length of this header. " alt="" coords="377,57,631,98"/>
+</map>

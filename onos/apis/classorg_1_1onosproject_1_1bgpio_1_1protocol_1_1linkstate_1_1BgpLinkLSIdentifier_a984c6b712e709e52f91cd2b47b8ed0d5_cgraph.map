@@ -1,0 +1,4 @@
+<map id="org.onosproject.bgpio.protocol.linkstate.BgpLinkLSIdentifier.toString" name="org.onosproject.bgpio.protocol.linkstate.BgpLinkLSIdentifier.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1BgpLinkLSIdentifier.html#a77c11be67eed1a2ccf87483082e319f5" title="Returns local node descriptors. " alt="" coords="313,5,577,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1BgpLinkLSIdentifier.html#a8e2ea5fd6f93fe84450879c830794f05" title="Returns remote node descriptors. " alt="" coords="307,70,584,111"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.newresource.impl.ResourceManager" name="org.onosproject.net.newresource.impl.ResourceManager">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1newresource_1_1ResourceService.html" title="Service for allocating/releasing resource(s) and retrieving allocation(s) and availability. " alt="" coords="297,86,511,127"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1newresource_1_1ResourceAdminService.html" title="Service for administering resource service behavior. " alt="" coords="297,151,511,193"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.onosproject.ui.UiMessageHandler.objectNode" name="org.onosproject.ui.UiMessageHandler.objectNode">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1TopologyViewMessageHandlerBase.html#a90145d5a89b49303a0a4428497e05234" title="org.onosproject.ui.impl.\lTopologyViewMessageHandlerBase.device\lMessage" alt="" coords="253,5,528,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1TopologyViewMessageHandlerBase.html#a969c9c98972b2bc6d3079cedcebece8a" title="org.onosproject.ui.impl.\lTopologyViewMessageHandlerBase.host\lMessage" alt="" coords="260,85,521,141"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1TopologyViewMessageHandlerBase.html#a27b7f7e495a1d1711f09ceebba8ab9ea" title="org.onosproject.ui.impl.\lTopologyViewMessageHandlerBase.instance\lMessage" alt="" coords="248,165,533,221"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1TopologyViewMessageHandlerBase.html#a34a978efdf029f1a75439aa5d4e1a2a4" title="org.onosproject.ui.impl.\lTopologyViewMessageHandlerBase.link\lMessage" alt="" coords="263,245,519,301"/>
+</map>

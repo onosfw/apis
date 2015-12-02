@@ -1,0 +1,4 @@
+<map id="org.onosproject.vtnweb.web.FlowClassifierCodecTest" name="org.onosproject.vtnweb.web.FlowClassifierCodecTest">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnweb_1_1web_1_1SfcCodecContext.html" title="Mock codec context for use in codec unit tests. " alt="" coords="271,5,460,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1codec_1_1CodecContext.html" title="Context for codecs to use while encoding/decoding. " alt="" coords="5,5,197,46"/>
+</map>

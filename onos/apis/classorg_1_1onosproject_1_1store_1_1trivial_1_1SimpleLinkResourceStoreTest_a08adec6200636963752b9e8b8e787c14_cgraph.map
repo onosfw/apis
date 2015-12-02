@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.trivial.SimpleLinkResourceStoreTest.testInitialBandwidth" name="org.onosproject.store.trivial.SimpleLinkResourceStoreTest.testInitialBandwidth">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1util_1_1Bandwidth.html#afe916f29eb20292e74bf853325d0e3e4" title="Creates a new instance with given bandwidth in Mbps. " alt="" coords="280,20,477,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1util_1_1Bandwidth.html#a8c05e82d4461863dd97db5517ee58caf" title="Returns bandwidth in bps. " alt="" coords="525,20,712,47"/>
+</map>

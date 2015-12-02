@@ -1,0 +1,6 @@
+<map id="org.onosproject.incubator.net.meter.impl.MeterManager.withdraw" name="org.onosproject.incubator.net.meter.impl.MeterManager.withdraw">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1meter_1_1MeterRequest.html#a049b0633c37aba569ae43daa481d4b18" title="The id of the application which created this meter. " alt="" coords="313,5,487,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1meter_1_1MeterRequest.html#a77d037a37b5df8e159767dc0c62b500e" title="The collection of bands to apply on the dataplane. " alt="" coords="313,70,487,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1meter_1_1MeterRequest.html#a9c1e7149ceda4bf6b28517205a5f2fca" title="The target device for this meter. " alt="" coords="313,135,487,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1meter_1_1MeterRequest.html#ae2cb7aafc57e06add9c7821680a20ff7" title="Signals whether this meter applies to bursts only. " alt="" coords="313,201,487,242"/>
+</map>

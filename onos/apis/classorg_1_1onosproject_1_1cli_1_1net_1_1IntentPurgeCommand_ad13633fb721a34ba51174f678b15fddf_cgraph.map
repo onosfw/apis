@@ -1,0 +1,4 @@
+<map id="org.onosproject.cli.net.IntentPurgeCommand.execute" name="org.onosproject.cli.net.IntentPurgeCommand.execute">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1IntentService.html#acd7e93fce428388e5221caf7665ab162" title="Returns an iterable of intents currently in the system. " alt="" coords="260,5,433,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1IntentService.html#a8061351b27f2a68a24554d2cd42ada0c" title="Retrieves the state of an intent by its identifier. " alt="" coords="254,70,439,111"/>
+</map>

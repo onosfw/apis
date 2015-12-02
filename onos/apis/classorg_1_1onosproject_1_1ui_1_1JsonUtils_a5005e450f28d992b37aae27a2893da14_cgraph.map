@@ -1,0 +1,5 @@
+<map id="org.onosproject.ui.JsonUtils.envelope" name="org.onosproject.ui.JsonUtils.envelope">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1JsonUtils.html#a81460a68328d034acd55bf213d90de66" title="Returns the payload from the specified event. " alt="" coords="294,5,527,32"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1JsonUtils.html#acd6a0f96d1505ad92547a5c61bf621e3" title="Returns the sequence identifier from the specified event, or 0 (zero) if the &quot;sid&quot; property does not ..." alt="" coords="308,56,513,83"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ui_1_1JsonUtils.html#a3225772c6e5887fe6cbf67c2edb7a980" title="Returns the specified node property as a number. " alt="" coords="577,56,807,83"/>
+</map>

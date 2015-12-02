@@ -1,0 +1,6 @@
+<map id="org.onosproject.store.intent.impl.GossipIntentStore" name="org.onosproject.store.intent.impl.GossipIntentStore">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1IntentStore.html" title="Manages inventory of end&#45;station intents; not intended for direct use. " alt="" coords="280,86,453,127"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1PartitionService.html" title="Service for interacting with the partition&#45;to&#45;instance assignments. " alt="" coords="280,151,453,193"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="269,217,464,258"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="287,282,446,323"/>
+</map>

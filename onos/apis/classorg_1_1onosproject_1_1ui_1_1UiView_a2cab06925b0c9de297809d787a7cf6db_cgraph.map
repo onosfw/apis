@@ -1,0 +1,6 @@
+<map id="org.onosproject.ui.UiView.equals" name="org.onosproject.ui.UiView.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1UiView.html#a357d8ec3778cc443cd9083a46984ea14" title="Creates a new user interface view descriptor. " alt="" coords="267,49,442,90"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1UiView.html#a9a469d292054b0566672a3034fd75636" title="Returns the navigation category. " alt="" coords="491,5,717,32"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ui_1_1UiView.html#a47ee32280b38478981090f4bddf924d4" title="Returns the view identifier. " alt="" coords="511,56,697,83"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1ui_1_1UiView.html#a2339a61dd095279bb74cd02f402f3694" title="Returns the view label. " alt="" coords="503,107,705,133"/>
+</map>

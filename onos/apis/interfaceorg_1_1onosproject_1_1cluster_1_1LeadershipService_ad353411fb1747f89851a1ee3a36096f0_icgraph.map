@@ -1,0 +1,4 @@
+<map id="org.onosproject.cluster.LeadershipService.runForLeadership" name="org.onosproject.cluster.LeadershipService.runForLeadership">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1intent_1_1impl_1_1PartitionManagerTest.html#a4f293a999d71390132b03b48b453ed59" title="org.onosproject.store.intent.impl.\lPartitionManagerTest.setUp" alt="" coords="293,5,505,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1intent_1_1impl_1_1PartitionManagerTest.html#a21b1feb51cc9f4c52dd0611bd923b999" title="Tests that the PartitionManager&#39;s activate method correctly runs for all the leader elections that it..." alt="" coords="289,70,509,111"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.bgp.controller.impl.BgpConfig.setState" name="org.onosproject.bgp.controller.impl.BgpConfig.setState">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpConfig.html#a0ed4a32e1c00e1ff667f735dfaca6443" title="Set the AS number to which this BGP speaker belongs. " alt="" coords="281,5,506,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpConfig.html#a02f5444da7b3237c553fe9edb3070874" title="Set the Router ID of this BGP speaker. " alt="" coords="281,70,506,111"/>
+</map>

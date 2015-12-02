@@ -1,0 +1,3 @@
+<map id="org.onosproject.store.link.impl.GossipLinkStore.getLink" name="org.onosproject.store.link.impl.GossipLinkStore.getLink">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1link_1_1impl_1_1GossipLinkStore.html#a79823943e15ab0c2b68f2b28adf941b1" title="Removes the link, or marks it as inactive if the link is durable, based on the specified information..." alt="" coords="253,5,491,46"/>
+</map>

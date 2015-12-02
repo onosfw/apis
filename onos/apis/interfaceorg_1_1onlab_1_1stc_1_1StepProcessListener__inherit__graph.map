@@ -1,0 +1,5 @@
+<map id="org.onlab.stc.StepProcessListener" name="org.onlab.stc.StepProcessListener">
+<area shape="rect" id="node2" title="Internal delegate to monitor the process execution. " alt="" coords="237,5,409,46"/>
+<area shape="rect" id="node4" title="Internal delegate to monitor the process execution. " alt="" coords="233,136,412,163"/>
+<area shape="rect" id="node5" href="$classorg_1_1onlab_1_1stc_1_1Monitor.html" title="Scenario test monitor. " alt="" coords="251,187,395,213"/>
+</map>

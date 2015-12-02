@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.intent.impl.PartitionManagerTest.testIsMine" name="org.onosproject.store.intent.impl.PartitionManagerTest.testIsMine">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1intent_1_1impl_1_1PartitionManager.html#a80a6588c4bfb4f4106097f40800b4c8b" title="Returns whether the given intent key is in a partition owned by this instance or not. " alt="" coords="267,5,479,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html#ae7c51c0ebacae1433b5c4e814ec1c50a" title="Returns the local controller node. " alt="" coords="528,5,720,46"/>
+</map>

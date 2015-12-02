@@ -1,0 +1,9 @@
+<map id="org.onosproject.net.device.OchPortDescription.toString" name="org.onosproject.net.device.OchPortDescription.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1AbstractDescription.html#a9230f0f1b251f2cf963bc6dc9ec6be3d" title="Returns the key/value annotations. " alt="" coords="260,5,447,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1device_1_1DefaultPortDescription.html#a8d2f1c4b88b941c30d14a12348b01802" title="Indicates whether or not the port is up and active. " alt="" coords="246,70,461,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1device_1_1OchPortDescription.html#aca69b8481bf685bff49480e5154402e3" title="Returns true if port is wavelength tunable. " alt="" coords="255,135,451,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1device_1_1OchPortDescription.html#a9d3dfc47c4de234af53bd7e9654a9c7b" title="Returns OCh signal. " alt="" coords="262,201,445,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1device_1_1DefaultPortDescription.html#a08b5d45998688a0adb63a8efb0c33fe2" title="Returns the port number. " alt="" coords="240,266,467,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1device_1_1OchPortDescription.html#a5e9bb901c343e9fb58352c90cc0784fc" title="Returns ODU signal type. " alt="" coords="252,331,455,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1net_1_1device_1_1DefaultPortDescription.html#a41ba07c2bd2beb2307b543e1017cfae8" title="Returns the port type. " alt="" coords="262,397,445,438"/>
+</map>

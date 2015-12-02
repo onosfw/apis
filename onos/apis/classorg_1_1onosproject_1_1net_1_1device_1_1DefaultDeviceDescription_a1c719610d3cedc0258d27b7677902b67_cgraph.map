@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.device.DefaultDeviceDescription.DefaultDeviceDescription" name="org.onosproject.net.device.DefaultDeviceDescription.DefaultDeviceDescription">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1AbstractDescription.html#a9230f0f1b251f2cf963bc6dc9ec6be3d" title="Returns the key/value annotations. " alt="" coords="284,5,471,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceDescription.html#ae8e77c54e19e533c35ad0cb4d08453f7" title="Returns a device chassis id. " alt="" coords="283,70,472,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceDescription.html#ac37a33f20c20abfbc725d8cae7da3085" title="Returns the device manufacturer name. " alt="" coords="273,135,482,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceDescription.html#ac54629aa073aa66af84b80ac0a4dd7ea" title="Returns the device software version. " alt="" coords="280,201,475,242"/>
+</map>

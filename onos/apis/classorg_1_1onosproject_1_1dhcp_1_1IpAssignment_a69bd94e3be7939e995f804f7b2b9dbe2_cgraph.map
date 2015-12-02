@@ -1,0 +1,11 @@
+<map id="org.onosproject.dhcp.IpAssignment.toString" name="org.onosproject.dhcp.IpAssignment.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1dhcp_1_1IpAssignment.html#a4c17d55689152b641f994cb64597e2b5" title="Returns the assignment status of the IP assignment. " alt="" coords="299,5,597,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1dhcp_1_1IpAssignment.html#ac9075ad59a0cb19aa8c2233a43247157" title="org.onosproject.dhcp.IpAssignment.dhcp\lServer" alt="" coords="319,70,577,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1dhcp_1_1IpAssignment.html#a6820cba1cd44153a0c0308d3300f2e0c" title="org.onosproject.dhcp.IpAssignment.domain\lServer" alt="" coords="311,135,585,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1dhcp_1_1IpAssignment.html#ada318007da52b06129013b045a93734b" title="Returns the IP Address of the IP assignment. " alt="" coords="327,201,569,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1dhcp_1_1IpAssignment.html#a258fdaf1059174696c49fba6c47f9471" title="Returns the lease period of the IP assignment. " alt="" coords="317,266,579,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1dhcp_1_1IpAssignment.html#a50ec282fdf834fbf64f29ce716246b8c" title="org.onosproject.dhcp.IpAssignment.range\lNotEnforced" alt="" coords="317,331,579,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1dhcp_1_1IpAssignment.html#a0a17c2252d373ce60ed1f2260c7b4ab9" title="org.onosproject.dhcp.IpAssignment.router\lAddress" alt="" coords="316,397,580,438"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1dhcp_1_1IpAssignment.html#a0e0fae4396ff360090fd96335cc8a261" title="org.onosproject.dhcp.IpAssignment.subnetMask" alt="" coords="297,463,599,489"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1dhcp_1_1IpAssignment.html#a2b09a0561b20e6600c1f27548eec3944" title="Returns the timestamp of the IP assignment. " alt="" coords="302,513,594,540"/>
+</map>

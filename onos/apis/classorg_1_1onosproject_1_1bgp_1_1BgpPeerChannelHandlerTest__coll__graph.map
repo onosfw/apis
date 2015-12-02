@@ -1,0 +1,9 @@
+<map id="org.onosproject.bgp.BgpPeerChannelHandlerTest" name="org.onosproject.bgp.BgpPeerChannelHandlerTest">
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1BgpHeader.html" title="Provides BGP Message Header which is common for all the Messages. " alt="" coords="547,186,733,227"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1ver4_1_1BgpOpenMsgVer4.html" title="Provides BGP open message. " alt="" coords="993,286,1223,327"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1bgpio_1_1protocol_1_1BgpOpenMsg.html" title="Abstraction of an entity providing BGP Open Message. " alt="" coords="540,315,740,357"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1bgpio_1_1protocol_1_1BgpMessage.html" title="Abstraction of an entity providing BGP Messages. " alt="" coords="256,315,456,357"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1bgpio_1_1protocol_1_1Writeable.html" title="Abstraction of an entity providing functionality to write byte streams of Messages to channel buffer..." alt="" coords="5,315,205,357"/>
+<area shape="rect" id="node11" href="$enumorg_1_1onosproject_1_1bgpio_1_1protocol_1_1BgpType.html" title="Enum to Provide the Different types of BGP messages. " alt="" coords="540,381,740,422"/>
+<area shape="rect" id="node12" title="Writer class for writing BGP open message to channel buffer. " alt="" coords="525,446,755,487"/>
+</map>

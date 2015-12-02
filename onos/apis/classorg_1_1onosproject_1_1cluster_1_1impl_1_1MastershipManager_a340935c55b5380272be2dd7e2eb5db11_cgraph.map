@@ -1,0 +1,4 @@
+<map id="org.onosproject.cluster.impl.MastershipManager.activate" name="org.onosproject.cluster.impl.MastershipManager.activate">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1core_1_1MetricsHelper.html#a008ae2d217ec76b044f62a1be61a0f10" title="Creates a Timer instance with given name. " alt="" coords="240,5,427,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1core_1_1MetricsHelper.html#ac6b36cf2f19ba159523325ac3fbb41e0" title="Returns MetricService instance. " alt="" coords="475,5,661,46"/>
+</map>

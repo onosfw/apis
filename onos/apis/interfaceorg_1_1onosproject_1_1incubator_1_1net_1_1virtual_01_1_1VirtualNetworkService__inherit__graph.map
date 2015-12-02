@@ -1,0 +1,4 @@
+<map id="org.onosproject.incubator.net.virtual .VirtualNetworkService" name="org.onosproject.incubator.net.virtual .VirtualNetworkService">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1virtual_01_1_1impl_1_1VirtualNetworkManager.html" title="Implementation of the virtual network service. " alt="" coords="560,5,789,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1virtual_01_1_1VirtualNetworkAdminService.html" title="Service for managing the inventory of virtual networks. " alt="" coords="283,34,512,75"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="org.onosproject.pcepio.protocol.ver1.PcepLabelUpdateVer1.PcepLabelUpdateVer1" name="org.onosproject.pcepio.protocol.ver1.PcepLabelUpdateVer1.PcepLabelUpdateVer1">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1pcepio_1_1protocol_1_1ver1_1_1PcepLabelUpdateVer1.html#a24e824577f80e946c3ddddd9e5aac459" title="Reads PcepLabels from the byte stream received from channel buffer. " alt="" coords="342,5,578,46"/>
+</map>

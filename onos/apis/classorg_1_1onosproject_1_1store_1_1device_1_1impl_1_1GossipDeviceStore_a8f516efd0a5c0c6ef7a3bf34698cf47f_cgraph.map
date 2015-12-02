@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.device.impl.GossipDeviceStore.getAvailableDevices" name="org.onosproject.store.device.impl.GossipDeviceStore.getAvailableDevices">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#ab852b20ddebe3096c6b18d81a5f2c5ae" title="Returns an iterable collection of all devices known to the system. " alt="" coords="312,5,531,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#aff096bbb9d975e7dfb0293244abd7b4c" title="Indicates whether the specified device is available/online. " alt="" coords="312,70,531,111"/>
+</map>

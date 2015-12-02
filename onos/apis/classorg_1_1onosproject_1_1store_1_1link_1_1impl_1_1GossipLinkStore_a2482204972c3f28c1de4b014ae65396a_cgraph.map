@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.link.impl.GossipLinkStore.getEgressLinks" name="org.onosproject.store.link.impl.GossipLinkStore.getEgressLinks">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1ConnectPoint.html#ae26d775b79f3be42a1a2eafc0c0c51b6" title="Returns the identifier of the infrastructure device if the connection point belongs to a network elem..." alt="" coords="267,5,453,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1ConnectPoint.html#a71dbaeabb12421d31bac7c7ec8547535" title="Returns the network element identifier. " alt="" coords="501,5,688,46"/>
+</map>

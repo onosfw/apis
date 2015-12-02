@@ -1,0 +1,4 @@
+<map id="org.onosproject.ui.impl.topo.IntentSelection.intents" name="org.onosproject.ui.impl.topo.IntentSelection.intents">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1topo_1_1IntentSelection.html#acc5c80721e88cec67815e51ae33fc7bf" title="Creates an intent selection group, based on selected nodes. " alt="" coords="240,5,440,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1topo_1_1IntentSelection.html#a26bf7b9b9e76c2147a6d78fbb03659a8" title="Marks and returns the next intent in this group. " alt="" coords="247,70,433,111"/>
+</map>

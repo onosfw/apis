@@ -1,0 +1,5 @@
+<map id="org.onosproject.driver.extensions.NiciraExtensionTreatmentInterpreter.getExtensionInstruction" name="org.onosproject.driver.extensions.NiciraExtensionTreatmentInterpreter.getExtensionInstruction">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1instructions_1_1ExtensionTreatmentType.html#a47dbb833be5e41365c2b3547cb998b28" title="org.onosproject.net.flow.instructions.\lExtensionTreatmentType.equals" alt="" coords="310,5,546,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1instructions_1_1ExtensionTreatmentType.html#ab0ff0bcec96e3df2344090f5e33d213d" title="org.onosproject.net.flow.instructions.\lExtensionTreatmentType.toString" alt="" coords="310,70,546,111"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1instructions_1_1ExtensionTreatmentType.html#ac02e1e0e6cf83b12d8a9e7c039a7bc1b" title="Creates an extension type with the given int type code. " alt="" coords="595,5,914,46"/>
+</map>

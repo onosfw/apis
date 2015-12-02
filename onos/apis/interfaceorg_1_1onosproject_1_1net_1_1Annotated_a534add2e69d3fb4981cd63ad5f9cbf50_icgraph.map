@@ -1,0 +1,11 @@
+<map id="org.onosproject.net.Annotated.annotations" name="org.onosproject.net.Annotated.annotations">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1DefaultDeviceTest.html#aab2147ad64af88c5e27b950bbf21a9b8" title="org.onosproject.net.Default\lDeviceTest.annotations" alt="" coords="376,5,555,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1incubator_1_1store_1_1tunnel_1_1impl_1_1DistributedTunnelStore.html#a10e1ea2ccb8a95f5871dacc6fa8e927e" title="Creates or updates a tunnel. " alt="" coords="320,70,611,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1link_1_1impl_1_1BasicLinkOperator.html#a0ac3eee5e10419834ad8dee91ac7cb19" title="Generates a link description from a link description entity. " alt="" coords="360,135,571,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1TopologyViewMessageHandlerBase.html#a90145d5a89b49303a0a4428497e05234" title="org.onosproject.ui.impl.\lTopologyViewMessageHandlerBase.device\lMessage" alt="" coords="328,201,603,257"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1vtnrsc_1_1service_1_1impl_1_1VtnRscManager.html#a8dc32c305696b1187231879e88737ed6" title="Returns device identifier mapping to the specific port. " alt="" coords="347,282,584,323"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1TopologyViewMessageHandlerBase.html#a969c9c98972b2bc6d3079cedcebece8a" title="org.onosproject.ui.impl.\lTopologyViewMessageHandlerBase.host\lMessage" alt="" coords="335,348,596,404"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1LinksListCommand.html#a0363a26b802900000c52293068d9077f" title="Returns a formatted string representing the given link. " alt="" coords="369,429,561,470"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1DevicesListCommand.html#a8a1ce3e93b18e83476f5d363e6f4e40a" title="Prints information about the specified device. " alt="" coords="355,494,576,535"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1HostsListCommand.html#a50fa9261cd3bde9ba7b249f33442af99" title="Prints information about a host. " alt="" coords="368,559,563,601"/>
+</map>

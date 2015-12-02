@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.link.LinkStore" name="org.onosproject.net.link.LinkStore">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1link_1_1impl_1_1ECLinkStore.html" title="Manages the inventory of links using a. " alt="" coords="459,5,659,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1link_1_1impl_1_1GossipLinkStore.html" title="Manages inventory of infrastructure links in distributed data store that uses optimistic replication ..." alt="" coords="459,70,659,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleLinkStore.html" title="Manages inventory of infrastructure links using trivial in&#45;memory structures implementation. " alt="" coords="467,135,650,177"/>
+</map>

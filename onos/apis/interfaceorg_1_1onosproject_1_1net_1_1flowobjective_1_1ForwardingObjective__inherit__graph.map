@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flowobjective.ForwardingObjective" name="org.onosproject.net.flowobjective.ForwardingObjective">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flowobjective_1_1DefaultForwardingObjective.html" title="Default implementation of a forwarding objective. " alt="" coords="5,187,221,229"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1flowobjective_1_1Objective.html" title="Base representation of a flow&#45;objective description. " alt="" coords="5,6,221,47"/>
+</map>

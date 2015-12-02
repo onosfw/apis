@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.link.LinkAdminService" name="org.onosproject.net.link.LinkAdminService">
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1link_1_1impl_1_1LinkManager.html" title="Provides basic implementation of the link SB &amp; NB APIs. " alt="" coords="33,291,223,333"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkService.html" title="Service for interacting with the inventory of infrastructure links. " alt="" coords="47,110,208,151"/>
+</map>

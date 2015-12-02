@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.statistic.Load.rate" name="org.onosproject.net.statistic.Load.rate">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1impl_1_1PortStatisticsManager.html#a71bd1c221a08e24291b4fb35ffa30b41" title="Obtain the egress load for the given port. " alt="" coords="241,5,463,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1statistic_1_1impl_1_1StatisticManager.html#a7eb766d30ac249cd8a32bd9c338db7fd" title="Find the most loaded link along a path. " alt="" coords="245,70,459,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1statistic_1_1impl_1_1StatisticManager.html#ad34d666c67f6808a07a389cb920e7fda" title="Find the least loaded link along a path. " alt="" coords="245,135,459,177"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1statistic_1_1impl_1_1StatisticManager.html#ac89f8526d6c0e727323c88c1d275e2e3" title="Returns the highest hitter (a flow rule) for a given port, ie. " alt="" coords="513,70,727,111"/>
+</map>

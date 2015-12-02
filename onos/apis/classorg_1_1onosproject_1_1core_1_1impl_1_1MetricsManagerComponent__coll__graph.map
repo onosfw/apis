@@ -1,0 +1,4 @@
+<map id="org.onosproject.core.impl.MetricsManagerComponent" name="org.onosproject.core.impl.MetricsManagerComponent">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1metrics_1_1MetricsManager.html" title="Override public Long getValue() { return gaugeValue; } }; MetricsManager.registerMetric(COMPONENT, FEATURE, GAUGE_NAME, gauge); &#160;&#160;" alt="" coords="11,97,180,138"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onlab_1_1metrics_1_1MetricsService.html" title="Metrics Service to collect metrics. " alt="" coords="11,6,180,47"/>
+</map>

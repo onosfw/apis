@@ -1,0 +1,4 @@
+<map id="org.onosproject.common.app.ApplicationArchiveTest.active" name="org.onosproject.common.app.ApplicationArchiveTest.active">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1common_1_1app_1_1ApplicationArchive.html#a3d3d9df69ad8006a95b2bb9b3ad0fe6b" title="Indicates whether the app was marked as active by checking for token file. " alt="" coords="271,5,465,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1common_1_1app_1_1ApplicationArchiveTest.html#a2de5ac1c21e052439037c429b0fa84fe" title="org.onosproject.common.app.\lApplicationArchiveTest.savePlainApp" alt="" coords="248,70,488,111"/>
+</map>

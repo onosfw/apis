@@ -1,0 +1,5 @@
+<map id="org.onosproject.cip.ClusterIpManager" name="org.onosproject.cip.ClusterIpManager">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1cfg_1_1ComponentConfigService.html" title="Service for tracking system&#45;wide configurations for various software components. " alt="" coords="275,5,479,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1cluster_1_1LeadershipService.html" title="Service for leader election. " alt="" coords="298,70,457,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="298,139,457,181"/>
+</map>

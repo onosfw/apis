@@ -1,0 +1,4 @@
+<map id="org.onosproject.common.DefaultTopology.DefaultTopology" name="org.onosproject.common.DefaultTopology.DefaultTopology">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1common_1_1DefaultTopology.html#a71449ea58fcf8656105dc2418d40c6a6" title="Returns the time, specified in system nanos of when the topology became available. " alt="" coords="264,5,475,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1topology_1_1GraphDescription.html#ade4ae3a09ff09c651d74542c9f77a10c" title="Returns the set of topology graph vertexes. " alt="" coords="274,70,465,111"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.onosproject.codec.impl.FlowRuleCodecTest" name="org.onosproject.codec.impl.FlowRuleCodecTest">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1codec_1_1impl_1_1MockCodecContext.html" title="Mock codec context for use in codec unit tests. " alt="" coords="419,5,602,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1codec_1_1CodecContext.html" title="Context for codecs to use while encoding/decoding. " alt="" coords="5,5,197,46"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="425,231,597,273"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="8,231,195,273"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.cli.net.LinksListCommand.linkString" name="org.onosproject.cli.net.LinksListCommand.linkString">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotated.html#a534add2e69d3fb4981cd63ad5f9cbf50" title="Returns the key/value annotations. " alt="" coords="245,5,512,32"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1Link.html#acf1fc94f2bd3518acc74e57bdea0e432" title="Returns the link state. " alt="" coords="281,56,476,83"/>
+</map>

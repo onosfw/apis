@@ -1,0 +1,4 @@
+<map id="org.onosproject.vtnrsc.FixedIp.hashCode" name="org.onosproject.vtnrsc.FixedIp.hashCode">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnrsc_1_1FixedIp.html#a4fbe65493b8d86a5ccba816fa93fc6f5" title="Returns the FixedIp IP address. " alt="" coords="240,5,427,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1vtnrsc_1_1FixedIp.html#a56a5177dfbd9a08b924371b2b47805da" title="Returns the FixedIp subnet identifier. " alt="" coords="240,70,427,111"/>
+</map>

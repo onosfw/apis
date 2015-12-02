@@ -1,0 +1,8 @@
+<map id="org.onosproject.incubator.store.resource.impl.DistributedLabelResourceStore" name="org.onosproject.incubator.store.resource.impl.DistributedLabelResourceStore">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1resource_1_1label_1_1LabelResourceStore.html" title="Manages inventory of label; not intended for direct use. " alt="" coords="270,86,549,127"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="320,151,499,193"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="312,217,507,258"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="330,282,489,323"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1store_1_1cluster_1_1messaging_1_1ClusterCommunicationService.html" title="Service for assisting communications between controller cluster nodes. " alt="" coords="280,347,539,389"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipService.html" title="Service responsible for determining the controller instance mastership of a device in a clustered env..." alt="" coords="318,413,501,454"/>
+</map>

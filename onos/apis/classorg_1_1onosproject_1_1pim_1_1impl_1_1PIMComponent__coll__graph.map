@@ -1,0 +1,7 @@
+<map id="org.onosproject.pim.impl.PIMComponent" name="org.onosproject.pim.impl.PIMComponent">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1packet_1_1PacketService.html" title="Service for intercepting data plane packets and for emitting synthetic outbound packets. " alt="" coords="434,5,614,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="438,70,610,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="21,70,208,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1intf_1_1InterfaceService.html" title="Service for interacting with interfaces. " alt="" coords="416,135,632,177"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigService.html" title="Service for tracking network configurations which specify how the discovered network information shou..." alt="" coords="436,201,612,242"/>
+</map>

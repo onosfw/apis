@@ -1,0 +1,4 @@
+<map id="org.onosproject.openflow.controller.impl.HandshakeTimeoutHandler" name="org.onosproject.openflow.controller.impl.HandshakeTimeoutHandler">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1openflow_1_1controller_1_1impl_1_1HandshakeTimeoutException.html" title="Exception is thrown when the handshake fails to complete. " alt="" coords="320,57,576,98"/>
+<area shape="rect" id="node7" title="Channel handler deals with the switch connection and dispatches switch messages to the appropriate lo..." alt="" coords="320,225,576,266"/>
+</map>

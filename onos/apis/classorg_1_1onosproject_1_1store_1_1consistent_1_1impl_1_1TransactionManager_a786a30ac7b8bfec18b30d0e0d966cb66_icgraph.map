@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.consistent.impl.TransactionManager.getTransactions" name="org.onosproject.store.consistent.impl.TransactionManager.getTransactions">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1DatabaseManager.html#a0da74bbf706820bfa75351c53ab3bfa9" title="Returns all the transactions in the system. " alt="" coords="293,5,533,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1DatabaseManager.html#a1d796d4675f5687c66ddf1b8dab125a1" title="Redrives stuck transactions while removing those that are done. " alt="" coords="582,5,829,46"/>
+</map>

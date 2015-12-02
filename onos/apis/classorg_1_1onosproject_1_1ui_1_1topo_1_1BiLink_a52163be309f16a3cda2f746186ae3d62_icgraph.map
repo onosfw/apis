@@ -1,0 +1,5 @@
+<map id="org.onosproject.ui.topo.BiLink.one" name="org.onosproject.ui.topo.BiLink.one">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1BiLink.html#ad0f2c571eb8e5264cdc2659348b9dc36" title="Returns the link identifier in the form expected on the Topology View in the web client. " alt="" coords="214,34,373,75"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1BiLinkTest.html#ab1cc6e44a074c3b4bb82382e4f41145b" title="org.onosproject.ui.topo.\lBiLinkTest.basic" alt="" coords="427,5,586,46"/>
+<area shape="rect" id="node4" href="$classit_1_1pkg_1_1DemoLink.html#a87360b046876cf1e2f363a5d0e096633" title="Returns the link highlighting to use, based on this bi&#45;link&#39;s current state. " alt="" coords="422,71,591,97"/>
+</map>

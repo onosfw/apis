@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.FlowEntry.packets" name="org.onosproject.net.flow.FlowEntry.packets">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultTypedFlowEntry.html#a85d3ab857fe4877d4b385d4441bf2c08" title="Creates a typed flow entry from flow entry, with default flow live type(IMMEDIATE_FLOW). " alt="" coords="219,5,461,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1codec_1_1impl_1_1FlowEntryCodec.html#a5a5a77477d658fe1066dfc63a540a84b" title="org.onosproject.codec.impl.\lFlowEntryCodec.encode" alt="" coords="249,86,431,127"/>
+</map>

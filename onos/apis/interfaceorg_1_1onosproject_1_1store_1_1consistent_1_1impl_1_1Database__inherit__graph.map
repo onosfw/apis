@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.consistent.impl.Database" name="org.onosproject.store.consistent.impl.Database">
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1DefaultDatabase.html" title="Default database. " alt="" coords="501,9,741,50"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1PartitionedDatabase.html" title="A database that partitions the keys across one or more database partitions. " alt="" coords="501,74,741,115"/>
+</map>

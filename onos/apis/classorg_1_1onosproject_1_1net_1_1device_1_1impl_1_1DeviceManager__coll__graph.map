@@ -1,0 +1,10 @@
+<map id="org.onosproject.net.device.impl.DeviceManager" name="org.onosproject.net.device.impl.DeviceManager">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="316,133,495,174"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceAdminService.html" title="Service for administering the inventory of infrastructure devices. " alt="" coords="613,166,792,207"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceProviderRegistry.html" title="Abstraction of a device provider registry. " alt="" coords="613,231,792,273"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipTermService.html" title="Service to obtain mastership term information. " alt="" coords="611,297,794,338"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="623,362,782,403"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceStore.html" title="Manages inventory of infrastructure devices; not intended for direct use. " alt="" coords="613,427,792,469"/>
+<area shape="rect" id="node13" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipService.html" title="Service responsible for determining the controller instance mastership of a device in a clustered env..." alt="" coords="611,497,794,538"/>
+<area shape="rect" id="node15" href="$interfaceorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigService.html" title="Service for tracking network configurations which specify how the discovered network information shou..." alt="" coords="615,573,791,614"/>
+</map>

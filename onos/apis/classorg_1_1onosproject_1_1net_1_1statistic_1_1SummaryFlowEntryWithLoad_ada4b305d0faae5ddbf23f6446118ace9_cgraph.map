@@ -1,0 +1,7 @@
+<map id="org.onosproject.net.statistic.SummaryFlowEntryWithLoad.SummaryFlowEntryWithLoad" name="org.onosproject.net.statistic.SummaryFlowEntryWithLoad.SummaryFlowEntryWithLoad">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1statistic_1_1SummaryFlowEntryWithLoad.html#ab29129052e2c749083620afb52c1bc5e" title="Returns immediate load of connect point. " alt="" coords="307,5,591,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1statistic_1_1SummaryFlowEntryWithLoad.html#ab061a67d999d079ec0dbc3085f06d759" title="Returns long load of connect point. " alt="" coords="325,70,573,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1statistic_1_1SummaryFlowEntryWithLoad.html#ade8e729108f9a5587a0441d4484ba640" title="Returns mid load of connect point. " alt="" coords="327,135,572,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1statistic_1_1SummaryFlowEntryWithLoad.html#a54d7e33b6b5cd8afc850fe8a27904496" title="Returns short load of connect point. " alt="" coords="323,201,576,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1statistic_1_1SummaryFlowEntryWithLoad.html#aea6417d1576cea93a973a627872abf20" title="Returns total load of connect point. " alt="" coords="325,266,574,307"/>
+</map>

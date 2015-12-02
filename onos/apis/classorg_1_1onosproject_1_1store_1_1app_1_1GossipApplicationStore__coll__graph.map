@@ -1,0 +1,9 @@
+<map id="org.onosproject.store.app.GossipApplicationStore" name="org.onosproject.store.app.GossipApplicationStore">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1common_1_1app_1_1ApplicationArchive.html" title="Facility for reading application archive stream and managing application directory structure..." alt="" coords="312,17,507,58"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1app_1_1ApplicationStore.html" title="Service for managing network control applications. " alt="" coords="307,89,511,130"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1LogicalClockService.html" title="Service that issues logical timestamps. " alt="" coords="312,154,507,195"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1core_1_1ApplicationIdStore.html" title="Manages application IDs. " alt="" coords="305,219,513,261"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="312,285,507,326"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="330,350,489,391"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onosproject_1_1store_1_1cluster_1_1messaging_1_1ClusterCommunicationService.html" title="Service for assisting communications between controller cluster nodes. " alt="" coords="280,415,539,457"/>
+</map>

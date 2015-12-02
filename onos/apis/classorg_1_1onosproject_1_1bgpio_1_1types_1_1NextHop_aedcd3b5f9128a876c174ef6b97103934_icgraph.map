@@ -1,0 +1,7 @@
+<map id="org.onosproject.bgpio.types.NextHop.nextHop" name="org.onosproject.bgpio.types.NextHop.nextHop">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1NextHop.html#a1faa484060ce6a30055fa325fb43ec0b" title="org.onosproject.bgpio.types.\lNextHop.equals" alt="" coords="475,18,661,59"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1NextHop.html#ad4db5cd7cdaa9e1985e017d17aca4db0" title="org.onosproject.bgpio.types.\lNextHop.hashCode" alt="" coords="240,33,427,74"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1NextHop.html#a50a833b42a25f79c716bc26bd0d7bdbf" title="Constructor to initialize parameters. " alt="" coords="240,98,427,139"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1NextHop.html#a34389c4db57f74b9c384d49d72677a79" title="Reads from ChannelBuffer and parses NextHop. " alt="" coords="475,127,661,169"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1NextHop.html#addec0424c2c43a6ecde1a47d0c2d6f6d" title="org.onosproject.bgpio.types.\lNextHop.toString" alt="" coords="240,215,427,257"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="org.onosproject.rest.AbstractInjectionResource" name="org.onosproject.rest.AbstractInjectionResource">
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1rest_1_1resources_1_1ApiDocResource.html" title="REST API documentation. " alt="" coords="725,5,928,46"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1MainIndexResource.html" title="Resource for serving the dynamically composed index.html. " alt="" coords="748,70,905,111"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1MainModuleResource.html" title="Resource for serving the dynamically composed onos.js. " alt="" coords="748,135,905,177"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1MainNavResource.html" title="Resource for serving the dynamically composed nav.html. " alt="" coords="748,201,905,242"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1MainViewResource.html" title="Resource for serving the dynamically composed onos.js. " alt="" coords="748,266,905,307"/>
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1rest_1_1AbstractWebResource.html" title="Abstract REST resource. " alt="" coords="246,135,437,177"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1rest_1_1BaseResource.html" title="Base abstraction of a JAX&#45;RS resource. " alt="" coords="6,113,197,140"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1codec_1_1CodecContext.html" title="Context for codecs to use while encoding/decoding. " alt="" coords="5,165,197,206"/>
+</map>

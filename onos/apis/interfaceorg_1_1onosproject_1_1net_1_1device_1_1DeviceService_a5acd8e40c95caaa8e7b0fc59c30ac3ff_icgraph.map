@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.device.DeviceService.isAvailable" name="org.onosproject.net.device.DeviceService.isAvailable">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1device_1_1impl_1_1DeviceManagerTest.html#a5a3c2ef7dd7efe6e7f7d07a20b6f7549" title="org.onosproject.net.device.impl.\lDeviceManagerTest.deviceConnected" alt="" coords="247,5,491,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1device_1_1impl_1_1DeviceManagerTest.html#a07f375e9eb91df799ab25482e25b319c" title="org.onosproject.net.device.impl.\lDeviceManagerTest.deviceDisconnected" alt="" coords="239,70,500,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1TopologyViewMessageHandlerBase.html#a90145d5a89b49303a0a4428497e05234" title="org.onosproject.ui.impl.\lTopologyViewMessageHandlerBase.device\lMessage" alt="" coords="232,136,507,192"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1rest_1_1DevicesResourceTest.html#a89a91d2eb5a012dc0bd4e3933eb7141e" title="Initializes test mocks and environment. " alt="" coords="275,217,464,258"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.store.trivial.SimpleApplicationStore.deactivate" name="org.onosproject.store.trivial.SimpleApplicationStore.deactivate">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1common_1_1app_1_1ApplicationArchive.html#af43c7228d764c0dc5d0f2a38b39d7898" title="Clears the app as active by deleting token file in the app directory. " alt="" coords="279,5,478,46"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1core_1_1ApplicationId.html#abffffefc340b42fb77d246cac69dd185" title="Returns the applications supplied identifier. " alt="" coords="275,70,483,111"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1common_1_1app_1_1ApplicationArchive.html#a73a86b1db0adb1c29bd310091d223776" title="Updates the time&#45;stamp of the app descriptor file. " alt="" coords="531,5,733,46"/>
+</map>

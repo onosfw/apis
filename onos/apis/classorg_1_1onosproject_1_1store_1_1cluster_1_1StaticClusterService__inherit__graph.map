@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.cluster.StaticClusterService" name="org.onosproject.store.cluster.StaticClusterService">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cluster_1_1ClusterServiceAdapter.html" title="Test adapter for the cluster service. " alt="" coords="475,38,634,79"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="267,38,426,79"/>
+</map>

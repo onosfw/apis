@@ -1,0 +1,8 @@
+<map id="org.onosproject.routing.impl.RouterTest.testIpv6RouteDelete" name="org.onosproject.routing.impl.RouterTest.testIpv6RouteDelete">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1routing_1_1impl_1_1RouterTest.html#a486b7dbb72394d733340b136705ab513" title="Tests adding a IPv6 route entry. " alt="" coords="278,5,474,46"/>
+<area shape="rect" id="node5" href="$classorg_1_1onlab_1_1packet_1_1Ip6Prefix.html#af80b8d191c8978efd3ee7b0d9d93aff5" title="Converts a byte array and a prefix length into an IPv6 prefix. " alt="" coords="265,71,487,97"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1MacAddress.html#ad2d0a41f1372f8c6018a0b88456307a1" title="Returns a MAC address instance representing the value of the specified. " alt="" coords="537,12,781,39"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1packet_1_1MacAddress.html#ab72d01afb0cd7ef0db6279c90a70548d" title="org.onlab.packet.MacAddress.\lMacAddress" alt="" coords="830,5,1029,46"/>
+<area shape="rect" id="node6" href="$classorg_1_1onlab_1_1packet_1_1IpPrefix.html#a0804680278fcde788563c7140039ab03" title="Returns the IP address prefix length. " alt="" coords="557,63,760,105"/>
+<area shape="rect" id="node7" href="$classorg_1_1onlab_1_1packet_1_1Ip6Address.html#a1226023d0426778f64d49e234400bb1f" title="Converts a byte array into an IPv6 address. " alt="" coords="540,129,777,156"/>
+</map>

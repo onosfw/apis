@@ -1,0 +1,4 @@
+<map id="org.onlab.packet.IPv4.deserialize" name="org.onlab.packet.IPv4.deserialize">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1IPv4.html#a2effa80c2abb757affe2a5fab74b9bde" title="Deserializer function for IPv4 packets. " alt="" coords="269,5,488,32"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1IPv4.html#a5ca2aaf5c9066b9d44812af5ee323ff6" title="Default constructor that sets the version to 4. " alt="" coords="537,5,717,32"/>
+</map>

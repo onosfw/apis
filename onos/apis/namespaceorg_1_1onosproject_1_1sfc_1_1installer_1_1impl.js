@@ -1,0 +1,4 @@
+var namespaceorg_1_1onosproject_1_1sfc_1_1installer_1_1impl =
+[
+    [ "DefaultFlowClassifierInstaller", "classorg_1_1onosproject_1_1sfc_1_1installer_1_1impl_1_1DefaultFlowClassifierInstaller.html", "classorg_1_1onosproject_1_1sfc_1_1installer_1_1impl_1_1DefaultFlowClassifierInstaller" ]
+];

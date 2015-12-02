@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.device.PortDescription.type" name="org.onosproject.net.device.PortDescription.type">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1device_1_1impl_1_1OpticalPortOperator.html#a8fc5e27edaf2895932dabdfbe4a18a46" title="Generates a PortDescription containing fields from a PortDescription and an OpticalPortConfig. " alt="" coords="241,5,447,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1incubator_1_1rpc_1_1grpc_1_1GrpcDeviceUtils.html#a4276794a96debbf46eeca51eb3883a20" title="Translates PortDescription to gRPC PortDescription message. " alt="" coords="233,70,455,111"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1device_1_1impl_1_1OpticalPortOperatorTest.html#a6a9b5cc71958efcabb2903ccd0e09ef6" title="org.onosproject.net.device.impl.\lOpticalPortOperatorTest.testDescOps" alt="" coords="505,5,749,46"/>
+</map>

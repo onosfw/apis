@@ -1,0 +1,4 @@
+<map id="org.onosproject.ui.impl.TopologyViewMessageHandler.sendHighlights" name="org.onosproject.ui.impl.TopologyViewMessageHandler.sendHighlights">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1UiMessageHandler.html#a78c6ccbd7e789686c8a1d311144fbc46" title="Sends the specified data to the client. " alt="" coords="288,13,483,54"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1UiMessageHandler.html#aaaf90662953fc72690f0881e329399d6" title="Returns the user interface connection with which this handler was primed. " alt="" coords="531,13,725,54"/>
+</map>

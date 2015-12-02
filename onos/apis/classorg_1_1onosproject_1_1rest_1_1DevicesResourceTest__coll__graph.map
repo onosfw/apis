@@ -1,0 +1,4 @@
+<map id="org.onosproject.rest.DevicesResourceTest" name="org.onosproject.rest.DevicesResourceTest">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1rest_1_1ResourceTest.html" title="Base class for REST API tests. " alt="" coords="267,8,490,35"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="289,61,468,102"/>
+</map>

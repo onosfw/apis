@@ -1,0 +1,5 @@
+<map id="org.onosproject.incubator.net.tunnel.DefaultOpticalTunnelEndPoint.isGlobal" name="org.onosproject.incubator.net.tunnel.DefaultOpticalTunnelEndPoint.isGlobal">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1DefaultOpticalTunnelEndPoint.html#a88c1c9d576e9db549d430f84d155f9a6" title="Creates a optical tunnel point attributed to the specified provider (may be null). " alt="" coords="302,5,586,61"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1DefaultOpticalTunnelEndPoint.html#a47f62d7b96e910ba7522003f70fe559f" title="org.onosproject.incubator.net.tunnel.\lDefaultOpticalTunnelEndPoint.toString" alt="" coords="321,86,567,127"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1DefaultOpticalTunnelEndPoint.html#a777eaeea134b62236c903266f0186c8b" title="org.onosproject.incubator.net.tunnel.\lDefaultOpticalTunnelEndPoint.equals" alt="" coords="635,13,874,54"/>
+</map>

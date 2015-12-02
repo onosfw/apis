@@ -1,0 +1,7 @@
+<map id="org.onosproject.xosintegration.VoltTenant.toString" name="org.onosproject.xosintegration.VoltTenant.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1xosintegration_1_1VoltTenant.html#aeb5019b342b8d1097fa7e15afe0bf0ee" title="Fetches the name of the tenant. " alt="" coords="253,5,472,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1xosintegration_1_1VoltTenant.html#aa2e9a58a38b91830d218c68538741a21" title="org.onosproject.xosintegration.\lVoltTenant.port" alt="" coords="263,70,463,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1xosintegration_1_1VoltTenant.html#ad01969e6f8c3281ac2c97016f6e90b9a" title="Fetches the identifier for the provider service. " alt="" coords="263,135,463,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1xosintegration_1_1VoltTenant.html#aa82fec116db935f003820636a8a52d09" title="Fetches the server specific ID (user id). " alt="" coords="263,201,463,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1xosintegration_1_1VoltTenant.html#ab5b6af7f005434cf7d625ba0335e1c35" title="Fetches the vlan id for this tenant. " alt="" coords="263,266,463,307"/>
+</map>

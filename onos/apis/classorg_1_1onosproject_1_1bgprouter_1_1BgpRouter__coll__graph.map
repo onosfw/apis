@@ -1,0 +1,10 @@
+<map id="org.onosproject.bgprouter.BgpRouter" name="org.onosproject.bgprouter.BgpRouter">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="436,13,615,54"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1flowobjective_1_1FlowObjectiveService.html" title="Service for programming data plane flow rules in manner independent of specific device table pipeline..." alt="" coords="417,78,634,119"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1packet_1_1PacketService.html" title="Service for intercepting data plane packets and for emitting synthetic outbound packets. " alt="" coords="435,143,615,185"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1routing_1_1RoutingService.html" title="Provides a way of interacting with the RIB management component. " alt="" coords="446,209,605,250"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="439,274,611,315"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="21,270,208,311"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigService.html" title="Service for tracking network configurations which specify how the discovered network information shou..." alt="" coords="437,339,613,381"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1intf_1_1InterfaceService.html" title="Service for interacting with interfaces. " alt="" coords="417,405,633,446"/>
+</map>

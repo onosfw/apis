@@ -1,0 +1,4 @@
+<map id="org.onosproject.vtnrsc.flowclassifier.impl.FlowClassifierManager" name="org.onosproject.vtnrsc.flowclassifier.impl.FlowClassifierManager">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1flowclassifier_1_1FlowClassifierService.html" title="Provides Services for Flow Classifier. " alt="" coords="5,5,240,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="25,70,220,111"/>
+</map>

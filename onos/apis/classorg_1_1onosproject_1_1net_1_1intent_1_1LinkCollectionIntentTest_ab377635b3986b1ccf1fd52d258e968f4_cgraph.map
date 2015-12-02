@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.intent.LinkCollectionIntentTest.testSerializerConstructor" name="org.onosproject.net.intent.LinkCollectionIntentTest.testSerializerConstructor">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1Intent.html#aec0c18f31522c07c55e2a7d0b10510f5" title="Indicates whether or not the intent is installable. " alt="" coords="303,5,476,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1ConnectivityIntent.html#aef4be7678fbfa88b9d130630c14ceecd" title="Returns the match specifying the type of traffic. " alt="" coords="300,70,479,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1ConnectivityIntent.html#a01f1e0a2278429c1d252c243f1d103da" title="Returns the action applied to the traffic. " alt="" coords="296,135,483,177"/>
+</map>

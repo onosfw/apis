@@ -1,0 +1,5 @@
+<map id="org.onosproject.vtnrsc.DefaultVirtualPort.bindingVifType" name="org.onosproject.vtnrsc.DefaultVirtualPort.bindingVifType">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultVirtualPort.html#aa1ffabe64f9e94c20a4b72668eb3b5e5" title="Returns the virtualPort bindingVnicType. " alt="" coords="251,50,448,91"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultVirtualPort.html#a750acbd087501d5ef3ceb84d921a5ef9" title="org.onosproject.vtnrsc.Default\lVirtualPort.hashCode" alt="" coords="496,5,693,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultVirtualPort.html#a46be2c43c84647d3edd1dbab5981c9a8" title="org.onosproject.vtnrsc.Default\lVirtualPort.toString" alt="" coords="496,83,693,125"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.incubator.rpc.impl.RemoteServiceManager" name="org.onosproject.incubator.rpc.impl.RemoteServiceManager">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1incubator_1_1rpc_1_1RemoteServiceProviderRegistry.html" title="Abstraction of a remote service provider registry. " alt="" coords="321,34,530,75"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1incubator_1_1rpc_1_1RemoteServiceDirectory.html" title="Service for retrieving RPC session handler (RemoteServiceContext). " alt="" coords="593,122,788,163"/>
+</map>

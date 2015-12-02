@@ -1,0 +1,4 @@
+<map id="org.onosproject.dhcp.DhcpStore" name="org.onosproject.dhcp.DhcpStore">
+<area shape="rect" id="node2" title="Mocks the DHCPStore. " alt="" coords="232,5,453,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1dhcp_1_1impl_1_1DistributedDhcpStore.html" title="Manages the pool of available IP Addresses in the network and Remembers the mapping between MAC ID an..." alt="" coords="255,70,430,111"/>
+</map>

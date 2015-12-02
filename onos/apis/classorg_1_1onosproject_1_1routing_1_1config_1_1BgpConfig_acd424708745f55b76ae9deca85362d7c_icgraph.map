@@ -1,0 +1,7 @@
+<map id="org.onosproject.routing.config.BgpConfig.getSpeakerWithName" name="org.onosproject.routing.config.BgpConfig.getSpeakerWithName">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1routing_1_1config_1_1BgpConfigTest.html#a74f3a0759c0d3a5981b9b267770ecc74" title="Tests addition of new speaker when peer already exists. " alt="" coords="279,5,526,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1routing_1_1config_1_1BgpConfigTest.html#ae90a00da293ce2794682ad1bd756240a" title="Tests addition of new speaker. " alt="" coords="279,86,527,127"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1routing_1_1config_1_1BgpConfigTest.html#a417abca2bd30d0a21cb2c676124ed47b" title="Tests if speaker can be found by name. " alt="" coords="269,151,536,193"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1routing_1_1config_1_1BgpConfigTest.html#aabb8ab6b947fb58ed4f1595f31ee0806" title="Tests removal of peer. " alt="" coords="273,217,532,273"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1routing_1_1config_1_1BgpConfigTest.html#a5ac03aa4de16ca0ad34084a29b00e388" title="Tests peer removal when peer does not exist. " alt="" coords="275,297,530,353"/>
+</map>

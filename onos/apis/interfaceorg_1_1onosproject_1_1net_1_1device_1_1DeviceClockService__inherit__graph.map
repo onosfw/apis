@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.device.DeviceClockService" name="org.onosproject.net.device.DeviceClockService">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1device_1_1DeviceClockServiceAdapter.html" title="Test adapter for device clock service. " alt="" coords="248,53,435,94"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1DeviceClockManager.html" title="Clock service to issue Timestamp based on Device Mastership. " alt="" coords="232,118,451,159"/>
+</map>

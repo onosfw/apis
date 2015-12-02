@@ -1,0 +1,4 @@
+<map id="org.onosproject.ovsdb.rfc.tableservice.AbstractOvsdbTableService.getDataHandler" name="org.onosproject.ovsdb.rfc.tableservice.AbstractOvsdbTableService.getDataHandler">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1tableservice_1_1AbstractOvsdbTableService.html#a0ca4c99e8cb5d940c22f11f4d6897374" title="Returns UUID which column name is _uuid. " alt="" coords="341,5,608,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1tableservice_1_1AbstractOvsdbTableService.html#a983e3c3770add3befe2236243179c09b" title="Returns UUID which column name is _version. " alt="" coords="333,70,616,111"/>
+</map>

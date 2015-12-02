@@ -1,0 +1,12 @@
+<map id="org.onosproject.driver.handshaker.OFOpticalSwitch13" name="org.onosproject.driver.handshaker.OFOpticalSwitch13">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1openflow_1_1controller_1_1driver_1_1AbstractOpenFlowSwitch.html" title="An abstract representation of an OpenFlow switch. " alt="" coords="875,210,1139,251"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1AbstractHandlerBehaviour.html" title="Base implementation of device driver handler behaviour. " alt="" coords="554,6,729,47"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1AbstractBehaviour.html" title="Base implementation of device driver behaviour. " alt="" coords="257,5,431,46"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1Behaviour.html" title="Representation of a facet of device behaviour that can be used to talk about a device (in context of ..." alt="" coords="5,34,179,75"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1HandlerBehaviour.html" title="Representation of a facet of device behaviour that can be used to interact with a device (in context ..." alt="" coords="257,70,431,111"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1openflow_1_1controller_1_1driver_1_1OpenFlowSwitchDriver.html" title="Represents the driver side of an OpenFlow switch. " alt="" coords="509,71,773,113"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1openflow_1_1controller_1_1OpenFlowSwitch.html" title="Represents to provider facing side of a switch. " alt="" coords="230,202,458,243"/>
+<area shape="rect" id="node14" href="$interfaceorg_1_1onosproject_1_1openflow_1_1controller_1_1OpenFlowOpticalSwitch.html" title="A marker interface for optical switches, which require the ability to pass port information to a Devi..." alt="" coords="527,407,755,449"/>
+<area shape="rect" id="node11" href="$enumorg_1_1onosproject_1_1openflow_1_1controller_1_1RoleState.html" title="The role of the controller as it pertains to a particular switch. " alt="" coords="527,239,755,281"/>
+<area shape="rect" id="node15" href="$interfaceorg_1_1onosproject_1_1openflow_1_1controller_1_1WithTypedPorts.html" title="An interface implemented by OpenFlow devices that enables providers to retrieve ports based on port p..." alt="" coords="230,407,458,449"/>
+</map>

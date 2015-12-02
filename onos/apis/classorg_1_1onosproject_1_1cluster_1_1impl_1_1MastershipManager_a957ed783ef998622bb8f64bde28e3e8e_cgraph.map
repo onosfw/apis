@@ -1,0 +1,5 @@
+<map id="org.onosproject.cluster.impl.MastershipManager.balanceRoles" name="org.onosproject.cluster.impl.MastershipManager.balanceRoles">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cluster_1_1impl_1_1MastershipManager.html#a8b62d964bbd347bcb4eb2f145a9b142e" title="Returns the devices for which a controller is master. " alt="" coords="273,5,493,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html#a03686ad51840b49727e454435c586d1f" title="Returns the set of current cluster members. " alt="" coords="299,70,467,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html#aae3eb9b6f7c098eb60fb9e14bb616181" title="Returns the availability state of the specified controller node. " alt="" coords="302,135,463,177"/>
+</map>

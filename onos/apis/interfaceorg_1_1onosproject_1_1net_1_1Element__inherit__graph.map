@@ -1,0 +1,10 @@
+<map id="org.onosproject.net.Element" name="org.onosproject.net.Element">
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1AbstractElement.html" title="Base implementation of network elements, i.e. " alt="" coords="485,135,672,177"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1net_1_1Device.html" title="Representation of a network infrastructure device. " alt="" coords="489,81,668,108"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onosproject_1_1net_1_1Host.html" title="Abstraction of an end&#45;station host on the network, essentially a NIC. " alt="" coords="496,201,661,228"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotated.html" title="Represents an entity that carries arbitrary annotations. " alt="" coords="6,117,202,144"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1Provided.html" title="Abstraction of an entity supplied by a provider. " alt="" coords="10,168,198,195"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1DefaultDevice.html" title="Default infrastructure device model implementation. " alt="" coords="735,135,913,177"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1DefaultHost.html" title="A basic implementation of a Host. " alt="" coords="721,201,927,228"/>
+<area shape="rect" id="node9" title="Dummy Device which only holds DeviceId. " alt="" coords="733,5,915,46"/>
+</map>

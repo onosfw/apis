@@ -1,0 +1,4 @@
+<map id="org.onosproject.mastership.MastershipStore" name="org.onosproject.mastership.MastershipStore">
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1mastership_1_1impl_1_1ConsistentDeviceMastershipStore.html" title="Implementation of the MastershipStore on top of Leadership Service. " alt="" coords="473,26,717,67"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleMastershipStore.html" title="Manages inventory of controller mastership over devices using trivial, non&#45;distributed in&#45;memory stru..." alt="" coords="503,91,686,132"/>
+</map>

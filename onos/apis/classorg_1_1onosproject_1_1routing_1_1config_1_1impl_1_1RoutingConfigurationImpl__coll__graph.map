@@ -1,0 +1,8 @@
+<map id="org.onosproject.routing.config.impl.RoutingConfigurationImpl" name="org.onosproject.routing.config.impl.RoutingConfigurationImpl">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1routing_1_1config_1_1RoutingConfigurationService.html" title="Provides information about the routing configuration. " alt="" coords="663,5,860,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigRegistry.html" title="Service for tracking network configuration factories. " alt="" coords="673,70,849,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigService.html" title="Service for tracking network configurations which specify how the discovered network information shou..." alt="" coords="280,89,456,130"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="675,199,847,241"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="275,199,461,241"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1intf_1_1InterfaceService.html" title="Service for interacting with interfaces. " alt="" coords="653,265,869,306"/>
+</map>

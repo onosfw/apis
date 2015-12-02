@@ -1,0 +1,4 @@
+<map id="org.onosproject.ui.impl.topo.IntentSelection.single" name="org.onosproject.ui.impl.topo.IntentSelection.single">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1topo_1_1IntentSelection.html#a5e99a5a23dd4e0223f6d3d188977baf8" title="Returns true if all intents in this select group are currently selected. " alt="" coords="240,5,427,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1topo_1_1IntentSelection.html#a644fbe487607ec18b24d2dcf98ff32e4" title="Returns the index of the currently selected intent. " alt="" coords="475,5,661,46"/>
+</map>

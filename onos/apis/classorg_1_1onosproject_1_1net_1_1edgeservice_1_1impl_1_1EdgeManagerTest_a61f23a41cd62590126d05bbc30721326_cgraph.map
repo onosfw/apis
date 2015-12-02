@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.edgeservice.impl.EdgeManagerTest.testDeviceUpdates" name="org.onosproject.net.edgeservice.impl.EdgeManagerTest.testDeviceUpdates">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1NetTestTools.html#a029d5783693de6b5f34a659e9394061f" title="org.onosproject.net.NetTest\lTools.did" alt="" coords="299,5,483,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html#a3aa00dea557888f545668439498bdb08" title="Returns the list of ports associated with the device. " alt="" coords="301,70,480,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1PortNumber.html#af4b74e15d508cb9820ffea4fba13890e" title="Returns the port number representing the specified long value. " alt="" coords="310,135,471,177"/>
+</map>

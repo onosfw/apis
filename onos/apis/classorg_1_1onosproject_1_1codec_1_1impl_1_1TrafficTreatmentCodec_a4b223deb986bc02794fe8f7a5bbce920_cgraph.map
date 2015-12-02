@@ -1,0 +1,4 @@
+<map id="org.onosproject.codec.impl.TrafficTreatmentCodec.encode" name="org.onosproject.codec.impl.TrafficTreatmentCodec.encode">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1TrafficTreatment.html#afee687517ba761f05ca769a0f27b6bca" title="Returns the list of treatment instructions that will be applied further down the pipeline. " alt="" coords="263,5,433,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1TrafficTreatment.html#a4769beb6f83c852cec767b16015c5e2f" title="Returns the list of treatment instructions that will be applied immediately. " alt="" coords="257,70,439,111"/>
+</map>

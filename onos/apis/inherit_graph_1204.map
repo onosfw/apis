@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1rest_1_1exceptions_1_1BadRequestMapper.html" title="Mapper for IO exceptions to the BAD_REQUEST response code. " alt="" coords="172,5,380,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1rest_1_1exceptions_1_1EntityNotFoundMapper.html" title="Mapper for service not found exceptions to the NOT_FOUND response code. " alt="" coords="172,70,380,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1rest_1_1exceptions_1_1IllegalArgumentExceptionMapper.html" title="Mapper for illegal argument exceptions to the BAD_REQUEST response code. " alt="" coords="169,135,383,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1rest_1_1exceptions_1_1IllegalStateExceptionMapper.html" title="Mapper for illegal state exceptions to the BAD_REQUEST response code. " alt="" coords="172,201,380,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1rest_1_1exceptions_1_1NotFoundMapper.html" title="Mapper for api not found exceptions to the NOT_FOUND response code. " alt="" coords="172,266,380,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1rest_1_1exceptions_1_1ServerErrorMapper.html" title="Mapper for service not found exceptions to the INTERNAL_SERVER_ERROR response code. " alt="" coords="172,331,380,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1rest_1_1exceptions_1_1ServiceNotFoundMapper.html" title="Mapper for service not found exceptions to the SERVICE_UNAVAILABLE response code. ..." alt="" coords="172,397,380,438"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1rest_1_1exceptions_1_1WebApplicationExceptionMapper.html" title="Exception mapper for WebApplicationExceptions. " alt="" coords="169,462,383,503"/>
+</map>

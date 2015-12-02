@@ -1,0 +1,6 @@
+<map id="org.onosproject.store.service.PartitionInfo.PartitionInfo" name="org.onosproject.store.service.PartitionInfo.PartitionInfo">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1service_1_1PartitionInfo.html#a361e12d8ca46dc3f88e21f0a6248161f" title="Returns the partition leader. " alt="" coords="248,5,443,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1service_1_1PartitionInfo.html#ac69434b2cc1f6adf3da2d0e758cfe9fc" title="Returns the list of partition members. " alt="" coords="248,70,443,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1service_1_1PartitionInfo.html#aa63cb40bc8d47fd17b09403c1d76183d" title="Returns the name of the partition. " alt="" coords="248,135,443,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1service_1_1PartitionInfo.html#a2f2fbce7d07344eb70c7f73255396a17" title="Returns the term number. " alt="" coords="248,201,443,242"/>
+</map>

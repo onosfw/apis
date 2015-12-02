@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.device.DeviceStore" name="org.onosproject.net.device.DeviceStore">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html" title="Manages the inventory of devices using a. " alt="" coords="443,5,661,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html" title="Manages inventory of infrastructure devices using gossip protocol to distribute information. " alt="" coords="443,70,661,111"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleDeviceStore.html" title="Manages inventory of infrastructure devices using trivial in&#45;memory structures implementation. " alt="" coords="461,135,643,177"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="org.onosproject.codec.impl.JsonCodecUtils" name="org.onosproject.codec.impl.JsonCodecUtils">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1PortNumber.html" title="Representation of a port number. " alt="" coords="574,146,735,187"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1DeviceId.html" title="Immutable representation of a device identity. " alt="" coords="560,251,749,277"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1ElementId.html" title="Immutable representation of a network element identity. " alt="" coords="249,251,445,277"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1NetworkResource.html" title="Representation of a network resource, e.g. " alt="" coords="5,243,192,285"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1ConnectPoint.html" title="Abstraction of a network connection point expressed as a pair of the network element identifier and p..." alt="" coords="561,302,748,343"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1net_1_1SparseAnnotations.html" title="Represents an set of sparse key/value string annotations capable of carrying annotation keys tagged f..." alt="" coords="565,367,744,409"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotations.html" title="Represents an set of simple key/value string annotations. " alt="" coords="243,375,450,401"/>
+<area shape="rect" id="node10" href="$classorg_1_1onlab_1_1packet_1_1ChassisId.html" title="The class representing a network device chassisId. " alt="" coords="564,433,745,460"/>
+<area shape="rect" id="node11" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="561,523,748,565"/>
+</map>

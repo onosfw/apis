@@ -1,0 +1,8 @@
+<map id="org.onosproject.aaa.AaaManager" name="org.onosproject.aaa.AaaManager">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1xosintegration_1_1VoltTenantService.html" title="org.onosproject.xosintegration.\lVoltTenantService" alt="" coords="663,5,863,46"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1packet_1_1PacketService.html" title="Service for intercepting data plane packets and for emitting synthetic outbound packets. " alt="" coords="673,135,853,177"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigRegistry.html" title="Service for tracking network configuration factories. " alt="" coords="675,201,851,242"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigService.html" title="Service for tracking network configurations which specify how the discovered network information shou..." alt="" coords="280,186,456,227"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="677,266,849,307"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="275,290,461,331"/>
+</map>

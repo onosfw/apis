@@ -1,0 +1,7 @@
+<map id="org.onosproject.provider.pcep.tunnel.impl.PcepTunnelProvider.tunnelUpdated" name="org.onosproject.provider.pcep.tunnel.impl.PcepTunnelProvider.tunnelUpdated">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1TunnelDescription.html#a9ab9acb0042154a0f0da9d27fd950a4d" title="Returns the tunnel id. " alt="" coords="333,5,566,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1provider_1_1pcep_1_1tunnel_1_1impl_1_1PcepTunnelProvider.html#a0ddeecd60d04125d713d74924f9cb662" title="Signals that the a tunnel was queried. " alt="" coords="317,70,581,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1TunnelDescription.html#adad14ab1e0c6742ef2ef06a35f3df47a" title="Returns the tunnel type. " alt="" coords="333,135,566,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1Tunnel.html#a5da807ff388b4935b39b4170ef1c93cc" title="Returns the tunnel type. " alt="" coords="333,201,566,242"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1pcep_1_1api_1_1PcepController.html#a1b3d199d4ce0e6eb213da2ab95869c3e" title="Update tunnel bandwidth by tunnel id. " alt="" coords="324,266,575,307"/>
+</map>

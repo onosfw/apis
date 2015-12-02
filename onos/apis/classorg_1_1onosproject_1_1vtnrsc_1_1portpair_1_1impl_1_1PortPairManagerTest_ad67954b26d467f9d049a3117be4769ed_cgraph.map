@@ -1,0 +1,6 @@
+<map id="org.onosproject.vtnrsc.portpair.impl.PortPairManagerTest.testRemovePortPair" name="org.onosproject.vtnrsc.portpair.impl.PortPairManagerTest.testRemovePortPair">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnrsc_1_1portpair_1_1impl_1_1PortPairManager.html#aa059148a81d6f9e453ebcd857265a65d" title="Deletes portPair by given portPairId. " alt="" coords="334,5,565,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1vtnrsc_1_1portpair_1_1impl_1_1PortPairManagerTest.html#afead2a2fdbfc5a5347224bbaee3dfb4f" title="Checks the operation of createPortPair() method. " alt="" coords="321,70,578,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1vtnrsc_1_1portpair_1_1impl_1_1PortPairManager.html#ac6094ca02b5756224ca062f162d20563" title="Creates a PortPair in the store. " alt="" coords="627,70,858,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortPair.html#ad1e7b9d14284b75b6d76b094ded3a4d4" title="Returns the ID of this port Pair. " alt="" coords="907,70,1085,111"/>
+</map>

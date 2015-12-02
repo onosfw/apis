@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.core.impl.ConsistentApplicationIdStore" name="org.onosproject.store.core.impl.ConsistentApplicationIdStore">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1core_1_1ApplicationIdStore.html" title="Manages application IDs. " alt="" coords="5,5,213,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="12,70,207,111"/>
+</map>

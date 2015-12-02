@@ -1,0 +1,9 @@
+<map id="org.onosproject.openstackswitching.OpenstackPort.clone" name="org.onosproject.openstackswitching.OpenstackPort.clone">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1openstackswitching_1_1OpenstackPort.html#a653bbe93323b67dbd15480c8656d2f5b" title="Returns device ID. " alt="" coords="288,5,523,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1openstackswitching_1_1OpenstackPort.html#a6f365fe1b70a31675a1fad859a402928" title="Returns device owner. " alt="" coords="288,70,523,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1openstackswitching_1_1OpenstackPort.html#a1015b1d616d7286f8b01c0e783a79b2c" title="Returns the fixed IP information. " alt="" coords="288,135,523,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1openstackswitching_1_1OpenstackPort.html#a7a0f3398bb9c57faf28ef205be79913c" title="Returns mac address. " alt="" coords="288,201,523,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1openstackswitching_1_1OpenstackPort.html#a4b2293c2dd07b1062ad5a1e4143d1d27" title="Returns port name. " alt="" coords="288,266,523,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1openstackswitching_1_1OpenstackPort.html#a9fdfbd5607b2b1324671201d286b6463" title="Returns network ID. " alt="" coords="288,331,523,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1openstackswitching_1_1OpenstackPort.html#adccfb0891191249b4a45015149f6b69b" title="Returns port status. " alt="" coords="288,397,523,438"/>
+</map>

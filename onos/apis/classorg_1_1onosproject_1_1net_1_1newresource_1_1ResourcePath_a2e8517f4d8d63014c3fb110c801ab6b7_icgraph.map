@@ -1,0 +1,9 @@
+<map id="org.onosproject.net.newresource.ResourcePath.components" name="org.onosproject.net.newresource.ResourcePath.components">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1newresource_1_1ResourcePath.html#aa36b6f833c34672cf07304546d6d5b8b" title="Creates an resource path which represents a continuous&#45;type resource from the specified components..." alt="" coords="278,38,493,79"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1newresource_1_1ResourcePath.html#acaacfdb1f82d6a386845861fc01724d0" title="Creates an resource path which represents a discrete&#45;type resource from the specified components..." alt="" coords="278,103,493,145"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1net_1_1newresource_1_1ResourcePathTest.html#a036512d28ab0feaa05179c567240451f" title="org.onosproject.net.newresource.\lResourcePathTest.testComponents" alt="" coords="270,169,501,210"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1newresource_1_1ResourceAllocationTest.html#a97a6b2d2a9752367922056ee1156621c" title="org.onosproject.net.newresource.\lResourceAllocationTest.testEquals" alt="" coords="571,5,797,46"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1impl_1_1ObjectiveTrackerTest.html#a822bd0d73bdaa4907d51843790bdb878" title="Tests a resource available event. " alt="" coords="553,70,815,111"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1store_1_1serializers_1_1KryoSerializerTest.html#a6c84a21d9d9e6ae760ea14ad64139e13" title="org.onosproject.store.serializers.\lKryoSerializerTest.testResourcePath" alt="" coords="565,135,803,177"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1store_1_1serializers_1_1KryoSerializerTest.html#ae8096963606fbafa45015e490116b565" title="org.onosproject.store.serializers.\lKryoSerializerTest.testResourceAllocation" alt="" coords="550,201,818,242"/>
+</map>

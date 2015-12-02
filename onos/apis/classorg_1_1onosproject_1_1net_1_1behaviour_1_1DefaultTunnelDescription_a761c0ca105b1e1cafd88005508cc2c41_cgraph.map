@@ -1,0 +1,7 @@
+<map id="org.onosproject.net.behaviour.DefaultTunnelDescription.DefaultTunnelDescription" name="org.onosproject.net.behaviour.DefaultTunnelDescription.DefaultTunnelDescription">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1AbstractDescription.html#a9230f0f1b251f2cf963bc6dc9ec6be3d" title="Returns the key/value annotations. " alt="" coords="297,5,484,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1behaviour_1_1DefaultTunnelDescription.html#a457bc6c00289c736d312236ed4eb0293" title="Returns the connection point destination. " alt="" coords="292,70,489,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1behaviour_1_1DefaultTunnelDescription.html#aac4306a483e03fb38bdac64cc354da23" title="Returns the connection point source. " alt="" coords="292,135,489,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1behaviour_1_1DefaultTunnelDescription.html#a7f1f263dc76279b0ec13adeb561689a5" title="Return the name of a tunnel. " alt="" coords="269,201,512,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1behaviour_1_1DefaultTunnelDescription.html#a7dfe6481470b18d2ee4ad9a73d663fa1" title="Returns the tunnel type. " alt="" coords="291,266,490,307"/>
+</map>

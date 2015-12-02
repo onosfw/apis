@@ -1,0 +1,10 @@
+<map id="org.onosproject.reactive.routing.SdnIpReactiveRouting" name="org.onosproject.reactive.routing.SdnIpReactiveRouting">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1host_1_1HostService.html" title="Service for interacting with the inventory of end&#45;station hosts. " alt="" coords="422,13,589,54"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1packet_1_1PacketService.html" title="Service for intercepting data plane packets and for emitting synthetic outbound packets. " alt="" coords="415,78,595,119"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1routing_1_1SdnIpService.html" title="Service interface exported by SDN&#45;IP. " alt="" coords="426,143,585,185"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1routing_1_1RoutingService.html" title="Provides a way of interacting with the RIB management component. " alt="" coords="426,209,585,250"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="419,274,591,315"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="12,274,199,315"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1intf_1_1InterfaceService.html" title="Service for interacting with interfaces. " alt="" coords="397,339,613,381"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1routing_1_1config_1_1RoutingConfigurationService.html" title="Provides information about the routing configuration. " alt="" coords="407,405,604,446"/>
+</map>

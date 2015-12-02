@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.criteria.Icmpv6TypeCriterion.toString" name="org.onosproject.net.flow.criteria.Icmpv6TypeCriterion.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1Icmpv6TypeCriterion.html#ad64f5b24c57c479d276e0d9beb4a7de7" title="Gets the ICMPv6 type to match. " alt="" coords="261,5,480,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1Icmpv6TypeCriterion.html#a3e7b43a25baf3b670fdda8b0e1235466" title="Returns the type of criterion. " alt="" coords="267,70,475,111"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="org.onosproject.vtnweb.web.FloatingIpCodec.encode" name="org.onosproject.vtnweb.web.FloatingIpCodec.encode">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1FloatingIp.html#a27c98aaf41a3204a7cdc0450b2fd6920" title="Returns the fixed ip address. " alt="" coords="243,5,445,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1FloatingIp.html#a2232842608d49c06bd1af06a31f66297" title="Returns the port identifier. " alt="" coords="243,70,445,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1FloatingIp.html#af37dd870bb0748c08be410812e32311d" title="Returns the router identifier. " alt="" coords="243,135,445,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1FloatingIp.html#a8bee77316516f08cf4251f79d4a38b7a" title="Returns the status of floating ip. " alt="" coords="243,201,445,242"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1FloatingIp.html#a8329a30b67c1992ec299bf294f1a4d83" title="Returns the tenant identifier. " alt="" coords="243,266,445,307"/>
+</map>

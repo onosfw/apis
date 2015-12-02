@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.criteria.TcpFlagsCriterion.flags" name="org.onosproject.net.flow.criteria.TcpFlagsCriterion.flags">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1TcpFlagsCriterion.html#ab1813539d83769a5c2afa0589ccfc140" title="org.onosproject.net.flow.criteria.\lTcpFlagsCriterion.equals" alt="" coords="261,5,469,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1TcpFlagsCriterion.html#abfc97d20638c306fdf8c3e554fc2843c" title="org.onosproject.net.flow.criteria.\lTcpFlagsCriterion.toString" alt="" coords="261,70,469,111"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.device.DeviceStore.isAvailable" name="org.onosproject.net.device.DeviceStore.isAvailable">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleDeviceStoreTest.html#aee91fff5db66120c52f11a1a4afb1b35" title="org.onosproject.store.trivial.\lSimpleDeviceStoreTest.testCreate\lOrUpdateDeviceAncillary" alt="" coords="261,5,486,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStoreTest.html#a40337dab00408dbd8d65f99cf0824172" title="org.onosproject.store.device.impl.\lGossipDeviceStoreTest.testCreateOrUpdate\lDeviceAncillary" alt="" coords="232,85,515,141"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleDeviceStoreTest.html#a0de5b91f6179b695562f22e7ed8f2f1a" title="org.onosproject.store.trivial.\lSimpleDeviceStoreTest.testMarkOffline" alt="" coords="247,166,500,207"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStoreTest.html#af1dad8062e859e534aaca355776442ba" title="org.onosproject.store.device.impl.\lGossipDeviceStoreTest.testMarkOffline" alt="" coords="246,231,501,273"/>
+</map>

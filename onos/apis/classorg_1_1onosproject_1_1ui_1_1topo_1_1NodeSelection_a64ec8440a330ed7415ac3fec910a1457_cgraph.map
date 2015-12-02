@@ -1,0 +1,4 @@
+<map id="org.onosproject.ui.topo.NodeSelection.none" name="org.onosproject.ui.topo.NodeSelection.none">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1NodeSelection.html#aebbbbb53bf5fe4f385e60cb172f33f00" title="Returns a view of the selected devices (hover not included). " alt="" coords="214,5,373,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1NodeSelection.html#aa141496149e070986520305f8daa3ae6" title="Returns a view of the selected hosts (hover not included). " alt="" coords="214,70,373,111"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="org.onosproject.demo.DemoInstaller" name="org.onosproject.demo.DemoInstaller">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1demo_1_1DemoApi.html" title="Simple demo api interface. " alt="" coords="424,5,629,32"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="437,57,616,98"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1host_1_1HostService.html" title="Service for interacting with the inventory of end&#45;station hosts. " alt="" coords="443,122,610,163"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleService.html" title="Service for injecting flow rules into the environment and for obtaining information about flow rules ..." alt="" coords="444,187,609,229"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1IntentService.html" title="Service for application submitting or withdrawing their intents. " alt="" coords="440,253,613,294"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="447,325,606,366"/>
+<area shape="rect" id="node13" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="441,405,613,446"/>
+<area shape="rect" id="node14" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="25,445,212,486"/>
+<area shape="rect" id="node15" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipService.html" title="Service responsible for determining the controller instance mastership of a device in a clustered env..." alt="" coords="435,505,618,546"/>
+</map>

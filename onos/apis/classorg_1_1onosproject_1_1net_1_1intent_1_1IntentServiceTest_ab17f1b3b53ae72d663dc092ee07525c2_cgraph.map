@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.intent.IntentServiceTest.implicitRegistration" name="org.onosproject.net.intent.IntentServiceTest.implicitRegistration">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1IntentExtensionService.html#a3c9b105dc3d927666888e29ef6e50289" title="Returns immutable set of bindings of currently registered intent compilers. " alt="" coords="294,5,533,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1IntentService.html#a8061351b27f2a68a24554d2cd42ada0c" title="Retrieves the state of an intent by its identifier. " alt="" coords="321,70,506,111"/>
+</map>

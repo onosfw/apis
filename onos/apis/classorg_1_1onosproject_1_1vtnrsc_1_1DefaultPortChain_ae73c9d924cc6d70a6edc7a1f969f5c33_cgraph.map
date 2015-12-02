@@ -1,0 +1,4 @@
+<map id="org.onosproject.vtnrsc.DefaultPortChain.exactMatch" name="org.onosproject.vtnrsc.DefaultPortChain.exactMatch">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortChain.html#abd1bd2089d4372cda2d02b96c87d4885" title="Returns the ID of this port chain. " alt="" coords="251,5,429,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortChain.html#ac54445d211cc0f541facf78f84941ae4" title="Returns the tenant id of this port chain. " alt="" coords="251,70,429,111"/>
+</map>

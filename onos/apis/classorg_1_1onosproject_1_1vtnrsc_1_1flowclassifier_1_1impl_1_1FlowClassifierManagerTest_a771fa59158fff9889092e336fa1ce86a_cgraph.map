@@ -1,0 +1,6 @@
+<map id="org.onosproject.vtnrsc.flowclassifier.impl.FlowClassifierManagerTest.testUpdateFlowClassifier" name="org.onosproject.vtnrsc.flowclassifier.impl.FlowClassifierManagerTest.testUpdateFlowClassifier">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnrsc_1_1flowclassifier_1_1impl_1_1FlowClassifierManagerTest.html#a1ac3a91af4c806e8f0761227512e0bda" title="Checks the operation of createFlowClassifier() method. " alt="" coords="387,5,717,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1vtnrsc_1_1flowclassifier_1_1impl_1_1FlowClassifierManager.html#ae86a70136555fa2c576b190a4da325c5" title="Update Flow Classifier based on given Flow Classifier Id. " alt="" coords="411,70,693,111"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1vtnrsc_1_1flowclassifier_1_1impl_1_1FlowClassifierManager.html#ab876b1d499d3b9288a8f5fb1cb82814b" title="Store Flow Classifier. " alt="" coords="766,5,1045,46"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1FlowClassifier.html#a22fee5f5d1957fc2bacb12a7c2d60475" title="Returns flow classifier ID. " alt="" coords="814,70,997,111"/>
+</map>

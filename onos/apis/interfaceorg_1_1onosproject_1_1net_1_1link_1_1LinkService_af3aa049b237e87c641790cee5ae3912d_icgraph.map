@@ -1,0 +1,7 @@
+<map id="org.onosproject.net.link.LinkService.getLinks" name="org.onosproject.net.link.LinkService.getLinks">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1LinksListCommand.html#aa95233356f11db8b19fc567442712e46" title="Executes this command. " alt="" coords="245,5,429,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1rest_1_1StatisticsResourceTest.html#a1c4c2624cc1acf7094b37476d3ed2928" title="Initializes test mocks and environment. " alt="" coords="239,70,435,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1rest_1_1LinksResourceTest.html#ad2e2b6f21ad83026a8a3629d7062f507" title="Tests the result of the rest api GET when there are links present. " alt="" coords="251,135,423,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1rest_1_1LinksResourceTest.html#aa9c8a7eb6d4c07098c548289e65a8d29" title="Tests the result of the rest api GET of links for a specific device and port. " alt="" coords="216,201,459,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1rest_1_1LinksResourceTest.html#a8f18482a35d26415de4cb2fffdb99b1c" title="Tests the result of the rest api GET when there are no links. " alt="" coords="222,266,453,307"/>
+</map>

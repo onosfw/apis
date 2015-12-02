@@ -1,0 +1,4 @@
+<map id="org.onosproject.cluster.impl.MastershipManagerTest.setRole" name="org.onosproject.cluster.impl.MastershipManagerTest.setRole">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cluster_1_1impl_1_1MastershipManager.html#a831824e5f5c70a2d0330bbd12276cb39" title="Returns the role of the local node for the specified device, without triggering master selection..." alt="" coords="271,5,487,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1cluster_1_1impl_1_1MastershipManager.html#afc36fb70d3f57bb3ff0abbd89a06f95b" title="Returns the mastership status of the local controller for a given device forcing master selection if ..." alt="" coords="264,70,493,111"/>
+</map>

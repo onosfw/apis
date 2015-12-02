@@ -1,0 +1,4 @@
+<map id="org.onosproject.app.impl.ApplicationManager" name="org.onosproject.app.impl.ApplicationManager">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1app_1_1ApplicationService.html" title="Service for inspecting inventory of network control applications. " alt="" coords="251,107,455,149"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1app_1_1ApplicationAdminService.html" title="Service for managing network control applications. " alt="" coords="534,137,738,178"/>
+</map>

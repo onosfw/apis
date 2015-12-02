@@ -1,0 +1,4 @@
+<map id="org.onosproject.bgp.controller.impl.BgpPeerImpl.channelId" name="org.onosproject.bgp.controller.impl.BgpPeerImpl.channelId">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpPeerImpl.html#afe53ea8d21f33d6b8c7d585c914efcab" title="Sets the associated Netty channel for this bgp peer. " alt="" coords="281,5,506,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpPeerImpl.html#ac9f0a81e9d36921bddebd172be5afa8f" title="org.onosproject.bgp.controller.impl.\lBgpPeerImpl.toString" alt="" coords="281,70,506,111"/>
+</map>

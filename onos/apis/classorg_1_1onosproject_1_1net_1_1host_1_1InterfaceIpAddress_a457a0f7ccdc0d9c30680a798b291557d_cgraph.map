@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.host.InterfaceIpAddress.InterfaceIpAddress" name="org.onosproject.net.host.InterfaceIpAddress.InterfaceIpAddress">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1host_1_1InterfaceIpAddress.html#a34c33f3d79220a7c0c4f0588f784f673" title="Gets the subnet IP broadcast address. " alt="" coords="254,5,495,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1host_1_1InterfaceIpAddress.html#a78329acebb06887d328c91ade5d845ee" title="Gets the IP point&#45;to&#45;point interface peer address. " alt="" coords="270,70,479,111"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.cluster.DefaultControllerNode.DefaultControllerNode" name="org.onosproject.cluster.DefaultControllerNode.DefaultControllerNode">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cluster_1_1DefaultControllerNode.html#a993b2109b25b4b59c847a64688c7a5ae" title="Returns the instance identifier. " alt="" coords="251,5,416,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1cluster_1_1DefaultControllerNode.html#a0df11d1ec42595b0a5158b45c9f7bb9f" title="Returns the IP address of the controller instance. " alt="" coords="251,70,416,111"/>
+</map>

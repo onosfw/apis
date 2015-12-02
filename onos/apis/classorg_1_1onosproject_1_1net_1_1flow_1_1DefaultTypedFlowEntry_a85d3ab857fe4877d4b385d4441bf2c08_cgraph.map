@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.DefaultTypedFlowEntry.DefaultTypedFlowEntry" name="org.onosproject.net.flow.DefaultTypedFlowEntry.DefaultTypedFlowEntry">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowEntry.html#a77a58f0e7965fd5026562134fb412ef2" title="Returns the number of packets this flow rule has matched. " alt="" coords="296,5,461,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowEntry.html#a91ff3ce86cd1ebe9f7d0dfb4f4134d74" title="Returns the flow entry state. " alt="" coords="296,70,461,111"/>
+</map>

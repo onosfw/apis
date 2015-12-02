@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.flow.DefaultFlowEntry.DefaultFlowEntry" name="org.onosproject.net.flow.DefaultFlowEntry.DefaultFlowEntry">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowEntry.html#acb82f07fdc5d2ac5d2547e04f052c9d5" title="Returns the number of bytes this flow rule has matched. " alt="" coords="287,5,452,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowEntry.html#ae1c63207e251c111a7596191366f2917" title="Returns the number of milliseconds this flow rule has been applied. " alt="" coords="287,70,452,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowEntry.html#a3e91d69b658dba2d89bc14e43487aab0" title="Returns the number of packets this flow rule has matched. " alt="" coords="283,135,456,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowEntry.html#ac6d65f17f805531bbe19560737e2cd1f" title="Returns the flow entry state. " alt="" coords="287,201,452,242"/>
+</map>

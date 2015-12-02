@@ -1,0 +1,7 @@
+<map id="org.onosproject.codec.impl.ApplicationCodec.encode" name="org.onosproject.codec.impl.ApplicationCodec.encode">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1core_1_1Application.html#a33ec2c6570d1ef2609a7c7462a379da6" title="Returns description of the application. " alt="" coords="244,5,519,32"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1core_1_1Application.html#affce3c47e8c478edca134277ecb0d3af" title="Returns the application name id. " alt="" coords="270,56,493,83"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1core_1_1Application.html#ad822edd69a55c2b35474627c3d7289d4" title="Returns the name of the application origin, group or company. " alt="" coords="260,107,503,133"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1core_1_1Application.html#a9e49cd26c4e044c11211b234ff71749f" title="Returns the permissions requested by the application. " alt="" coords="240,157,523,184"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1core_1_1Application.html#a18ff9506af36210768093e3f68e60306" title="Returns list of required application names. " alt="" coords="237,208,525,235"/>
+</map>

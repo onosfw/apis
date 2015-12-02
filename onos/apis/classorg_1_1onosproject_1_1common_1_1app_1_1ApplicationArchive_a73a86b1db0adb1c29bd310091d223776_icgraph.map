@@ -1,0 +1,6 @@
+<map id="org.onosproject.common.app.ApplicationArchive.updateTime" name="org.onosproject.common.app.ApplicationArchive.updateTime">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1common_1_1app_1_1ApplicationArchive.html#af43c7228d764c0dc5d0f2a38b39d7898" title="Clears the app as active by deleting token file in the app directory. " alt="" coords="257,5,455,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1common_1_1app_1_1ApplicationArchive.html#ae216a2941a0c75368589741ed1de35f8" title="Marks the app as active by creating token file in the app directory. " alt="" coords="259,70,453,111"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleApplicationStore.html#a35a15c2e2f6ad51be762b2e248d6f994" title="Mark the application as deactivated. " alt="" coords="504,5,725,46"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleApplicationStore.html#aa6973c02273a349fba7e10efd61438cb" title="Mark the application as active. " alt="" coords="511,70,718,111"/>
+</map>

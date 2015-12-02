@@ -1,0 +1,6 @@
+<map id="org.onosproject.netconf.ctl.NetconfControllerImpl.connectDevice" name="org.onosproject.netconf.ctl.NetconfControllerImpl.connectDevice">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1netconf_1_1NetconfDeviceInfo.html#ab88922697b2cfb256893f7db1e3f5df7" title="Return the DeviceId about the device containing the URI. " alt="" coords="293,38,499,79"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1netconf_1_1NetconfDeviceInfo.html#adb24a03af18fec98ace82d6f22108558" title="Return the info about the device in a string. " alt="" coords="547,38,727,79"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1netconf_1_1NetconfDeviceInfo.html#abe6654e6035f33f85d7d7f9434af83b1" title="Exposes the name of the controller. " alt="" coords="777,5,943,46"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1netconf_1_1NetconfDeviceInfo.html#a791364ebc3ca25bc032de73fc9b0c3c7" title="Exposes the port of the controller. " alt="" coords="779,70,941,111"/>
+</map>

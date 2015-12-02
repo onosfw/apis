@@ -1,0 +1,9 @@
+<map id="org.onosproject.net.flow.impl.FlowRuleManager" name="org.onosproject.net.flow.impl.FlowRuleManager">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleService.html" title="Service for injecting flow rules into the environment and for obtaining information about flow rules ..." alt="" coords="484,115,649,157"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleProviderRegistry.html" title="Abstraction for a flow rule provider registry. " alt="" coords="479,181,654,222"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="477,246,656,287"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1cfg_1_1ComponentConfigService.html" title="Service for tracking system&#45;wide configurations for various software components. " alt="" coords="465,311,669,353"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="481,429,653,470"/>
+<area shape="rect" id="node12" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="36,423,223,465"/>
+<area shape="rect" id="node13" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleStore.html" title="Manages inventory of flow rules; not intended for direct use. " alt="" coords="484,495,649,537"/>
+</map>

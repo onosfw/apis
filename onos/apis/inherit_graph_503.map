@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceorg_1_1onosproject_1_1incubator_1_1rpc_1_1RemoteServiceContext.html" title="Context for Remote service. " alt="" coords="5,5,200,46"/>
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1incubator_1_1rpc_1_1grpc_1_1GrpcRemoteServiceContext.html" title="RemoteServiceContext based on gRPC. " alt="" coords="249,5,471,46"/>
+</map>

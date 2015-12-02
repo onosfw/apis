@@ -1,0 +1,7 @@
+<map id="org.onosproject.store.trivial.SimpleMastershipStore.relinquishAllRole" name="org.onosproject.store.trivial.SimpleMastershipStore.relinquishAllRole">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleMastershipStore.html#aa156521ce3707b7bc1e6d186cc55370b" title="Allows a controller instance to give up its current role for a device. " alt="" coords="269,38,512,79"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleMastershipStore.html#add44591caa8711b96596932505bbd7be" title="Returns the role of a device for a specific controller instance. " alt="" coords="566,5,773,46"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleMastershipStore.html#ab02f92430b04d32d0691ffa82775a877" title="Returns the master and backup nodes for a device. " alt="" coords="561,70,778,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1cluster_1_1NodeId.html#a657d2f31051483200249c7d818bb0354" title="org.onosproject.cluster.\lNodeId.equals" alt="" coords="827,5,986,46"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1cluster_1_1NodeId.html#ac2d1db824f1b7d1834a35658d6b93746" title="Creates a new cluster node identifier from the specified string. " alt="" coords="1035,5,1194,46"/>
+</map>

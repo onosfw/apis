@@ -1,0 +1,5 @@
+<map id="org.onosproject.store.cluster.impl.DistributedClusterStore" name="org.onosproject.store.cluster.impl.DistributedClusterStore">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterStore.html" title="Manages inventory of controller cluster nodes; not intended for direct use. " alt="" coords="269,86,427,127"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1store_1_1cluster_1_1messaging_1_1MessagingService.html" title="Interface for low level messaging primitives. " alt="" coords="219,151,477,193"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterMetadataService.html" title="Service for obtaining metadata information about the cluster. " alt="" coords="267,217,429,258"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="org.onosproject.vtnweb.web.SubnetCodec.encode" name="org.onosproject.vtnweb.web.SubnetCodec.encode">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1Subnet.html#abaca3170497664d4aee47212eb3087c4" title="Returns true if DHCP is enabled and return false if DHCP is disabled. " alt="" coords="266,5,494,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1Subnet.html#a2b5c70e491ce04f78b5b11586497c91d" title="Returns the gateway IP address. " alt="" coords="250,71,510,97"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1Subnet.html#ae4dff1c3d215293db52ee48a2eaba6ea" title="Returns the ipV6AddressMode. " alt="" coords="275,122,485,163"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1Subnet.html#ab681ae385bd2a30b4f007a640a6c2ecd" title="Returns the ipV6RaMode.A valid value is dhcpv6&#45;stateful, dhcpv6&#45;stateless, or slaac. " alt="" coords="275,187,485,229"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1Subnet.html#a299f24e292313b9fbb8a98834e8678a2" title="Returns the IP version, which is 4 or 6. " alt="" coords="275,253,485,294"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1Subnet.html#a9c799d73932749565a6290c1860518f6" title="Indicates whether this tenantNetwork is shared across all tenants. " alt="" coords="261,319,499,345"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1Subnet.html#a4eac319e3b3b0a13ecbd2ce933ffbec6" title="Returns the name of the subnet. " alt="" coords="243,369,517,396"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1Subnet.html#a1dbe1de6c5ef8625dd506aa7a99647fa" title="Returns tenant identifier. " alt="" coords="257,420,503,447"/>
+</map>

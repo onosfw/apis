@@ -1,0 +1,10 @@
+<map id="org.onosproject.ovsdb.provider.host.OvsdbHostProvider" name="org.onosproject.ovsdb.provider.host.OvsdbHostProvider">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1AbstractProvider.html" title="Base provider implementation. " alt="" coords="460,5,647,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="37,33,224,74"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1host_1_1HostProvider.html" title="Provider of information about hosts and their location on the network. " alt="" coords="470,70,637,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1host_1_1HostService.html" title="Service for interacting with the inventory of end&#45;station hosts. " alt="" coords="470,135,637,177"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1host_1_1HostProviderRegistry.html" title="Abstraction of a host provider registry. " alt="" coords="470,201,637,242"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1ovsdb_1_1controller_1_1OvsdbController.html" title="Abstraction of an ovsdb controller. " alt="" coords="448,266,659,307"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="467,331,639,373"/>
+<area shape="rect" id="node11" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="37,331,224,373"/>
+</map>

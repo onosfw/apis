@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.resource.link.LinkResourceAllocations.links" name="org.onosproject.net.resource.link.LinkResourceAllocations.links">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleLinkResourceStore.html#a402dbfb53436809ec57e9a4be85f599e" title="Allocates resources. " alt="" coords="299,5,522,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleLinkResourceStore.html#abc02fe196a713b3f8a1fa6d2db73d611" title="Releases resources. " alt="" coords="269,86,552,127"/>
+</map>

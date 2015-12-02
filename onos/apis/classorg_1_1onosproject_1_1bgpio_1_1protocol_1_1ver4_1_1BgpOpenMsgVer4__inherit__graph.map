@@ -1,0 +1,5 @@
+<map id="org.onosproject.bgpio.protocol.ver4.BgpOpenMsgVer4" name="org.onosproject.bgpio.protocol.ver4.BgpOpenMsgVer4">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1bgpio_1_1protocol_1_1BgpOpenMsg.html" title="Abstraction of an entity providing BGP Open Message. " alt="" coords="20,187,220,229"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1bgpio_1_1protocol_1_1BgpMessage.html" title="Abstraction of an entity providing BGP Messages. " alt="" coords="20,97,220,138"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1bgpio_1_1protocol_1_1Writeable.html" title="Abstraction of an entity providing functionality to write byte streams of Messages to channel buffer..." alt="" coords="20,6,220,47"/>
+</map>

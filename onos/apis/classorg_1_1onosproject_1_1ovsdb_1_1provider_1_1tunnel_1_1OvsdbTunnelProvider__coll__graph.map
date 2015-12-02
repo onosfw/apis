@@ -1,0 +1,7 @@
+<map id="org.onosproject.ovsdb.provider.tunnel.OvsdbTunnelProvider" name="org.onosproject.ovsdb.provider.tunnel.OvsdbTunnelProvider">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1AbstractProvider.html" title="Base provider implementation. " alt="" coords="352,5,539,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="48,26,235,67"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1TunnelProvider.html" title="Abstraction of an entity providing tunnel setup/release services to the core. " alt="" coords="329,70,562,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1TunnelService.html" title="Service for interacting with the inventory of tunnels. " alt="" coords="329,135,562,177"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1TunnelProviderRegistry.html" title="Abstraction of an tunnel provider registry. " alt="" coords="329,205,562,246"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.onosproject.bgprouter.NextHop.mac" name="org.onosproject.bgprouter.NextHop.mac">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgprouter_1_1NextHop.html#ae154bff9da7f7197b4fbe65d57dfd716" title="org.onosproject.bgprouter.\lNextHop.hashCode" alt="" coords="227,5,400,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgprouter_1_1NextHop.html#a12816f77f3535e42aac8639d2875d70e" title="Creates a new next hop. " alt="" coords="227,70,400,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1bgprouter_1_1NextHop.html#a2af763ed5213a5e81385bfa0322e97a8" title="org.onosproject.bgprouter.\lNextHop.toString" alt="" coords="227,135,400,177"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgprouter_1_1NextHop.html#abc398e34936ba8eaa6f2ff5f113c1763" title="org.onosproject.bgprouter.\lNextHop.equals" alt="" coords="448,70,621,111"/>
+</map>

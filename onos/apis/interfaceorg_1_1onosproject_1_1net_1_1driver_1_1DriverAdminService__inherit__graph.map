@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.driver.DriverAdminService" name="org.onosproject.net.driver.DriverAdminService">
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1impl_1_1DriverManager.html" title="Manages inventory of device drivers. " alt="" coords="5,278,205,319"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1DriverService.html" title="Service for obtaining drivers and driver behaviour implementations. " alt="" coords="19,97,192,138"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1DriverResolver.html" title="Entity capable of resolving a driver using its name. " alt="" coords="19,6,192,47"/>
+</map>

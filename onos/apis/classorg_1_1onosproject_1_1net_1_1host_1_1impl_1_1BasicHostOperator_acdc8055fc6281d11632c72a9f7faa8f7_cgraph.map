@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.host.impl.BasicHostOperator.combine" name="org.onosproject.net.host.impl.BasicHostOperator.combine">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1Description.html#a546df2cfe2e5a027f36ef24fdb0fc9f4" title="Returns the key/value annotations. " alt="" coords="248,5,523,32"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1host_1_1HostDescription.html#a7f49f2887a5478a03fc4f5c4f2d7049c" title="Returns the MAC address associated with this host (NIC). " alt="" coords="293,57,478,98"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1host_1_1HostDescription.html#ab47b95446f503d6131983db0a69e2cc1" title="Returns the location of the host on the network edge. " alt="" coords="302,122,469,163"/>
+</map>

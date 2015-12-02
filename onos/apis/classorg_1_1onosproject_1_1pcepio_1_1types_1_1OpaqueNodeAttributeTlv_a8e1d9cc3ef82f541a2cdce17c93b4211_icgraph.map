@@ -1,0 +1,5 @@
+<map id="org.onosproject.pcepio.types.OpaqueNodeAttributeTlv.OpaqueNodeAttributeTlv" name="org.onosproject.pcepio.types.OpaqueNodeAttributeTlv.OpaqueNodeAttributeTlv">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1pcepio_1_1types_1_1OpaqueNodeAttributeTlv.html#a9654577c765d7b4d3485f3542ce4436f" title="org.onosproject.pcepio.types.\lOpaqueNodeAttributeTlv.equals" alt="" coords="299,5,506,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1pcepio_1_1types_1_1OpaqueNodeAttributeTlv.html#a0b692bceb61554d0d259eae2bb002c2c" title="Returns newly created OpaqueNodeAttributeTlv object. " alt="" coords="306,70,499,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1pcepio_1_1types_1_1OpaqueNodeAttributeTlv.html#a239754d811088ba050a98dbe2a7d813d" title="Reads the channel buffer and returns object of Opaque Node Attribute Tlv. " alt="" coords="305,135,500,177"/>
+</map>

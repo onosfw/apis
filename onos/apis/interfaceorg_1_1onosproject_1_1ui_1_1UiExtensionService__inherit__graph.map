@@ -1,0 +1,4 @@
+<map id="org.onosproject.ui.UiExtensionService" name="org.onosproject.ui.UiExtensionService">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1UiExtensionManager.html" title="Manages the user interface extensions. " alt="" coords="275,5,432,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1UiExtensionServiceAdapter.html" title="Adapter for testing against UI extension service. " alt="" coords="253,70,453,111"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="org.onosproject.net.intent.impl.IntentManager" name="org.onosproject.net.intent.impl.IntentManager">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1IntentService.html" title="Service for application submitting or withdrawing their intents. " alt="" coords="439,86,612,127"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1IntentExtensionService.html" title="Service for extending the capability of intent framework by adding additional compilers or/and instal..." alt="" coords="439,151,612,193"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1impl_1_1ObjectiveTrackerService.html" title="Auxiliary service for tracking intent path flows and for notifying the intent service of environment ..." alt="" coords="425,217,626,258"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleService.html" title="Service for injecting flow rules into the environment and for obtaining information about flow rules ..." alt="" coords="443,282,608,323"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="439,347,611,389"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="25,347,212,389"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1IntentStore.html" title="Manages inventory of end&#45;station intents; not intended for direct use. " alt="" coords="439,417,612,458"/>
+</map>

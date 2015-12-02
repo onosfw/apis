@@ -1,0 +1,6 @@
+<map id="org.onosproject.bgp.controller.impl.AdjRibIn.toString" name="org.onosproject.bgp.controller.impl.AdjRibIn.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1AdjRibIn.html#aad4bd9ae43f1397d4662fe52ec02ad94" title="Update nlri identifier into the tree if nlri identifier exists in tree otherwise add this to the tree..." alt="" coords="281,58,506,99"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1AdjRibIn.html#aae7f769c465f5fa499ad7cb37cf1e4ce" title="Returns the adjacency link. " alt="" coords="555,5,781,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1AdjRibIn.html#abdfb929c7fcad6ad9e0f186173a58603" title="Returns the adjacency node. " alt="" coords="555,74,781,115"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1AdjRibIn.html#af8a6ebac01c1fb9c5f285d3f650263aa" title="Returns the adjacency prefix. " alt="" coords="555,149,781,190"/>
+</map>

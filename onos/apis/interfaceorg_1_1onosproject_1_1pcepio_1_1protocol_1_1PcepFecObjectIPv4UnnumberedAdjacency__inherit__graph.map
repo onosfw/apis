@@ -1,0 +1,4 @@
+<map id="org.onosproject.pcepio.protocol.PcepFecObjectIPv4UnnumberedAdjacency" name="org.onosproject.pcepio.protocol.PcepFecObjectIPv4UnnumberedAdjacency">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1pcepio_1_1protocol_1_1ver1_1_1PcepFecObjectIPv4UnnumberedAdjacencyVer1.html" title="Provides Pcep Fec Object IPv4 Unnumbered Adjacency object. " alt="" coords="5,187,307,229"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1pcepio_1_1protocol_1_1PcepFecObject.html" title="Abstraction of an entity providing PCEP FEC Object. " alt="" coords="53,6,259,47"/>
+</map>

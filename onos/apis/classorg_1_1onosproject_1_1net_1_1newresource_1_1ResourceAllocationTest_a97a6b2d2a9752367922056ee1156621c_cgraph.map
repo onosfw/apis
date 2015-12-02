@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.newresource.ResourceAllocationTest.testEquals" name="org.onosproject.net.newresource.ResourceAllocationTest.testEquals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1newresource_1_1ResourcePath.html#acaacfdb1f82d6a386845861fc01724d0" title="Creates an resource path which represents a discrete&#45;type resource from the specified components..." alt="" coords="281,5,495,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1newresource_1_1ResourcePath.html#a2e8517f4d8d63014c3fb110c801ab6b7" title="Returns the components of this resource path. " alt="" coords="545,5,759,46"/>
+</map>

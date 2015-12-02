@@ -1,0 +1,5 @@
+<map id="org.onosproject.store.device.impl.InternalPortStatusEvent.InternalPortStatusEvent" name="org.onosproject.store.device.impl.InternalPortStatusEvent.InternalPortStatusEvent">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1InternalPortStatusEvent.html#ad2d19a530f95b8b11e2fa2c4c91b1615" title="org.onosproject.store.device.impl.\lInternalPortStatusEvent.deviceId" alt="" coords="303,5,521,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1InternalPortStatusEvent.html#a2404aabae2c1b9549530828adb6bdeff" title="org.onosproject.store.device.impl.\lInternalPortStatusEvent.portDescription" alt="" coords="285,70,539,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1InternalPortStatusEvent.html#a29012d25556010dc31e50b4bf3cb7e8c" title="org.onosproject.store.device.impl.\lInternalPortStatusEvent.providerId" alt="" coords="301,135,523,177"/>
+</map>

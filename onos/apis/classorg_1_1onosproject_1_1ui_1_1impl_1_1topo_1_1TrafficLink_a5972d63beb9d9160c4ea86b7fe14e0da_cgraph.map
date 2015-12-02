@@ -1,0 +1,3 @@
+<map id="org.onosproject.ui.impl.topo.TrafficLink.addLoad" name="org.onosproject.ui.impl.topo.TrafficLink.addLoad">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1topo_1_1TrafficLink.html#a5a648bfc9b7052d15d05e70cc7c4ce52" title="Returns true if this link has been deemed to have enough traffic to register on the topology view in ..." alt="" coords="240,5,427,46"/>
+</map>

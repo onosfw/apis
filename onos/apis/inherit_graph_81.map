@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceorg_1_1onlab_1_1nio_1_1Message.html" title="Representation of a message transferred via MessageStream. " alt="" coords="6,41,159,68"/>
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1nio_1_1AbstractMessage.html" title="Base Message implementation. " alt="" coords="208,41,411,68"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1nio_1_1service_1_1DefaultMessage.html" title="Default message. " alt="" coords="459,5,647,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1nio_1_1TestMessage.html" title="Test message for measuring rate and round&#45;trip latency. " alt="" coords="464,71,643,97"/>
+</map>

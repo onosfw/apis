@@ -1,0 +1,5 @@
+<map id="org.onosproject.vtnrsc.DefaultFloatingIp.DefaultFloatingIp" name="org.onosproject.vtnrsc.DefaultFloatingIp.DefaultFloatingIp">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultFloatingIp.html#ac373d954818c7c2c47295ff5f25186cc" title="Returns the fixed ip address. " alt="" coords="251,5,448,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultFloatingIp.html#a47b64b6d2b4ad7ed43ffb60c76ade6e5" title="Returns the port identifier. " alt="" coords="251,70,448,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultFloatingIp.html#a024efecd46af4bc2eceeff53f8a0ec24" title="Returns the router identifier. " alt="" coords="251,135,448,177"/>
+</map>

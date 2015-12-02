@@ -1,0 +1,4 @@
+<map id="org.onosproject.provider.of.packet.impl.OpenFlowCorePacketContext" name="org.onosproject.provider.of.packet.impl.OpenFlowCorePacketContext">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1packet_1_1DefaultPacketContext.html" title="Default implementation of a packet context. " alt="" coords="41,97,220,138"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1packet_1_1PacketContext.html" title="Represents context for processing an inbound packet, and (optionally) emitting a corresponding outbou..." alt="" coords="41,6,220,47"/>
+</map>

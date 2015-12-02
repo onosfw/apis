@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.device.PortDescription.portNumber" name="org.onosproject.net.device.PortDescription.portNumber">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1incubator_1_1rpc_1_1grpc_1_1GrpcDeviceUtils.html#a4276794a96debbf46eeca51eb3883a20" title="Translates PortDescription to gRPC PortDescription message. " alt="" coords="238,5,461,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1ECDeviceStore.html#aaec7fd9a0aa2a131c38ebdeefb051428" title="Updates the port status of the specified infrastructure device using the given port description..." alt="" coords="240,70,459,111"/>
+</map>

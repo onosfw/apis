@@ -1,0 +1,6 @@
+<map id="org.onosproject.store.serializers.KryoSerializerTest.testResourceAllocation" name="org.onosproject.store.serializers.KryoSerializerTest.testResourceAllocation">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1newresource_1_1ResourcePath.html#acaacfdb1f82d6a386845861fc01724d0" title="Creates an resource path which represents a discrete&#45;type resource from the specified components..." alt="" coords="323,5,538,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1LinkKey.html#aec57c1bf16f96b3e4b880ecaf2c5689d" title="Creates a link identifier with source and destination connection point. " alt="" coords="350,70,511,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1IntentId.html#ac45eafa7028e5180bf13b24ebf553b99" title="Creates an intent identifier from the specified long representation. " alt="" coords="344,135,517,177"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1newresource_1_1ResourcePath.html#a2e8517f4d8d63014c3fb110c801ab6b7" title="Returns the components of this resource path. " alt="" coords="587,5,802,46"/>
+</map>

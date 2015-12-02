@@ -1,0 +1,5 @@
+<map id="org.onosproject.store.cfg.GossipComponentConfigStore" name="org.onosproject.store.cfg.GossipComponentConfigStore">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1cfg_1_1ComponentConfigStore.html" title="Service for storing and distributing system&#45;wide configurations for various software components..." alt="" coords="313,86,517,127"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1LogicalClockService.html" title="Service that issues logical timestamps. " alt="" coords="317,151,512,193"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="317,217,512,258"/>
+</map>

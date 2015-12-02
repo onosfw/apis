@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.meter.DefaultBand.DefaultBand" name="org.onosproject.net.meter.DefaultBand.DefaultBand">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1meter_1_1DefaultBand.html#a3cd3f9ba45db88122ab54d6abe02a36c" title="The rate at which this meter applies. " alt="" coords="230,5,405,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1meter_1_1DefaultBand.html#aba8925948c077fb60d62b97307171959" title="Signals the type of band to create. " alt="" coords="230,70,405,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.bgpio.types.Origin.Origin" name="org.onosproject.bgpio.types.Origin.Origin">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1Origin.html#aabb4e2d54c783a0c8cf3029864512b55" title="org.onosproject.bgpio.types.\lOrigin.equals" alt="" coords="240,5,427,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1Origin.html#a752de386b97edc0d0c7796369cab1b87" title="Reads from ChannelBuffer and parses Origin. " alt="" coords="240,70,427,111"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpSelectionAlgo.html#a0d347a2b93133512ee2d4cb053473351" title="org.onosproject.bgp.controller.impl.\lBgpSelectionAlgo.compare" alt="" coords="475,5,701,46"/>
+</map>

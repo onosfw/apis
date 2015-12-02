@@ -1,0 +1,8 @@
+<map id="org.onosproject.grpc.Device.getDescriptor" name="org.onosproject.grpc.Device.getDescriptor">
+<area shape="rect" id="node2" href="$enumorg_1_1onosproject_1_1grpc_1_1Device_1_1DeviceType.html#a4f70fd199cc8bf0be6a548f835e99e67" title="org.onosproject.grpc.Device.\lDeviceType.getDescriptorForType" alt="" coords="271,5,494,46"/>
+<area shape="rect" id="node3" href="$enumorg_1_1onosproject_1_1grpc_1_1Device_1_1MastershipRole.html#ad68d97985d3bbf6c3b0ef95a7043038c" title="org.onosproject.grpc.Device.\lMastershipRole.getDescriptorForType" alt="" coords="261,70,504,111"/>
+<area shape="rect" id="node4" href="$enumorg_1_1onosproject_1_1grpc_1_1Device_1_1DeviceType.html#ac7a938edbee8c0287ff8332329167790" title="org.onosproject.grpc.Device.\lDeviceType.getValueDescriptor" alt="" coords="279,135,486,177"/>
+<area shape="rect" id="node5" href="$enumorg_1_1onosproject_1_1grpc_1_1Device_1_1MastershipRole.html#a2a9f1a35668f57ff80c012c207d23406" title="org.onosproject.grpc.Device.\lMastershipRole.getValueDescriptor" alt="" coords="269,201,497,242"/>
+<area shape="rect" id="node6" href="$enumorg_1_1onosproject_1_1grpc_1_1Device_1_1DeviceType.html#a5a7b34d2ad2828e6d14ff28c435e0b1b" title="org.onosproject.grpc.Device.\lDeviceType.valueOf" alt="" coords="288,266,477,307"/>
+<area shape="rect" id="node7" href="$enumorg_1_1onosproject_1_1grpc_1_1Device_1_1MastershipRole.html#ad04b9e2539c8be35ad049e616b65ca42" title="org.onosproject.grpc.Device.\lMastershipRole.valueOf" alt="" coords="288,331,477,373"/>
+</map>

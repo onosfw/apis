@@ -1,0 +1,4 @@
+<map id="org.onosproject.cfg.ConfigProperty.asDouble" name="org.onosproject.cfg.ConfigProperty.asDouble">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cfg_1_1ConfigProperty.html#a3c0ecd0cd5a5f7998a4a5999f27e2900" title="Returns the property type. " alt="" coords="230,5,405,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1cfg_1_1ConfigProperty.html#a359e4e31eb8128c228edff69b6c39686" title="Returns the property value as a string. " alt="" coords="230,70,405,111"/>
+</map>

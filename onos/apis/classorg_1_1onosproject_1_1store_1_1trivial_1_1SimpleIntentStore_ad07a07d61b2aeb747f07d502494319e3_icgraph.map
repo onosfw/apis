@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.trivial.SimpleIntentStore.isMaster" name="org.onosproject.store.trivial.SimpleIntentStore.isMaster">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleIntentStore.html#ab8cee55a8b5d3349f4acc6788bb5586d" title="Returns an iterable of all intent data objects in the store. " alt="" coords="245,5,454,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleIntentStore.html#ae5bf27ec0ede872de6e156f6362a9966" title="Returns the intent data objects that are pending processing for longer than the specified duration..." alt="" coords="238,70,461,111"/>
+</map>

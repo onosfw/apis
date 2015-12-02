@@ -1,0 +1,5 @@
+<map id="org.onosproject.store.consistent.impl.DefaultTransactionContext.isOpen" name="org.onosproject.store.consistent.impl.DefaultTransactionContext.isOpen">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1DefaultTransactionContext.html#ab744cd8a01cc6bf5bc1eec588cc69eb0" title="Aborts any changes made in this transaction context and discarding all locally cached updates..." alt="" coords="293,5,533,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1DefaultTransactionContext.html#a0cec2bba1953b4a235aad01e7b613193" title="Starts a new transaction. " alt="" coords="293,70,533,111"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1DefaultTransactionContext.html#ac0a944e7b38ff2007c6474f52485da81" title="Commits a transaction that was previously started thereby making its changes permanent and externally..." alt="" coords="581,67,821,109"/>
+</map>

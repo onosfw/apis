@@ -1,0 +1,11 @@
+<map id="org.onlab.packet.Ip4Prefix.valueOf" name="org.onlab.packet.Ip4Prefix.valueOf">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1routing_1_1bgp_1_1BgpSessionManagerTest.html#ab5042e08f4d8866c7b4f1ffcdb161872" title="Tests the BGP route preference. " alt="" coords="279,5,531,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1Ip4PrefixTest.html#a98ecc66e844d3488c0f3ce968a9def4e" title="Tests IP prefix contains another IP prefix for IPv4. " alt="" coords="306,86,505,127"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1packet_1_1Ip4PrefixTest.html#a027a8c91ff58aba7834c46c3f32953b6" title="Tests equality of Ip4Prefix for IPv4. " alt="" coords="318,151,493,193"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1sdnip_1_1IntentSyncTest.html#a93904d4969ee0eae1443d44fce20019f" title="Tests the synchronization behavior of intent synchronizer. " alt="" coords="314,217,497,258"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1store_1_1serializers_1_1KryoSerializerTest.html#a4441d59fdb1a8bf267b1ec8305ab5a16" title="org.onosproject.store.serializers.\lKryoSerializerTest.testIp4Prefix" alt="" coords="300,282,511,323"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1routing_1_1impl_1_1RouterTest.html#a74cc04b55110cda73d43ca9be2cd1bb8" title="Tests adding a IPv4 route whose next hop is the local BGP speaker. " alt="" coords="292,347,519,389"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1routing_1_1impl_1_1RouterTest.html#a55f7166215d9ed02ca6ec7cdbe367a79" title="Tests deleting a IPv4 route entry. " alt="" coords="300,413,511,454"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1routing_1_1bgp_1_1BgpSessionManagerTest.html#aa3880cf0d1999f7ff3139635073223cf" title="Tests that the BGP UPDATE messages have been received and processed. " alt="" coords="277,479,533,535"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1routing_1_1impl_1_1RouterTest.html#a9ef1edf732e0043c1dac9934bd5a5d27" title="Tests updating a IPv4 route entry. " alt="" coords="310,559,501,601"/>
+</map>

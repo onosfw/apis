@@ -1,0 +1,5 @@
+<map id="org.onosproject.bgpio.types.MultiProtocolExtnCapabilityTlv.MultiProtocolExtnCapabilityTlv" name="org.onosproject.bgpio.types.MultiProtocolExtnCapabilityTlv.MultiProtocolExtnCapabilityTlv">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1MultiProtocolExtnCapabilityTlv.html#afec7932d0c0722b7496aa1c47f330d4e" title="org.onosproject.bgpio.types.\lMultiProtocolExtnCapabilityTlv.equals" alt="" coords="259,5,501,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1MultiProtocolExtnCapabilityTlv.html#ae69bf49550a6e4976f3431ad0bcb6802" title="Returns object of MultiProtocolExtnCapabilityTlv. " alt="" coords="272,70,488,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1MultiProtocolExtnCapabilityTlv.html#ac7e45d07a40bfa12b8abd95c59246526" title="Reads from channel buffer and returns object of MultiprotocolCapabilityTlv. " alt="" coords="265,135,495,177"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.criteria.SctpPortCriterion.toString" name="org.onosproject.net.flow.criteria.SctpPortCriterion.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1SctpPortCriterion.html#ae4f8e20ed80db055e4809f9d3962c2a2" title="Gets the SCTP port to match. " alt="" coords="261,5,469,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1SctpPortCriterion.html#a4a4fc73c3e9d7c6e32abc4cfa4b56625" title="Returns the type of criterion. " alt="" coords="261,70,469,111"/>
+</map>

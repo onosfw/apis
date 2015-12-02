@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.resource.link.LinkResourceRequest.links" name="org.onosproject.net.resource.link.LinkResourceRequest.links">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1impl_1_1LinkResourceManager.html#a5d3556e9065a4ce77095e1356bfb3624" title="Requests resources. " alt="" coords="270,5,533,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1impl_1_1LinkResourceManager.html#a9d576392c51a50759a32ea98c6bc734b" title="Updates previously made allocations with a new resource request. " alt="" coords="581,5,840,46"/>
+</map>

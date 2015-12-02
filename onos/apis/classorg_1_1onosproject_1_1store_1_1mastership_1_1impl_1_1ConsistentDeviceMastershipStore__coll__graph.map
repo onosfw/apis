@@ -1,0 +1,7 @@
+<map id="org.onosproject.store.mastership.impl.ConsistentDeviceMastershipStore" name="org.onosproject.store.mastership.impl.ConsistentDeviceMastershipStore">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipStore.html" title="Manages inventory of mastership roles for devices, across controller instances; not intended for dire..." alt="" coords="313,86,495,127"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1cluster_1_1LeadershipService.html" title="Service for leader election. " alt="" coords="325,151,483,193"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1store_1_1serializers_1_1StoreSerializer.html" title="Service to serialize Objects into byte array. " alt="" coords="299,217,509,258"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="325,282,483,323"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1store_1_1cluster_1_1messaging_1_1ClusterCommunicationService.html" title="Service for assisting communications between controller cluster nodes. " alt="" coords="275,347,533,389"/>
+</map>

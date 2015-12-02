@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.device.impl.OpticalPortOperator.combine" name="org.onosproject.net.device.impl.OpticalPortOperator.combine">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1Description.html#a546df2cfe2e5a027f36ef24fdb0fc9f4" title="Returns the key/value annotations. " alt="" coords="261,5,536,32"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1PortNumber.html#af4b74e15d508cb9820ffea4fba13890e" title="Returns the port number representing the specified long value. " alt="" coords="318,57,479,98"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1PortDescription.html#aaa267027823f95f70ee37940fb1aa0c8" title="Returns the port type. " alt="" coords="309,122,488,163"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1config_1_1basics_1_1OpticalPortConfig.html#acac88495ae36044c17e0fe354289e51e" title="Returns the Enum value representing the type of port. " alt="" coords="289,187,508,229"/>
+</map>

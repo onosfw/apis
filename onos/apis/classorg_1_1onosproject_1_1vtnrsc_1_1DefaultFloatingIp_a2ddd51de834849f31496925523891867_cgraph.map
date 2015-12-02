@@ -1,0 +1,10 @@
+<map id="org.onosproject.vtnrsc.DefaultFloatingIp.hashCode" name="org.onosproject.vtnrsc.DefaultFloatingIp.hashCode">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultFloatingIp.html#ac373d954818c7c2c47295ff5f25186cc" title="Returns the fixed ip address. " alt="" coords="251,5,448,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultFloatingIp.html#a567b4ec9517ecf75371a0f087b2058ae" title="Returns the floating ip address. " alt="" coords="251,70,448,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultFloatingIp.html#a57ba4dc1443ed1174323ed8e29d2ef32" title="Returns the floatingIp identifier. " alt="" coords="251,135,448,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultFloatingIp.html#a945105005974ea23159d69e95769942d" title="Returns the network identifier. " alt="" coords="251,201,448,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultFloatingIp.html#a47b64b6d2b4ad7ed43ffb60c76ade6e5" title="Returns the port identifier. " alt="" coords="251,266,448,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultFloatingIp.html#a024efecd46af4bc2eceeff53f8a0ec24" title="Returns the router identifier. " alt="" coords="251,331,448,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultFloatingIp.html#a9dc3f29731cd162be85f7049abf75302" title="Returns the status of floating ip. " alt="" coords="251,397,448,438"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultFloatingIp.html#a865050e84f80557352243ffa6fda57fe" title="Returns the tenant identifier. " alt="" coords="251,462,448,503"/>
+</map>

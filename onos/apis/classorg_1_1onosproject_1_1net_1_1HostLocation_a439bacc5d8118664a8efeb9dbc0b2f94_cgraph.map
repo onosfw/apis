@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.HostLocation.HostLocation" name="org.onosproject.net.HostLocation.HostLocation">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1ConnectPoint.html#ae26d775b79f3be42a1a2eafc0c0c51b6" title="Returns the identifier of the infrastructure device if the connection point belongs to a network elem..." alt="" coords="219,5,405,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1HostLocation.html#a73cc43bb4c2d3d8686b98685fa152beb" title="Returns the time when the location was established, given in milliseconds since start of epoch..." alt="" coords="229,70,395,111"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1ConnectPoint.html#a71dbaeabb12421d31bac7c7ec8547535" title="Returns the network element identifier. " alt="" coords="453,5,640,46"/>
+</map>

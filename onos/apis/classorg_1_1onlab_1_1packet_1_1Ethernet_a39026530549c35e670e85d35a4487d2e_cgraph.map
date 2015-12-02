@@ -1,0 +1,6 @@
+<map id="org.onlab.packet.Ethernet.toString" name="org.onlab.packet.Ethernet.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1Ethernet.html#ac7ab4fd0a062a19189dc3829788ca87a" title="org.onlab.packet.Ethernet.bytes\lToHex" alt="" coords="241,5,447,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1Ethernet.html#a5247e4646073410072a60e1f4a1c979c" title="Gets the destination MAC address. " alt="" coords="247,70,441,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1packet_1_1Ethernet.html#a5bb8ee500439d56cc4e20dcbaabb29b7" title="Gets the source MAC address. " alt="" coords="247,135,441,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onlab_1_1packet_1_1Ethernet.html#af38ffeb92442f8c5087c662938692191" title="Gets the VLAN ID. " alt="" coords="247,201,441,242"/>
+</map>

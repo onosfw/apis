@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.resource.link.BandwidthResourceAllocation.bandwidth" name="org.onosproject.net.resource.link.BandwidthResourceAllocation.bandwidth">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1BandwidthResourceAllocation.html#a9d6b3dd540b9b4d5a640e748d23f3cc5" title="Creates a new BandwidthResourceRequest with BandwidthResource object. " alt="" coords="312,5,573,61"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1BandwidthResourceAllocation.html#afebd8f05b7e08ea839af1dd6afcc05d9" title="org.onosproject.net.resource.link.\lBandwidthResourceAllocation.toString" alt="" coords="320,86,565,127"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1BandwidthResourceAllocation.html#ad9158b35c69cf9496714595a0d9734b3" title="org.onosproject.net.resource.link.\lBandwidthResourceAllocation.equals" alt="" coords="622,13,861,54"/>
+</map>

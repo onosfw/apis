@@ -1,0 +1,7 @@
+<map id="org.onosproject.net.intent.PathIntentTest.basics" name="org.onosproject.net.intent.PathIntentTest.basics">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1Intent.html#a95213b848996654ad07bc1b1912dfceb" title="Returns the identifier of the application that requested the intent. " alt="" coords="233,5,407,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1PathIntentTest.html#a59dc81a6b882683eb6f664f60bb2fa8a" title="Creates a new intent, but always a like intent, i.e. " alt="" coords="233,70,407,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1Intent.html#a32751f163a6a746e44a3dc49411d5786" title="org.onosproject.net.intent.\lIntent.key" alt="" coords="233,135,407,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1ConnectivityIntent.html#aef4be7678fbfa88b9d130630c14ceecd" title="Returns the match specifying the type of traffic. " alt="" coords="231,201,409,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1ConnectivityIntent.html#a01f1e0a2278429c1d252c243f1d103da" title="Returns the action applied to the traffic. " alt="" coords="227,266,413,307"/>
+</map>

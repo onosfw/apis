@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.flow.impl.FlowRuleManager.apply" name="org.onosproject.net.flow.impl.FlowRuleManager.apply">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1impl_1_1FlowRuleManager.html#ac1289a02f61b8faf7223d766bbe9679c" title="Applies the specified flow rules onto their respective devices. " alt="" coords="255,5,479,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1impl_1_1FlowRuleManager.html#a011756bf5156fe120c637bca6ec2801c" title="Removes the specified flow rules from their respective devices. " alt="" coords="249,70,485,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1impl_1_1FlowRuleManager.html#ac97a1c311e2ccfa921c42afeedb333d7" title="Removes all rules by id. " alt="" coords="534,70,797,111"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="org.onosproject.bgpio.types.LocalPref.localPref" name="org.onosproject.bgpio.types.LocalPref.localPref">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1LocalPref.html#abcedefd53bfa860e9078aedf99c142f2" title="org.onosproject.bgpio.types.\lLocalPref.equals" alt="" coords="475,18,661,59"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1LocalPref.html#ac8293d9954f80662570143d4aeda58a3" title="org.onosproject.bgpio.types.\lLocalPref.hashCode" alt="" coords="240,33,427,74"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1LocalPref.html#ac1f4a3ffcf09b788cc11b77afdf85e69" title="Constructor to initialize LocalPref. " alt="" coords="240,98,427,139"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1LocalPref.html#a274cf529789e31960a7167bd044e2c14" title="Reads the channel buffer and returns object of LocalPref. " alt="" coords="475,127,661,169"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1LocalPref.html#a06cbb0fde224428402bbfc1ebbc9c9d7" title="org.onosproject.bgpio.types.\lLocalPref.toString" alt="" coords="240,215,427,257"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpSelectionAlgo.html#a0d347a2b93133512ee2d4cb053473351" title="org.onosproject.bgp.controller.impl.\lBgpSelectionAlgo.compare" alt="" coords="710,18,935,59"/>
+</map>

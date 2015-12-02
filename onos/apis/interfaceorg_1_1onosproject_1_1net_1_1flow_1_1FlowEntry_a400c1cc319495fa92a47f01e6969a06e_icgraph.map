@@ -1,0 +1,7 @@
+<map id="org.onosproject.net.flow.FlowEntry.bytes" name="org.onosproject.net.flow.FlowEntry.bytes">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1provider_1_1of_1_1flow_1_1impl_1_1NewAdaptiveFlowStatsCollector.html#a1e511da6ec31f2ef45cd63256a9946d6" title="add or update typed flow entry from flow entry into the internal flow table. " alt="" coords="219,13,546,54"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1codec_1_1impl_1_1FlowEntryCodec.html#a5a5a77477d658fe1066dfc63a540a84b" title="org.onosproject.codec.impl.\lFlowEntryCodec.encode" alt="" coords="291,78,474,119"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1statistic_1_1TypedFlowEntryWithLoad.html#a2bfd86702da9d911b021a6a78b604eda" title="Creates a new typed flow entry with load. " alt="" coords="263,144,503,200"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1store_1_1statistic_1_1impl_1_1DistributedFlowStatisticStore.html#a41f26604c8af81a783c6b68dafab745b" title="Updates a stats observation for a flow rule. " alt="" coords="251,224,514,280"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1provider_1_1of_1_1flow_1_1impl_1_1NewAdaptiveFlowStatsCollector.html#a28485da6c43ef51eeda0619bf3a280f9" title="add or update typed flow entry from flow entry into the internal flow table. " alt="" coords="595,5,866,61"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.incubator.rpc.grpc.GrpcRemoteServiceProvider" name="org.onosproject.incubator.rpc.grpc.GrpcRemoteServiceProvider">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1incubator_1_1rpc_1_1RemoteServiceContextProvider.html" title="Abstraction of a remote service implementation provider. " alt="" coords="13,97,219,138"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="23,6,209,47"/>
+</map>

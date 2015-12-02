@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpPipelineFactory.html" title="Creates a ChannelPipeline for a server&#45;side bgp channel. " alt="" coords="261,5,486,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1openflow_1_1controller_1_1impl_1_1OpenflowPipelineFactory.html" title="Creates a ChannelPipeline for a server&#45;side openflow channel. " alt="" coords="245,70,501,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1pcep_1_1controller_1_1impl_1_1PcepPipelineFactory.html" title="Creates a ChannelPipeline for a server&#45;side pcep channel. " alt="" coords="257,135,489,177"/>
+</map>

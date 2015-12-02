@@ -1,0 +1,4 @@
+<map id="org.onosproject.cluster.impl.ClusterMetadataManager" name="org.onosproject.cluster.impl.ClusterMetadataManager">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterMetadataService.html" title="Service for obtaining metadata information about the cluster. " alt="" coords="328,99,491,141"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterMetadataStore.html" title="Manages persistence of cluster metadata; not intended for direct use. " alt="" coords="330,165,489,206"/>
+</map>

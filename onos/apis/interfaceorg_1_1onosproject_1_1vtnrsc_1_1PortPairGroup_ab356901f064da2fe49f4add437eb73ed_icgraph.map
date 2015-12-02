@@ -1,0 +1,5 @@
+<map id="org.onosproject.vtnrsc.PortPairGroup.tenantId" name="org.onosproject.vtnrsc.PortPairGroup.tenantId">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnweb_1_1web_1_1PortPairGroupCodecTest.html#ac7c2f8bb6a29b0b4e88b9d02fa61051b" title="Checks that a simple rule decodes properly. " alt="" coords="233,5,463,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1vtnweb_1_1web_1_1PortPairGroupCodec.html#ab298e1652004c54a1b2032bcb7cff119" title="org.onosproject.vtnweb.web.\lPortPairGroupCodec.encode" alt="" coords="253,86,443,127"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultPortPairGroup.html#aa0100de160166ddb09ad7af11a180e0d" title="Returns whether this port pair group is an exact match to the port pair group given in the argument..." alt="" coords="249,151,447,193"/>
+</map>

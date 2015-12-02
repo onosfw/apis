@@ -1,0 +1,6 @@
+<map id="org.onosproject.routing.FibEntry.equals" name="org.onosproject.routing.FibEntry.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1routing_1_1FibEntry.html#a51105ba62f949e48205713fc3cfe4ab2" title="Creates a new FIB entry. " alt="" coords="214,70,373,111"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1routing_1_1FibEntry.html#a38400aa7eff4927a472584781028001b" title="Returns the IP address of the next hop. " alt="" coords="422,5,581,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1routing_1_1FibEntry.html#ada28e95cbb814bf79118cff95ddcf692" title="Returns the MAC address of the next hop. " alt="" coords="422,70,581,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1routing_1_1FibEntry.html#a8e66a88d13e782b78a85a46c2bf51545" title="Returns the IP prefix of the FIB entry. " alt="" coords="422,135,581,177"/>
+</map>

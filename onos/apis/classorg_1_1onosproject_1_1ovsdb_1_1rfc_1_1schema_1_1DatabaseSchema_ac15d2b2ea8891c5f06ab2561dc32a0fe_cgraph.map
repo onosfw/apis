@@ -1,0 +1,6 @@
+<map id="org.onosproject.ovsdb.rfc.schema.DatabaseSchema.equals" name="org.onosproject.ovsdb.rfc.schema.DatabaseSchema.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1DatabaseSchema.html#a28c3d86a4e81ca6cff302ee7fe89772d" title="Constructs a DatabaseSchema object. " alt="" coords="277,70,512,111"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1DatabaseSchema.html#aabb32baf1048452ff8c54f227c81ed98" title="Returns the name of database. " alt="" coords="561,5,783,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1DatabaseSchema.html#a23d992d44ef7a4014e1291f20dd1b5f6" title="Returns a map of TableSchema. " alt="" coords="561,70,783,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1DatabaseSchema.html#aa92111b9cddc706a7aaa6dcc79a1160b" title="Returns the version of database. " alt="" coords="561,135,783,177"/>
+</map>

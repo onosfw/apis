@@ -1,0 +1,5 @@
+<map id="org.onosproject.security.impl.SecurityModeManager.getPrintableGrantedPermissions" name="org.onosproject.security.impl.SecurityModeManager.getPrintableGrantedPermissions">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1security_1_1impl_1_1DefaultPolicyBuilder.html#ac3de6e4a81b06b612c1a7f7e1f466e90" title="org.onosproject.security.impl.\lDefaultPolicyBuilder.convertToJava\lPermissions" alt="" coords="302,5,533,61"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1security_1_1store_1_1SecurityModeStore.html#aa536fcdc227b75c26dbe79902e9011d2" title="Returns an array of permissions that have been granted to given application. " alt="" coords="281,86,554,127"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1security_1_1AppPermission.html#aa909b7ffec592658e6c888aed607ab94" title="Returns type of permission. " alt="" coords="603,13,768,54"/>
+</map>

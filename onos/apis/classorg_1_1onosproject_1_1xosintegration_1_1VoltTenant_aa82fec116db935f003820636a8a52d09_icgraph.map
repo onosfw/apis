@@ -1,0 +1,4 @@
+<map id="org.onosproject.xosintegration.VoltTenant.serviceSpecificId" name="org.onosproject.xosintegration.VoltTenant.serviceSpecificId">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1xosintegration_1_1VoltTenant.html#af7e9efe8473fb8fb843d22dc5a5770db" title="org.onosproject.xosintegration.\lVoltTenant.toString" alt="" coords="253,5,453,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1xosintegration_1_1cli_1_1VoltTenantsListCommand.html#a254cddb4640bef8c0c0527ab7a84eb1e" title="Executes this command. " alt="" coords="502,5,725,46"/>
+</map>

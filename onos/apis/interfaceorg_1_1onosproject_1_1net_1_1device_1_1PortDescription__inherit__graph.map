@@ -1,0 +1,8 @@
+<map id="org.onosproject.net.device.PortDescription" name="org.onosproject.net.device.PortDescription">
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1device_1_1DefaultPortDescription.html" title="Default implementation of immutable port description. " alt="" coords="728,70,907,111"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1Description.html" title="Base abstraction of a piece of information about network elements. " alt="" coords="251,77,453,104"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotated.html" title="Represents an entity that carries arbitrary annotations. " alt="" coords="6,77,202,104"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1device_1_1OchPortDescription.html" title="Default implementation of immutable OCh port description. " alt="" coords="955,5,1133,46"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1device_1_1OduCltPortDescription.html" title="Default implementation of immutable ODU client port description. " alt="" coords="955,70,1133,111"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1device_1_1OmsPortDescription.html" title="Default implementation of immutable OMS port description. " alt="" coords="955,135,1133,177"/>
+</map>

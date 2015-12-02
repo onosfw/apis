@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.SparseAnnotations.isRemoved" name="org.onosproject.net.SparseAnnotations.isRemoved">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1DefaultAnnotations.html#af71b210cabf273e9d7231ef79737f9e2" title="Merges the specified base set of annotations and additional sparse annotations into new combined anno..." alt="" coords="232,5,411,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1DefaultAnnotationsTest.html#a957010bb101c7e63cf1872f128e8bb35" title="org.onosproject.net.Default\lAnnotationsTest.noopMerge" alt="" coords="459,5,645,46"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.statistic.TypedFlowEntryWithLoad.TypedFlowEntryWithLoad" name="org.onosproject.net.statistic.TypedFlowEntryWithLoad.TypedFlowEntryWithLoad">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowEntry.html#a400c1cc319495fa92a47f01e6969a06e" title="Returns the number of bytes this flow rule has matched. " alt="" coords="327,5,492,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1statistic_1_1TypedFlowEntryWithLoad.html#ac93a1c0e8259201b68de20b089c306c5" title="Returns current typed flow entry&#39;s polling interval. " alt="" coords="294,71,525,127"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1TypedStoredFlowEntry.html#a3fc807c2a0b2f6e822c02dc5c2988dc3" title="Gets the flow live type for this entry. " alt="" coords="574,78,810,119"/>
+</map>

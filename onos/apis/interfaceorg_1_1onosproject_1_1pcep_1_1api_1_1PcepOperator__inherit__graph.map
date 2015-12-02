@@ -1,0 +1,5 @@
+<map id="org.onosproject.pcep.api.PcepOperator" name="org.onosproject.pcep.api.PcepOperator">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1pcep_1_1api_1_1PcepLink.html" title="Abstraction of a network infrastructure link. " alt="" coords="221,5,389,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1pcep_1_1api_1_1PcepSwitch.html" title="org.onosproject.pcep.api.\lPcepSwitch" alt="" coords="221,70,389,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1pcep_1_1api_1_1PcepTunnel.html" title="Abstraction of a generalized PCEP Tunnel entity (bandwidth pipe) for L2 networks or L1/L0 networks..." alt="" coords="221,135,389,177"/>
+</map>

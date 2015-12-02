@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.DefaultFlowEntry.life" name="org.onosproject.net.flow.DefaultFlowEntry.life">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowEntry.html#a75e68bcd6c493b894e56511287bcf85d" title="org.onosproject.net.flow.\lDefaultFlowEntry.DefaultFlowEntry" alt="" coords="219,5,447,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowEntry.html#a9e1a18c80caf291fa9ca38cbda370c79" title="Sets how long this entry has been entered in the system. " alt="" coords="250,70,417,111"/>
+</map>

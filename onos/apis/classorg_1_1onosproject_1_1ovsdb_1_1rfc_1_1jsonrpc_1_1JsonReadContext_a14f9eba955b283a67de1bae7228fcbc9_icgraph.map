@@ -1,0 +1,4 @@
+<map id="org.onosproject.ovsdb.rfc.jsonrpc.JsonReadContext.isStartMatch" name="org.onosproject.ovsdb.rfc.jsonrpc.JsonReadContext.isStartMatch">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1jsonrpc_1_1JsonReadContext.html#ae250400f7fa5f8637eb8fb0c5d893d39" title="Constructs a JsonReadContext object. " alt="" coords="273,5,509,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1jsonrpc_1_1JsonReadContext.html#a605e59cc46fcd4b7e2f6205a7cd1d81d" title="Set isStartMatch. " alt="" coords="281,70,500,111"/>
+</map>

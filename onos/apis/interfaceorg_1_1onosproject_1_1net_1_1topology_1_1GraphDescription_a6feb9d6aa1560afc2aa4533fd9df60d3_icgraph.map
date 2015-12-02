@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.topology.GraphDescription.timestamp" name="org.onosproject.net.topology.GraphDescription.timestamp">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1topology_1_1DefaultGraphDescriptionTest.html#a0990bd901425d4321fcc712ef6bb9dd1" title="org.onosproject.net.topology.\lDefaultGraphDescriptionTest.missing\lVertex" alt="" coords="259,5,499,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleTopologyStore.html#aaef43b258c42df79c6431aa8c5dd7c4e" title="Generates a new topology snapshot from the specified description. " alt="" coords="257,86,500,127"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1topology_1_1impl_1_1DistributedTopologyStore.html#a3d81075f6fc122640bf8a19ddcfba172" title="Generates a new topology snapshot from the specified description. " alt="" coords="246,151,511,193"/>
+</map>

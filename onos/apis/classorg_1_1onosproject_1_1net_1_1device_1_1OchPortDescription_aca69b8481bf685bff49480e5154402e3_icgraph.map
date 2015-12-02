@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.device.OchPortDescription.isTunable" name="org.onosproject.net.device.OchPortDescription.isTunable">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1device_1_1OchPortDescription.html#a09ccfe9de4a43a26f788969889ab8633" title="Creates OCH port description based on the supplied information. " alt="" coords="251,5,506,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1device_1_1OchPortDescription.html#aba596505be45b2b2dd8e2c0c3f0c9860" title="org.onosproject.net.device.\lOchPortDescription.toString" alt="" coords="286,70,471,111"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.onosproject.store.consistent.impl.DistributedLeadershipManager.deactivate" name="org.onosproject.store.consistent.impl.DistributedLeadershipManager.deactivate">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cluster_1_1NodeId.html#a657d2f31051483200249c7d818bb0354" title="org.onosproject.cluster.\lNodeId.equals" alt="" coords="366,5,525,46"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html#a03686ad51840b49727e454435c586d1f" title="Returns the set of current cluster members. " alt="" coords="361,70,529,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1DistributedLeadershipManager.html#ab459b7bbbff76dd341c38e4ef4df519d" title="Withdraws from a leadership contest. " alt="" coords="318,135,573,177"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1cluster_1_1NodeId.html#ac2d1db824f1b7d1834a35658d6b93746" title="Creates a new cluster node identifier from the specified string. " alt="" coords="622,5,781,46"/>
+</map>

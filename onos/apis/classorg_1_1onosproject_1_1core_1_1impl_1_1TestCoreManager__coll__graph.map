@@ -1,0 +1,5 @@
+<map id="org.onosproject.core.impl.TestCoreManager" name="org.onosproject.core.impl.TestCoreManager">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1core_1_1CoreServiceAdapter.html" title="Test adapter for core service. " alt="" coords="13,206,184,247"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="13,113,184,154"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="5,6,192,47"/>
+</map>

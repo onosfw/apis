@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.mastership.impl.ConsistentDeviceMastershipStore.getMaster" name="org.onosproject.store.mastership.impl.ConsistentDeviceMastershipStore.getMaster">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1mastership_1_1impl_1_1ConsistentDeviceMastershipStore.html#acca7f8988e4484f260166d67ca0a3a63" title="Sets a device&#39;s role for a specified controller instance. " alt="" coords="336,5,619,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1mastership_1_1impl_1_1ConsistentDeviceMastershipStore.html#abb0746607c1f76b87c65a3a64b5ca988" title="Sets a controller instance&#39;s mastership role to STANDBY for a device. " alt="" coords="667,34,957,75"/>
+</map>

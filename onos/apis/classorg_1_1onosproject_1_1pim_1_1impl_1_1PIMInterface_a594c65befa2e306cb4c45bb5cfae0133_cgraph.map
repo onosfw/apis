@@ -1,0 +1,4 @@
+<map id="org.onosproject.pim.impl.PIMInterface.electDR" name="org.onosproject.pim.impl.PIMInterface.electDR">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1pim_1_1impl_1_1PIMNeighbor.html#ac4d7027e6356eee5e04ba44e9413bd89" title="Get the primary address of this neighbor. " alt="" coords="221,5,413,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1pim_1_1impl_1_1PIMNeighbor.html#a05689053085ebfa3682159751d604aa0" title="Get the priority this neighbor has advertised to us. " alt="" coords="233,70,401,111"/>
+</map>

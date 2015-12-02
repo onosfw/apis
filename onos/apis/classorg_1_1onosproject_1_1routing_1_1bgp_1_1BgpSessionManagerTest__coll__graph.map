@@ -1,0 +1,6 @@
+<map id="org.onosproject.routing.bgp.BgpSessionManagerTest" name="org.onosproject.routing.bgp.BgpSessionManagerTest">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1routing_1_1bgp_1_1BgpSession.html" title="Class for handling the BGP peer sessions. " alt="" coords="249,15,431,57"/>
+<area shape="rect" id="node4" title="A class to capture the state for a BGP peer. " alt="" coords="216,90,464,131"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1routing_1_1bgp_1_1BgpRouteEntry.html" title="Represents a route in BGP. " alt="" coords="249,155,431,197"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1routing_1_1RouteEntry.html" title="Represents a route entry for an IP prefix. " alt="" coords="6,155,165,197"/>
+</map>

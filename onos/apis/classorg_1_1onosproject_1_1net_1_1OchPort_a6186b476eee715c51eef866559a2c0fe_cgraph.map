@@ -1,0 +1,7 @@
+<map id="org.onosproject.net.OchPort.equals" name="org.onosproject.net.OchPort.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1AbstractAnnotated.html#a2858b84119b1f766fd6222e79efa1b93" title="Returns the key/value annotations. " alt="" coords="551,5,737,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1DefaultPort.html#ab5c1473ee5c0ddced5a8f2a51799d2a9" title="Indicates whether or not the port is currently up and active. " alt="" coords="285,49,464,90"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1OchPort.html#a53073036e10e0a4146233a9e1392d8b7" title="Creates an OCh port in the specified network element. " alt="" coords="280,114,469,155"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1OchPort.html#a604640156f4add20ecd6c4dfa78479b2" title="Returns true if port is wavelength tunable. " alt="" coords="545,85,743,126"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1OchPort.html#a7c10c3febbb6d6a98eb942b7d0630ad2" title="Returns ODU signal type. " alt="" coords="518,151,770,177"/>
+</map>

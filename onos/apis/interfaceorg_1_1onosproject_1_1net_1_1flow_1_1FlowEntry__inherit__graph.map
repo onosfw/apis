@@ -1,0 +1,8 @@
+<map id="org.onosproject.net.flow.FlowEntry" name="org.onosproject.net.flow.FlowEntry">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1StoredFlowEntry.html" title="org.onosproject.net.flow.\lStoredFlowEntry" alt="" coords="449,37,615,78"/>
+<area shape="rect" id="node7" title="Mock class for a flow entry. " alt="" coords="433,102,631,143"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRule.html" title="Represents a generalized match &amp; action pair to be applied to an infrastructure device. " alt="" coords="5,70,171,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowEntry.html" title="org.onosproject.net.flow.\lDefaultFlowEntry" alt="" coords="680,5,845,46"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1TypedStoredFlowEntry.html" title="Represents a flow live type for a given flow entry. " alt="" coords="680,70,845,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultTypedFlowEntry.html" title="Default flow entry class with FlowLiveType value, IMMEDIATE_FLOW, SHORT_FLOW, MID_FLOW, LONG_FLOW. " alt="" coords="893,38,1059,79"/>
+</map>

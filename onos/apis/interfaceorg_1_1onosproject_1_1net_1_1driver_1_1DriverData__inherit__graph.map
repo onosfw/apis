@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.driver.DriverData" name="org.onosproject.net.driver.DriverData">
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1DefaultDriverData.html" title="Default implementation of driver data descriptor. " alt="" coords="21,262,195,303"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1MutableAnnotations.html" title="Represents an mutable set of simple key/value string annotations. " alt="" coords="17,81,199,122"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotations.html" title="Represents an set of simple key/value string annotations. " alt="" coords="5,5,211,32"/>
+</map>

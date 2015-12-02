@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.CompletedBatchOperation.failedIds" name="org.onosproject.net.flow.CompletedBatchOperation.failedIds">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1CompletedBatchOperation.html#a9b37e5f936d4c43d4aca3c6d3928c536" title="Creates a new batch completion result. " alt="" coords="283,5,525,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1CompletedBatchOperation.html#a76c3ae7aa28652cc87448a4844611983" title="org.onosproject.net.flow.\lCompletedBatchOperation.toString" alt="" coords="292,86,516,127"/>
+</map>

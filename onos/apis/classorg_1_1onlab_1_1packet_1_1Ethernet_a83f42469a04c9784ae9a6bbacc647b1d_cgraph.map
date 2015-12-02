@@ -1,0 +1,4 @@
+<map id="org.onlab.packet.Ethernet.deserialize" name="org.onlab.packet.Ethernet.deserialize">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1Ethernet.html#a73437c5ec4ee3c22b38669021050a9e9" title="Deserializer function for Ethernet packets. " alt="" coords="291,12,533,39"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1Ethernet.html#a7e1352e4ec219a61ffc21fdb9d987507" title="By default, set Ethernet to untagged. " alt="" coords="582,5,757,46"/>
+</map>

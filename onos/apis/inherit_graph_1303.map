@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1DatabasePartitioner.html" title="Partitioner for mapping map entries to individual database partitions. " alt="" coords="136,38,376,79"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1SimpleKeyHashPartitioner.html" title="A simple Partitioner for mapping keys to database partitions. " alt="" coords="424,5,664,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1SimpleTableHashPartitioner.html" title="A simple Partitioner that uses the map name hash to pick a partition. " alt="" coords="424,70,664,111"/>
+</map>

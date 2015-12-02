@@ -1,0 +1,4 @@
+<map id="org.onosproject.ovsdb.controller.EventSubject" name="org.onosproject.ovsdb.controller.EventSubject">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1ovsdb_1_1controller_1_1OvsdbEventSubject.html" title="Represents for an entity that carry important information for listener. " alt="" coords="5,97,216,138"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ovsdb_1_1controller_1_1DefaultEventSubject.html" title="This class is default event subject that implements OvsdbEventSubject. " alt="" coords="5,187,216,229"/>
+</map>

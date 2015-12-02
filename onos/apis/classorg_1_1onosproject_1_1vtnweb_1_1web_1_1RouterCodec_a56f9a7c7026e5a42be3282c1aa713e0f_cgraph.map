@@ -1,0 +1,6 @@
+<map id="org.onosproject.vtnweb.web.RouterCodec.encode" name="org.onosproject.vtnweb.web.RouterCodec.encode">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1Router.html#a97a6ae45b6080d459ca1a8505acdbe3c" title="Returns the router admin state. " alt="" coords="249,5,482,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1Router.html#a220c4595bb3c5aa8481fba7ecfe101b0" title="Returns the router list of router. " alt="" coords="248,71,483,97"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1Router.html#a8458808e8874a5b198d44fb7119ba66f" title="Returns the status of router. " alt="" coords="248,121,483,148"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1Router.html#a1b5bc9f9d3b643ccc974d67227ba92f6" title="Returns the owner(tenant) of this router. " alt="" coords="243,172,488,199"/>
+</map>

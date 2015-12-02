@@ -1,0 +1,6 @@
+<map id="org.onosproject.ui.topo.NodeBadge.toString" name="org.onosproject.ui.topo.NodeBadge.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1NodeBadge.html#ad80ffa81c21b95c7bf62e2bdd76bfca5" title="Returns true if the text for this badge designates a glyph ID. " alt="" coords="214,5,373,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1NodeBadge.html#afcb4ed3815ac217835f46901354b0001" title="Returns the message associated with the badge. " alt="" coords="214,70,373,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1NodeBadge.html#a4cfa036a7cca0b02ae11fad4f944cc18" title="Returns the badge status. " alt="" coords="214,135,373,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1NodeBadge.html#ae17b5c97a52ac542e1256aa5a31c0d7c" title="Returns the text for the badge. " alt="" coords="214,201,373,242"/>
+</map>

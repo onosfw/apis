@@ -1,0 +1,6 @@
+<map id="org.onosproject.cli.net.ConnectivityIntentCommand.buildTrafficSelector" name="org.onosproject.cli.net.ConnectivityIntentCommand.buildTrafficSelector">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1IpPrefix.html#a214a1887e0be1bfb93e2033c2b2d4d89" title="Tests whether the IP version of this prefix is IPv4. " alt="" coords="279,5,478,32"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1IpPrefix.html#a40959918dc847c18e26e1db6fa4b6713" title="Tests whether the IP version of this prefix is IPv6. " alt="" coords="279,56,478,83"/>
+<area shape="rect" id="node4" href="$enumorg_1_1onosproject_1_1cli_1_1net_1_1ExtHeader.html#a868636fb6c845848c9c59d43d281e18d" title="Parse a string input that could contain an ExtHeader value. " alt="" coords="287,107,471,149"/>
+<area shape="rect" id="node5" href="$classorg_1_1onlab_1_1packet_1_1IpPrefix.html#a324cbbae277ac8ac45da17d1d73b8bd7" title="Returns the IP version of the prefix. " alt="" coords="272,173,485,200"/>
+</map>

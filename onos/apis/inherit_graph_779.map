@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceorg_1_1onosproject_1_1net_1_1packet_1_1InboundPacket.html" title="Represents a data packet intercepted from an infrastructure device. " alt="" coords="6,5,186,46"/>
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1packet_1_1DefaultInboundPacket.html" title="Default implementation of an immutable inbound packet. " alt="" coords="235,5,415,46"/>
+</map>

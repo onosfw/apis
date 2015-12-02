@@ -1,0 +1,9 @@
+<map id="org.onosproject.optical.cfg.OpticalConfigProvider" name="org.onosproject.optical.cfg.OpticalConfigProvider">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1AbstractProvider.html" title="Base provider implementation. " alt="" coords="352,5,539,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="51,70,237,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceProvider.html" title="Abstraction of a device information provider. " alt="" coords="356,70,535,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkProvider.html" title="Abstraction of an entity providing information about infrastructure links to the core. " alt="" coords="365,135,526,177"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalNetworkConfig.html" title="Public class corresponding to JSON described data model. " alt="" coords="356,265,535,306"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceProviderRegistry.html" title="Abstraction of a device provider registry. " alt="" coords="356,330,535,371"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkProviderRegistry.html" title="Abstraction of an infrastructure link provider registry. " alt="" coords="365,399,526,441"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="org.onosproject.net.resource.ResourceAllocation" name="org.onosproject.net.resource.ResourceAllocation">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1BandwidthResourceAllocation.html" title="Representation of allocated bandwidth resource. " alt="" coords="246,5,461,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1LambdaResourceAllocation.html" title="Representation of allocated lambda resource. " alt="" coords="246,70,461,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1LinkResourceAllocations.html" title="Representation of allocated link resources. " alt="" coords="246,135,461,177"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1MplsLabelResourceAllocation.html" title="Representation of allocated MPLS label resource. " alt="" coords="246,201,461,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1DefaultLinkResourceAllocations.html" title="Implementation of LinkResourceAllocations. " alt="" coords="523,98,738,139"/>
+</map>

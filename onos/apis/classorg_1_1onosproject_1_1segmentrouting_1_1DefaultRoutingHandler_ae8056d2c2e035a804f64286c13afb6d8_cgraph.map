@@ -1,0 +1,6 @@
+<map id="org.onosproject.segmentrouting.DefaultRoutingHandler.resumePopulationProcess" name="org.onosproject.segmentrouting.DefaultRoutingHandler.resumePopulationProcess">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1segmentrouting_1_1DefaultRoutingHandler.html#a41d51e09569db0a9457b85ad3e03fbf3" title="Populates all routing rules to all connected routers, including default routing rules, adjacency rules, and policy rules if any. " alt="" coords="317,38,619,79"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html#adddfe5a01ed42c5094fec234c594fe67" title="Returns a collection of the currently known infrastructure devices. " alt="" coords="685,5,864,46"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipService.html#ac847c2ae66c83b215f9f313fd506734d" title="Returns true if the local controller is the Master for the specified deviceId. " alt="" coords="667,70,882,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipService.html#a988cc1b60a5b0569c7aaceb3e529a140" title="Returns the role of the local node for the specified device, without triggering master selection..." alt="" coords="931,70,1141,111"/>
+</map>

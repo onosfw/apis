@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.PortNumber.toString" name="org.onosproject.net.PortNumber.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1PortNumber.html#ab40581240eb22dafff043a5b9f168c17" title="Indicates whether this port number was created with a port name, or only with a number. " alt="" coords="427,5,589,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1PortNumber.html#a6ffff09f83b196156ae32b101e4516fb" title="Indicates whether or not this port number is a reserved logical one or whether it corresponds to a no..." alt="" coords="217,34,378,75"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1PortNumber.html#a0dd0a3bf28ca04ad7c1b4a3201d4267a" title="Returns the backing string value. " alt="" coords="217,99,378,141"/>
+</map>

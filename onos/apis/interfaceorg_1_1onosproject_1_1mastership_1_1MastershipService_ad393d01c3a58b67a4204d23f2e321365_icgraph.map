@@ -1,0 +1,5 @@
+<map id="org.onosproject.mastership.MastershipService.getMasterFor" name="org.onosproject.mastership.MastershipService.getMasterFor">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1group_1_1impl_1_1DistributedGroupStore.html#ae1afd3d0b32ed03685ac37a8ee4ee715" title="Triggers deleting the existing group entry. " alt="" coords="267,5,557,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1group_1_1impl_1_1DistributedGroupStore.html#a5f571f7bd08c4d55828a7ba5c5ff8311" title="Stores a new group entry using the information from group description. " alt="" coords="269,70,555,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1group_1_1impl_1_1DistributedGroupStore.html#a07872984f3c25ab231b549229bb75979" title="Updates the existing group entry with the information from group description. " alt="" coords="265,135,559,177"/>
+</map>

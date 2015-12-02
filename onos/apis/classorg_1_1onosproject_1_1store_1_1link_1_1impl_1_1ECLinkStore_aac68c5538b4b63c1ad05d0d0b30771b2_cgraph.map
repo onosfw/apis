@@ -1,0 +1,8 @@
+<map id="org.onosproject.store.link.impl.ECLinkStore.removeOrDownLink" name="org.onosproject.store.link.impl.ECLinkStore.removeOrDownLink">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1Link.html#a13f6d04f4d252bee19974a6c5398d726" title="Returns the link destination connection point. " alt="" coords="303,5,486,32"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1link_1_1impl_1_1ECLinkStore.html#a65ae6f8b92ae5158bb4ed6b6d79ce397" title="Returns the link between the two end&#45;points. " alt="" coords="295,57,495,98"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1Link.html#a06b276b4ecd3abf1a93ee1df7e94fda2" title="Indicates if the link is to be considered durable. " alt="" coords="307,122,482,163"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1Provided.html#abd36699116ebf3fe789f6b27b20c581b" title="Returns the identifier of the provider which supplied the entity. " alt="" coords="270,188,519,215"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1store_1_1link_1_1impl_1_1ECLinkStore.html#abf521cd5573e7ab91ac45e833c4b5d8a" title="Removes the link based on the specified information. " alt="" coords="295,239,495,281"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1Link.html#a08627aabcd43982af8c20cb6c01ae02a" title="Returns the link source connection point. " alt="" coords="303,305,486,332"/>
+</map>

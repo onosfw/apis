@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.criteria.OduSignalTypeCriterion.toString" name="org.onosproject.net.flow.criteria.OduSignalTypeCriterion.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1OduSignalTypeCriterion.html#ab05e71e87fe0dda39b7787510a388551" title="Returns the ODU Signal Type to match. " alt="" coords="264,5,491,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1OduSignalTypeCriterion.html#a3d036c85b50fb085edd5152fc416adb5" title="Returns the type of criterion. " alt="" coords="273,70,481,111"/>
+</map>

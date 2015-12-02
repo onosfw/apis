@@ -1,0 +1,4 @@
+<map id="org.onlab.metrics.EventMetric.registerMetrics" name="org.onlab.metrics.EventMetric.registerMetrics">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1metrics_1_1EventMetric.html#affef99bdff8f3f853f0640123cfce375" title="Gets the event rate meter. " alt="" coords="296,5,528,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1metrics_1_1EventMetric.html#a59a9ce35ea652f6199a851a7e9bbf3c5" title="Gets the last event timestamp Gauge (ms from the Epoch). " alt="" coords="301,70,523,111"/>
+</map>

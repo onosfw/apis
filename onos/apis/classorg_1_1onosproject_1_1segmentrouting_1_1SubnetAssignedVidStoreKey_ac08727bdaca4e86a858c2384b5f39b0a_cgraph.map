@@ -1,0 +1,4 @@
+<map id="org.onosproject.segmentrouting.SubnetAssignedVidStoreKey.toString" name="org.onosproject.segmentrouting.SubnetAssignedVidStoreKey.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1segmentrouting_1_1SubnetAssignedVidStoreKey.html#ae4cc6e6275f1fb2afe110285546fee85" title="Returns the device identification used to create this key. " alt="" coords="293,5,536,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1segmentrouting_1_1SubnetAssignedVidStoreKey.html#ad8922d2a50a566a6cc09c849ef7cdffa" title="Returns the subnet information used to create this key. " alt="" coords="298,70,531,111"/>
+</map>

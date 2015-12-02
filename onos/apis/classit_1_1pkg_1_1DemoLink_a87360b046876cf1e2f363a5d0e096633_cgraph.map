@@ -1,0 +1,4 @@
+<map id="it.pkg.DemoLink.highlight" name="it.pkg.DemoLink.highlight">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1BiLink.html#ad0f2c571eb8e5264cdc2659348b9dc36" title="Returns the link identifier in the form expected on the Topology View in the web client. " alt="" coords="225,5,383,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1BiLink.html#a52163be309f16a3cda2f746186ae3d62" title="Returns the first link in this bi&#45;link. " alt="" coords="433,5,591,46"/>
+</map>

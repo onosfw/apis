@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.topology.TopologyVertex" name="org.onosproject.net.topology.TopologyVertex">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1topology_1_1DefaultTopologyVertex.html" title="Implementation of the topology vertex backed by a device id. " alt="" coords="5,171,195,213"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onlab_1_1graph_1_1Vertex.html" title="Representation of a graph vertex. " alt="" coords="23,5,176,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.onlab.packet.EthernetTest.testDeserializeNoVlan" name="org.onlab.packet.EthernetTest.testDeserializeNoVlan">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1Ethernet.html#a3c49687a158879748f25ef0ef6f53566" title="Gets the destination MAC address. " alt="" coords="238,5,431,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1Ethernet.html#ab4a485db8388cf4728262484d4c6883f" title="Gets the Ethernet type. " alt="" coords="238,70,431,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1packet_1_1Ethernet.html#ab0317fb5dee68e9b07a4e2a710662307" title="Gets the source MAC address. " alt="" coords="238,135,431,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onlab_1_1packet_1_1Ethernet.html#af38ffeb92442f8c5087c662938692191" title="Gets the VLAN ID. " alt="" coords="238,201,431,242"/>
+</map>

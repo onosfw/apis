@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.criteria.IPv6FlowLabelCriterion.toString" name="org.onosproject.net.flow.criteria.IPv6FlowLabelCriterion.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1IPv6FlowLabelCriterion.html#ad59fb88cdd47f848746e328c26696fd0" title="Gets the IPv6 flow label to match. " alt="" coords="261,5,477,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1IPv6FlowLabelCriterion.html#aa25cbd9a0becf0fee8bdf5e365aa8375" title="Returns the type of criterion. " alt="" coords="265,70,473,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.routing.bgp.BgpRouteEntryTest.testConstructor" name="org.onosproject.routing.bgp.BgpRouteEntryTest.testConstructor">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1routing_1_1bgp_1_1BgpRouteEntry.html#aca73d0d4f215d321eaba0b429df36d42" title="org.onosproject.routing.bgp.\lBgpRouteEntry.toString" alt="" coords="286,38,469,79"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1routing_1_1RouteEntry.html#abbde2b74e505a9d21409a6dd200cd38b" title="Returns the next hop IP address for the route. " alt="" coords="518,5,677,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1routing_1_1RouteEntry.html#a97a9f1568b7801b823a262b952661f5d" title="Returns the IP prefix of the route. " alt="" coords="518,70,677,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.resource.link.LinkResource" name="org.onosproject.net.resource.link.LinkResource">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1BandwidthResource.html" title="Representation of bandwidth resource in bps. " alt="" coords="270,5,485,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1LambdaResource.html" title="Representation of lambda resource. " alt="" coords="270,70,485,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1MplsLabel.html" title="Representation of MPLS label resource. " alt="" coords="270,135,485,177"/>
+</map>

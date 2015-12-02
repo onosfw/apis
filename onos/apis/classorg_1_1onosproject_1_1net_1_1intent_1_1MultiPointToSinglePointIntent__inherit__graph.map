@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.intent.MultiPointToSinglePointIntent" name="org.onosproject.net.intent.MultiPointToSinglePointIntent">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1ConnectivityIntent.html" title="Abstraction of connectivity intent for traffic matching some criteria. " alt="" coords="16,97,189,138"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1Intent.html" title="Abstraction of an application level intent. " alt="" coords="16,6,189,47"/>
+</map>

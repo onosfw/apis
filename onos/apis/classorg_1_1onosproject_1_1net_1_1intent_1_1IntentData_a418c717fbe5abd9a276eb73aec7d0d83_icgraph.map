@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.intent.IntentData.origin" name="org.onosproject.net.intent.IntentData.origin">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1IntentData.html#ab1e73686a46f46b510ceccccd397945d" title="Copy constructor. " alt="" coords="227,5,400,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1IntentData.html#abb1684faa1b75fa3d444a0e673ce2e32" title="Sets the origin, which is the node that created the intent. " alt="" coords="227,70,400,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1IntentData.html#a3890aa5a4e170c304cb62fe7600499ea" title="org.onosproject.net.intent.\lIntentData.toString" alt="" coords="227,135,400,177"/>
+</map>

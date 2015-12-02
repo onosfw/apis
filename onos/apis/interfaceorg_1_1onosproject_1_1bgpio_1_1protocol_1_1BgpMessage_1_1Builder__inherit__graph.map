@@ -1,0 +1,8 @@
+<map id="org.onosproject.bgpio.protocol.BgpMessage.Builder" name="org.onosproject.bgpio.protocol.BgpMessage.Builder">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1bgpio_1_1protocol_1_1BgpKeepaliveMsg_1_1Builder.html" title="Builder interface with get and set functions to build Keepalive message. " alt="" coords="253,5,453,46"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1bgpio_1_1protocol_1_1BgpNotificationMsg_1_1Builder.html" title="Builder interface with get and set functions to build notification message. " alt="" coords="253,70,453,111"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1bgpio_1_1protocol_1_1BgpOpenMsg_1_1Builder.html" title="Builder interface with get and set functions to build Open message. " alt="" coords="253,135,453,177"/>
+<area shape="rect" id="node3" title="Builder class for BGP keepalive message. " alt="" coords="501,5,731,46"/>
+<area shape="rect" id="node5" title="Builder class for BGP notification message. " alt="" coords="501,70,731,111"/>
+<area shape="rect" id="node7" title="Builder class for BGP open message. " alt="" coords="501,135,731,177"/>
+</map>

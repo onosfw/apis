@@ -1,0 +1,5 @@
+<map id="org.onlab.packet.Ip4PrefixTest.testAddressAndPrefixLengthIPv4" name="org.onlab.packet.Ip4PrefixTest.testAddressAndPrefixLengthIPv4">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1Ip4Prefix.html#a73beb49086ffccf89f87bcf99574a70f" title="Returns the IPv4 address value of the prefix. " alt="" coords="305,5,529,32"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1IpPrefix.html#a0804680278fcde788563c7140039ab03" title="Returns the IP address prefix length. " alt="" coords="316,57,519,98"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1packet_1_1Ip4Address.html#a38cf53da33a1b9092c68fc83ce4694b7" title="Converts an integer into an IPv4 address. " alt="" coords="299,123,536,149"/>
+</map>

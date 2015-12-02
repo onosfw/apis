@@ -1,0 +1,6 @@
+<map id="org.onosproject.codec.impl.GroupBucketJsonMatcher.matchesSafely" name="org.onosproject.codec.impl.GroupBucketJsonMatcher.matchesSafely">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupBucket.html#a65973a07a69dc8303549a1490be15321" title="Returns the number of bytes processed by this group bucket. " alt="" coords="317,5,491,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupBucket.html#a0828d9429cc40adc477ea5292df990ce" title="Returns the number of packets processed by this group bucket. " alt="" coords="317,70,491,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupBucket.html#ad1e1d25a14686963abc347a25e1240d7" title="Returns group type of the bucket. " alt="" coords="317,135,491,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupBucket.html#a9a02e23059ce7ff35da478df68904f37" title="Returns weight of select group bucket. " alt="" coords="317,201,491,242"/>
+</map>

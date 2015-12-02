@@ -1,0 +1,4 @@
+<map id="org.onosproject.provider.nil.TopologySimulator.removeDevices" name="org.onosproject.provider.nil.TopologySimulator.removeDevices">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1provider_1_1nil_1_1TopologySimulator.html#a618e16d0b6fe1b08ac5144b69aeeb731" title="Prepares to count device added/available/removed events. " alt="" coords="291,5,528,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1provider_1_1nil_1_1TopologySimulator.html#a61a15a1263b487b7d57ebb360b7ca28b" title="Waits for all expected device added/available/removed events. " alt="" coords="280,86,539,127"/>
+</map>

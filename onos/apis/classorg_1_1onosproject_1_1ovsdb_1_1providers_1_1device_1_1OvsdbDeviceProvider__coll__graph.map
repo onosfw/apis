@@ -1,0 +1,8 @@
+<map id="org.onosproject.ovsdb.providers.device.OvsdbDeviceProvider" name="org.onosproject.ovsdb.providers.device.OvsdbDeviceProvider">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1AbstractProvider.html" title="Base provider implementation. " alt="" coords="345,5,532,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="51,33,237,74"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceProvider.html" title="Abstraction of a device information provider. " alt="" coords="349,70,528,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="349,135,528,177"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1ovsdb_1_1controller_1_1OvsdbController.html" title="Abstraction of an ovsdb controller. " alt="" coords="333,201,544,242"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceProviderRegistry.html" title="Abstraction of a device provider registry. " alt="" coords="349,266,528,307"/>
+</map>

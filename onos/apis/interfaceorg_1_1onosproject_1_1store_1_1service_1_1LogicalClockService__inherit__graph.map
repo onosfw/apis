@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.service.LogicalClockService" name="org.onosproject.store.service.LogicalClockService">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1core_1_1impl_1_1LogicalClockManager.html" title="LogicalClockService implementation based on a AtomicCounter. " alt="" coords="283,5,488,46"/>
+<area shape="rect" id="node3" title="Mocks the LogicalClockService class. " alt="" coords="248,70,523,111"/>
+</map>

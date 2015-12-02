@@ -1,0 +1,4 @@
+<map id="org.onosproject.sdnip.PeerConnectivityManagerTest.testConnectionSetup" name="org.onosproject.sdnip.PeerConnectivityManagerTest.testConnectionSetup">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1sdnip_1_1PeerConnectivityManagerTest.html#ab3e4edb959a514440b6fc273b6b38b28" title="Tests a corner case, when there is no Interface configured for one BGP peer. " alt="" coords="353,5,567,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1sdnip_1_1PeerConnectivityManagerTest.html#a80f5fb449d88346af6dbe111ed44cf52" title="Tests a corner case, when there is no Interface configured for one BGP speaker. " alt="" coords="353,85,567,141"/>
+</map>

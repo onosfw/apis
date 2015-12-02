@@ -1,0 +1,10 @@
+<map id="org.onosproject.rest.HostResourceTest.testHostsArray" name="org.onosproject.rest.HostResourceTest.testHostsArray">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1DeviceId.html#acdda59a035899936c4b013de8015ba10" title="Creates a device id using the supplied URI. " alt="" coords="277,22,456,63"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1HostId.html#abf8654838897ba5164ba0e2c65f0035c" title="Creates a device id using the supplied ID string. " alt="" coords="284,119,449,161"/>
+<area shape="rect" id="node7" href="$classorg_1_1onlab_1_1packet_1_1IpAddress.html#a0b0d63e17c5c299c2c91689b2e292891" title="Converts an integer into an IPv4 address. " alt="" coords="251,188,482,215"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1DeviceId.html#a769a9277e7bf995f33947e7c2136c3c2" title="org.onosproject.net.Device\lId.DeviceId" alt="" coords="535,5,713,46"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1HostId.html#add3e495efaf06d2478648d92f6ecba48" title="Returns the host MAC address. " alt="" coords="541,70,707,111"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1HostId.html#aebf3e6f3eff5a1bfeee3b61f61f84c9c" title="Returns the host vlan Id. " alt="" coords="541,135,707,177"/>
+<area shape="rect" id="node8" href="$classorg_1_1onlab_1_1packet_1_1IpAddress.html#a1b8ebe45cf8c00946754d68ad5d36293" title="Constructor for given IP address version and address octets. " alt="" coords="531,201,717,242"/>
+<area shape="rect" id="node9" href="$classorg_1_1onlab_1_1packet_1_1IpAddress.html#a5e049bb120d15e0ada504c2d48959ace" title="Returns the IP version of this address. " alt="" coords="765,208,992,235"/>
+</map>

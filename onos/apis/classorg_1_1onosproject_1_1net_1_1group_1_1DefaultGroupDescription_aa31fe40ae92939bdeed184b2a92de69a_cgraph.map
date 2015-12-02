@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.group.DefaultGroupDescription.DefaultGroupDescription" name="org.onosproject.net.group.DefaultGroupDescription.DefaultGroupDescription">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1group_1_1DefaultGroupDescription.html#a916a669debb2b51234eed2aa9665935e" title="Returns group buckets of a group. " alt="" coords="266,5,481,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1group_1_1DefaultGroupDescription.html#a654607141fb3e5216cdb9ef61a9d8841" title="Returns device identifier on which this group object is created. " alt="" coords="264,70,483,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1group_1_1DefaultGroupDescription.html#a5f418c93e994b8d0b5aa97e40fd5ea3a" title="Returns type of a group object. " alt="" coords="276,135,471,177"/>
+</map>

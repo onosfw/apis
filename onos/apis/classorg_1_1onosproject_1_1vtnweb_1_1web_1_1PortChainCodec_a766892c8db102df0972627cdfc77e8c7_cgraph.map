@@ -1,0 +1,4 @@
+<map id="org.onosproject.vtnweb.web.PortChainCodec.encode" name="org.onosproject.vtnweb.web.PortChainCodec.encode">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortChain.html#a5ccff762ec5702dc910603ea34e9063e" title="Returns the list of flow classifiers associated with this port chain. " alt="" coords="243,5,421,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortChain.html#ac54445d211cc0f541facf78f84941ae4" title="Returns the tenant id of this port chain. " alt="" coords="243,70,421,111"/>
+</map>

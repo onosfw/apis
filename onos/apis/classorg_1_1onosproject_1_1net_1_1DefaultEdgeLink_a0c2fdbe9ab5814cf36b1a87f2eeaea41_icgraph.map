@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.DefaultEdgeLink.hostLocation" name="org.onosproject.net.DefaultEdgeLink.hostLocation">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1DefaultEdgeLink.html#ae7c3d1489506fc2e315cdd6c91de1ff3" title="Creates an edge link using the supplied information. " alt="" coords="232,5,411,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1DefaultEdgeLink.html#a1fca4de5ff81653ac6ba0c12d8205e75" title="Creates a phantom edge link, to an unspecified end&#45;station. " alt="" coords="459,5,637,46"/>
+</map>

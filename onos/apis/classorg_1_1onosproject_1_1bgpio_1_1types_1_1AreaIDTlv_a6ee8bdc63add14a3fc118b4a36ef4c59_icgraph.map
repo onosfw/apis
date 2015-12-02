@@ -1,0 +1,5 @@
+<map id="org.onosproject.bgpio.types.AreaIDTlv.AreaIDTlv" name="org.onosproject.bgpio.types.AreaIDTlv.AreaIDTlv">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1AreaIDTlv.html#acb2561eae3a9a0b49d0b0af21d913971" title="org.onosproject.bgpio.types.\lAreaIDTlv.equals" alt="" coords="240,5,427,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1AreaIDTlv.html#ac6c99d2aeaf955fab58faf55d2641b16" title="Returns object of this class with specified areaID. " alt="" coords="240,70,427,111"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1AreaIDTlv.html#ad42d07cd4ce81c70e464a8bc6d8ee17c" title="Compares two objects. " alt="" coords="475,5,661,46"/>
+</map>

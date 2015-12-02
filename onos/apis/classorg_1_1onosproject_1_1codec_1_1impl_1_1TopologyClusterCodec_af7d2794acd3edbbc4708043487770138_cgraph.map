@@ -1,0 +1,5 @@
+<map id="org.onosproject.codec.impl.TopologyClusterCodec.encode" name="org.onosproject.codec.impl.TopologyClusterCodec.encode">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1topology_1_1TopologyCluster.html#a5ac361d1b7bc26247ffac96d71314d89" title="Returns the number of devices in the cluster. " alt="" coords="256,5,451,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1topology_1_1TopologyCluster.html#a8b1b002f00178be71f05cc3e8a3ad4de" title="Returns the number of infrastructure links in the cluster. " alt="" coords="258,70,449,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1topology_1_1TopologyCluster.html#accad1b4eb44ca3f23c3ad26601f0be43" title="Returns the cluster root vertex. " alt="" coords="258,135,449,177"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="org.onosproject.net.host.HostProvider" name="org.onosproject.net.host.HostProvider">
+<area shape="rect" id="node4" title="Mocks the HostProvider. " alt="" coords="471,70,705,111"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1ovsdb_1_1provider_1_1host_1_1OvsdbHostProvider.html" title="Provider which uses an ovsdb controller to detect host. " alt="" coords="471,201,705,242"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1provider_1_1host_1_1impl_1_1HostLocationProvider.html" title="Provider which uses an OpenFlow controller to detect network end&#45;station hosts. " alt="" coords="477,266,699,307"/>
+<area shape="rect" id="node9" title="Provider of devices and links parsed from a JSON configuration structure. " alt="" coords="487,397,689,438"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="5,234,192,275"/>
+</map>

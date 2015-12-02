@@ -1,0 +1,5 @@
+<map id="org.onosproject.bgp.controller.impl.VpnAdjRibIn.vpnPrefixTree" name="org.onosproject.bgp.controller.impl.VpnAdjRibIn.vpnPrefixTree">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1VpnAdjRibIn.html#ac78636f4ebf862eef3a9dc7dff358365" title="Update nlri identifier mapped with route distinguisher if it exists in tree otherwise add nlri infoma..." alt="" coords="281,5,506,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1VpnAdjRibIn.html#a41b406322350631b577a3b18d9d78ec9" title="Removes vpn nlri identifier mapped to route distinguisher if it exists in tree. " alt="" coords="281,70,506,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1VpnAdjRibIn.html#afa49a4be996dbebaee4b6c9610bbc9e4" title="org.onosproject.bgp.controller.impl.\lVpnAdjRibIn.toString" alt="" coords="281,135,506,177"/>
+</map>

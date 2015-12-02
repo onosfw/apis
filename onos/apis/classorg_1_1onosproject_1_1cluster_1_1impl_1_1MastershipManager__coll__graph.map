@@ -1,0 +1,9 @@
+<map id="org.onosproject.cluster.impl.MastershipManager" name="org.onosproject.cluster.impl.MastershipManager">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipService.html" title="Service responsible for determining the controller instance mastership of a device in a clustered env..." alt="" coords="310,86,493,127"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipAdminService.html" title="Service for administering the inventory of device masterships. " alt="" coords="310,151,493,193"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipTermService.html" title="Service to obtain mastership term information. " alt="" coords="310,217,493,258"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1core_1_1MetricsHelper.html" title="Collection of utility methods used for providing Metrics. " alt="" coords="308,282,495,323"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipStore.html" title="Manages inventory of mastership roles for devices, across controller instances; not intended for dire..." alt="" coords="310,347,493,389"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onlab_1_1metrics_1_1MetricsService.html" title="Metrics Service to collect metrics. " alt="" coords="317,413,486,454"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="322,478,481,519"/>
+</map>

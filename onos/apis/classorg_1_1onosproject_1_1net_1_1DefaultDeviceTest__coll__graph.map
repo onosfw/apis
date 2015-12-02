@@ -1,0 +1,7 @@
+<map id="org.onosproject.net.DefaultDeviceTest" name="org.onosproject.net.DefaultDeviceTest">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1DeviceId.html" title="Immutable representation of a device identity. " alt="" coords="491,44,680,71"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1ElementId.html" title="Immutable representation of a network element identity. " alt="" coords="243,44,439,71"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1NetworkResource.html" title="Representation of a network resource, e.g. " alt="" coords="5,37,192,78"/>
+<area shape="rect" id="node5" href="$classorg_1_1onlab_1_1packet_1_1ChassisId.html" title="The class representing a network device chassisId. " alt="" coords="495,95,676,121"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="492,185,679,226"/>
+</map>

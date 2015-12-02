@@ -1,0 +1,8 @@
+<map id="org.onosproject.net.DefaultLink.DefaultLink" name="org.onosproject.net.DefaultLink.DefaultLink">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1AbstractAnnotated.html#a2858b84119b1f766fd6222e79efa1b93" title="Returns the key/value annotations. " alt="" coords="232,5,419,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1DefaultLink.html#ad4ba19e7fa30d089e1e93b0e665726ac" title="Returns the link destination connection point. " alt="" coords="236,70,415,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1DefaultLink.html#aaf8d17b56ecb75416caf36c93b19a627" title="Indicates if the link is to be considered durable. " alt="" coords="236,135,415,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1DefaultLink.html#a54bc88f233f45cad5ed9cae428929786" title="Returns the link source connection point. " alt="" coords="236,201,415,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1DefaultLink.html#a9618879af39a7af81c14301b2988fa71" title="Returns the link state. " alt="" coords="236,266,415,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1DefaultLink.html#aa39ca808771e8a56c912ef9e14dfe01a" title="Returns the link type. " alt="" coords="236,331,415,373"/>
+</map>

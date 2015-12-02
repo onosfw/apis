@@ -1,0 +1,8 @@
+<map id="org.onosproject.vtnrsc.RouterId.valueOf" name="org.onosproject.vtnrsc.RouterId.valueOf">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnweb_1_1resources_1_1RouterWebResource.html#afbcd4d87d28eb525b11ffcccfb4a8fa0" title="org.onosproject.vtnweb.resources.\lRouterWebResource.addRouterInterface" alt="" coords="260,5,519,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1vtnrsc_1_1cli_1_1router_1_1RouterUpdateCommand.html#a2d0fa5a30358db45f1cd226906cda962" title="Executes this command. " alt="" coords="283,70,496,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1vtnrsc_1_1cli_1_1router_1_1RouterCreateCommand.html#a2512e410f73828f0cb1d993626189e71" title="Executes this command. " alt="" coords="284,135,495,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1vtnrsc_1_1cli_1_1floatingip_1_1FloatingIpCreateCommand.html#a674cc68c90861fc8b0dc400262b41672" title="Executes this command. " alt="" coords="275,201,503,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1vtnweb_1_1resources_1_1RouterWebResource.html#a9eb03864e1d08cc524eed850901b2482" title="org.onosproject.vtnweb.resources.\lRouterWebResource.getRouter" alt="" coords="278,266,501,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1vtnweb_1_1resources_1_1RouterWebResource.html#abc477937fdfd549eb0d64d706253728e" title="org.onosproject.vtnweb.resources.\lRouterWebResource.removeRouterInterface" alt="" coords="249,331,530,373"/>
+</map>

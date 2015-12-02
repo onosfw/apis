@@ -1,0 +1,4 @@
+<map id="org.onosproject.ovsdb.rfc.schema.ColumnSchema.equals" name="org.onosproject.ovsdb.rfc.schema.ColumnSchema.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1ColumnSchema.html#a9b6c49f805da63428df131db84c63960" title="Constructs a ColumnSchema object. " alt="" coords="278,5,501,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1ColumnSchema.html#a606961beab650229263ee114cc169271" title="Returns the name of column. " alt="" coords="550,5,773,46"/>
+</map>

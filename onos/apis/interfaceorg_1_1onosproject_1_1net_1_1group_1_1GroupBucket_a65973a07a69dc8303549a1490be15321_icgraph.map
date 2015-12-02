@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.group.GroupBucket.bytes" name="org.onosproject.net.group.GroupBucket.bytes">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1codec_1_1impl_1_1GroupBucketCodec.html#af9cc9278cfcbc6131aa276213e934cc5" title="org.onosproject.codec.impl.\lGroupBucketCodec.encode" alt="" coords="267,5,450,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1codec_1_1impl_1_1GroupBucketJsonMatcher.html#aa97a886da8b322443bb8965a950407e9" title="Matches the contents of a group bucket. " alt="" coords="227,70,491,111"/>
+</map>

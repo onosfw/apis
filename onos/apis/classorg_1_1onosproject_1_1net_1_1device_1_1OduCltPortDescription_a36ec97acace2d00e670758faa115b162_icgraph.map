@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.device.OduCltPortDescription.signalType" name="org.onosproject.net.device.OduCltPortDescription.signalType">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1device_1_1OduCltPortDescription.html#ad19562e43fd8d83e007d96bb0bf00ba0" title="Creates ODU client port description based on the supplied information. " alt="" coords="275,5,498,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1device_1_1OduCltPortDescription.html#ad199f945e7c0b375903fce32ccca7134" title="org.onosproject.net.device.\lOduCltPortDescription.toString" alt="" coords="285,86,488,127"/>
+</map>

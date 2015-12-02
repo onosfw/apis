@@ -1,0 +1,6 @@
+<map id="org.onosproject.bgp.controller.impl.BgpControllerImpl" name="org.onosproject.bgp.controller.impl.BgpControllerImpl">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1bgp_1_1controller_1_1BgpController.html" title="Abstraction of an BGP controller. " alt="" coords="371,5,568,46"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpControllerImpl_1_1BgpPeerManagerImpl.html" title="Implementation of an BGP Peer which is responsible for keeping track of connected peers and the state..." alt="" coords="342,230,597,271"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1bgp_1_1controller_1_1BgpPeerManager.html" title="Responsible for keeping track of the current set BGPLS peers connected to the system. " alt="" coords="5,230,203,271"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1Controller.html" title="The main controller class. " alt="" coords="357,295,582,337"/>
+</map>

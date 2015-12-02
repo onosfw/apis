@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.cluster.messaging.ClusterCommunicationServiceAdapter" name="org.onosproject.store.cluster.messaging.ClusterCommunicationServiceAdapter">
+<area shape="rect" id="node3" title="ClusterCommunicationService implementation that the map&#39;s addSubscriber call will delegate to..." alt="" coords="619,5,845,61"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1store_1_1cluster_1_1messaging_1_1ClusterCommunicationService.html" title="Service for assisting communications between controller cluster nodes. " alt="" coords="5,13,264,54"/>
+</map>

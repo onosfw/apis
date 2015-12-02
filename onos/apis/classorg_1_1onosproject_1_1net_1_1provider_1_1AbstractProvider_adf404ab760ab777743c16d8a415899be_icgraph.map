@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.provider.AbstractProvider.id" name="org.onosproject.net.provider.AbstractProvider.id">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1AbstractProvider.html#aabf527d29c1dda76743bc77d3028734f" title="Creates a provider with the supplier identifier. " alt="" coords="278,5,498,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1AbstractProviderTest.html#a14d3eb708f61353dafd31bb80fe06efe" title="org.onosproject.net.provider.\lAbstractProviderTest.basics" alt="" coords="295,70,481,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ovsdb_1_1provider_1_1tunnel_1_1OvsdbTunnelProviderTest.html#a8c679678b5926c739965d0a03e44fec1" title="org.onosproject.ovsdb.provider.tunnel.\lOvsdbTunnelProviderTest.testTunnelAdded" alt="" coords="251,135,525,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1ovsdb_1_1provider_1_1tunnel_1_1OvsdbTunnelProviderTest.html#aacfaaec264c7f6ace062d816b35e71c2" title="org.onosproject.ovsdb.provider.tunnel.\lOvsdbTunnelProviderTest.testTunnelRemoved" alt="" coords="241,201,535,242"/>
+</map>

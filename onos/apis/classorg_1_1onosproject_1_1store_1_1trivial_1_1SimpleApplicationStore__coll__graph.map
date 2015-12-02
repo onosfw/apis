@@ -1,0 +1,5 @@
+<map id="org.onosproject.store.trivial.SimpleApplicationStore" name="org.onosproject.store.trivial.SimpleApplicationStore">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1common_1_1app_1_1ApplicationArchive.html" title="Facility for reading application archive stream and managing application directory structure..." alt="" coords="287,17,481,58"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1app_1_1ApplicationStore.html" title="Service for managing network control applications. " alt="" coords="282,86,486,127"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1core_1_1ApplicationIdStore.html" title="Manages application IDs. " alt="" coords="280,151,488,193"/>
+</map>

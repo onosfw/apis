@@ -1,0 +1,8 @@
+<map id="org.onosproject.net.DefaultPort" name="org.onosproject.net.DefaultPort">
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1OchPort.html" title="Implementation of OCh port (Optical Channel). " alt="" coords="745,5,930,32"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1OduCltPort.html" title="Implementation of ODU client port (Optical channel Data Unit). " alt="" coords="736,56,939,83"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1OmsPort.html" title="Implementation of OMS port (Optical Multiplexing Section). " alt="" coords="743,107,932,133"/>
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1AbstractAnnotated.html" title="Base abstraction of an annotated entity. " alt="" coords="251,19,437,61"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotated.html" title="Represents an entity that carries arbitrary annotations. " alt="" coords="6,56,202,83"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1Port.html" title="Abstraction of a network port. " alt="" coords="263,85,425,112"/>
+</map>

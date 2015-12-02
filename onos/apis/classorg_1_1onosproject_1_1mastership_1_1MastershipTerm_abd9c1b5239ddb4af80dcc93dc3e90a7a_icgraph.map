@@ -1,0 +1,4 @@
+<map id="org.onosproject.mastership.MastershipTerm.of" name="org.onosproject.mastership.MastershipTerm.of">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleMastershipStoreTest.html#aa9a181889d9a70f39959634bd6772153" title="org.onosproject.store.trivial.\lSimpleMastershipStoreTest.getTermFor" alt="" coords="238,5,493,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1serializers_1_1KryoSerializerTest.html#a1f4b1d64bf59552d481fb66f1489fcd4" title="org.onosproject.store.serializers.\lKryoSerializerTest.testMastershipTerm" alt="" coords="241,70,490,111"/>
+</map>

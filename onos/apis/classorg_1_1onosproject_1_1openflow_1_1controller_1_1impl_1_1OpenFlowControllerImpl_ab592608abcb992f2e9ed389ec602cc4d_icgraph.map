@@ -1,0 +1,4 @@
+<map id="org.onosproject.openflow.controller.impl.OpenFlowControllerImpl.getMasterSwitches" name="org.onosproject.openflow.controller.impl.OpenFlowControllerImpl.getMasterSwitches">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1openflow_1_1controller_1_1impl_1_1OpenFlowControllerImplTest.html#ac561edaeae314050c555bfaf05583dd9" title="Tests adding equal switches. " alt="" coords="338,5,625,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1openflow_1_1controller_1_1impl_1_1OpenFlowControllerImplTest.html#acbaa12bbbc3d31f5d1c8cf00f2a10429" title="Tests adding master switches. " alt="" coords="334,70,629,111"/>
+</map>

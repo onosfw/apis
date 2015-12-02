@@ -1,0 +1,4 @@
+<map id="org.onosproject.incubator.net.virtual .DefaultVirtualNetwork.DefaultVirtualNetwork" name="org.onosproject.incubator.net.virtual .DefaultVirtualNetwork.DefaultVirtualNetwork">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1virtual_01_1_1DefaultVirtualNetwork.html#a1a22fad82cf0e9ee0a1d22dff181e59b" title="Returns the network identifier. " alt="" coords="296,5,525,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1virtual_01_1_1DefaultVirtualNetwork.html#a6588d2b9d5ca22e15d74b74873865e1b" title="Returns the identifier of the tenant to which this virtual network belongs. " alt="" coords="296,70,525,111"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.bgpio.protocol.ver4.BgpPathAttributes.read" name="org.onosproject.bgpio.protocol.ver4.BgpPathAttributes.read">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1ver4_1_1BgpPathAttributes.html#ae48a95b60f015236ece05a6e94b8889a" title="Initialize parameter. " alt="" coords="289,5,527,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1ver4_1_1BgpPathAttributes.html#ad4c8de28c65f64b7fb733780b315eda3" title="Checks mandatory attributes are presents, if not present throws exception. " alt="" coords="283,70,533,111"/>
+</map>

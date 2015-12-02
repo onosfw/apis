@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.device.impl.DeviceManagerTest.removeDevice" name="org.onosproject.net.device.impl.DeviceManagerTest.removeDevice">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html#a1d0a9294ac76b293cba4dd77009f539f" title="Returns the device with the specified identifier. " alt="" coords="293,5,472,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html#a5cb6315cfe0303a3b4db8b7e8ef66b48" title="Returns the number of infrastructure devices known to the system. " alt="" coords="280,70,485,111"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.onosproject.cli.net.DevicesListCommand.printDevice" name="org.onosproject.cli.net.DevicesListCommand.printDevice">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotated.html#a534add2e69d3fb4981cd63ad5f9cbf50" title="Returns the key/value annotations. " alt="" coords="275,5,541,32"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1Device.html#a6fd9f6006eafd30a816e210b9c90d0d9" title="Returns the device identifier. " alt="" coords="312,56,504,83"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1Device.html#ae94f58dab03e8cfba89e4502ae155fb5" title="Returns the device manufacturer name. " alt="" coords="279,107,537,133"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1Device.html#a0bc00f02935856d70db223181a1f608a" title="Returns the device software version. " alt="" coords="309,158,507,199"/>
+</map>

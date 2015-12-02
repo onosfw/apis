@@ -1,0 +1,5 @@
+<map id="org.onosproject.incubator.net.intf.Interface.hashCode" name="org.onosproject.incubator.net.intf.Interface.hashCode">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1intf_1_1Interface.html#ac6f987cb0ea9af2129aec988aa9368ed" title="Retrieves the connection point that this interface maps to. " alt="" coords="269,5,485,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1intf_1_1Interface.html#a9023924b2d67f57b562cc923a88e52c9" title="Retrieves the set of IP addresses that are assigned to the interface. " alt="" coords="269,70,485,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1intf_1_1Interface.html#a89376ac8288f8d9d741ffd65f77c763a" title="Retrieves the VLAN ID that is assigned to the interface. " alt="" coords="269,135,485,177"/>
+</map>

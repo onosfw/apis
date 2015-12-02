@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.criteria.TcpPortCriterion.type" name="org.onosproject.net.flow.criteria.TcpPortCriterion.type">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1TcpPortCriterion.html#a80625ce983f02340e9fe6c137940dbe7" title="org.onosproject.net.flow.criteria.\lTcpPortCriterion.hashCode" alt="" coords="261,5,469,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1TcpPortCriterion.html#a93cd1c3d9c2611ea07fce5a032f2e678" title="org.onosproject.net.flow.criteria.\lTcpPortCriterion.toString" alt="" coords="261,70,469,111"/>
+</map>

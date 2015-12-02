@@ -1,0 +1,5 @@
+<map id="org.onosproject.pim.impl.PIMNeighbor.isDr" name="org.onosproject.pim.impl.PIMNeighbor.isDr">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1pim_1_1impl_1_1PIMNeighbor.html#a18abbd815802ff049ebe461d31b73f91" title="We have received a fresh hello from this neighbor, now we need to process it. " alt="" coords="221,5,389,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1pim_1_1impl_1_1PIMNeighbor.html#a808aca791febba9803385d8ab67dee29" title="Set this router as the designated router on this connect point. " alt="" coords="221,70,389,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1pim_1_1impl_1_1PIMNeighbor.html#a894ba5f72ef0a2e5c2f4f36377a30d7e" title="org.onosproject.pim.impl.\lPIMNeighbor.toString" alt="" coords="221,135,389,177"/>
+</map>

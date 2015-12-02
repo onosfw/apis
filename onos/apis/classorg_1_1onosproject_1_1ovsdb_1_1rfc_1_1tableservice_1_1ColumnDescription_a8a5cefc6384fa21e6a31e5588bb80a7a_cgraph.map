@@ -1,0 +1,4 @@
+<map id="org.onosproject.ovsdb.rfc.tableservice.ColumnDescription.ColumnDescription" name="org.onosproject.ovsdb.rfc.tableservice.ColumnDescription.ColumnDescription">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1tableservice_1_1ColumnDescription.html#a1bf3f0e96bd1c5b686394e18186634fd" title="Returns the method name. " alt="" coords="302,5,549,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1tableservice_1_1ColumnDescription.html#aff9ac6e7f0e5a2c92f11bd931759a788" title="Returns the column name. " alt="" coords="302,70,549,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.bgpio.types.IPv6AddressTlv.compareTo" name="org.onosproject.bgpio.types.IPv6AddressTlv.compareTo">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPv6AddressTlv.html#a15683a6f522c190c0a9a7e4d236e611e" title="Returns Ipv6 address of interface/neighbor. " alt="" coords="736,6,923,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPv6AddressTlv.html#a2ab98e3580d3a554fda912d13abbc55b" title="org.onosproject.bgpio.types.\lIPv6AddressTlv.equals" alt="" coords="240,35,427,77"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPv6AddressTlv.html#ab41c0b33368fc46ab119e704bd000e4b" title="Constructor to initialize parameters. " alt="" coords="475,35,687,77"/>
+</map>

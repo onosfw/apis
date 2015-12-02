@@ -1,0 +1,11 @@
+<map id="org.onosproject.core.impl.CoreManager" name="org.onosproject.core.impl.CoreManager">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="413,46,585,87"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="11,43,197,85"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1app_1_1ApplicationService.html" title="Service for inspecting inventory of network control applications. " alt="" coords="397,113,601,154"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1cfg_1_1ComponentConfigService.html" title="Service for tracking system&#45;wide configurations for various software components. " alt="" coords="397,178,601,219"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1core_1_1ApplicationIdStore.html" title="Manages application IDs. " alt="" coords="395,243,603,285"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1core_1_1IdBlockStore.html" title="Manages id blocks. " alt="" coords="405,309,593,350"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1event_1_1EventDeliveryService.html" title="Abstraction of an entity capable of accepting events to be posted and then dispatching them to the ap..." alt="" coords="406,374,591,415"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1event_1_1EventDispatcher.html" title="Abstraction of a mechanism capable of accepting and dispatching events to appropriate event sinks..." alt="" coords="11,341,197,382"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onosproject_1_1event_1_1EventSinkRegistry.html" title="Abstraction of an event sink registry capable of tracking sinks based on their event class..." alt="" coords="11,406,197,447"/>
+</map>

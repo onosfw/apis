@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.intent.IntentOperation.equals" name="org.onosproject.net.intent.IntentOperation.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1IntentOperation.html#a611a0f56178f5b2c2ac68976e886abc4" title="Creates an intent operation. " alt="" coords="227,29,431,70"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1IntentOperation.html#ab9f006b6834f338cf3ae92ce11a7ed66" title="Returns the intent to which this operation applied. " alt="" coords="480,29,653,70"/>
+</map>

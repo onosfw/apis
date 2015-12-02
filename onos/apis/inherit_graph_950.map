@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1type_1_1ColumnType.html" title="The &quot;type&quot; specifies the type of data stored in this column. " alt="" coords="6,38,258,79"/>
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1type_1_1AtomicColumnType.html" title="The &quot;atomic&#45;type&quot; specifies the type of data stored in this column. " alt="" coords="307,5,559,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1type_1_1KeyValuedColumnType.html" title="a JSON object that describes the type of a database column, with key and value. " alt="" coords="307,70,559,111"/>
+</map>

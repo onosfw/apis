@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceorg_1_1onosproject_1_1core_1_1ApplicationIdStore.html" title="Manages application IDs. " alt="" coords="5,70,213,111"/>
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1core_1_1ApplicationIdStoreAdapter.html" title="Adapter for testing against app id store. " alt="" coords="261,5,469,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1core_1_1impl_1_1ConsistentApplicationIdStore.html" title="ApplicationIdStore implementation on top of. " alt="" coords="263,70,468,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleApplicationIdStore.html" title="Simple implementation of the application ID registry using in&#45;memory structures. " alt="" coords="274,135,457,177"/>
+</map>

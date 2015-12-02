@@ -1,0 +1,6 @@
+<map id="org.onosproject.ui.topo.BiLink" name="org.onosproject.ui.topo.BiLink">
+<area shape="rect" id="node2" href="$classDemoLink.html" title="Our demo concrete class of a bi&#45;link. " alt="" coords="270,5,351,32"/>
+<area shape="rect" id="node3" href="$classit_1_1pkg_1_1DemoLink.html" title="Our demo concrete class of a bi&#45;link. " alt="" coords="252,56,369,83"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1topo_1_1TrafficLink.html" title="Representation of a link and its inverse, and associated traffic data. " alt="" coords="217,107,404,149"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1BaseLink.html" title="A simple concrete implementation of a BiLink. " alt="" coords="231,173,390,214"/>
+</map>

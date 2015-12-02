@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.group.impl.DistributedGroupStoreTest.testPushGroupMetrics" name="org.onosproject.store.group.impl.DistributedGroupStoreTest.testPushGroupMetrics">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1Group.html#ae8f083afe964ee80f651d886cc7214ca" title="Returns the number of bytes processed by this group. " alt="" coords="323,5,496,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1Group.html#acfe895c3dcc73ba42c5d1d7f6c317787" title="Returns the number of packets processed by this group. " alt="" coords="323,70,496,111"/>
+</map>

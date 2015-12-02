@@ -1,0 +1,10 @@
+<map id="org.onosproject.driver.handshaker.NiciraSwitchHandshaker" name="org.onosproject.driver.handshaker.NiciraSwitchHandshaker">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1driver_1_1handshaker_1_1DefaultSwitchHandshaker.html" title="Default driver to fallback on if no other driver is available. " alt="" coords="1129,71,1351,113"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1openflow_1_1controller_1_1driver_1_1AbstractOpenFlowSwitch.html" title="An abstract representation of an OpenFlow switch. " alt="" coords="816,71,1080,113"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1AbstractHandlerBehaviour.html" title="Base implementation of device driver handler behaviour. " alt="" coords="549,38,723,79"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1AbstractBehaviour.html" title="Base implementation of device driver behaviour. " alt="" coords="255,5,428,46"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1Behaviour.html" title="Representation of a facet of device behaviour that can be used to talk about a device (in context of ..." alt="" coords="5,38,179,79"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1HandlerBehaviour.html" title="Representation of a facet of device behaviour that can be used to interact with a device (in context ..." alt="" coords="255,70,428,111"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1openflow_1_1controller_1_1driver_1_1OpenFlowSwitchDriver.html" title="Represents the driver side of an OpenFlow switch. " alt="" coords="504,103,768,145"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1openflow_1_1controller_1_1OpenFlowSwitch.html" title="Represents to provider facing side of a switch. " alt="" coords="227,135,455,177"/>
+</map>

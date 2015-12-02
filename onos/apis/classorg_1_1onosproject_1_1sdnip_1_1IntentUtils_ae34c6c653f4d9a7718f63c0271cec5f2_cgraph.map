@@ -1,0 +1,6 @@
+<map id="org.onosproject.sdnip.IntentUtils.equals" name="org.onosproject.sdnip.IntentUtils.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1Intent.html#a9fefd525ae6cf1234dcce91270afaf4a" title="org.onosproject.net.intent.\lIntent.equals" alt="" coords="244,5,417,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1ConnectivityIntent.html#aef4be7678fbfa88b9d130630c14ceecd" title="Returns the match specifying the type of traffic. " alt="" coords="241,70,420,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1ConnectivityIntent.html#a01f1e0a2278429c1d252c243f1d103da" title="Returns the action applied to the traffic. " alt="" coords="237,135,424,177"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1Intent.html#a9eedf46190d808f98d3251f3c560fe25" title="Constructor for serializer. " alt="" coords="472,5,645,46"/>
+</map>

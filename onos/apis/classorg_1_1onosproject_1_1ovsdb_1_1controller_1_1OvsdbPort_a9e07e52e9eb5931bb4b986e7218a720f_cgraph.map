@@ -1,0 +1,5 @@
+<map id="org.onosproject.ovsdb.controller.OvsdbPort.equals" name="org.onosproject.ovsdb.controller.OvsdbPort.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ovsdb_1_1controller_1_1OvsdbPort.html#aff39a30a1a79ed5931b40cd6ab11a9e4" title="Constructor from OvsdbPortNumber portNumber, OvsdbPortName portName. " alt="" coords="264,38,475,79"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ovsdb_1_1controller_1_1OvsdbPort.html#afb40d150d69dc5358aa05c9b3ac56f86" title="Gets the port name of port. " alt="" coords="523,5,733,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ovsdb_1_1controller_1_1OvsdbPort.html#a4d2e4dda47ecc7771f66cb704d2368a2" title="Gets the port number of port. " alt="" coords="523,70,733,111"/>
+</map>

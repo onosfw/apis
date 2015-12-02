@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceorg_1_1onosproject_1_1routing_1_1IntentSynchronizationService.html" title="Submits and withdraws intents to the IntentService from a single point in the cluster at any one time..." alt="" coords="5,5,197,46"/>
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1sdnip_1_1IntentSynchronizer.html" title="Synchronizes intents between the in&#45;memory intent store and the IntentService. " alt="" coords="246,5,429,46"/>
+</map>

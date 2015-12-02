@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.intent.constraint.AnnotationConstraint.cost" name="org.onosproject.net.intent.constraint.AnnotationConstraint.cost">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1constraint_1_1AnnotationConstraint.html#aab6c4228bce1f24e0c3aa9bc04659755" title="Returns true if the specified link satisfies the constraint. " alt="" coords="288,63,523,105"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1constraint_1_1AnnotationConstraint.html#ac891832a50cada13fcfd0a15d5239be4" title="Returns the key of link annotation this constraint designates. " alt="" coords="571,5,805,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1constraint_1_1AnnotationConstraint.html#a9044ccc349f01b22d503fc41c97fe720" title="Returns the threshold this constraint ensures as link annotated value. " alt="" coords="571,70,805,111"/>
+</map>

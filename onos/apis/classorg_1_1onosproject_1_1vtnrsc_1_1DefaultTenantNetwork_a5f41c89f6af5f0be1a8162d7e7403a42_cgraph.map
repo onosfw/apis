@@ -1,0 +1,12 @@
+<map id="org.onosproject.vtnrsc.DefaultTenantNetwork.hashCode" name="org.onosproject.vtnrsc.DefaultTenantNetwork.hashCode">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultTenantNetwork.html#a6c4f2e5c90e204a6af67f6ac712fdb9f" title="Returns the administrative state of the tenantNetwork,which is up(true) or down(false). " alt="" coords="258,5,457,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultTenantNetwork.html#ade16a0750c273f27b09117e0c636212e" title="Returns the tenantNetwork identifier. " alt="" coords="259,70,456,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultTenantNetwork.html#aa4b1ec0b643c4d68dc484af6519a149f" title="Returns the tenantNetwork name. " alt="" coords="259,135,456,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultTenantNetwork.html#a5e658a4f92e3db6cf70307730ea85811" title="Returns the tenantNetwork physical network. " alt="" coords="251,201,463,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultTenantNetwork.html#a130aebb0b0c683b546c226151d55ea3f" title="Returns the routerExternal.Indicates whether this network is externally accessible. " alt="" coords="259,266,456,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultTenantNetwork.html#a7846e080b9315149a137af992cc93b94" title="Returns the tenantNetwork segmentation id. " alt="" coords="255,331,459,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultTenantNetwork.html#a3b3d9f0724ac7d960df6ebf48047af10" title="Indicates whether this tenantNetwork is shared across all tenants. " alt="" coords="259,397,456,438"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultTenantNetwork.html#a239622c945e5044f084d11376627db05" title="Returns the tenantNetwork state. " alt="" coords="259,462,456,503"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultTenantNetwork.html#a8b239559c99357c93e5e6e266aa07015" title="Returns the UUID of the tenant that will own the tenantNetwork. " alt="" coords="259,527,456,569"/>
+<area shape="rect" id="node11" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultTenantNetwork.html#a746bb81ed0fd0b4f57c8ce9f7ede81e0" title="Returns the tenantNetwork Type. " alt="" coords="259,593,456,634"/>
+</map>

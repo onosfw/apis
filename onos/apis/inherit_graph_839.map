@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceorg_1_1onosproject_1_1netconf_1_1NetconfDevice.html" title="Interface representing a NETCONF device. " alt="" coords="5,5,168,46"/>
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1netconf_1_1ctl_1_1NetconfDeviceImpl.html" title="Implementation of a NETCONF device. " alt="" coords="217,5,397,46"/>
+</map>

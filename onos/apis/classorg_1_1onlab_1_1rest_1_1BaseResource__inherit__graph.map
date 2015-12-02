@@ -1,0 +1,45 @@
+<map id="org.onlab.rest.BaseResource" name="org.onlab.rest.BaseResource">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1demo_1_1DemoResource.html" title="Rest API for demos. " alt="" coords="253,953,440,994"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1rest_1_1AbstractWebResource.html" title="Abstract REST resource. " alt="" coords="251,1018,442,1059"/>
+<area shape="rect" id="node41" href="$classorg_1_1onosproject_1_1rest_1_1resources_1_1ConfigWebResource.html" title="Inject devices, ports, links and end&#45;station hosts. " alt="" coords="245,1083,448,1125"/>
+<area shape="rect" id="node42" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1ApplicationResource.html" title="Application upload resource. " alt="" coords="268,1149,425,1190"/>
+<area shape="rect" id="node43" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1LogoutResource.html" title="Application upload resource. " alt="" coords="268,1214,425,1255"/>
+<area shape="rect" id="node44" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1TopologyResource.html" title="Topology viewer resource. " alt="" coords="268,1279,425,1321"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1acl_1_1AclWebResource.html" title="Manage ACL rules. " alt="" coords="537,5,719,46"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1cordfabric_1_1FabricWebResource.html" title="Web resource for interacting with the fabric. " alt="" coords="540,70,716,111"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1dhcp_1_1rest_1_1DhcpWebResource.html" title="Manage DHCP address assignments. " alt="" coords="541,135,715,177"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1mfwd_1_1rest_1_1McastResource.html" title="Rest API for Multicast Forwarding. " alt="" coords="539,201,717,242"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1openstackswitching_1_1web_1_1OpenstackNetworkWebResource.html" title="Handles REST API call of Neutron ML2 plugin. " alt="" coords="497,266,759,307"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1openstackswitching_1_1web_1_1OpenstackPortWebResource.html" title="Handles Rest API call from Neutron ML2 plugin. " alt="" coords="497,331,759,373"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1openstackswitching_1_1web_1_1OpenstackSubnetWebResource.html" title="org.onosproject.openstackswitching.web.\lOpenstackSubnetWebResource" alt="" coords="497,397,759,438"/>
+<area shape="rect" id="node11" href="$classorg_1_1onosproject_1_1rest_1_1AbstractInjectionResource.html" title="Resource for serving semi&#45;static resources. " alt="" coords="533,462,723,503"/>
+<area shape="rect" id="node17" href="$classorg_1_1onosproject_1_1rest_1_1resources_1_1ApplicationsWebResource.html" title="Manage inventory of applications. " alt="" coords="527,527,729,569"/>
+<area shape="rect" id="node18" href="$classorg_1_1onosproject_1_1rest_1_1resources_1_1ClusterWebResource.html" title="Manage cluster of ONOS instances. " alt="" coords="527,593,729,634"/>
+<area shape="rect" id="node19" href="$classorg_1_1onosproject_1_1rest_1_1resources_1_1ComponentConfigWebResource.html" title="Manage component configurations. " alt="" coords="523,658,733,699"/>
+<area shape="rect" id="node20" href="$classorg_1_1onosproject_1_1rest_1_1resources_1_1DevicesWebResource.html" title="Manage inventory of infrastructure devices. " alt="" coords="527,723,729,765"/>
+<area shape="rect" id="node21" href="$classorg_1_1onosproject_1_1rest_1_1resources_1_1FlowsWebResource.html" title="Query and program flow rules. " alt="" coords="527,789,729,830"/>
+<area shape="rect" id="node22" href="$classorg_1_1onosproject_1_1rest_1_1resources_1_1HostsWebResource.html" title="Manage inventory of end&#45;station hosts. " alt="" coords="527,854,729,895"/>
+<area shape="rect" id="node23" href="$classorg_1_1onosproject_1_1rest_1_1resources_1_1IntentsWebResource.html" title="Query, submit and withdraw network intents. " alt="" coords="527,919,729,961"/>
+<area shape="rect" id="node24" href="$classorg_1_1onosproject_1_1rest_1_1resources_1_1LinksWebResource.html" title="Manage inventory of infrastructure links. " alt="" coords="527,985,729,1026"/>
+<area shape="rect" id="node25" href="$classorg_1_1onosproject_1_1rest_1_1resources_1_1NetworkConfigWebResource.html" title="Manage network configurations. " alt="" coords="527,1050,729,1091"/>
+<area shape="rect" id="node26" href="$classorg_1_1onosproject_1_1rest_1_1resources_1_1PathsWebResource.html" title="Compute paths in the network graph. " alt="" coords="527,1115,729,1157"/>
+<area shape="rect" id="node27" href="$classorg_1_1onosproject_1_1rest_1_1resources_1_1StatisticsWebResource.html" title="Query flow statistics. " alt="" coords="527,1181,729,1222"/>
+<area shape="rect" id="node28" href="$classorg_1_1onosproject_1_1rest_1_1resources_1_1TopologyWebResource.html" title="Query network topology graph and its components. " alt="" coords="527,1246,729,1287"/>
+<area shape="rect" id="node29" href="$classorg_1_1onosproject_1_1segmentrouting_1_1web_1_1PolicyWebResource.html" title="Query, create and remove segment routing plicies. " alt="" coords="510,1311,746,1353"/>
+<area shape="rect" id="node30" href="$classorg_1_1onosproject_1_1segmentrouting_1_1web_1_1TunnelWebResource.html" title="Query, create and remove segment routing tunnels. " alt="" coords="510,1377,746,1418"/>
+<area shape="rect" id="node31" href="$classorg_1_1onosproject_1_1virtualbng_1_1VbngResource.html" title="REST services to interact with the virtual BNG. " alt="" coords="541,1442,715,1483"/>
+<area shape="rect" id="node32" href="$classorg_1_1onosproject_1_1vtnweb_1_1resources_1_1FloatingIpWebResource.html" title="org.onosproject.vtnweb.resources.\lFloatingIpWebResource" alt="" coords="517,1507,739,1549"/>
+<area shape="rect" id="node33" href="$classorg_1_1onosproject_1_1vtnweb_1_1resources_1_1FlowClassifierWebResource.html" title="Query and program flow classifier. " alt="" coords="517,1573,739,1614"/>
+<area shape="rect" id="node34" href="$classorg_1_1onosproject_1_1vtnweb_1_1resources_1_1PortChainWebResource.html" title="Query and program port chain. " alt="" coords="517,1638,739,1679"/>
+<area shape="rect" id="node35" href="$classorg_1_1onosproject_1_1vtnweb_1_1resources_1_1PortPairGroupWebResource.html" title="Query and program port pair group. " alt="" coords="517,1703,739,1745"/>
+<area shape="rect" id="node36" href="$classorg_1_1onosproject_1_1vtnweb_1_1resources_1_1PortPairWebResource.html" title="Query and program port pair. " alt="" coords="517,1769,739,1810"/>
+<area shape="rect" id="node37" href="$classorg_1_1onosproject_1_1vtnweb_1_1resources_1_1RouterWebResource.html" title="org.onosproject.vtnweb.resources.\lRouterWebResource" alt="" coords="517,1834,739,1875"/>
+<area shape="rect" id="node38" href="$classorg_1_1onosproject_1_1vtnweb_1_1resources_1_1SubnetWebResource.html" title="org.onosproject.vtnweb.resources.\lSubnetWebResource" alt="" coords="517,1899,739,1941"/>
+<area shape="rect" id="node39" href="$classorg_1_1onosproject_1_1vtnweb_1_1resources_1_1TenantNetworkWebResource.html" title="REST resource for interacting with the inventory of networks. " alt="" coords="517,1965,739,2006"/>
+<area shape="rect" id="node40" href="$classorg_1_1onosproject_1_1vtnweb_1_1resources_1_1VirtualPortWebResource.html" title="REST resource for interacting with the inventory of infrastructure virtualPort. " alt="" coords="517,2030,739,2071"/>
+<area shape="rect" id="node12" href="$classorg_1_1onosproject_1_1rest_1_1resources_1_1ApiDocResource.html" title="REST API documentation. " alt="" coords="808,331,1011,373"/>
+<area shape="rect" id="node13" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1MainIndexResource.html" title="Resource for serving the dynamically composed index.html. " alt="" coords="831,397,988,438"/>
+<area shape="rect" id="node14" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1MainModuleResource.html" title="Resource for serving the dynamically composed onos.js. " alt="" coords="831,462,988,503"/>
+<area shape="rect" id="node15" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1MainNavResource.html" title="Resource for serving the dynamically composed nav.html. " alt="" coords="831,527,988,569"/>
+<area shape="rect" id="node16" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1MainViewResource.html" title="Resource for serving the dynamically composed onos.js. " alt="" coords="831,593,988,634"/>
+</map>

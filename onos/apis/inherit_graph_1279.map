@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceorg_1_1onosproject_1_1sfc_1_1installer_1_1FlowClassifierInstaller.html" title="Abstraction of an entity which installs flow classification rules in ovs. " alt="" coords="5,5,192,46"/>
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1sfc_1_1installer_1_1impl_1_1DefaultFlowClassifierInstaller.html" title="Provides flow classifier installer. " alt="" coords="241,5,455,46"/>
+</map>

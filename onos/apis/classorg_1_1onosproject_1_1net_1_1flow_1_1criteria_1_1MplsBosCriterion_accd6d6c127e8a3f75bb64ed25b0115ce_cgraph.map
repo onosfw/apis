@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.criteria.MplsBosCriterion.toString" name="org.onosproject.net.flow.criteria.MplsBosCriterion.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1MplsBosCriterion.html#a9b1d0e50e55ded04fd66d76c97562ecd" title="org.onosproject.net.flow.criteria.\lMplsBosCriterion.mplsBos" alt="" coords="261,5,469,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1MplsBosCriterion.html#ace920d8cf6f298a1586c52b1ec2d35b2" title="Returns the type of criterion. " alt="" coords="261,70,469,111"/>
+</map>

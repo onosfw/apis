@@ -1,0 +1,4 @@
+<map id="org.onlab.packet.IpAddress.isSelfAssigned" name="org.onlab.packet.IpAddress.isSelfAssigned">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1IpAddress.html#abc66c472c6960c7f6941319edb154d2d" title="Tests whether the IP version of this address is IPv4. " alt="" coords="248,12,461,39"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1IpAddress.html#a5e049bb120d15e0ada504c2d48959ace" title="Returns the IP version of this address. " alt="" coords="509,12,736,39"/>
+</map>

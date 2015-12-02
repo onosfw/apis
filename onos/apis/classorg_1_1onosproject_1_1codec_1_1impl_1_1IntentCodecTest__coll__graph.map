@@ -1,0 +1,8 @@
+<map id="org.onosproject.codec.impl.IntentCodecTest" name="org.onosproject.codec.impl.IntentCodecTest">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1AbstractIntentTest.html" title="org.onosproject.net.intent.\lAbstractIntentTest" alt="" coords="411,5,584,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1core_1_1IdGenerator.html" title="A generalized interface for ID generation. " alt="" coords="6,12,218,39"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1TrafficSelector.html" title="Abstraction of a slice of network traffic. " alt="" coords="415,70,580,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="411,135,583,177"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="19,135,205,177"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1TrafficTreatment.html" title="Abstraction of network traffic treatment. " alt="" coords="415,201,580,242"/>
+</map>

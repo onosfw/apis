@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.intent.constraint.BandwidthConstraint.isValid" name="org.onosproject.net.intent.constraint.BandwidthConstraint.isValid">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1constraint_1_1BandwidthConstraint.html#a15ec3760abd6209d5deea01bdf55a18b" title="Returns the bandwidth required by this constraint. " alt="" coords="313,5,548,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1LinkResourceService.html#abbd19c9fe3af845b496842fbb4cdabaa" title="Returns available resources for given link. " alt="" coords="289,70,573,111"/>
+</map>

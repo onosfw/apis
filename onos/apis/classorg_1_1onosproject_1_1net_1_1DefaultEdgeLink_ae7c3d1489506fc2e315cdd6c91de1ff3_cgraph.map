@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.DefaultEdgeLink.DefaultEdgeLink" name="org.onosproject.net.DefaultEdgeLink.DefaultEdgeLink">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1AbstractAnnotated.html#a2858b84119b1f766fd6222e79efa1b93" title="Returns the key/value annotations. " alt="" coords="232,5,419,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1DefaultEdgeLink.html#a0c2fdbe9ab5814cf36b1a87f2eeaea41" title="Returns the connection point where the host attaches to the network infrastructure. " alt="" coords="236,70,415,111"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.OchSignal" name="org.onosproject.net.OchSignal">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1Lambda.html" title="Abstraction of wavelength. " alt="" coords="5,83,187,109"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1util_1_1Frequency.html" title="Class representing frequency. " alt="" coords="211,83,372,109"/>
+</map>

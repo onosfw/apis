@@ -1,0 +1,10 @@
+<map id="org.onosproject.cli.AbstractChoicesCompleter" name="org.onosproject.cli.AbstractChoicesCompleter">
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1cli_1_1app_1_1AllApplicationNamesCompleter.html" title="All installed application name completer. " alt="" coords="603,5,805,46"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1cli_1_1app_1_1ApplicationCommandCompleter.html" title="Application command completer. " alt="" coords="601,70,807,111"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1cli_1_1MetricNameCompleter.html" title="Metric name completer. " alt="" coords="620,135,788,177"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1cli_1_1StartStopCompleter.html" title="Start/stop command completer. " alt="" coords="624,201,784,242"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1cli_1_1UpDownCompleter.html" title="Up/down command completer. " alt="" coords="613,266,795,307"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1provider_1_1nil_1_1cli_1_1TopologyShapeCompleter.html" title="Topology shape completer. " alt="" coords="605,331,803,373"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1xosintegration_1_1cli_1_1TenantIdCompleter.html" title="Application command completer. " alt="" coords="595,397,813,438"/>
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cli_1_1AbstractCompleter.html" title="Abstract argument completer. " alt="" coords="136,201,317,242"/>
+</map>

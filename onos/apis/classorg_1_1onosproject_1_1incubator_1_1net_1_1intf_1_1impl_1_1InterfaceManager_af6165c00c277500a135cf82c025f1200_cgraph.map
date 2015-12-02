@@ -1,0 +1,5 @@
+<map id="org.onosproject.incubator.net.intf.impl.InterfaceManager.remove" name="org.onosproject.incubator.net.intf.impl.InterfaceManager.remove">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1config_1_1basics_1_1InterfaceConfig.html#a66bf49c45ba163dd15f2de3b7ed756df" title="Retrieves all interfaces configured on this port. " alt="" coords="299,5,573,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1MacAddress.html#ad2d0a41f1372f8c6018a0b88456307a1" title="Returns a MAC address instance representing the value of the specified. " alt="" coords="622,12,866,39"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1packet_1_1MacAddress.html#ab72d01afb0cd7ef0db6279c90a70548d" title="org.onlab.packet.MacAddress.\lMacAddress" alt="" coords="915,5,1114,46"/>
+</map>

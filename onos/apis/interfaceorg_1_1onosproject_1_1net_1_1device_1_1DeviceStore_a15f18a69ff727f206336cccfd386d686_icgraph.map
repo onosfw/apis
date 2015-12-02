@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.device.DeviceStore.getDevice" name="org.onosproject.net.device.DeviceStore.getDevice">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleDeviceStoreTest.html#a584bfb56aa10a40b2226ca6200432a4b" title="org.onosproject.store.trivial.\lSimpleDeviceStoreTest.testGetDevice" alt="" coords="247,5,495,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStoreTest.html#a1bdadd494a8a15e5a6ae2fafc4bd5b7a" title="org.onosproject.store.device.impl.\lGossipDeviceStoreTest.testGetDevice" alt="" coords="246,70,495,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleDeviceStoreTest.html#af738ed92ba323bb060781982c54e35a1" title="org.onosproject.store.trivial.\lSimpleDeviceStoreTest.testRemove\lDevice" alt="" coords="253,136,488,192"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStoreTest.html#ab9098de8fc1cafef9478e90af76a9d26" title="org.onosproject.store.device.impl.\lGossipDeviceStoreTest.testRemoveDevice" alt="" coords="232,217,509,258"/>
+</map>

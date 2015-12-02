@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.group.GroupProvider" name="org.onosproject.net.group.GroupProvider">
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1provider_1_1of_1_1group_1_1impl_1_1OpenFlowGroupProvider.html" title="Provider which uses an OpenFlow controller to handle Group. " alt="" coords="463,70,707,111"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="5,38,192,79"/>
+</map>

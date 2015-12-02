@@ -1,0 +1,5 @@
+<map id="org.onosproject.routing.config.BgpSpeaker.connectPoint" name="org.onosproject.routing.config.BgpSpeaker.connectPoint">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1routing_1_1config_1_1BgpSpeaker.html#a862071fc8eb34d6cff7a8ef90d2ac47b" title="org.onosproject.routing.config.\lBgpSpeaker.equals" alt="" coords="251,5,448,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1routing_1_1config_1_1BgpSpeaker.html#a1d8d753828c56626a8de6e433eac481d" title="org.onosproject.routing.config.\lBgpSpeaker.hashCode" alt="" coords="251,70,448,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1routing_1_1config_1_1BgpSpeaker.html#a1e170b5625786d47e7f0cea30ecfe457" title="org.onosproject.routing.config.\lBgpSpeaker.toString" alt="" coords="251,135,448,177"/>
+</map>

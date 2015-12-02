@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.TrafficSelector" name="org.onosproject.net.flow.TrafficSelector">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultTrafficSelector.html" title="Default traffic selector implementation. " alt="" coords="252,5,417,46"/>
+<area shape="rect" id="node4" title="Mock traffic selector class used for satisfying API requirements. " alt="" coords="229,135,440,177"/>
+</map>

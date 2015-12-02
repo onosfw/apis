@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.statistic.impl.StatisticManager" name="org.onosproject.net.statistic.impl.StatisticManager">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1statistic_1_1StatisticService.html" title="Service for obtaining statistic information about link in the system. " alt="" coords="283,5,469,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1statistic_1_1StatisticStore.html" title="Store to house the computed statistics. " alt="" coords="283,70,469,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleService.html" title="Service for injecting flow rules into the environment and for obtaining information about flow rules ..." alt="" coords="293,135,459,177"/>
+</map>

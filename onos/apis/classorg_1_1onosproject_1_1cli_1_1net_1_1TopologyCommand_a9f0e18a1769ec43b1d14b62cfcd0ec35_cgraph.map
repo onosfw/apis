@@ -1,0 +1,4 @@
+<map id="org.onosproject.cli.net.TopologyCommand.execute" name="org.onosproject.cli.net.TopologyCommand.execute">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1topology_1_1Topology.html#a34fd8c15aabc2e8ed4c11480c20bd133" title="Returns the time, specified in system millis of when the topology became available. " alt="" coords="241,5,431,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1topology_1_1Topology.html#a62d4256da4ec4cdb8fefb8549d979814" title="Returns the number of infrastructure links in the topology. " alt="" coords="241,70,431,111"/>
+</map>

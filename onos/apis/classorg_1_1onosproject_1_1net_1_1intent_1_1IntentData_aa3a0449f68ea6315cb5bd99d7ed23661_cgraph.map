@@ -1,0 +1,3 @@
+<map id="org.onosproject.net.intent.IntentData.setErrorCount" name="org.onosproject.net.intent.IntentData.setErrorCount">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1IntentData.html#a3abd09de7f9934ee7d0b10931d26c0ec" title="Returns the number of times that this intent has encountered an error during installation or withdraw..." alt="" coords="227,5,400,46"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.criteria.IPv6ExthdrFlagsCriterion.exthdrFlags" name="org.onosproject.net.flow.criteria.IPv6ExthdrFlagsCriterion.exthdrFlags">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1IPv6ExthdrFlagsCriterion.html#a8de1ab67902170af8a74326cb0f1808e" title="org.onosproject.net.flow.criteria.\lIPv6ExthdrFlagsCriterion.equals" alt="" coords="297,5,508,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1IPv6ExthdrFlagsCriterion.html#ac5be51b8aa3b6bfc9892e0a0771e4288" title="org.onosproject.net.flow.criteria.\lIPv6ExthdrFlagsCriterion.toString" alt="" coords="294,70,511,111"/>
+</map>

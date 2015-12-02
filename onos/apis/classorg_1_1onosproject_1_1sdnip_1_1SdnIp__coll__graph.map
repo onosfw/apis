@@ -1,0 +1,14 @@
+<map id="org.onosproject.sdnip.SdnIp" name="org.onosproject.sdnip.SdnIp">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1routing_1_1SdnIpService.html" title="Service interface exported by SDN&#45;IP. " alt="" coords="445,5,603,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1host_1_1HostService.html" title="Service for interacting with the inventory of end&#45;station hosts. " alt="" coords="441,70,607,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1app_1_1ApplicationService.html" title="Service for inspecting inventory of network control applications. " alt="" coords="422,135,626,177"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1cluster_1_1LeadershipService.html" title="Service for leader election. " alt="" coords="445,201,603,242"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1IntentService.html" title="Service for application submitting or withdrawing their intents. " alt="" coords="437,266,611,307"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onosproject_1_1routing_1_1RoutingService.html" title="Provides a way of interacting with the RIB management component. " alt="" coords="445,331,603,373"/>
+<area shape="rect" id="node12" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="445,397,603,438"/>
+<area shape="rect" id="node14" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="438,462,610,503"/>
+<area shape="rect" id="node15" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="21,494,208,535"/>
+<area shape="rect" id="node16" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1intf_1_1InterfaceService.html" title="Service for interacting with interfaces. " alt="" coords="416,527,632,569"/>
+<area shape="rect" id="node17" href="$interfaceorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigService.html" title="Service for tracking network configurations which specify how the discovered network information shou..." alt="" coords="436,593,612,634"/>
+<area shape="rect" id="node19" href="$interfaceorg_1_1onosproject_1_1routing_1_1config_1_1RoutingConfigurationService.html" title="Provides information about the routing configuration. " alt="" coords="425,658,623,699"/>
+</map>

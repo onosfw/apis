@@ -1,0 +1,4 @@
+<map id="org.onosproject.cfg.ComponentConfigService" name="org.onosproject.cfg.ComponentConfigService">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cfg_1_1ComponentConfigAdapter.html" title="Adapter for testing against component configuration service. " alt="" coords="259,53,463,94"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1cfg_1_1impl_1_1ComponentConfigManager.html" title="Implementation of the centralized component configuration service. " alt="" coords="273,118,450,159"/>
+</map>

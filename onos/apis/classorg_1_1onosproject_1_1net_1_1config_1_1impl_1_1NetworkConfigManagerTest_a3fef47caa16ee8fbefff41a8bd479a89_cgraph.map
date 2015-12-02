@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.config.impl.NetworkConfigManagerTest.testRegistry" name="org.onosproject.net.config.impl.NetworkConfigManagerTest.testRegistry">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigRegistry.html#a9fab8ab11d75b1b121ff186bced9ed84" title="Returns set of all registered configuration factories. " alt="" coords="315,5,533,61"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigRegistry.html#a611daab5852c29b394c9d8bc5bcc99d6" title="Returns the configuration factory that produces the specified class of configurations. " alt="" coords="315,85,533,141"/>
+</map>

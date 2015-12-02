@@ -1,0 +1,5 @@
+<map id="org.onosproject.bgp.controller.impl.VpnAdjRibIn.add" name="org.onosproject.bgp.controller.impl.VpnAdjRibIn.add">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1VpnAdjRibIn.html#ab570efa61ad98cdd330ccf7976d6e49d" title="Returns the adjacency link. " alt="" coords="281,5,506,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1VpnAdjRibIn.html#aa63f662abb40b6f0f4ebc082c7718c28" title="Returns the adjacency node. " alt="" coords="281,70,506,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1VpnAdjRibIn.html#aab8806d35d63429ec767b23b3b37fa1e" title="Returns the adjacency prefix. " alt="" coords="281,135,506,177"/>
+</map>

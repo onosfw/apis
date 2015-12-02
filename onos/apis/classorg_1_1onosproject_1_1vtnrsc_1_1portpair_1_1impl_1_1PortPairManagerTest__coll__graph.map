@@ -1,0 +1,9 @@
+<map id="org.onosproject.vtnrsc.portpair.impl.PortPairManagerTest" name="org.onosproject.vtnrsc.portpair.impl.PortPairManagerTest">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnrsc_1_1portpair_1_1impl_1_1PortPairManager.html" title="Provides implementation of the portPairService. " alt="" coords="350,42,581,83"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1portpair_1_1PortPairService.html" title="Service for interacting with the inventory of port pairs. " alt="" coords="5,5,208,46"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="9,70,204,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultPortPair.html" title="Implementation of port pair. " alt="" coords="367,107,564,149"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortPair.html" title="Abstraction of an entity providing Port Pair information. " alt="" coords="5,155,208,181"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1vtnrsc_1_1PortPairId.html" title="Representation of a Port Pair ID. " alt="" coords="376,237,555,278"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1vtnrsc_1_1TenantId.html" title="Immutable representation of a tenant identifier. " alt="" coords="362,303,569,329"/>
+</map>

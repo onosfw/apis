@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1AtomicCounterBuilder.html" title="Builder for AtomicCounter. " alt="" coords="5,5,200,46"/>
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1DefaultAtomicCounterBuilder.html" title="Default implementation of AtomicCounterBuilder. " alt="" coords="248,5,488,46"/>
+</map>

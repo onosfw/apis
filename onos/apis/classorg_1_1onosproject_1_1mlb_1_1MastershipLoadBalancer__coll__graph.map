@@ -1,0 +1,6 @@
+<map id="org.onosproject.mlb.MastershipLoadBalancer" name="org.onosproject.mlb.MastershipLoadBalancer">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1cluster_1_1LeadershipService.html" title="Service for leader election. " alt="" coords="287,13,446,54"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipAdminService.html" title="Service for administering the inventory of device masterships. " alt="" coords="275,78,458,119"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="287,143,446,185"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipService.html" title="Service responsible for determining the controller instance mastership of a device in a clustered env..." alt="" coords="275,213,458,254"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1DefaultDatabase.html" title="Default database. " alt="" coords="453,5,693,46"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1Database.html" title="Database. " alt="" coords="165,67,405,109"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1PartitionedDatabase.html" title="A database that partitions the keys across one or more database partitions. " alt="" coords="453,70,693,111"/>
+</map>

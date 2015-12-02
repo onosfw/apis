@@ -1,0 +1,4 @@
+<map id="org.onosproject.bgpio.protocol.BgpPrefixLSNlri" name="org.onosproject.bgpio.protocol.BgpPrefixLSNlri">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1BgpPrefixIPv4LSNlriVer4.html" title="Implementation of Prefix IPV4 LS NLRI. " alt="" coords="5,187,259,229"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1bgpio_1_1protocol_1_1BgpLSNlri.html" title="Abstraction of an entity providing BGP&#45;LS NLRI. " alt="" coords="32,6,232,47"/>
+</map>

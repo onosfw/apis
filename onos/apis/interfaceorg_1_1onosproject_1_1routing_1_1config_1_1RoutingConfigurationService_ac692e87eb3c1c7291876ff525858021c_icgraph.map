@@ -1,0 +1,3 @@
+<map id="org.onosproject.routing.config.RoutingConfigurationService.getBgpPeers" name="org.onosproject.routing.config.RoutingConfigurationService.getBgpPeers">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1sdnip_1_1PeerConnectivityManagerTest.html#a1e95a857564d56725ed57d774a4197f6" title="Tests a corner case, when there is no BGP speakers in the configuration. " alt="" coords="321,5,541,61"/>
+</map>

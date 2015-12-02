@@ -1,0 +1,10 @@
+<map id="org.onosproject.metrics.topology.TopologyMetrics" name="org.onosproject.metrics.topology.TopologyMetrics">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1metrics_1_1topology_1_1TopologyMetricsService.html" title="Service interface exported by TopologyMetrics. " alt="" coords="422,5,637,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1host_1_1HostService.html" title="Service for interacting with the inventory of end&#45;station hosts. " alt="" coords="446,70,613,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="440,135,619,177"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkService.html" title="Service for interacting with the inventory of infrastructure links. " alt="" coords="449,201,610,242"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1net_1_1topology_1_1TopologyService.html" title="Service for providing network topology information. " alt="" coords="434,266,625,307"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onlab_1_1metrics_1_1MetricsService.html" title="Metrics Service to collect metrics. " alt="" coords="445,331,614,373"/>
+<area shape="rect" id="node12" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="443,397,615,438"/>
+<area shape="rect" id="node13" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="24,397,211,438"/>
+</map>

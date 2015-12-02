@@ -1,0 +1,8 @@
+<map id="org.onosproject.incubator.rpc.grpc.GrpcRemoteServiceTest.CTestDeviceProvider" name="org.onosproject.incubator.rpc.grpc.GrpcRemoteServiceTest.CTestDeviceProvider">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceProvider.html" title="Abstraction of a device information provider. " alt="" coords="516,5,695,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="248,5,435,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1DeviceId.html" title="Immutable representation of a device identity. " alt="" coords="511,109,700,136"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1ElementId.html" title="Immutable representation of a network element identity. " alt="" coords="243,109,439,136"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1NetworkResource.html" title="Representation of a network resource, e.g. " alt="" coords="5,102,192,143"/>
+<area shape="rect" id="node7" href="$enumorg_1_1onosproject_1_1net_1_1MastershipRole.html" title="Representation of a relationship role of a controller instance to a device or a region of network env..." alt="" coords="491,160,719,187"/>
+</map>

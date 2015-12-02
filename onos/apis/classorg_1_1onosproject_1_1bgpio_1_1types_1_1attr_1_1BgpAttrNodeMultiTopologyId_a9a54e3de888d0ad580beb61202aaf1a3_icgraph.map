@@ -1,0 +1,6 @@
+<map id="org.onosproject.bgpio.types.attr.BgpAttrNodeMultiTopologyId.BgpAttrNodeMultiTopologyId" name="org.onosproject.bgpio.types.attr.BgpAttrNodeMultiTopologyId.BgpAttrNodeMultiTopologyId">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpAttrNodeMultiTopologyId.html#a8142758aa445dfc6c032879d94276070" title="Compares two objects. " alt="" coords="603,5,861,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpAttrNodeMultiTopologyId.html#af0cf593d9bf019af1eb8947e6272703e" title="org.onosproject.bgpio.types.attr.\lBgpAttrNodeMultiTopologyId.equals" alt="" coords="323,34,554,75"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpAttrNodeMultiTopologyId.html#ad09b06d6db6015c06e231db89ef62257" title="Returns object of this class with specified values. " alt="" coords="334,99,543,141"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpAttrNodeMultiTopologyId.html#ab7d7cd55fc02e5c6493534f32fa21c72" title="Reads the Multi&#45;topology ID of Node attribute. " alt="" coords="329,165,548,206"/>
+</map>

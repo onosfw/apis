@@ -1,0 +1,5 @@
+<map id="org.onosproject.ovsdb.controller.OvsdbClientService" name="org.onosproject.ovsdb.controller.OvsdbClientService">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ovsdb_1_1controller_1_1driver_1_1DefaultOvsdbClient.html" title="An representation of an ovsdb client. " alt="" coords="531,5,778,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ovsdb_1_1controller_1_1driver_1_1OvsdbClientServiceAdapter.html" title="Test Adapter for OvsdbClientService. " alt="" coords="531,70,778,111"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1jsonrpc_1_1OvsdbRPC.html" title="The following interface describe the RPC7047&#39;s methods that are supported. " alt="" coords="5,38,224,79"/>
+</map>

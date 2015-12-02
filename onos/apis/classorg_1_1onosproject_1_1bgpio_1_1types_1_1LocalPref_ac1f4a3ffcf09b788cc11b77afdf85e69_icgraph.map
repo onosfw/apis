@@ -1,0 +1,5 @@
+<map id="org.onosproject.bgpio.types.LocalPref.LocalPref" name="org.onosproject.bgpio.types.LocalPref.LocalPref">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1LocalPref.html#abcedefd53bfa860e9078aedf99c142f2" title="org.onosproject.bgpio.types.\lLocalPref.equals" alt="" coords="240,5,427,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1LocalPref.html#a274cf529789e31960a7167bd044e2c14" title="Reads the channel buffer and returns object of LocalPref. " alt="" coords="240,70,427,111"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpSelectionAlgo.html#a0d347a2b93133512ee2d4cb053473351" title="org.onosproject.bgp.controller.impl.\lBgpSelectionAlgo.compare" alt="" coords="475,5,701,46"/>
+</map>

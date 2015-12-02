@@ -1,0 +1,9 @@
+<map id="org.onosproject.bgpio.types.IPv4AddressTlv.address" name="org.onosproject.bgpio.types.IPv4AddressTlv.address">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPv4AddressTlv.html#a4dc2d2739186fa4cd2cbbecdea41c26d" title="Compares two objects. " alt="" coords="736,22,923,63"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPv4AddressTlv.html#a7100faa3794a84c02239c29ee4967734" title="org.onosproject.bgpio.types.\lIPv4AddressTlv.hashCode" alt="" coords="253,51,440,92"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPv4AddressTlv.html#a46d30c728ea1d786d405b5276a3d25d2" title="Constructor to initialize parameters. " alt="" coords="241,116,453,158"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPv4AddressTlv.html#a525a17681fead625dcb0a9a1624a5733" title="Reads the channel buffer and returns object of IPv4AddressTlv. " alt="" coords="253,182,440,223"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPv4AddressTlv.html#ae71be9a431e0a9afadf5df5310ce7411" title="org.onosproject.bgpio.types.\lIPv4AddressTlv.toString" alt="" coords="253,247,440,288"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPv4AddressTlv.html#ae6bacc3751e476e342cd91da938421c2" title="org.onosproject.bgpio.types.\lIPv4AddressTlv.equals" alt="" coords="501,51,688,92"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPv4AddressTlv.html#a51d8e1ab6faa8c874ccdeee5d903424c" title="Returns object of this class with specified values. " alt="" coords="501,116,688,158"/>
+</map>

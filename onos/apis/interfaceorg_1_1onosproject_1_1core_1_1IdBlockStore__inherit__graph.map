@@ -1,0 +1,4 @@
+<map id="org.onosproject.core.IdBlockStore" name="org.onosproject.core.IdBlockStore">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1core_1_1impl_1_1ConsistentIdBlockStore.html" title="Implementation of. " alt="" coords="243,5,448,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleIdBlockStore.html" title="Simple implementation of id block store. " alt="" coords="254,70,437,111"/>
+</map>

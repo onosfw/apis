@@ -1,0 +1,7 @@
+<map id="org.onosproject.bgp.controller.impl.BgpSelectionAlgo" name="org.onosproject.bgp.controller.impl.BgpSelectionAlgo">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1Origin.html" title="Provides Implementation of mandatory BGP Origin path attribute. " alt="" coords="255,70,441,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1bgpio_1_1types_1_1BgpValueType.html" title="Abstraction which Provides the BGP of TLV format. " alt="" coords="5,158,192,199"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1Med.html" title="Provides Implementation of Med BGP Path Attribute. " alt="" coords="243,136,453,163"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1AsPath.html" title="Provides Implementation of AsPath mandatory BGP Path Attribute. " alt="" coords="255,187,441,229"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1LocalPref.html" title="Provides implementation of LocalPref BGP Path Attribute. " alt="" coords="255,253,441,294"/>
+</map>

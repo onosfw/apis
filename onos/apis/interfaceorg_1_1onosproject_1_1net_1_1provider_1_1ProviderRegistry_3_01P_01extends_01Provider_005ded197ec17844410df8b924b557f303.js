@@ -1,0 +1,6 @@
+var interfaceorg_1_1onosproject_1_1net_1_1provider_1_1ProviderRegistry_3_01P_01extends_01Provider_005ded197ec17844410df8b924b557f303 =
+[
+    [ "getProviders", "interfaceorg_1_1onosproject_1_1net_1_1provider_1_1ProviderRegistry_3_01P_01extends_01Provider_005ded197ec17844410df8b924b557f303.html#aa5c1c7e098c5bc2fc016464857d4a1dd", null ],
+    [ "register", "interfaceorg_1_1onosproject_1_1net_1_1provider_1_1ProviderRegistry_3_01P_01extends_01Provider_005ded197ec17844410df8b924b557f303.html#abd36628269af5f6f601f1f3173a638d5", null ],
+    [ "unregister", "interfaceorg_1_1onosproject_1_1net_1_1provider_1_1ProviderRegistry_3_01P_01extends_01Provider_005ded197ec17844410df8b924b557f303.html#a58504aacbb54465cd76829d7302ebe87", null ]
+];

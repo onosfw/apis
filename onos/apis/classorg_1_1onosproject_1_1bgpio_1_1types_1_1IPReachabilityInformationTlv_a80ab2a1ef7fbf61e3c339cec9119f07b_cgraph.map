@@ -1,0 +1,4 @@
+<map id="org.onosproject.bgpio.types.IPReachabilityInformationTlv.toString" name="org.onosproject.bgpio.types.IPReachabilityInformationTlv.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPReachabilityInformationTlv.html#aba785bdb44b97dd41688fd41e6145a30" title="Returns IP Prefix length. " alt="" coords="259,5,471,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPReachabilityInformationTlv.html#a89fcd27a8fabf4218fac934237a96f0b" title="Returns IP Prefix. " alt="" coords="259,85,471,141"/>
+</map>

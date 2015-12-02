@@ -1,0 +1,5 @@
+<map id="org.onosproject.vtnrsc.router.DefaultRouterTest.testConstruction" name="org.onosproject.vtnrsc.router.DefaultRouterTest.testConstruction">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1Router.html#ad140b500c21c7e2e46bcc482c9e8e09f" title="Returns the RouterGateway of router. " alt="" coords="283,5,527,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1Router.html#a8add9f8252a8e2ca595b8dac8c41e2f1" title="Returns the router identifier. " alt="" coords="301,71,509,97"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1Router.html#a1b5bc9f9d3b643ccc974d67227ba92f6" title="Returns the owner(tenant) of this router. " alt="" coords="283,121,528,148"/>
+</map>

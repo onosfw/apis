@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.impl.FlowRuleManager.getFlowRulesById" name="org.onosproject.net.flow.impl.FlowRuleManager.getFlowRulesById">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html#adddfe5a01ed42c5094fec234c594fe67" title="Returns a collection of the currently known infrastructure devices. " alt="" coords="304,5,483,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleStore.html#a27972cb30ec7be22136b8faf210f32c5" title="Returns the flow entries associated with a device. " alt="" coords="294,70,493,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.device.DefaultDeviceDescription.hwVersion" name="org.onosproject.net.device.DefaultDeviceDescription.hwVersion">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1device_1_1DefaultDeviceDescription.html#a12cc8ea65b31b3ab83149ca203152b9d" title="Creates a device description using the supplied information. " alt="" coords="299,5,517,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1device_1_1DefaultDeviceDescription.html#a89545ca61b15e272967e047249e9d319" title="org.onosproject.net.device.\lDefaultDeviceDescription.hashCode" alt="" coords="291,86,525,127"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1device_1_1DefaultDeviceDescription.html#a8ab92a9fb6f4b6ef1a72e09d4f74ea8f" title="org.onosproject.net.device.\lDefaultDeviceDescription.toString" alt="" coords="298,151,518,193"/>
+</map>

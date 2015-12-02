@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.impl.FlowRuleManager" name="org.onosproject.net.flow.impl.FlowRuleManager">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleService.html" title="Service for injecting flow rules into the environment and for obtaining information about flow rules ..." alt="" coords="340,115,505,157"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleProviderRegistry.html" title="Abstraction for a flow rule provider registry. " alt="" coords="335,186,510,227"/>
+</map>

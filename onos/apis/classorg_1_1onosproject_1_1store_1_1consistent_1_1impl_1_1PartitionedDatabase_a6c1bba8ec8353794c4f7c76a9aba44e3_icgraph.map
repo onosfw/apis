@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.consistent.impl.PartitionedDatabase.counters" name="org.onosproject.store.consistent.impl.PartitionedDatabase.counters">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1DatabaseManager.html#ac08828692f78a9dfeef2cbc0c9a413b7" title="Returns information about all the atomic counters in the system. " alt="" coords="308,5,548,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1DatabaseManager.html#ad7f11128a0d6a0bf0a6c728a791ef84b" title="Returns information about all the atomic partitioned database counters in the system. " alt="" coords="294,71,562,127"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="org.onosproject.net.DefaultPortTest.basics" name="org.onosproject.net.DefaultPortTest.basics">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1Port.html#ae44097da508e86647f462f3509e70f6f" title="Returns the parent network element to which this port belongs. " alt="" coords="232,5,443,32"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1Port.html#a9b1328077a7dca3edb6eb27d4d6e1d95" title="Indicates whether or not the port is currently up and active. " alt="" coords="250,57,425,98"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1Port.html#ab322a591799f84636f2bcef044c5029e" title="Returns the port number. " alt="" coords="233,123,441,149"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1Port.html#ab64e612eb74712cbbeb17bb8dc03bb2f" title="Returns the current port speed in Mbps. " alt="" coords="244,174,431,215"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1Port.html#a2241509fdd02239830a627ecf02c2a49" title="Returns the port type. " alt="" coords="242,240,433,267"/>
+</map>

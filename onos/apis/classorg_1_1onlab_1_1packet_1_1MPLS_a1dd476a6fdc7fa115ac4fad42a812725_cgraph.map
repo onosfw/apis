@@ -1,0 +1,4 @@
+<map id="org.onlab.packet.MPLS.deserialize" name="org.onlab.packet.MPLS.deserialize">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1MPLS.html#a5343548213384344da8d7ab6c4181dc2" title="Deserializer function for MPLS packets. " alt="" coords="278,5,506,32"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1MPLS.html#ac8c5a87fe067bbde36790989b98e5994" title="Default constructor that sets the version to 4. " alt="" coords="555,5,754,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.impl.MastershipBasedTimestamp.MastershipBasedTimestamp" name="org.onosproject.store.impl.MastershipBasedTimestamp.MastershipBasedTimestamp">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1impl_1_1MastershipBasedTimestamp.html#a727104c3f77cfe3961d1f34f579b50a5" title="Returns the sequenceNumber number. " alt="" coords="317,5,565,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1impl_1_1MastershipBasedTimestamp.html#a3334879cc755ec733499aa4c435ff867" title="Returns the termNumber. " alt="" coords="309,86,573,127"/>
+</map>

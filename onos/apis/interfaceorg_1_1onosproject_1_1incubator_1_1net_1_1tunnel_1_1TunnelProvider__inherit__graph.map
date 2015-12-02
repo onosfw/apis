@@ -1,0 +1,5 @@
+<map id="org.onosproject.incubator.net.tunnel.TunnelProvider" name="org.onosproject.incubator.net.tunnel.TunnelProvider">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ovsdb_1_1provider_1_1tunnel_1_1OvsdbTunnelProvider.html" title="Provider which uses when tunnel added/removed. " alt="" coords="533,5,776,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1provider_1_1pcep_1_1tunnel_1_1impl_1_1PcepTunnelProvider.html" title="Provider which uses an PCEP controller to detect, update, create network tunnels. ..." alt="" coords="523,70,787,111"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="5,38,192,79"/>
+</map>

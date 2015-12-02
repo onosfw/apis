@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.link.LinkStore.getDeviceIngressLinks" name="org.onosproject.net.link.LinkStore.getDeviceIngressLinks">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1link_1_1impl_1_1LinkManager.html#ab49f6576147aff67c9935b7f72088726" title="Returns set of all infrastructure links leading to and from the specified device. ..." alt="" coords="270,5,461,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1link_1_1impl_1_1LinkManager.html#a7a83f164d51cda1af72695f44117fbfa" title="Removes all infrastructure links leading to and from the specified device. " alt="" coords="509,5,699,46"/>
+</map>

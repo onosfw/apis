@@ -1,0 +1,8 @@
+<map id="org.onosproject.segmentrouting.web.PolicyCodec.encode" name="org.onosproject.segmentrouting.web.PolicyCodec.encode">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1segmentrouting_1_1Policy.html#aa03458efe0fb5f9076737965328a042a" title="Returns the destination IP address of the policy. " alt="" coords="291,5,499,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1segmentrouting_1_1Policy.html#a79042965722011423850d3573ad1797f" title="Returns the destination of the policy. " alt="" coords="291,70,499,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1segmentrouting_1_1Policy.html#a4d9111f34c44d873f35760bd79905299" title="Returns the IP protocol of the policy. " alt="" coords="291,135,499,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1segmentrouting_1_1Policy.html#a94fcac4b42c357045b3e75c3ddb4525c" title="Returns the source IP address of the policy. " alt="" coords="291,201,499,242"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1segmentrouting_1_1Policy.html#a442536224d354c01cf26d2d6dca6739f" title="Returns the source port of the policy. " alt="" coords="291,266,499,307"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1segmentrouting_1_1Policy.html#a2a87aefa7f799249adae2f4e724ca7ff" title="Returns the policy type. " alt="" coords="291,331,499,373"/>
+</map>

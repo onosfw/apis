@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.packet.DefaultOutboundPacket.toString" name="org.onosproject.net.packet.DefaultOutboundPacket.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1packet_1_1DefaultOutboundPacket.html#aea915a6a5fa52fe41d54c1dc03f01224" title="Returns the identity of a device through which this packet should be sent. " alt="" coords="264,5,504,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1packet_1_1DefaultOutboundPacket.html#ad3305d1fffd604bf106d216a21bc5245" title="Returns how the outbound packet should be treated. " alt="" coords="274,70,494,111"/>
+</map>

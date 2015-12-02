@@ -1,0 +1,27 @@
+var classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalLinkDescription =
+[
+    [ "getDpid1", "classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalLinkDescription.html#a8dbd0c5be480c9ae0a9edd5830d2b6e9", null ],
+    [ "getDpid2", "classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalLinkDescription.html#af76171c56e498ee63ec0769adbbf7284", null ],
+    [ "getNodeDpid1", "classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalLinkDescription.html#a7fbccfead1147d59cd010978666346f4", null ],
+    [ "getNodeDpid2", "classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalLinkDescription.html#a6f6556ed92facd75b04f23bcad6492e0", null ],
+    [ "getParams", "classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalLinkDescription.html#a37a04d2b24fd7440bf796cd88b0fde64", null ],
+    [ "getPublishAttributes", "classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalLinkDescription.html#a7679c5da33cea50bbcbe985711d64693", null ],
+    [ "getType", "classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalLinkDescription.html#a1a22d604bebd41618d5898ad1bf785a2", null ],
+    [ "isAllowed", "classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalLinkDescription.html#a5ba21d4d91b87b548e027ca43d6f61a5", null ],
+    [ "setAllowed", "classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalLinkDescription.html#a1a919ad8b29f421add8040d96a1925f8", null ],
+    [ "setDpid1", "classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalLinkDescription.html#aff4a0bc5df6784d9a52c48a247759f1b", null ],
+    [ "setDpid2", "classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalLinkDescription.html#afd05a8624609da72231585dcaa9f9f62", null ],
+    [ "setNodeDpid1", "classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalLinkDescription.html#a544cc17b400f739040ee034ebecc9851", null ],
+    [ "setNodeDpid2", "classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalLinkDescription.html#adec8d62a4b4da1559221ee01012e1b3d", null ],
+    [ "setParams", "classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalLinkDescription.html#a6f9161af750ccec7d805565b2ec983ea", null ],
+    [ "setPublishAttributes", "classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalLinkDescription.html#af98d45d9b6b88fbfbb344d3c1cf0b98d", null ],
+    [ "setType", "classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalLinkDescription.html#a8370ed33a7d813d886420ac1a8b10169", null ],
+    [ "allowed", "classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalLinkDescription.html#a1978e6df62e43d1fcb9e76189b7ab5b9", null ],
+    [ "dpid1", "classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalLinkDescription.html#ad48cea3bd54be488628f922d3731d7e9", null ],
+    [ "dpid2", "classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalLinkDescription.html#a24564e417caf9457c3c3f2027e988d96", null ],
+    [ "nodeDpid1", "classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalLinkDescription.html#a294f5fc78abc155a14bddec18a9165f3", null ],
+    [ "nodeDpid2", "classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalLinkDescription.html#adf48e92c731cf395ea12a56eff39f85c", null ],
+    [ "params", "classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalLinkDescription.html#a3118751cfe6382d6b5a3e860bd8db61b", null ],
+    [ "publishAttributes", "classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalLinkDescription.html#a25ad5badacd5a398f78395c9acbccb77", null ],
+    [ "type", "classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalLinkDescription.html#a22984e4e5ebf6ec36cbf1baad87145a3", null ]
+];

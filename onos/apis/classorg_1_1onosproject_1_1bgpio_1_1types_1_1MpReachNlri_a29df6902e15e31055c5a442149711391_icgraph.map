@@ -1,0 +1,5 @@
+<map id="org.onosproject.bgpio.types.MpReachNlri.safi" name="org.onosproject.bgpio.types.MpReachNlri.safi">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1MpReachNlri.html#a9b86887e5f3705917a6b2d1b4d84a294" title="Constructor to initialize parameters. " alt="" coords="240,5,427,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1MpReachNlri.html#a7a6eb8dad2b8fe0bb36727f2861a96dd" title="Reads from ChannelBuffer and parses MpReachNlri. " alt="" coords="475,34,661,75"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1MpReachNlri.html#a423a503bad04d1519c1c3e82660414b1" title="org.onosproject.bgpio.types.\lMpReachNlri.toString" alt="" coords="240,122,427,163"/>
+</map>

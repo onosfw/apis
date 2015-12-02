@@ -1,0 +1,6 @@
+<map id="org.onosproject.incubator.net.resource.label.LabelResourcePool.toString" name="org.onosproject.incubator.net.resource.label.LabelResourcePool.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1resource_1_1label_1_1LabelResourcePool.html#ad6895b0bb99ddd93a7a35ae28cff92d7" title="Returns a device id. " alt="" coords="334,5,613,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1resource_1_1label_1_1LabelResourcePool.html#a8cc3733eacd5021be39996fd6e85082e" title="Returns an end Label id. " alt="" coords="334,70,613,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1resource_1_1label_1_1LabelResourcePool.html#a3be315a4a21a9f5c8492065f79206bd1" title="Returns the Set of released label before. " alt="" coords="334,135,613,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1resource_1_1label_1_1LabelResourcePool.html#a4c0f5b77ab6473a2732d3a9aa1b09c13" title="Returns used number. " alt="" coords="334,201,613,242"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.vtnrsc.DefaultHostRoute.equals" name="org.onosproject.vtnrsc.DefaultHostRoute.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultHostRoute.html#ae4cad48bad483742c65b953fc185d846" title="Creates a DefaultHostRoute by using the next hop and the destination. " alt="" coords="251,38,448,79"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultHostRoute.html#ac93475174685a45e273dec3f990c7cde" title="Returns the destination address. " alt="" coords="496,5,693,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultHostRoute.html#a0beb458259a0bf64f4550c7dfe3b0467" title="Returns the next hop address. " alt="" coords="496,70,693,111"/>
+</map>

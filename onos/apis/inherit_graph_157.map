@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1stc_1_1MonitorWebSocketServlet.html" title="Web socket servlet capable of creating web sockets for the STC monitor. " alt="" coords="251,5,421,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1UiWebSocketServlet.html" title="Web socket servlet capable of creating web sockets for the user interface. " alt="" coords="257,70,415,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onlab_1_1stc_1_1MonitorDelegate.html" title="Delegate to which monitor can send notifications. " alt="" coords="6,12,202,39"/>
+</map>

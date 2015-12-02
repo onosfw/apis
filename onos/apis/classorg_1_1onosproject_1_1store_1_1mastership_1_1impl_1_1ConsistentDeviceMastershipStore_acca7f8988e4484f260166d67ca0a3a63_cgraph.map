@@ -1,0 +1,6 @@
+<map id="org.onosproject.store.mastership.impl.ConsistentDeviceMastershipStore.setMaster" name="org.onosproject.store.mastership.impl.ConsistentDeviceMastershipStore.setMaster">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cluster_1_1NodeId.html#a657d2f31051483200249c7d818bb0354" title="org.onosproject.cluster.\lNodeId.equals" alt="" coords="398,5,557,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1mastership_1_1impl_1_1ConsistentDeviceMastershipStore.html#a5b021f6bd79325d13fc0220b55e33873" title="Returns the master for a device. " alt="" coords="336,70,619,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1cluster_1_1LeadershipService.html#a8f245b9f2e33c2a493bbfd853399c862" title="Moves the specified nodeId to the top of the candidates list for the topic. " alt="" coords="354,135,601,177"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1cluster_1_1NodeId.html#ac2d1db824f1b7d1834a35658d6b93746" title="Creates a new cluster node identifier from the specified string. " alt="" coords="667,5,826,46"/>
+</map>

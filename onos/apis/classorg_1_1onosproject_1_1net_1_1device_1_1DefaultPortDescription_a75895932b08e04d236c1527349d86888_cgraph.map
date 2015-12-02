@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.device.DefaultPortDescription.DefaultPortDescription" name="org.onosproject.net.device.DefaultPortDescription.DefaultPortDescription">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1AbstractDescription.html#a9230f0f1b251f2cf963bc6dc9ec6be3d" title="Returns the key/value annotations. " alt="" coords="293,5,480,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1device_1_1DefaultPortDescription.html#a8d2f1c4b88b941c30d14a12348b01802" title="Indicates whether or not the port is up and active. " alt="" coords="279,70,494,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1device_1_1DefaultPortDescription.html#ac40980057966a4a874c23967953496e7" title="Returns the current port speed in Mbps. " alt="" coords="278,135,495,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1device_1_1DefaultPortDescription.html#a41ba07c2bd2beb2307b543e1017cfae8" title="Returns the port type. " alt="" coords="295,201,478,242"/>
+</map>

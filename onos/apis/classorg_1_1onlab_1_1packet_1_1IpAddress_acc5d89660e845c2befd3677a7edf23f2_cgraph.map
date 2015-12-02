@@ -1,0 +1,4 @@
+<map id="org.onlab.packet.IpAddress.getIp6Address" name="org.onlab.packet.IpAddress.getIp6Address">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1IpAddress.html#a287f3704425010ce552e3f10f546f971" title="Tests whether the IP version of this address is IPv6. " alt="" coords="256,12,469,39"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1IpAddress.html#a5e049bb120d15e0ada504c2d48959ace" title="Returns the IP version of this address. " alt="" coords="517,12,744,39"/>
+</map>

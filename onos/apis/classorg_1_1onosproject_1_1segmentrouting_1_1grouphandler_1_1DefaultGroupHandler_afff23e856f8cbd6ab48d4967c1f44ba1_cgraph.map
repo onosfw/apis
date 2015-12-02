@@ -1,0 +1,4 @@
+<map id="org.onosproject.segmentrouting.grouphandler.DefaultGroupHandler.DefaultGroupHandler" name="org.onosproject.segmentrouting.grouphandler.DefaultGroupHandler.DefaultGroupHandler">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1segmentrouting_1_1config_1_1DeviceProperties.html#a790d61d5df86d5b855b015b81207b8b7" title="Returns all segment IDs to be considered in building auto. " alt="" coords="342,5,613,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1segmentrouting_1_1config_1_1DeviceProperties.html#a46af151a034b98006999321c7bf9caa0" title="Returns the Mac address of a device to be used in group creation. " alt="" coords="354,70,601,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.store.cluster.messaging.ClusterMessage.ClusterMessage" name="org.onosproject.store.cluster.messaging.ClusterMessage.ClusterMessage">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1cluster_1_1messaging_1_1ClusterMessage.html#ac9dae79ea7cf65c75c97ca258806e7ec" title="Returns the message payload. " alt="" coords="312,5,571,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1cluster_1_1messaging_1_1ClusterMessage.html#aae43f3ff58b6e465ead7909f197432b1" title="Returns the id of the controller sending this message. " alt="" coords="312,70,571,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1cluster_1_1messaging_1_1ClusterMessage.html#a31691832c9d9baf03a1ed1652c589247" title="Returns the message subject indicator. " alt="" coords="312,135,571,177"/>
+</map>

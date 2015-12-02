@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.flow.FlowRuleBatchEvent.completed" name="org.onosproject.net.flow.FlowRuleBatchEvent.completed">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleFlowRuleStore.html#a62d365fe5d591391903b18310f9fb07e" title="Stores a batch of flow rules. " alt="" coords="290,5,505,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1flow_1_1impl_1_1NewDistributedFlowRuleStore.html#afe28bd84dfefa133da3daec7dd3bc65b" title="Stores a batch of flow rules. " alt="" coords="265,70,530,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1flow_1_1impl_1_1NewDistributedFlowRuleStore.html#af72bf80d68f2ccf5bb3992d870908db9" title="// TODO: Better description of method behavior. " alt="" coords="579,33,866,74"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1flow_1_1impl_1_1NewDistributedFlowRuleStore.html#a82e30435a363c74d355d427d54cb08c4" title="Marks a flow rule for deletion. " alt="" coords="604,99,841,155"/>
+</map>

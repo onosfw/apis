@@ -1,0 +1,8 @@
+<map id="org.onosproject.bgpio.types.Origin.origin" name="org.onosproject.bgpio.types.Origin.origin">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1Origin.html#aabb4e2d54c783a0c8cf3029864512b55" title="org.onosproject.bgpio.types.\lOrigin.equals" alt="" coords="475,5,661,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1Origin.html#a8a16cf3700eb9155dddf562fa337b484" title="org.onosproject.bgpio.types.\lOrigin.hashCode" alt="" coords="240,34,427,75"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1Origin.html#ada1a1ed738bff22adb39bfa403c98ca5" title="Constructor to initialize parameters. " alt="" coords="240,99,427,141"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1Origin.html#a06e99b178c415c40af12262290443c48" title="org.onosproject.bgpio.types.\lOrigin.toString" alt="" coords="240,165,427,206"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpSelectionAlgo.html#a0d347a2b93133512ee2d4cb053473351" title="org.onosproject.bgp.controller.impl.\lBgpSelectionAlgo.compare" alt="" coords="710,5,935,46"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1Origin.html#a752de386b97edc0d0c7796369cab1b87" title="Reads from ChannelBuffer and parses Origin. " alt="" coords="475,99,661,141"/>
+</map>

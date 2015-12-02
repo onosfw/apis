@@ -1,0 +1,4 @@
+<map id="org.onosproject.incubator.net.tunnel.TunnelDescription.id" name="org.onosproject.incubator.net.tunnel.TunnelDescription.id">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1provider_1_1pcep_1_1tunnel_1_1impl_1_1PcepTunnelProvider.html#a1da0a9da08f53a330670af9bd43f691d" title="Signals that the provider has removed a tunnel. " alt="" coords="288,5,552,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1provider_1_1pcep_1_1tunnel_1_1impl_1_1PcepTunnelProvider.html#ab75d879469d4698bc9bce4652d742c66" title="Signals that the a tunnel was changed (e.g., sensing changes of tunnel).It&#39;s used by producers..." alt="" coords="288,70,552,111"/>
+</map>

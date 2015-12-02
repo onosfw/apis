@@ -1,0 +1,4 @@
+<map id="org.onosproject.cluster.ClusterStore" name="org.onosproject.cluster.ClusterStore">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1cluster_1_1impl_1_1DistributedClusterStore.html" title="Distributed cluster nodes store that employs an accrual failure detector to identify cluster member u..." alt="" coords="424,5,643,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleClusterStore.html" title="Manages inventory of infrastructure devices using trivial in&#45;memory structures implementation. " alt="" coords="442,70,625,111"/>
+</map>

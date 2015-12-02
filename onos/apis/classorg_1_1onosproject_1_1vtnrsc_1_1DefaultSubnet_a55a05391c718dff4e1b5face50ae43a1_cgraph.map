@@ -1,0 +1,9 @@
+<map id="org.onosproject.vtnrsc.DefaultSubnet.toString" name="org.onosproject.vtnrsc.DefaultSubnet.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultSubnet.html#a00c048605785012a034d4d812b9ce471" title="Returns the cidr. " alt="" coords="251,5,448,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultSubnet.html#a583d0f4782590bfa98ce2933ef93e2c9" title="Returns true if DHCP is enabled and return false if DHCP is disabled. " alt="" coords="251,70,448,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultSubnet.html#a2b41d06b24c86117374715bcfbc1ee56" title="Returns the gateway IP address. " alt="" coords="251,135,448,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultSubnet.html#a88a42df1e16d57c7e9e9e90e1cd3b36f" title="Returns the subnet identifier. " alt="" coords="251,201,448,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultSubnet.html#aff3d1d73284eb45c1cd59804b23f1613" title="Returns the IP version, which is 4 or 6. " alt="" coords="251,266,448,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultSubnet.html#ad4bc1e6e756e54da57c4e221974b72cd" title="Indicates whether this tenantNetwork is shared across all tenants. " alt="" coords="251,331,448,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultSubnet.html#a969bec043d8cda44107accd7b174546a" title="Returns the name of the subnet. " alt="" coords="251,397,448,438"/>
+</map>

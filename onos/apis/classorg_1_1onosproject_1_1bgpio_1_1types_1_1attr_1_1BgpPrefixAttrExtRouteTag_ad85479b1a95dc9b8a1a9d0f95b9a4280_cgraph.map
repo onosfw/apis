@@ -1,0 +1,4 @@
+<map id="org.onosproject.bgpio.types.attr.BgpPrefixAttrExtRouteTag.read" name="org.onosproject.bgpio.types.attr.BgpPrefixAttrExtRouteTag.read">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpPrefixAttrExtRouteTag.html#a418251ee0c044040e6e8975ab70b3a1c" title="Constructor to initialize the values. " alt="" coords="273,5,532,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpPrefixAttrExtRouteTag.html#a3d75d7aa024f122d04bc92455679e0e7" title="Returns Extended route tag. " alt="" coords="265,86,541,127"/>
+</map>

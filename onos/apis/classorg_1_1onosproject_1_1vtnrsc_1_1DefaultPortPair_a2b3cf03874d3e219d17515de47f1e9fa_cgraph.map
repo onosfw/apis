@@ -1,0 +1,5 @@
+<map id="org.onosproject.vtnrsc.DefaultPortPair.equals" name="org.onosproject.vtnrsc.DefaultPortPair.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultPortPair.html#a702e9b5aa87e31907e21195d86cfa5a0" title="Returns the ingress port of this port pair. " alt="" coords="251,5,448,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultPortPair.html#a7528ba05c647f1e95bc91cceda5e66a8" title="Returns the description of this port pair. " alt="" coords="251,70,448,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultPortPair.html#a65efc3eab0354cd414970ed8378dd9dc" title="Returns the ID of this port Pair. " alt="" coords="251,135,448,177"/>
+</map>

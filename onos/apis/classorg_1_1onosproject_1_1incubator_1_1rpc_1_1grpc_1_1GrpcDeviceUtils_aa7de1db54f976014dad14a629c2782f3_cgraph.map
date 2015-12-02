@@ -1,0 +1,4 @@
+<map id="org.onosproject.incubator.rpc.grpc.GrpcDeviceUtils.translate" name="org.onosproject.incubator.rpc.grpc.GrpcDeviceUtils.translate">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1incubator_1_1rpc_1_1grpc_1_1GrpcDeviceUtils.html#aa4915194938ae95d48a4d28517767904" title="Converts Map of Strings to SparseAnnotations. " alt="" coords="278,5,501,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1incubator_1_1rpc_1_1grpc_1_1GrpcDeviceUtils.html#aa35fdb027d4427914f912227f6680f29" title="Translates gRPC enum MastershipRole to ONOS enum. " alt="" coords="278,70,501,111"/>
+</map>

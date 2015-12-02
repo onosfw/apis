@@ -1,0 +1,5 @@
+<map id="org.onosproject.bgpio.types.IPv4AddressTlv.compareTo" name="org.onosproject.bgpio.types.IPv4AddressTlv.compareTo">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPv4AddressTlv.html#a2192451c0ed7350cebdf4fb16d7e5361" title="Returns Ipv4 address of interface/neighbor. " alt="" coords="736,6,923,47"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPv4AddressTlv.html#ae6bacc3751e476e342cd91da938421c2" title="org.onosproject.bgpio.types.\lIPv4AddressTlv.equals" alt="" coords="240,35,427,77"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IPv4AddressTlv.html#a46d30c728ea1d786d405b5276a3d25d2" title="Constructor to initialize parameters. " alt="" coords="475,35,687,77"/>
+</map>

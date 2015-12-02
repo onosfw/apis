@@ -1,0 +1,6 @@
+<map id="org.onosproject.bgp.controller.BgpDpid.BgpDpid" name="org.onosproject.bgp.controller.BgpDpid.BgpDpid">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1BgpLinkLsNlriVer4.html#a927e7c9367682196337eb6dc912d970d" title="Returns Identifier in Nlri. " alt="" coords="260,5,513,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1BgpLinkLsNlriVer4.html#a9fde876b1a4047ef6490866e2893902a" title="Returns Route distinguisher in Nlri. " alt="" coords="255,70,518,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1BgpLinkLsNlriVer4.html#aa5b22591fa94c1d23412c299171d9cb7" title="Returns local node descriptors. " alt="" coords="257,135,516,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1BgpLinkLsNlriVer4.html#a5a0782f4fd49394496017ebc7641e47e" title="Returns remote node descriptors. " alt="" coords="251,201,523,242"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.group.GroupStore.getGroupCount" name="org.onosproject.net.group.GroupStore.getGroupCount">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1group_1_1impl_1_1DistributedGroupStoreTest.html#ae8b903e3646ba323519aa1cb65de04ae" title="Tests adding a pending group. " alt="" coords="237,5,545,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1group_1_1impl_1_1DistributedGroupStoreTest.html#a195e29e10f2429b3db58fcad49dbc7f3" title="Tests adding and removing a group. " alt="" coords="235,70,546,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1group_1_1impl_1_1DistributedGroupStoreTest.html#af71cfec20d7c180828a350601f31cbaf" title="Tests the initial state of the store. " alt="" coords="255,135,527,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1group_1_1impl_1_1DistributedGroupStoreTest.html#a2931681cbd13d1e5c87023d5dce97e56" title="Tests adding and removing a group. " alt="" coords="265,201,517,257"/>
+</map>

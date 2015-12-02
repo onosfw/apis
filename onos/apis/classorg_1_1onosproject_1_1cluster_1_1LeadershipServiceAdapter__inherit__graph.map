@@ -1,0 +1,4 @@
+<map id="org.onosproject.cluster.LeadershipServiceAdapter" name="org.onosproject.cluster.LeadershipServiceAdapter">
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1intent_1_1impl_1_1PartitionManagerTest_1_1TestLeadershipService.html" title="LeadershipService that allows us to grab a reference to PartitionManager&#39;s LeadershipEventListener. " alt="" coords="705,5,943,61"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1cluster_1_1LeadershipService.html" title="Service for leader election. " alt="" coords="273,13,431,54"/>
+</map>

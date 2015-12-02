@@ -1,0 +1,7 @@
+<map id="org.onosproject.ui.impl.TopologyViewMessageHandlerBase.deviceDetails" name="org.onosproject.ui.impl.TopologyViewMessageHandlerBase.deviceDetails">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1TopologyViewMessageHandlerBase.html#ad4bb592c8548fccedbb3a7aa4dcb55ef" title="org.onosproject.ui.impl.\lTopologyViewMessageHandlerBase.get\lFlowCount" alt="" coords="329,5,583,61"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1TopologyViewMessageHandlerBase.html#a71344f228429de6c7a83acb048ecb27b" title="org.onosproject.ui.impl.\lTopologyViewMessageHandlerBase.get\lTunnelCount" alt="" coords="329,85,583,141"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleService.html#a77bcbdced35ba45ef5a8e0ea6d3ae37f" title="Returns the collection of flow entries applied on the specified device. " alt="" coords="643,13,855,54"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1OpticalTunnelEndPoint.html#a2b548c1d266f97b62ef071ed85de6c21" title="Returns the parent network element to which this tunnel point belongs. " alt="" coords="633,85,866,126"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1DeviceId.html#ae96cf6ecf89e5f84a4a35d8e5fd2c0e4" title="org.onosproject.net.Device\lId.toString" alt="" coords="660,150,839,191"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.flow.DefaultFlowRule.isPermanent" name="org.onosproject.net.flow.DefaultFlowRule.isPermanent">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowRuleTest.html#aff428b55333bbdc41ef3c4e53ed94ea6" title="Tests creation of a DefaultFlowRule using a FlowRule constructor. " alt="" coords="251,5,471,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowRuleTest.html#a4c186e1215da85e284bd306bbcf6a092" title="Tests creation of a DefaultFlowRule using a PayLoad constructor. " alt="" coords="251,85,471,141"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowRuleTest.html#a97810d8bf78b98a447dd998e0465be7f" title="Tests creation of a DefaultFlowRule using a PayLoad constructor. " alt="" coords="251,165,471,221"/>
+</map>

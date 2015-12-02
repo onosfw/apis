@@ -1,0 +1,4 @@
+<map id="org.onosproject.vtnweb.resources.PortPairResourceTest.testGetPortPairId" name="org.onosproject.vtnweb.resources.PortPairResourceTest.testGetPortPairId">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1portpair_1_1PortPairService.html#aed8257b7c413453fc76348fc45d1045f" title="Returns if the port pair is existed. " alt="" coords="309,5,512,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1portpair_1_1PortPairService.html#ad57c00c527f96119bb2268ec1db83a07" title="Returns the portPair with the given identifier. " alt="" coords="309,70,512,111"/>
+</map>

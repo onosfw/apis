@@ -1,0 +1,3 @@
+<map id="org.onosproject.store.intent.impl.PartitionManager.isMine" name="org.onosproject.store.intent.impl.PartitionManager.isMine">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1intent_1_1impl_1_1PartitionManagerTest.html#a7c44f22ea6a7a359eef67d35fc64a77e" title="Tests that the isMine method returns the correct result based on the underlying leadership service da..." alt="" coords="267,5,479,46"/>
+</map>

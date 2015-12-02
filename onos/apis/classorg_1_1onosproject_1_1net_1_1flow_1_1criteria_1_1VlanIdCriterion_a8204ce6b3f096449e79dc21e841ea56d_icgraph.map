@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.criteria.VlanIdCriterion.vlanId" name="org.onosproject.net.flow.criteria.VlanIdCriterion.vlanId">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1VlanIdCriterion.html#aea4dab55b68ab6b1388bdd8b36abde11" title="org.onosproject.net.flow.criteria.\lVlanIdCriterion.equals" alt="" coords="261,5,469,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1VlanIdCriterion.html#a3e3e9e628749fa630c0e09a0fab53f1d" title="org.onosproject.net.flow.criteria.\lVlanIdCriterion.toString" alt="" coords="261,70,469,111"/>
+</map>

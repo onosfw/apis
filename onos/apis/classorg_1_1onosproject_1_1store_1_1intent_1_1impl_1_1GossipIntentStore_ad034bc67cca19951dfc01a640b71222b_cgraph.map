@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.intent.impl.GossipIntentStore.getPendingData" name="org.onosproject.store.intent.impl.GossipIntentStore.getPendingData">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1intent_1_1impl_1_1GossipIntentStore.html#aa569bed2983c6badec3236838e072cf7" title="Checks to see whether the calling instance is the master for processing this intent, or more specifically, the key contained in this intent. " alt="" coords="278,5,490,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1IntentData.html#a61e0170469770924954dfa8636ba989d" title="Returns the intent key. " alt="" coords="297,70,471,111"/>
+</map>

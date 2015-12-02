@@ -1,0 +1,5 @@
+<map id="org.onosproject.core.CoreServiceAdapter" name="org.onosproject.core.CoreServiceAdapter">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1core_1_1impl_1_1TestCoreManager.html" title="org.onosproject.core.impl.\lTestCoreManager" alt="" coords="506,5,678,46"/>
+<area shape="rect" id="node4" title="Mocks the CoreService. " alt="" coords="477,70,707,111"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="6,103,178,145"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.intent.IntentData.IntentData" name="org.onosproject.net.intent.IntentData.IntentData">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1IntentData.html#af8cfe07fd53410e770ba1367c4fe0d62" title="Returns the intent this metadata references. " alt="" coords="227,5,400,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1IntentData.html#a53beb78045aebe521d3132334f0ab3a4" title="Returns the state of the intent. " alt="" coords="227,70,400,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1IntentData.html#ace29cbac494bc95f3d9e8cf0cac89cbc" title="Returns the version of the intent for this key. " alt="" coords="227,135,400,177"/>
+</map>

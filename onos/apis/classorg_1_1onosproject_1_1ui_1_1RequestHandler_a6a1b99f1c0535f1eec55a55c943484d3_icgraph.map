@@ -1,0 +1,4 @@
+<map id="org.onosproject.ui.RequestHandler.eventType" name="org.onosproject.ui.RequestHandler.eventType">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1RequestHandler.html#a264c13e222cd47fe827b42d8264de8ad" title="Allows one request handler to pass the event on to another for further processing. " alt="" coords="232,5,411,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1RequestHandler.html#ad60b294ba179db388ec98fda23fd329e" title="org.onosproject.ui.Request\lHandler.RequestHandler" alt="" coords="232,70,411,111"/>
+</map>

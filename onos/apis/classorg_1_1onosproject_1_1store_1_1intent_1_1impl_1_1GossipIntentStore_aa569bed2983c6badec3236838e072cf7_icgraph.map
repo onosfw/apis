@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.intent.impl.GossipIntentStore.isMaster" name="org.onosproject.store.intent.impl.GossipIntentStore.isMaster">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1intent_1_1impl_1_1GossipIntentStore.html#a5e9d832a2be5da0c1ef4fb1e0fb07901" title="Returns an iterable of all intent data objects in the store. " alt="" coords="273,5,485,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1intent_1_1impl_1_1GossipIntentStore.html#ad034bc67cca19951dfc01a640b71222b" title="Returns the intent data objects that are pending processing for longer than the specified duration..." alt="" coords="267,70,491,111"/>
+</map>

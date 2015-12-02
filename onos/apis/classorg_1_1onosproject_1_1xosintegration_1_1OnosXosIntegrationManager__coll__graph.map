@@ -1,0 +1,7 @@
+<map id="org.onosproject.xosintegration.OnosXosIntegrationManager" name="org.onosproject.xosintegration.OnosXosIntegrationManager">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1xosintegration_1_1VoltTenantService.html" title="org.onosproject.xosintegration.\lVoltTenantService" alt="" coords="393,5,593,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1flowobjective_1_1FlowObjectiveService.html" title="Service for programming data plane flow rules in manner independent of specific device table pipeline..." alt="" coords="385,70,602,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1cfg_1_1ComponentConfigService.html" title="Service for tracking system&#45;wide configurations for various software components. " alt="" coords="391,135,595,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="407,201,579,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="5,201,192,242"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.rest.resources.NetworkConfigWebResource.delete" name="org.onosproject.rest.resources.NetworkConfigWebResource.delete">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigService.html#a32a783b200b8518498fef4827260f41b" title="Returns the set of subjects for which some configuration is available. " alt="" coords="292,5,519,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigService.html#a3445508a5a02c97fa31f81726cc92bd3" title="Clears any configuration for the specified subject and configuration class. " alt="" coords="286,70,525,111"/>
+</map>

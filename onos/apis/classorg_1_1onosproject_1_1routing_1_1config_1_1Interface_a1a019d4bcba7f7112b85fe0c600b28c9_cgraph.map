@@ -1,0 +1,5 @@
+<map id="org.onosproject.routing.config.Interface.Interface" name="org.onosproject.routing.config.Interface.Interface">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1routing_1_1config_1_1Interface.html#a06c4307916d515a993a55dc6c97f844c" title="Retrieves the connection point that this interface maps to. " alt="" coords="251,5,448,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1routing_1_1config_1_1Interface.html#adfabff41555f4757fb5ce98783d04b7d" title="Retrieves the set of IP addresses that are assigned to the interface. " alt="" coords="251,70,448,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1routing_1_1config_1_1Interface.html#ac7636310a19f5a4bff661cde8d7dd66f" title="Retrieves the VLAN ID that is assigned to the interface. " alt="" coords="251,135,448,177"/>
+</map>

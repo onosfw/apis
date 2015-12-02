@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.HostId.hostId" name="org.onosproject.net.HostId.hostId">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1HostId.html#add3e495efaf06d2478648d92f6ecba48" title="Returns the host MAC address. " alt="" coords="219,5,384,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1HostId.html#aebf3e6f3eff5a1bfeee3b61f61f84c9c" title="Returns the host vlan Id. " alt="" coords="219,70,384,111"/>
+</map>

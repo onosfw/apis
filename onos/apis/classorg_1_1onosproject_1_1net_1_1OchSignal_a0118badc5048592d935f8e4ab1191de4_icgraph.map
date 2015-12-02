@@ -1,0 +1,7 @@
+<map id="org.onosproject.net.OchSignal.spacingMultiplier" name="org.onosproject.net.OchSignal.spacingMultiplier">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1OchSignal.html#aadfd3ef0ad50dad35140709449f1c55f" title="Returns central frequency in MHz. " alt="" coords="312,5,552,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1OchSignal.html#a07c3093467ad5559aa794e0cebb51509" title="org.onosproject.net.OchSignal.hashCode" alt="" coords="302,71,562,97"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1OchSignal.html#a13a9a1392336c840dac9babdd9b90028" title="Creates an instance with the specified arguments. " alt="" coords="331,122,533,163"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1OchSignal.html#ab458ff458a45321a17854b5df65f5d0e" title="org.onosproject.net.OchSignal.to\lString" alt="" coords="326,187,538,229"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1OchSignal.html#a72673690f3b9adf7f7ca8b702af07d54" title="org.onosproject.net.OchSignal.equals" alt="" coords="611,129,850,156"/>
+</map>

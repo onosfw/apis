@@ -1,0 +1,5 @@
+<map id="org.onosproject.store.consistent.impl.DefaultTransactionContext.commit" name="org.onosproject.store.consistent.impl.DefaultTransactionContext.commit">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1DefaultTransactionContext.html#ab744cd8a01cc6bf5bc1eec588cc69eb0" title="Aborts any changes made in this transaction context and discarding all locally cached updates..." alt="" coords="303,5,543,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1DefaultTransactionContext.html#abc2ee5ca15ceb945d0b36b85af65d8c0" title="Returns if this transaction context is open. " alt="" coords="600,34,840,75"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1DefaultTransactionContext.html#a51696f755ee4ea2c81d46f923ee18a24" title="Returns the unique transactionId. " alt="" coords="294,122,551,163"/>
+</map>

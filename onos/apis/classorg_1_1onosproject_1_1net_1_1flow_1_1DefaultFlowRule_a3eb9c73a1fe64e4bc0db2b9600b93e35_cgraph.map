@@ -1,0 +1,9 @@
+<map id="org.onosproject.net.flow.DefaultFlowRule.DefaultFlowRule" name="org.onosproject.net.flow.DefaultFlowRule.DefaultFlowRule">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowRule.html#a568cfa61fd2cf01f69eee181e5ff076a" title="Returns the identity of the device where this rule applies. " alt="" coords="278,5,450,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowRule.html#a7c5e3a014fc4b72391a0b8403ef830c8" title="Returns the group id of this flow. " alt="" coords="281,70,447,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowRule.html#a85688e4b85dd96ba67e723653af3431b" title="Returns the third party original flow rule. " alt="" coords="278,135,450,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowRule.html#a3ee8221d0402347eda2ade92eed0cc3a" title="Returns the flow rule priority given in natural order; higher numbers mean higher priorities..." alt="" coords="281,201,447,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowRule.html#abf447db1d96bc58193673281d5dd1394" title="Returns the traffic selector that identifies what traffic this rule should apply to. " alt="" coords="279,266,449,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowRule.html#a55a2496d9c9308934c4da0aec20a771f" title="Returns the timeout for this flow requested by an application. " alt="" coords="281,331,447,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowRule.html#ab4c41c9f411242700e31c5ed3a3db696" title="Returns the traffic treatment that applies to selected traffic. " alt="" coords="275,397,453,438"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="org.onosproject.vtnrsc.subnet.impl.SubnetManager" name="org.onosproject.vtnrsc.subnet.impl.SubnetManager">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1subnet_1_1SubnetService.html" title="Service for interacting with the inventory of subnets. " alt="" coords="406,5,605,46"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1core_1_1ApplicationId.html" title="Application identifier. " alt="" coords="396,151,615,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="408,202,603,243"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1tenantnetwork_1_1TenantNetworkService.html" title="Service for interacting with the inventory of tenantNetwork. " alt="" coords="385,267,626,309"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="419,333,591,374"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="5,333,192,374"/>
+</map>

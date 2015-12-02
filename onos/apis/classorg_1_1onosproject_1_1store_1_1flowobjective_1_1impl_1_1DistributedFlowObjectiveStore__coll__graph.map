@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.flowobjective.impl.DistributedFlowObjectiveStore" name="org.onosproject.store.flowobjective.impl.DistributedFlowObjectiveStore">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1flowobjective_1_1FlowObjectiveStore.html" title="The flow objective store. " alt="" coords="262,86,479,127"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="273,151,468,193"/>
+</map>

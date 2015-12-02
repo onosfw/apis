@@ -1,0 +1,8 @@
+<map id="org.onosproject.core.CoreService.getAppId" name="org.onosproject.core.CoreService.getAppId">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1codec_1_1impl_1_1IntentCodecTest.html#a096f4ad294c36dc4660ab3cdde4fbb2f" title="org.onosproject.codec.impl.\lIntentCodecTest.setUpIntentService" alt="" coords="227,5,461,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1rest_1_1FlowsResourceTest.html#a2f0ab59c50b3459eb7d2a5e9ce088be7" title="Sets up the global values for all the tests. " alt="" coords="256,70,432,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1rest_1_1IntentsResourceTest.html#a10227433cb65408c76f0b9ebd6a48677" title="Tests removal of a non existent intent with DELETE. " alt="" coords="243,135,445,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1rest_1_1IntentsResourceTest.html#a90290823180a0d688f89058830d4416e" title="Tests the result of a rest api GET for a single intent. " alt="" coords="241,201,447,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1rest_1_1IntentsResourceTest.html#affd8d5b82f70999776928c512e079a23" title="Tests creating an intent with POST. " alt="" coords="253,266,435,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1rest_1_1IntentsResourceTest.html#a655b57250c8f58366c986979d0c47451" title="Tests removing an intent with DELETE. " alt="" coords="253,331,435,373"/>
+</map>

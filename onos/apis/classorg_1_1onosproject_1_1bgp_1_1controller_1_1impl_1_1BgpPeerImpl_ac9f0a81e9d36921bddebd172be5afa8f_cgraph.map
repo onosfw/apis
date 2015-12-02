@@ -1,0 +1,4 @@
+<map id="org.onosproject.bgp.controller.impl.BgpPeerImpl.toString" name="org.onosproject.bgp.controller.impl.BgpPeerImpl.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpPeerImpl.html#ab7a2c31da30e2b7542190a2fbe35e9ac" title="Identifies the channel used to communicate with the bgp peer. " alt="" coords="281,5,506,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpPeerImpl.html#a12705a54b47e05ed7ff92b777b3982ba" title="Return the BGP session info. " alt="" coords="281,70,506,111"/>
+</map>

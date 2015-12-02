@@ -1,0 +1,8 @@
+<map id="org.onosproject.net.group.DefaultGroupDescription.equals" name="org.onosproject.net.group.DefaultGroupDescription.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1group_1_1DefaultGroupDescription.html#a916a669debb2b51234eed2aa9665935e" title="Returns group buckets of a group. " alt="" coords="263,5,478,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1group_1_1DefaultGroupDescription.html#a9fe3c59a76f1f70ea0e2ab2c8fe62b09" title="Constructor to be used by north bound applications. " alt="" coords="265,71,476,127"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1group_1_1DefaultGroupDescription.html#a654607141fb3e5216cdb9ef61a9d8841" title="Returns device identifier on which this group object is created. " alt="" coords="261,151,480,193"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1group_1_1DefaultGroupDescription.html#a5f418c93e994b8d0b5aa97e40fd5ea3a" title="Returns type of a group object. " alt="" coords="547,177,741,218"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1group_1_1DefaultGroupDescription.html#ac50ef955f36e8b75572b622de91d5cc2" title="Returns application cookie associated with a group object. " alt="" coords="529,46,759,87"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1group_1_1DefaultGroupDescription.html#a813ef48b2f6d10a9435dcfd8324946f7" title="Returns application identifier that has created this group object. " alt="" coords="543,111,745,153"/>
+</map>

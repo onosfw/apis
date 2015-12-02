@@ -1,0 +1,8 @@
+<map id="org.onosproject.metrics.intent.cli.IntentEventsMetricsCommand.execute" name="org.onosproject.metrics.intent.cli.IntentEventsMetricsCommand.execute">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1metrics_1_1intent_1_1IntentMetricsService.html#a6dc87f98ccfcd29879f648137522076b" title="Gets the Event Metric for the intent FAILED events. " alt="" coords="308,5,591,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1metrics_1_1intent_1_1IntentMetricsService.html#ad65c0f677da97cba0662ba73912ac37d" title="Gets the Event Metric for the intent INSTALLED events. " alt="" coords="336,71,563,127"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1metrics_1_1intent_1_1IntentMetricsService.html#ac4a86556f51c9ca465b720edcccd5e0a" title="Gets the Event Metric for the intent PURGED events. " alt="" coords="305,151,594,193"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1metrics_1_1intent_1_1IntentMetricsService.html#a1b6c6f80b7c896ba9e4b2657332ac8d3" title="Gets the Event Metric for the intent INSTALL_REQ events. " alt="" coords="331,217,568,273"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1metrics_1_1intent_1_1IntentMetricsService.html#aa506bc79f08e0d5a717489146e4fa72a" title="Gets the Event Metric for the intent WITHDRAWN events. " alt="" coords="329,297,569,353"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1metrics_1_1intent_1_1IntentMetricsService.html#a095180dc01f31ace44fd5a1e869c6d6b" title="Gets the Event Metric for the intent WITHDRAW_REQ events. " alt="" coords="333,377,566,433"/>
+</map>

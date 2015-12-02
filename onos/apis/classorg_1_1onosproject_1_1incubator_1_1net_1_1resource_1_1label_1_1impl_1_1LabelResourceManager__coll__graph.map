@@ -1,0 +1,7 @@
+<map id="org.onosproject.incubator.net.resource.label.impl.LabelResourceManager" name="org.onosproject.incubator.net.resource.label.impl.LabelResourceManager">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1resource_1_1label_1_1LabelResourceService.html" title="Service for providing label resource allocation. " alt="" coords="334,115,613,157"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1resource_1_1label_1_1LabelResourceAdminService.html" title="Service for managing label resource. " alt="" coords="334,181,613,222"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1resource_1_1label_1_1LabelResourceProviderRegistry.html" title="Abstraction of an label resource provider registry. " alt="" coords="334,246,613,287"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="384,311,563,353"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1resource_1_1label_1_1LabelResourceStore.html" title="Manages inventory of label; not intended for direct use. " alt="" coords="334,383,613,425"/>
+</map>

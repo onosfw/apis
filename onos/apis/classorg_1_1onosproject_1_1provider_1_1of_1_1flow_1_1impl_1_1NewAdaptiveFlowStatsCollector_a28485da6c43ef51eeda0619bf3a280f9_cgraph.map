@@ -1,0 +1,9 @@
+<map id="org.onosproject.provider.of.flow.impl.NewAdaptiveFlowStatsCollector.pushFlowMetrics" name="org.onosproject.provider.of.flow.impl.NewAdaptiveFlowStatsCollector.pushFlowMetrics">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1provider_1_1of_1_1flow_1_1impl_1_1NewAdaptiveFlowStatsCollector.html#a1e511da6ec31f2ef45cd63256a9946d6" title="add or update typed flow entry from flow entry into the internal flow table. " alt="" coords="326,169,653,210"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowEntry.html#a400c1cc319495fa92a47f01e6969a06e" title="Returns the number of bytes this flow rule has matched. " alt="" coords="733,5,899,46"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1openflow_1_1controller_1_1OpenFlowSwitch.html#a2e97449a256cb87434067df188a2983d" title="Gets a string version of the ID for this switch. " alt="" coords="702,70,930,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRule.html#adf8fb7562b1aa94bb11a2f752f2dda51" title="Returns the ID of this flow. " alt="" coords="733,135,899,177"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowEntry.html#a4412657e85b3ed9bbe23a79126b267c8" title="When this flow entry was last deemed active. " alt="" coords="733,201,899,242"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowEntry.html#a11c19ea579c8a1491181783515cb1949" title="Returns the number of milliseconds this flow rule has been applied. " alt="" coords="733,266,899,307"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowEntry.html#a91ff3ce86cd1ebe9f7d0dfb4f4134d74" title="Returns the flow entry state. " alt="" coords="733,331,899,373"/>
+</map>

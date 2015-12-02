@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.OmsPort" name="org.onosproject.net.OmsPort">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1DefaultPort.html" title="Default port implementation. " alt="" coords="96,171,299,197"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1AbstractAnnotated.html" title="Base abstraction of an annotated entity. " alt="" coords="5,81,192,122"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotated.html" title="Represents an entity that carries arbitrary annotations. " alt="" coords="99,5,295,32"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1Port.html" title="Abstraction of a network port. " alt="" coords="217,88,377,115"/>
+</map>

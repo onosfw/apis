@@ -1,0 +1,9 @@
+<map id="org.onosproject.net.OmsPort.toString" name="org.onosproject.net.OmsPort.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1DefaultPort.html#a69c58b97d73524e1a036726ae85f203b" title="Returns the parent network element to which this port belongs. " alt="" coords="279,5,457,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1OmsPort.html#ad57ef3994ff9afdccf69754337f248bd" title="Returns the grid spacing frequency. " alt="" coords="261,71,475,97"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1DefaultPort.html#ab5c1473ee5c0ddced5a8f2a51799d2a9" title="Indicates whether or not the port is currently up and active. " alt="" coords="279,122,457,163"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1OmsPort.html#afdb9db49be1785f77a7267fefcca6e38" title="Returns the maximum frequency. " alt="" coords="259,187,477,229"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1OmsPort.html#a3cb028900ee68e0ae0a8b4e7e075d15a" title="Returns the minimum frequency. " alt="" coords="261,253,475,294"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1DefaultPort.html#acbc4bf6758e18a65aab5b0c2e71e7453" title="Returns the port number. " alt="" coords="279,318,457,359"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1net_1_1DefaultPort.html#a5b0e2ebc931234d9324e4e2cc1eb442b" title="Returns the port type. " alt="" coords="279,383,457,425"/>
+</map>

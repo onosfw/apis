@@ -1,0 +1,5 @@
+<map id="org.onosproject.bgpio.types.MpReachNlri.MpReachNlri" name="org.onosproject.bgpio.types.MpReachNlri.MpReachNlri">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1MpReachNlri.html#ab890eb4b2a10ffae248baa936bedcb93" title="Returns AFI. " alt="" coords="240,5,427,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1MpReachNlri.html#a5e60da64f485880fd1297672903f93aa" title="Returns list of MpReach Nlri. " alt="" coords="240,70,427,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1MpReachNlri.html#a29df6902e15e31055c5a442149711391" title="Returns SAFI. " alt="" coords="240,135,427,177"/>
+</map>

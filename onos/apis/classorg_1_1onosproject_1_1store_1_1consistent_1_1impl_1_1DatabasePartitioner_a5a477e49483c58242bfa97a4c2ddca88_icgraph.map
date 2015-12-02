@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.consistent.impl.DatabasePartitioner.hash" name="org.onosproject.store.consistent.impl.DatabasePartitioner.hash">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1SimpleKeyHashPartitioner.html#aee4594fd7de57a61f5be84502a419e1c" title="org.onosproject.store.consistent.impl.\lSimpleKeyHashPartitioner.getPartition" alt="" coords="299,5,544,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1SimpleTableHashPartitioner.html#ae0da6e0a04c2d9c08937a4d7884fd299" title="org.onosproject.store.consistent.impl.\lSimpleTableHashPartitioner.getPartition" alt="" coords="294,70,549,111"/>
+</map>

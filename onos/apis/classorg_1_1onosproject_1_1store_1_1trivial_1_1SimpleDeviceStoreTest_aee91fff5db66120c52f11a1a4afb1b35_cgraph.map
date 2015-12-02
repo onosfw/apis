@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.trivial.SimpleDeviceStoreTest.testCreateOrUpdateDeviceAncillary" name="org.onosproject.store.trivial.SimpleDeviceStoreTest.testCreateOrUpdateDeviceAncillary">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceStore.html#a80c29ecba431a7bbf9e87689c6805658" title="Creates a new infrastructure device, or updates an existing one using the supplied device description..." alt="" coords="281,5,511,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceStore.html#a7aa13434ee39bfe686984d03909f5fae" title="Indicates whether the specified device is available/online. " alt="" coords="307,70,485,111"/>
+</map>

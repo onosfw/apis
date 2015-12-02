@@ -1,0 +1,13 @@
+<map id="org.onosproject.net.device.DeviceProvider" name="org.onosproject.net.device.DeviceProvider">
+<area shape="rect" id="node4" title="Simple ancillary provider used to annotate device. " alt="" coords="515,86,714,127"/>
+<area shape="rect" id="node5" title="Relay DeviceProvider calls to RPC client. " alt="" coords="479,152,750,208"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1incubator_1_1rpc_1_1grpc_1_1GrpcRemoteServiceTest_1_1CTestDeviceProvider.html" title="Device Provider on CO side. " alt="" coords="467,233,762,274"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1optical_1_1cfg_1_1OpticalConfigProvider.html" title="OpticalConfigProvider emulates the SB network provider for optical switches, optical links and any ot..." alt="" coords="525,363,704,405"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1ovsdb_1_1providers_1_1device_1_1OvsdbDeviceProvider.html" title="Provider which uses an ovsdb controller to detect device. " alt="" coords="488,429,741,470"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1provider_1_1bgp_1_1topology_1_1impl_1_1BgpTopologyProvider.html" title="Provider which uses an BGP controller to detect network infrastructure topology. " alt="" coords="479,494,750,535"/>
+<area shape="rect" id="node11" href="$classorg_1_1onosproject_1_1provider_1_1netconf_1_1device_1_1impl_1_1NetconfDeviceProvider.html" title="Provider which uses an NETCONF controller to detect device. " alt="" coords="473,559,756,601"/>
+<area shape="rect" id="node13" href="$classorg_1_1onosproject_1_1provider_1_1of_1_1device_1_1impl_1_1OpenFlowDeviceProvider.html" title="Provider which uses an OpenFlow controller to detect network infrastructure devices. " alt="" coords="489,690,740,731"/>
+<area shape="rect" id="node14" href="$classorg_1_1onosproject_1_1provider_1_1pcep_1_1topology_1_1impl_1_1PcepTopologyProvider.html" title="Provider which uses an PCEP controller to detect network infrastructure topology. ..." alt="" coords="475,755,754,797"/>
+<area shape="rect" id="node15" title="Provider of devices and links parsed from a JSON configuration structure. " alt="" coords="513,821,716,862"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="5,429,192,470"/>
+</map>

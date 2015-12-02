@@ -1,0 +1,7 @@
+<map id="org.onosproject.net.host.impl.HostManagerTest.getHosts" name="org.onosproject.net.host.impl.HostManagerTest.getHosts">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1host_1_1impl_1_1HostManager.html#a01c2aac54a0ec16c63fe9e80f632ae15" title="Returns the set of hosts whose most recent location is the specified connection point. " alt="" coords="249,5,469,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1host_1_1impl_1_1HostManager.html#a843a1a4d172ff3278eb9a0cbaca46eed" title="Returns a collection of all end&#45;station hosts. " alt="" coords="261,70,456,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1host_1_1impl_1_1HostManager.html#aea3f15744de1f1a58711ebe6074797da" title="Returns the set of hosts that have the specified IP address. " alt="" coords="261,135,456,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1host_1_1impl_1_1HostManager.html#a40fd3e0384aec4a778ec864b97343d92" title="Returns the set of hosts that have the specified MAC address. " alt="" coords="259,201,458,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1host_1_1impl_1_1HostManager.html#aa7a6bde6d576f8e74add470045ed5b03" title="Returns the set of hosts that belong to the specified VLAN. " alt="" coords="259,266,458,307"/>
+</map>

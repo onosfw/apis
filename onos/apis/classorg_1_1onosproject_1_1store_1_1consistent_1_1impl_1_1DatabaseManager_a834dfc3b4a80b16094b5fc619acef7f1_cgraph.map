@@ -1,0 +1,5 @@
+<map id="org.onosproject.store.consistent.impl.DatabaseManager.activate" name="org.onosproject.store.consistent.impl.DatabaseManager.activate">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterMetadataService.html#a6d6755df093b97064e2c2acbb4daef65" title="Returns the local controller node representing this instance. " alt="" coords="294,5,541,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1DatabaseManager.html#af2bc3f571325105b52b61a042d985c89" title="org.onosproject.store.consistent.impl.\lDatabaseManager.nodeIdToUri" alt="" coords="297,70,537,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ControllerNode.html#a137b5bfc5e2f3ce3450f4f163c3b1e9c" title="Returns the TCP port on which the node listens for connections. " alt="" coords="590,70,749,111"/>
+</map>

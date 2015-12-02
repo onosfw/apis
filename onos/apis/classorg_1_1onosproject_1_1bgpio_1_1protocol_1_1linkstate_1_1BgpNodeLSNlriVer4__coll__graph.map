@@ -1,0 +1,4 @@
+<map id="org.onosproject.bgpio.protocol.linkstate.BgpNodeLSNlriVer4" name="org.onosproject.bgpio.protocol.linkstate.BgpNodeLSNlriVer4">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1bgpio_1_1protocol_1_1BgpNodeLSNlri.html" title="Abstraction of an entity providing BGP&#45;LS Node NLRI. " alt="" coords="5,99,205,141"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1bgpio_1_1protocol_1_1BgpLSNlri.html" title="Abstraction of an entity providing BGP&#45;LS NLRI. " alt="" coords="5,6,205,47"/>
+</map>

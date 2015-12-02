@@ -1,0 +1,8 @@
+<map id="org.onosproject.metrics.intent.IntentMetrics" name="org.onosproject.metrics.intent.IntentMetrics">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1metrics_1_1intent_1_1IntentMetricsService.html" title="Service interface exported by IntentMetrics. " alt="" coords="401,5,599,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1IntentListener.html" title="Listener for intent events. " alt="" coords="413,70,587,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1IntentService.html" title="Service for application submitting or withdrawing their intents. " alt="" coords="413,135,587,177"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onlab_1_1metrics_1_1MetricsService.html" title="Metrics Service to collect metrics. " alt="" coords="415,201,585,242"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="414,266,586,307"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="13,266,200,307"/>
+</map>

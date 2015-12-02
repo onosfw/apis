@@ -1,0 +1,4 @@
+<map id="org.onosproject.openflow.controller.OpenFlowOpticalSwitch" name="org.onosproject.openflow.controller.OpenFlowOpticalSwitch">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1openflow_1_1controller_1_1OpenFlowSwitch.html" title="Represents to provider facing side of a switch. " alt="" coords="6,5,234,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1openflow_1_1controller_1_1WithTypedPorts.html" title="An interface implemented by OpenFlow devices that enables providers to retrieve ports based on port p..." alt="" coords="6,70,234,111"/>
+</map>

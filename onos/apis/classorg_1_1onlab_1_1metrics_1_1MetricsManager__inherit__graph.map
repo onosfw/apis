@@ -1,0 +1,4 @@
+<map id="org.onlab.metrics.MetricsManager" name="org.onlab.metrics.MetricsManager">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1core_1_1impl_1_1MetricsManagerComponent.html" title="Metrics service implementation. " alt="" coords="5,187,187,229"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onlab_1_1metrics_1_1MetricsService.html" title="Metrics Service to collect metrics. " alt="" coords="11,6,180,47"/>
+</map>

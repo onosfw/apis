@@ -1,0 +1,8 @@
+<map id="org.onosproject.ui.UiMessageHandler.connection" name="org.onosproject.ui.UiMessageHandler.connection">
+<area shape="rect" id="node2" href="$classit_1_1pkg_1_1AppUiTopovMessageHandler.html#a7bdc0744803587dedb286accfe5ae36c" title="it.pkg.AppUiTopovMessage\lHandler.init" alt="" coords="283,5,466,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1UiMessageHandler.html#a8b50402f0debaf694cd6b0ed988befe7" title="Initializes the handler with the user interface connection and service directory context. " alt="" coords="277,70,472,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1TopologyViewMessageHandlerBase.html#aa3810be13e944fd38d7a3b3151166dde" title="org.onosproject.ui.impl.\lTopologyViewMessageHandlerBase.init" alt="" coords="248,135,501,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1TopologyViewMessageHandler.html#a180b5772ebdf6614586a6b990c0db5fc" title="org.onosproject.ui.impl.\lTopologyViewMessageHandler.init" alt="" coords="263,201,486,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1ui_1_1UiMessageHandler.html#a78c6ccbd7e789686c8a1d311144fbc46" title="Sends the specified data to the client. " alt="" coords="277,266,472,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1TopologyViewMessageHandler.html#a66f67775fa172f69f11cd2bd15b38627" title="org.onosproject.ui.impl.\lTopologyViewMessageHandler.send\lHighlights" alt="" coords="549,259,784,315"/>
+</map>

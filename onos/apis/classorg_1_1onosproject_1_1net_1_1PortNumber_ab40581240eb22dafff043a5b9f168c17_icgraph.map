@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.PortNumber.hasName" name="org.onosproject.net.PortNumber.hasName">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1PortNumber.html#a6ffff09f83b196156ae32b101e4516fb" title="Indicates whether or not this port number is a reserved logical one or whether it corresponds to a no..." alt="" coords="217,5,378,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1PortNumber.html#a6748272ae615f34a67e17d54d3185b08" title="org.onosproject.net.Port\lNumber.toString" alt="" coords="427,34,589,75"/>
+</map>

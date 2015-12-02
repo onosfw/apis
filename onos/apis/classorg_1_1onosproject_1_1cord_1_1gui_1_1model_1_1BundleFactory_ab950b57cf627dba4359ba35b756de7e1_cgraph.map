@@ -1,0 +1,6 @@
+<map id="org.onosproject.cord.gui.model.BundleFactory.toObjectNode" name="org.onosproject.cord.gui.model.BundleFactory.toObjectNode">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cord_1_1gui_1_1model_1_1JsonFactory.html#a8b9954bd94020984b7e5236d2f6e5c3f" title="Returns a freshly minted array node. " alt="" coords="261,5,465,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1cord_1_1gui_1_1model_1_1BundleFactory.html#a2195869444c5954752c82c0d906fbbf1" title="Returns the list of available bundles. " alt="" coords="259,70,467,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1cord_1_1gui_1_1model_1_1Bundle.html#a049109186af0f74fa1a58aaba083e54f" title="Returns the bundle descriptor. " alt="" coords="261,135,465,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1cord_1_1gui_1_1model_1_1JsonFactory.html#afd304a08a87a41a01eab58c637f69512" title="Returns a freshly minted object node. " alt="" coords="261,201,465,242"/>
+</map>

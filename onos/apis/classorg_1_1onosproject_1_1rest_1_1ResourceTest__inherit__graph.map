@@ -1,0 +1,14 @@
+<map id="org.onosproject.rest.ResourceTest" name="org.onosproject.rest.ResourceTest">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1acl_1_1AclWebResourceTest.html" title="Test class for ACL application REST resource. " alt="" coords="429,5,611,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1rest_1_1ApplicationsResourceTest.html" title="Unit tests for applications REST APIs. " alt="" coords="414,70,626,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1rest_1_1BadRequestTest.html" title="Unit tests for bad REST requests. " alt="" coords="438,135,602,177"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1rest_1_1ComponentConfigWebResourceTest.html" title="Test of the component config REST API. " alt="" coords="416,201,624,242"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1rest_1_1DevicesResourceTest.html" title="Unit tests for devices REST APIs. " alt="" coords="425,266,615,307"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1rest_1_1FlowsResourceTest.html" title="Unit tests for Flows REST APIs. " alt="" coords="432,331,608,373"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1rest_1_1HostResourceTest.html" title="Simple example on how to write a JAX&#45;RS unit test using Jersey test framework. " alt="" coords="435,397,605,438"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1rest_1_1IntentsResourceTest.html" title="Unit tests for Intents REST APIs. " alt="" coords="429,462,611,503"/>
+<area shape="rect" id="node11" href="$classorg_1_1onosproject_1_1rest_1_1LinksResourceTest.html" title="Unit tests for links REST APIs. " alt="" coords="434,527,606,569"/>
+<area shape="rect" id="node12" href="$classorg_1_1onosproject_1_1rest_1_1PathsResourceTest.html" title="Unit tests for paths REST APIs. " alt="" coords="433,593,607,634"/>
+<area shape="rect" id="node13" href="$classorg_1_1onosproject_1_1rest_1_1StatisticsResourceTest.html" title="Unit tests for statistics REST APIs. " alt="" coords="422,658,618,699"/>
+<area shape="rect" id="node14" href="$classorg_1_1onosproject_1_1rest_1_1TopologyResourceTest.html" title="Unit tests for Topology REST APIs. " alt="" coords="423,723,617,765"/>
+</map>

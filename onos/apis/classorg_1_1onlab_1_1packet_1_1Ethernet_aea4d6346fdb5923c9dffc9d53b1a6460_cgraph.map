@@ -1,0 +1,5 @@
+<map id="org.onlab.packet.Ethernet.equals" name="org.onlab.packet.Ethernet.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1MacAddress.html#a8d738999456fe1ac5ca2919caae0ade8" title="org.onlab.packet.MacAddress.equals" alt="" coords="267,12,504,39"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1packet_1_1Ethernet.html#a7e1352e4ec219a61ffc21fdb9d987507" title="By default, set Ethernet to untagged. " alt="" coords="298,63,473,105"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1MacAddress.html#ab72d01afb0cd7ef0db6279c90a70548d" title="org.onlab.packet.MacAddress.\lMacAddress" alt="" coords="553,5,751,46"/>
+</map>

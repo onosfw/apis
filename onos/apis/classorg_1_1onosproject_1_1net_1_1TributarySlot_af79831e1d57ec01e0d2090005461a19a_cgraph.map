@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.TributarySlot.of" name="org.onosproject.net.TributarySlot.of">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1TributarySlot.html#a9933d2161d023cc677d9e656a4c9f090" title="Creates an instance representing the TributarySlot specified by the given index number. " alt="" coords="243,5,431,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1TributarySlot.html#ab812fc6fafb4dc6f25512efe1b7452d5" title="Returns the index number of TributarySlot. " alt="" coords="481,5,669,46"/>
+</map>

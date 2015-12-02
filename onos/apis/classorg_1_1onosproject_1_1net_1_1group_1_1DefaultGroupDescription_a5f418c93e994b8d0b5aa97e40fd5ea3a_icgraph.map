@@ -1,0 +1,7 @@
+<map id="org.onosproject.net.group.DefaultGroupDescription.type" name="org.onosproject.net.group.DefaultGroupDescription.type">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1group_1_1DefaultGroup.html#a01278110754ce8f645dffc180dfc5b66" title="Default group object constructor with the available information from data plane. " alt="" coords="273,5,453,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1group_1_1DefaultGroupDescription.html#a9fe3c59a76f1f70ea0e2ab2c8fe62b09" title="Constructor to be used by north bound applications. " alt="" coords="257,71,468,127"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1group_1_1DefaultGroupDescription.html#a4e4f7ab91f39554e76979b76ead1001f" title="org.onosproject.net.group.\lDefaultGroupDescription.equals" alt="" coords="526,111,733,153"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1group_1_1DefaultGroupDescription.html#a285a2ce099f88147c9894fd6891fd448" title="org.onosproject.net.group.\lDefaultGroupDescription.hashCode" alt="" coords="249,202,477,243"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1group_1_1DefaultGroupDescription.html#ac7e15516faa3e1edef92b378d9d839c3" title="org.onosproject.net.group.\lDefaultGroupDescription.toString" alt="" coords="255,267,470,309"/>
+</map>

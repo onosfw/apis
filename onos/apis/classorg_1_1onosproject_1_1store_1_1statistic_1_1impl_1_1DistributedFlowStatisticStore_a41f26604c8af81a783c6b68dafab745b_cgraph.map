@@ -1,0 +1,7 @@
+<map id="org.onosproject.store.statistic.impl.DistributedFlowStatisticStore.updateFlowStatistic" name="org.onosproject.store.statistic.impl.DistributedFlowStatisticStore.updateFlowStatistic">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1statistic_1_1impl_1_1DistributedFlowStatisticStore.html#a407329d1685864b1ca52f5dc60135082" title="Adds a flow stats observation for a flow rule. " alt="" coords="317,5,611,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowEntry.html#a400c1cc319495fa92a47f01e6969a06e" title="Returns the number of bytes this flow rule has matched. " alt="" coords="381,70,547,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRule.html#aa631dc5addc7d42600eecd749e41e04d" title="org.onosproject.net.flow.\lFlowRule.equals" alt="" coords="381,135,547,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowEntry.html#a4412657e85b3ed9bbe23a79126b267c8" title="When this flow entry was last deemed active. " alt="" coords="381,201,547,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1store_1_1statistic_1_1impl_1_1DistributedFlowStatisticStore.html#a527c5cb30ecf367984555fde9bc32914" title="Remove entries associated with this rule. " alt="" coords="331,267,597,323"/>
+</map>

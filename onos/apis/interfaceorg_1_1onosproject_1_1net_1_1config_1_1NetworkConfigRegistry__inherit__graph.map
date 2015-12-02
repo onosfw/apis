@@ -1,0 +1,8 @@
+<map id="org.onosproject.net.config.NetworkConfigRegistry" name="org.onosproject.net.config.NetworkConfigRegistry">
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1config_1_1impl_1_1NetworkConfigManager.html" title="Implementation of the network configuration subsystem. " alt="" coords="721,42,925,83"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigRegistryAdapter.html" title="Test adapter for network configuration service registry. " alt="" coords="721,107,924,149"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigService.html" title="Service for tracking network configurations which specify how the discovered network information shou..." alt="" coords="272,75,448,117"/>
+<area shape="rect" id="node6" title="Mocks the network config registry. " alt="" coords="992,5,1216,46"/>
+<area shape="rect" id="node7" title="Mocks the network config registry. " alt="" coords="997,70,1211,111"/>
+<area shape="rect" id="node8" title="Mocks the NetworkConfigRegistry. " alt="" coords="981,136,1227,192"/>
+</map>

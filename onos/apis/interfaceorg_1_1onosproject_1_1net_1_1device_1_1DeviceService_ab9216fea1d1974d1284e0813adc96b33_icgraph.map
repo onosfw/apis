@@ -1,0 +1,7 @@
+<map id="org.onosproject.net.device.DeviceService.getRole" name="org.onosproject.net.device.DeviceService.getRole">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1codec_1_1impl_1_1DeviceCodec.html#ab119c5551972d2d95516c23853d479c6" title="org.onosproject.codec.impl.\lDeviceCodec.encode" alt="" coords="245,5,427,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1device_1_1impl_1_1DeviceManagerTest.html#af59e061d3023500fdf61012b9ecf36bc" title="org.onosproject.net.device.impl.\lDeviceManagerTest.getRole" alt="" coords="233,70,439,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1link_1_1impl_1_1LinkManager.html#af76ac237780e5bfe05f904f5943d4547" title="Removes all infrastructure links leading to and from the specified connection point. " alt="" coords="241,135,431,177"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1rest_1_1DevicesResourceTest.html#a89a91d2eb5a012dc0bd4e3933eb7141e" title="Initializes test mocks and environment. " alt="" coords="241,201,431,242"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1link_1_1impl_1_1LinkManager.html#a7a83f164d51cda1af72695f44117fbfa" title="Removes all infrastructure links leading to and from the specified device. " alt="" coords="488,135,677,177"/>
+</map>

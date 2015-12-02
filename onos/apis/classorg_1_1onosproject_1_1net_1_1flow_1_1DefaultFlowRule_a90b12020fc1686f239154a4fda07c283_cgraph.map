@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.DefaultFlowRule.exactMatch" name="org.onosproject.net.flow.DefaultFlowRule.exactMatch">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRule.html#adf8fb7562b1aa94bb11a2f752f2dda51" title="Returns the ID of this flow. " alt="" coords="245,5,411,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRule.html#a3532d0be025446d99fdffb630ee9417b" title="Returns the traffic treatment that applies to selected traffic. " alt="" coords="245,70,411,111"/>
+</map>

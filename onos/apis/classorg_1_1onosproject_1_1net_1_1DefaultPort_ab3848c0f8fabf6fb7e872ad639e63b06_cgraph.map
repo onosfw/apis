@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.DefaultPort.toString" name="org.onosproject.net.DefaultPort.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1DefaultPort.html#ab5c1473ee5c0ddced5a8f2a51799d2a9" title="Indicates whether or not the port is currently up and active. " alt="" coords="232,5,411,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1DefaultPort.html#acbc4bf6758e18a65aab5b0c2e71e7453" title="Returns the port number. " alt="" coords="232,70,411,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1DefaultPort.html#aa1e9d78c133ca6dec14d2ae425de2c0c" title="Returns the current port speed in Mbps. " alt="" coords="232,135,411,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1DefaultPort.html#a5b0e2ebc931234d9324e4e2cc1eb442b" title="Returns the port type. " alt="" coords="232,201,411,242"/>
+</map>

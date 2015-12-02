@@ -1,0 +1,5 @@
+<map id="org.onosproject.store.trivial.SimpleGroupStore.getGroup" name="org.onosproject.store.trivial.SimpleGroupStore.getGroup">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleGroupStore.html#a250a5d46f36b035f33c4ac042c6f879c" title="Submits the group metrics to store for a given device ID. " alt="" coords="257,5,495,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleGroupStore.html#a71be5709073392abaa2571d26eb1cc08" title="Stores a new group entry using the information from group description. " alt="" coords="245,70,507,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleGroupStore.html#afe5bd74ca52cb543a26033ba9e37d38b" title="Updates the existing group entry with the information from group description. " alt="" coords="240,135,512,177"/>
+</map>

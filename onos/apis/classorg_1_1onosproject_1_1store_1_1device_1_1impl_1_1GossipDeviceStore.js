@@ -1,0 +1,27 @@
+var classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore =
+[
+    [ "activate", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#a9125770c7b865f2776406980b6be1ace", null ],
+    [ "calcDeltaStats", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#a3b9fc01ae4ada6c4600a9b961f7df7ed", null ],
+    [ "createOrUpdateDevice", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#a6f085d2acf6848c344e749efa8420bac", null ],
+    [ "deactivate", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#ab16e91cbd799e1e586100502e41aadb5", null ],
+    [ "getAvailableDevices", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#a8f516efd0a5c0c6ef7a3bf34698cf47f", null ],
+    [ "getDevice", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#ab7441f685fd8f473331e5a294e5194cb", null ],
+    [ "getDeviceCount", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#ad23e64c1d5082adad9ce1b4b9df3c55d", null ],
+    [ "getDevices", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#ab852b20ddebe3096c6b18d81a5f2c5ae", null ],
+    [ "getPort", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#a25018ec0e95cc8ab7a73a307176a42b1", null ],
+    [ "getPortDeltaStatistics", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#a0f6f755bfb0f7c0e2216464a8dd36aaa", null ],
+    [ "getPorts", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#aa07de4f39a9ef2f8a18b4d8de1098cb6", null ],
+    [ "getPortStatistics", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#a4447aa4fdb79ffc09f63e5309caaff7f", null ],
+    [ "isAvailable", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#aff096bbb9d975e7dfb0293244abd7b4c", null ],
+    [ "markOffline", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#a872cee2e133dbad82172769669f403b0", null ],
+    [ "removeDevice", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#a0a8fa478f73136e18d8e8716ac390ca3", null ],
+    [ "updatePorts", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#a84c373d0bb7f67ecd629935b3622801a", null ],
+    [ "updatePortStatistics", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#a9cc2e3bfc5243c2a0b847c07c365b098", null ],
+    [ "updatePortStatus", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#ac17fecd429097d5991c1a4d445899f45", null ],
+    [ "clusterCommunicator", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#a730f21b53f3f0ce5ee705aded8ec1081", null ],
+    [ "clusterService", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#a2145a33ad9d871b43fb078f24948c625", null ],
+    [ "deviceClockService", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#aa901de830e851be77eda7b6e04d5b9a1", null ],
+    [ "mastershipService", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#a8e746377c01c49c4a74a74fbcaeae10b", null ],
+    [ "storageService", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#a9a83685c6481f10372eb509dcac5211d", null ],
+    [ "termService", "classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStore.html#a4acf4c564f8310854b537d7fdc21a2af", null ]
+];

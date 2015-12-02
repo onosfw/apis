@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.intent.impl.compiler.MultiPointToSinglePointIntentCompiler" name="org.onosproject.net.intent.impl.compiler.MultiPointToSinglePointIntentCompiler">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="287,86,465,127"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1topology_1_1PathService.html" title="Service for obtaining pre&#45;computed paths or for requesting computation of paths using the current top..." alt="" coords="281,151,471,193"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1IntentExtensionService.html" title="Service for extending the capability of intent framework by adding additional compilers or/and instal..." alt="" coords="289,217,463,258"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onlab.util.BandwidthTest.testAdd" name="org.onlab.util.BandwidthTest.testAdd">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1util_1_1Bandwidth.html#a6e1eac5887a8475c76ef44308b89cd24" title="Returns a Bandwidth whose value is (this + value). " alt="" coords="216,12,403,39"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1util_1_1Bandwidth.html#a8c05e82d4461863dd97db5517ee58caf" title="Returns bandwidth in bps. " alt="" coords="451,12,637,39"/>
+</map>

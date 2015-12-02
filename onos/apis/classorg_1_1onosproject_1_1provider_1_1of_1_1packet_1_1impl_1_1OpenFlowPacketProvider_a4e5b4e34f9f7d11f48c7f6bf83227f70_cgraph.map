@@ -1,0 +1,4 @@
+<map id="org.onosproject.provider.of.packet.impl.OpenFlowPacketProvider.emit" name="org.onosproject.provider.of.packet.impl.OpenFlowPacketProvider.emit">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1packet_1_1OutboundPacket.html#aaddc4665ca3633fc9cea91c6aa40f8d0" title="Returns immutable view of the raw data to be sent. " alt="" coords="305,5,485,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1packet_1_1OutboundPacket.html#adbde7ec096616fedcf35ccdbae00390c" title="Returns how the outbound packet should be treated. " alt="" coords="305,70,485,111"/>
+</map>

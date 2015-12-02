@@ -1,0 +1,3 @@
+<map id="org.onosproject.mastership.MastershipService.isLocalMaster" name="org.onosproject.mastership.MastershipService.isLocalMaster">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipService.html#a988cc1b60a5b0569c7aaceb3e529a140" title="Returns the role of the local node for the specified device, without triggering master selection..." alt="" coords="269,5,480,46"/>
+</map>

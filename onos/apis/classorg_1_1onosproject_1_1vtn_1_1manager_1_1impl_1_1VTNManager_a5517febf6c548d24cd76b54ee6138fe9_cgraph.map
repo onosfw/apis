@@ -1,0 +1,4 @@
+<map id="org.onosproject.vtn.manager.impl.VTNManager.onControllerVanished" name="org.onosproject.vtn.manager.impl.VTNManager.onControllerVanished">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipService.html#ac847c2ae66c83b215f9f313fd506734d" title="Returns true if the local controller is the Master for the specified deviceId. " alt="" coords="281,5,495,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipService.html#a988cc1b60a5b0569c7aaceb3e529a140" title="Returns the role of the local node for the specified device, without triggering master selection..." alt="" coords="544,5,755,46"/>
+</map>

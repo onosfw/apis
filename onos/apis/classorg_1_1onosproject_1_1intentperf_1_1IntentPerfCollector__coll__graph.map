@@ -1,0 +1,6 @@
+<map id="org.onosproject.intentperf.IntentPerfCollector" name="org.onosproject.intentperf.IntentPerfCollector">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1intentperf_1_1IntentPerfUi.html" title="Mechanism to stream data to the GUI. " alt="" coords="427,6,600,47"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1ui_1_1UiExtensionService.html" title="Service for registering user interface extensions. " alt="" coords="12,5,212,46"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="434,74,593,115"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1store_1_1cluster_1_1messaging_1_1ClusterCommunicationService.html" title="Service for assisting communications between controller cluster nodes. " alt="" coords="384,139,643,181"/>
+</map>

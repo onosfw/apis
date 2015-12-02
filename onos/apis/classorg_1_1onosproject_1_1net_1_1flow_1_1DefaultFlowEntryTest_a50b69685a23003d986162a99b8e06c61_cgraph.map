@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.flow.DefaultFlowEntryTest.testDeviceBasedObject" name="org.onosproject.net.flow.DefaultFlowEntryTest.testDeviceBasedObject">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowRule.html#a568cfa61fd2cf01f69eee181e5ff076a" title="Returns the identity of the device where this rule applies. " alt="" coords="273,5,445,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowRule.html#abf447db1d96bc58193673281d5dd1394" title="Returns the traffic selector that identifies what traffic this rule should apply to. " alt="" coords="274,70,443,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowRule.html#a55a2496d9c9308934c4da0aec20a771f" title="Returns the timeout for this flow requested by an application. " alt="" coords="275,135,442,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowRule.html#ab4c41c9f411242700e31c5ed3a3db696" title="Returns the traffic treatment that applies to selected traffic. " alt="" coords="269,201,448,242"/>
+</map>

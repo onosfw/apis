@@ -1,0 +1,9 @@
+<map id="org.onosproject.core.Application.id" name="org.onosproject.core.Application.id">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleApplicationStoreTest.html#a0d66d54a5112e2d0bb56f7420d002fe1" title="org.onosproject.store.trivial.\lSimpleApplicationStoreTest.activate" alt="" coords="290,5,523,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1core_1_1DefaultApplicationTest.html#a0d42532d5ae4c073d2f67bc46c41a398" title="org.onosproject.core.Default\lApplicationTest.basics" alt="" coords="313,70,500,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleApplicationStoreTest.html#a57df1ebeb19c24ab27d55851fd131e75" title="org.onosproject.store.trivial.\lSimpleApplicationStoreTest.create" alt="" coords="295,135,518,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleApplicationStoreTest.html#acc1fb7511e13eaf8451560e358a9589f" title="org.onosproject.store.trivial.\lSimpleApplicationStoreTest.deactivate" alt="" coords="283,201,530,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1codec_1_1impl_1_1ApplicationCodec.html#a954df81375d3d44d580e77b89e6c87cd" title="org.onosproject.codec.impl.\lApplicationCodec.encode" alt="" coords="315,266,498,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleApplicationStoreTest.html#a54d7d2c9ef528df9081f8cf14c3ff8fc" title="org.onosproject.store.trivial.\lSimpleApplicationStoreTest.permissions" alt="" coords="278,331,535,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleApplicationStore.html#a5c2eb5e50b071779eb003b7b7241cf66" title="Removes the specified application. " alt="" coords="305,397,509,438"/>
+</map>

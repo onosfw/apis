@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1portpair_1_1PortPairService.html" title="Service for interacting with the inventory of port pairs. " alt="" coords="5,5,208,46"/>
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnrsc_1_1portpair_1_1impl_1_1PortPairManager.html" title="Provides implementation of the portPairService. " alt="" coords="257,5,487,46"/>
+</map>

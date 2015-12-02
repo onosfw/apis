@@ -1,0 +1,5 @@
+<map id="org.onosproject.store.device.impl.InternalDeviceEvent.InternalDeviceEvent" name="org.onosproject.store.device.impl.InternalDeviceEvent.InternalDeviceEvent">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1InternalDeviceEvent.html#adbcab671238c563142dd57338de5571b" title="org.onosproject.store.device.impl.\lInternalDeviceEvent.deviceDescription" alt="" coords="317,5,565,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1InternalDeviceEvent.html#af6ea96be00308ac36f13d0e9ab2d5984" title="org.onosproject.store.device.impl.\lInternalDeviceEvent.deviceId" alt="" coords="332,70,551,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1InternalDeviceEvent.html#af06efb45ed613bbe8273213d8580ec2f" title="org.onosproject.store.device.impl.\lInternalDeviceEvent.providerId" alt="" coords="332,135,551,177"/>
+</map>

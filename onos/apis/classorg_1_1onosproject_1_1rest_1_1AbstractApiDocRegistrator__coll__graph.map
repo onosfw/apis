@@ -1,0 +1,4 @@
+<map id="org.onosproject.rest.AbstractApiDocRegistrator" name="org.onosproject.rest.AbstractApiDocRegistrator">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1rest_1_1ApiDocProvider.html" title="Entity capable of providing REST API documentation resources. " alt="" coords="5,6,165,47"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1rest_1_1ApiDocService.html" title="Service for registering REST API documentation resources. " alt="" coords="189,6,349,47"/>
+</map>

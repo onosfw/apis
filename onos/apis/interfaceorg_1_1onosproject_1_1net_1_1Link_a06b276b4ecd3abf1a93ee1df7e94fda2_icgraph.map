@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.Link.isDurable" name="org.onosproject.net.Link.isDurable">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleLinkStore.html#ac4ec3e08e6b998cb7ab9ea3c7b805645" title="Removes the link, or marks it as inactive if the link is durable, based on the specified information..." alt="" coords="230,5,466,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1link_1_1impl_1_1ECLinkStore.html#aac68c5538b4b63c1ad05d0d0b30771b2" title="Removes the link, or marks it as inactive if the link is durable, based on the specified information..." alt="" coords="241,70,455,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1link_1_1impl_1_1GossipLinkStore.html#a79823943e15ab0c2b68f2b28adf941b1" title="Removes the link, or marks it as inactive if the link is durable, based on the specified information..." alt="" coords="229,135,467,177"/>
+</map>

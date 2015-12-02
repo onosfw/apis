@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.FlowRuleStore" name="org.onosproject.net.flow.FlowRuleStore">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1flow_1_1impl_1_1NewDistributedFlowRuleStore.html" title="Manages inventory of flow rules using a distributed state management protocol. " alt="" coords="467,5,671,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleFlowRuleStore.html" title="Manages inventory of flow rules using trivial in&#45;memory implementation. " alt="" coords="478,70,661,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onlab.util.DataRateUnit.toBitsPerSecond" name="org.onlab.util.DataRateUnit.toBitsPerSecond">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1util_1_1Bandwidth.html#aaaab3e84d768783191b06aee6fa26358" title="Creates a new instance with given bandwidth. " alt="" coords="248,45,424,72"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1BandwidthResource.html#ad81cc6b47c7673d99e16e9eb750b42f5" title="Creates a new bandwidth resource. " alt="" coords="482,5,697,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1constraint_1_1BandwidthConstraint.html#a4de2c5d58b13e2111497034e25388b4a" title="Creates a new bandwidth constraint. " alt="" coords="472,70,707,111"/>
+</map>

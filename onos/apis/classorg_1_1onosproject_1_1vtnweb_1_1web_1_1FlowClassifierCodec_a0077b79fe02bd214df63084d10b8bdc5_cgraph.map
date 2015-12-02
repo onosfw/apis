@@ -1,0 +1,5 @@
+<map id="org.onosproject.vtnweb.web.FlowClassifierCodec.encode" name="org.onosproject.vtnweb.web.FlowClassifierCodec.encode">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1FlowClassifier.html#ac423e6586cb7afe5f17ce7e1a4a5ba0f" title="Returns Destination IP prefix. " alt="" coords="243,5,426,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1FlowClassifier.html#a3002e3b583db0f368039a7301e824ac0" title="Returns Destination virtual port. " alt="" coords="243,70,426,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1FlowClassifier.html#a900a02d5950cc1537c3b5e772401fe28" title="Returns Tenant ID. " alt="" coords="243,135,426,177"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.provider.pcep.tunnel.impl.PcepTunnelData.PcepTunnelData" name="org.onosproject.provider.pcep.tunnel.impl.PcepTunnelData.PcepTunnelData">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1provider_1_1pcep_1_1tunnel_1_1impl_1_1PcepTunnelData.html#aa7f3db4a01e4f9cbfaa20650b4dd90cd" title="To get Path. " alt="" coords="317,5,581,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1provider_1_1pcep_1_1tunnel_1_1impl_1_1PcepTunnelData.html#ad9c43419ba26689806fa57ec4da6930d" title="To get request type. " alt="" coords="317,70,581,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1provider_1_1pcep_1_1tunnel_1_1impl_1_1PcepTunnelData.html#aa212bb1deea3bfd8ca0a85d69ec57306" title="To get Tunnel. " alt="" coords="317,135,581,177"/>
+</map>

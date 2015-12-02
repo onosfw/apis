@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.packet.DefaultPacketRequest.equals" name="org.onosproject.net.packet.DefaultPacketRequest.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1packet_1_1DefaultPacketRequest.html#a62fff5e1d6b24fdd9c2d8c63476f7f37" title="Creates a new packet request. " alt="" coords="251,63,493,119"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1packet_1_1DefaultPacketRequest.html#a95e703fb04ee0df8786da3db9b30bd07" title="Obtain the application id. " alt="" coords="549,5,739,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1packet_1_1DefaultPacketRequest.html#a06fc0783b3dac611a2a4749f35adbce9" title="Obtain the priority. " alt="" coords="545,70,743,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1packet_1_1DefaultPacketRequest.html#ab35522109db46bd733d5070ea0254c37" title="Obtain the traffic selector. " alt="" coords="542,135,746,177"/>
+</map>

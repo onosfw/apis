@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.AbstractModel.providerId" name="org.onosproject.net.AbstractModel.providerId">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1AbstractModel.html#a2176639ca8c0adcaf374b75444c0282e" title="org.onosproject.net.Abstract\lModel.AbstractModel" alt="" coords="252,5,439,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1DefaultLink.html#ac105a3aef5763845de11f45a082004d5" title="Creates an active infrastructure link using the supplied information. " alt="" coords="256,70,435,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1common_1_1DefaultTopology.html#a65d6c309cf3177f473daf3e28e09da00" title="Creates a topology descriptor attributed to the specified provider. " alt="" coords="240,135,451,177"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1DefaultLink.html#ae16012139ca0d5b0a4bc4a8cb1b38388" title="org.onosproject.net.Default\lLink.equals" alt="" coords="499,70,677,111"/>
+</map>

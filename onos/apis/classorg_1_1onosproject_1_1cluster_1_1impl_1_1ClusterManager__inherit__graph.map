@@ -1,0 +1,4 @@
+<map id="org.onosproject.cluster.impl.ClusterManager" name="org.onosproject.cluster.impl.ClusterManager">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="314,86,473,127"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterAdminService.html" title="Service for administering the cluster node membership. " alt="" coords="314,151,473,193"/>
+</map>

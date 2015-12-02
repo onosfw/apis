@@ -1,0 +1,8 @@
+<map id="org.onosproject.store.service.DatabaseUpdate.toString" name="org.onosproject.store.service.DatabaseUpdate.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1service_1_1DatabaseUpdate.html#aad8352a358226c4ef8b4dd4ed7983551" title="Returns the expected current value in the database value for the key. " alt="" coords="253,5,451,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1service_1_1DatabaseUpdate.html#a99e692b922410fad508d41331211386e" title="Returns the expected current version in the database for the key. " alt="" coords="248,70,456,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1service_1_1DatabaseUpdate.html#ae77e0d694b1a13db8d459247536653c7" title="Returns the item key being updated. " alt="" coords="255,135,449,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1service_1_1DatabaseUpdate.html#af5c142d3d6d5d49ed22954dc75972d24" title="Returns the name of map being updated. " alt="" coords="255,201,449,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1store_1_1service_1_1DatabaseUpdate.html#aa878456686980e5333809d1634b6468a" title="Returns the type of update operation. " alt="" coords="255,266,449,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1store_1_1service_1_1DatabaseUpdate.html#ab6586c2de0f91d467f7cfbcf8798a5af" title="Returns the new value. " alt="" coords="255,331,449,373"/>
+</map>

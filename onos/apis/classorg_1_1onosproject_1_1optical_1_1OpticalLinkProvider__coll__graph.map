@@ -1,0 +1,8 @@
+<map id="org.onosproject.optical.OpticalLinkProvider" name="org.onosproject.optical.OpticalLinkProvider">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1AbstractProvider.html" title="Base provider implementation. " alt="" coords="299,5,485,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="33,26,220,67"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkProvider.html" title="Abstraction of an entity providing information about infrastructure links to the core. " alt="" coords="311,70,473,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="303,135,481,177"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkService.html" title="Service for interacting with the inventory of infrastructure links. " alt="" coords="311,201,473,242"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkProviderRegistry.html" title="Abstraction of an infrastructure link provider registry. " alt="" coords="311,273,473,314"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.intent.SinglePointToMultiPointIntent.egressPoints" name="org.onosproject.net.intent.SinglePointToMultiPointIntent.egressPoints">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1SinglePointToMultiPointIntent.html#a099cf856dfb6812a95ddb9aea27a521c" title="org.onosproject.net.intent.\lSinglePointToMultiPointIntent.to\lString" alt="" coords="291,5,501,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1AddSinglePointToMultiPointIntentCommand.html#ab901dea9c3282530db231d0a9561014a" title="Executes this command. " alt="" coords="550,5,767,61"/>
+</map>

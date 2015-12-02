@@ -1,0 +1,11 @@
+<map id="org.onosproject.bgpio.protocol.BgpMessage" name="org.onosproject.bgpio.protocol.BgpMessage">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1bgpio_1_1protocol_1_1BgpKeepaliveMsg.html" title="Abstraction of an entity providing BGP Keepalive Message. " alt="" coords="501,5,701,46"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1bgpio_1_1protocol_1_1BgpNotificationMsg.html" title="Abstraction of an entity providing BGP notification message. " alt="" coords="501,70,701,111"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1bgpio_1_1protocol_1_1BgpOpenMsg.html" title="Abstraction of an entity providing BGP Open Message. " alt="" coords="501,135,701,177"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1bgpio_1_1protocol_1_1BgpUpdateMsg.html" title="Abstraction of an entity providing BGP Update Message. " alt="" coords="501,201,701,242"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1bgpio_1_1protocol_1_1Writeable.html" title="Abstraction of an entity providing functionality to write byte streams of Messages to channel buffer..." alt="" coords="5,103,205,145"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1ver4_1_1BgpKeepaliveMsgVer4.html" title="Provides BGP keep alive message. " alt="" coords="749,5,979,46"/>
+<area shape="rect" id="node6" title="A NOTIFICATION message is sent when an error condition is detected. " alt="" coords="749,70,979,111"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1ver4_1_1BgpOpenMsgVer4.html" title="Provides BGP open message. " alt="" coords="749,135,979,177"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1ver4_1_1BgpUpdateMsgVer4.html" title="BGP Update Message: UPDATE messages are used to transfer routing information between BGP peers..." alt="" coords="749,201,979,242"/>
+</map>

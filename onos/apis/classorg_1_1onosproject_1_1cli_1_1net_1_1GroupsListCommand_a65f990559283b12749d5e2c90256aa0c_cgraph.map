@@ -1,0 +1,4 @@
+<map id="org.onosproject.cli.net.GroupsListCommand.getSortedGroups" name="org.onosproject.cli.net.GroupsListCommand.getSortedGroups">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html#adddfe5a01ed42c5094fec234c594fe67" title="Returns a collection of the currently known infrastructure devices. " alt="" coords="301,5,480,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupService.html#ab47098ae6fbd9aa27d2a23c9ebc700e4" title="Retrieves all groups created by an application in the specified device as seen by current controller ..." alt="" coords="304,70,477,111"/>
+</map>

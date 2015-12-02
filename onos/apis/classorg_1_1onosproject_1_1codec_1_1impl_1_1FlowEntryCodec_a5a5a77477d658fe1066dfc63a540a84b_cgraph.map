@@ -1,0 +1,12 @@
+<map id="org.onosproject.codec.impl.FlowEntryCodec.encode" name="org.onosproject.codec.impl.FlowEntryCodec.encode">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowEntry.html#a400c1cc319495fa92a47f01e6969a06e" title="Returns the number of bytes this flow rule has matched. " alt="" coords="237,5,403,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRule.html#a699157e2381e7455fa7463c513a83683" title="Returns the identity of the device where this rule applies. " alt="" coords="237,70,403,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRule.html#a985acb7a9cd38accdf3f185015f56068" title="Returns whether the flow is permanent i.e. " alt="" coords="237,135,403,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowEntry.html#a4412657e85b3ed9bbe23a79126b267c8" title="When this flow entry was last deemed active. " alt="" coords="237,201,403,242"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowEntry.html#a11c19ea579c8a1491181783515cb1949" title="Returns the number of milliseconds this flow rule has been applied. " alt="" coords="237,266,403,307"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowEntry.html#a77a58f0e7965fd5026562134fb412ef2" title="Returns the number of packets this flow rule has matched. " alt="" coords="237,331,403,373"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRule.html#a4f0ab1f9f8fdf014e72428d5b47fbab8" title="Returns the flow rule priority given in natural order; higher numbers mean higher priorities..." alt="" coords="237,397,403,438"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRule.html#a3b17ef174daf0f55c342e34f9e810365" title="Returns the traffic selector that identifies what traffic this rule should apply to. " alt="" coords="237,462,403,503"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRule.html#a84a428aece5ed7f2e407fcc1ec890e79" title="Returns the timeout for this flow requested by an application. " alt="" coords="237,527,403,569"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRule.html#a3532d0be025446d99fdffb630ee9417b" title="Returns the traffic treatment that applies to selected traffic. " alt="" coords="237,593,403,634"/>
+</map>

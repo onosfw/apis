@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.trivial.SimpleDeviceStore.getAvailableDevices" name="org.onosproject.store.trivial.SimpleDeviceStore.getAvailableDevices">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleDeviceStore.html#a25fedb8c56cfd2f6f5dcc72426c7eeb7" title="Returns an iterable collection of all devices known to the system. " alt="" coords="313,5,517,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleDeviceStore.html#ad5e56177e6c7609a0feabe9ca07c553b" title="Indicates whether the specified device is available/online. " alt="" coords="314,70,515,111"/>
+</map>

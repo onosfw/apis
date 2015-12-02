@@ -1,0 +1,4 @@
+<map id="org.onosproject.incubator.net.virtual .VirtualDevice" name="org.onosproject.incubator.net.virtual .VirtualDevice">
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1virtual_01_1_1DefaultVirtualDevice.html" title="Default representation of a virtual device. " alt="" coords="91,187,320,229"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1virtual_01_1_1VirtualElement.html" title="Abstraction of a virtual element. " alt="" coords="5,6,235,47"/>
+</map>

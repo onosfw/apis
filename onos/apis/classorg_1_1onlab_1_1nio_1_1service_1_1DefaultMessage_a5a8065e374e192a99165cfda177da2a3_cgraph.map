@@ -1,0 +1,4 @@
+<map id="org.onlab.nio.service.DefaultMessage.toString" name="org.onlab.nio.service.DefaultMessage.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1nio_1_1service_1_1DefaultMessage.html#a87fd09608025db33da48d430d5a8e362" title="Returns message payload. " alt="" coords="243,5,431,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1nio_1_1service_1_1DefaultMessage.html#af443c935fbd011619d701a2dc9d514b6" title="Returns message type. " alt="" coords="243,70,431,111"/>
+</map>

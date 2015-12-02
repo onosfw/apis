@@ -1,0 +1,7 @@
+<map id="org.onosproject.net.intent.impl.compiler.MplsPathIntentCompiler" name="org.onosproject.net.intent.impl.compiler.MplsPathIntentCompiler">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1core_1_1ApplicationId.html" title="Application identifier. " alt="" coords="424,85,643,112"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1newresource_1_1ResourceService.html" title="Service for allocating/releasing resource(s) and retrieving allocation(s) and availability. " alt="" coords="426,137,641,178"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="447,202,619,243"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="25,226,212,267"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1IntentExtensionService.html" title="Service for extending the capability of intent framework by adding additional compilers or/and instal..." alt="" coords="447,267,620,309"/>
+</map>

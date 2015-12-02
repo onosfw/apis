@@ -1,0 +1,4 @@
+<map id="org.onosproject.incubator.rpc.grpc.GrpcRemoteServiceTest.CTestDeviceProvider" name="org.onosproject.incubator.rpc.grpc.GrpcRemoteServiceTest.CTestDeviceProvider">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceProvider.html" title="Abstraction of a device information provider. " alt="" coords="63,97,241,138"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="59,6,245,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.intent.MplsIntentTest.testContents" name="org.onosproject.net.intent.MplsIntentTest.testContents">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1Intent.html#a95213b848996654ad07bc1b1912dfceb" title="Returns the identifier of the application that requested the intent. " alt="" coords="249,5,423,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1Intent.html#a4f0242ba0f6aa662534da31fcc9fe9d8" title="Returns the priority of the intent. " alt="" coords="249,70,423,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1ConnectivityIntent.html#aef4be7678fbfa88b9d130630c14ceecd" title="Returns the match specifying the type of traffic. " alt="" coords="247,135,425,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1ConnectivityIntent.html#a01f1e0a2278429c1d252c243f1d103da" title="Returns the action applied to the traffic. " alt="" coords="243,201,429,242"/>
+</map>

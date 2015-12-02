@@ -1,0 +1,6 @@
+<map id="org.onosproject.incubator.net.intf.impl.InterfaceManagerTest.testUpdateInterface" name="org.onosproject.incubator.net.intf.impl.InterfaceManagerTest.testUpdateInterface">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1intf_1_1impl_1_1InterfaceManager.html#a059a311778c1055f92987b9b84eeac72" title="Returns the set of all interfaces in the system. " alt="" coords="323,5,567,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1intf_1_1impl_1_1InterfaceManager.html#adcb6c7359588e65d0c4914cc87a0a836" title="Returns the set of interfaces configured on the given port. " alt="" coords="323,70,567,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1packet_1_1VlanId.html#a27bb278ab64470a5a1b650d3923f26ce" title="org.onlab.packet.VlanId.vlanId" alt="" coords="346,136,545,163"/>
+<area shape="rect" id="node5" href="$classorg_1_1onlab_1_1packet_1_1VlanId.html#a7c0b981ac8b919a7014438f4ec0f5157" title="org.onlab.packet.VlanId.\lVlanId" alt="" coords="616,129,779,170"/>
+</map>

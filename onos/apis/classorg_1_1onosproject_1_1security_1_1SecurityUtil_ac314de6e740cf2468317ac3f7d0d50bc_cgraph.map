@@ -1,0 +1,4 @@
+<map id="org.onosproject.security.SecurityUtil.isAppSecured" name="org.onosproject.security.SecurityUtil.isAppSecured">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1security_1_1SecurityUtil.html#af9a2becb943d290bd16b1b6d7440cd60" title="org.onosproject.security.\lSecurityUtil.getSecurityService" alt="" coords="234,5,438,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1security_1_1SecurityAdminService.html#ad211474807a654d4001a84a9fead7309" title="Returns true if security policy has been enforced to specified application. " alt="" coords="229,70,443,111"/>
+</map>

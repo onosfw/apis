@@ -1,0 +1,7 @@
+<map id="org.onosproject.codec.impl.CriterionCodecTest" name="org.onosproject.codec.impl.CriterionCodecTest">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1PortNumber.html" title="Representation of a port number. " alt="" coords="330,146,491,187"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1packet_1_1TpPort.html" title="Representation of a transport layer port. " alt="" coords="330,212,491,239"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1codec_1_1CodecContext.html" title="Context for codecs to use while encoding/decoding. " alt="" coords="315,263,507,305"/>
+<area shape="rect" id="node7" href="$classorg_1_1onlab_1_1packet_1_1MacAddress.html" title="The class representing MAC address. " alt="" coords="313,463,508,489"/>
+<area shape="rect" id="node8" href="$classorg_1_1onlab_1_1packet_1_1IpPrefix.html" title="A class representing an IP prefix. " alt="" coords="327,513,494,540"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.host.impl.HostManagerTest.hostDetected" name="org.onosproject.net.host.impl.HostManagerTest.hostDetected">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1host_1_1impl_1_1HostManager.html#a452f1abca0246ba4e366fa7696fec9f3" title="Returns the host with the specified identifier. " alt="" coords="261,5,456,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1host_1_1impl_1_1HostManager.html#a64ac6a8d90facfed62520e800707ac7e" title="Returns the number of end&#45;station hosts known to the system. " alt="" coords="261,70,456,111"/>
+</map>

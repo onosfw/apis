@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.device.DeviceService" name="org.onosproject.net.device.DeviceService">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceAdminService.html" title="Service for administering the inventory of infrastructure devices. " alt="" coords="491,43,669,85"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1device_1_1DeviceServiceAdapter.html" title="Test adapter for device service. " alt="" coords="491,321,669,362"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1device_1_1impl_1_1DeviceManager.html" title="Provides implementation of the device SB &amp; NB APIs. " alt="" coords="758,43,965,85"/>
+<area shape="rect" id="node12" title="Mocks the device service so that a device appears available in the test. " alt="" coords="723,387,999,443"/>
+</map>

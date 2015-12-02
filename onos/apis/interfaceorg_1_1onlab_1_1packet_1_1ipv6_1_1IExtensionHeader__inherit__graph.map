@@ -1,0 +1,9 @@
+<map id="org.onlab.packet.ipv6.IExtensionHeader" name="org.onlab.packet.ipv6.IExtensionHeader">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1IPv6.html" title="Implements IPv6 packet format. " alt="" coords="309,5,459,32"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1ipv6_1_1Authentication.html" title="Implements IPv6 authentication extension header format. " alt="" coords="267,56,501,83"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1packet_1_1ipv6_1_1BaseOptions.html" title="Base class for hop&#45;by&#45;hop options and destination options. " alt="" coords="294,107,474,149"/>
+<area shape="rect" id="node7" href="$classorg_1_1onlab_1_1packet_1_1ipv6_1_1Fragment.html" title="Implements IPv6 fragment extension header format. " alt="" coords="281,173,487,200"/>
+<area shape="rect" id="node8" href="$classorg_1_1onlab_1_1packet_1_1ipv6_1_1Routing.html" title="Implements IPv6 routing extension header format. " alt="" coords="287,224,481,251"/>
+<area shape="rect" id="node5" href="$classorg_1_1onlab_1_1packet_1_1ipv6_1_1DestinationOptions.html" title="Implements IPv6 Destination Options extension header format. " alt="" coords="549,75,765,117"/>
+<area shape="rect" id="node6" href="$classorg_1_1onlab_1_1packet_1_1ipv6_1_1HopByHopOptions.html" title="Implements IPv6 Hop&#45;by&#45;hop Options extension header format. " alt="" coords="570,141,745,182"/>
+</map>

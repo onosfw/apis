@@ -1,0 +1,5 @@
+<map id="org.onosproject.store.flow.impl.NewDistributedFlowRuleStore.storeFlowRule" name="org.onosproject.store.flow.impl.NewDistributedFlowRuleStore.storeFlowRule">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1core_1_1IdGenerator.html#a72c13c24b1594b307c0ca42dac763f99" title="Returns a globally unique ID instance. " alt="" coords="357,5,592,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1flow_1_1impl_1_1NewDistributedFlowRuleStore.html#afe28bd84dfefa133da3daec7dd3bc65b" title="Stores a batch of flow rules. " alt="" coords="342,70,607,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleBatchEvent.html#a2276e8a1afca67219e8a8b0ed43ddc2c" title="Constructs a new FlowRuleBatchEvent. " alt="" coords="657,70,866,111"/>
+</map>

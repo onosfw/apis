@@ -1,0 +1,9 @@
+<map id="org.onosproject.net.flow.FlowRule" name="org.onosproject.net.flow.FlowRule">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowRule.html" title="org.onosproject.net.flow.\lDefaultFlowRule" alt="" coords="503,5,668,46"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowEntry.html" title="Represents a generalized match &amp; action pair to be applied to an infrastucture device. " alt="" coords="245,70,411,111"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowEntry.html" title="org.onosproject.net.flow.\lDefaultFlowEntry" alt="" coords="733,5,899,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultTypedFlowEntry.html" title="Default flow entry class with FlowLiveType value, IMMEDIATE_FLOW, SHORT_FLOW, MID_FLOW, LONG_FLOW. " alt="" coords="947,38,1112,79"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1StoredFlowEntry.html" title="org.onosproject.net.flow.\lStoredFlowEntry" alt="" coords="503,70,668,111"/>
+<area shape="rect" id="node8" title="Mock class for a flow entry. " alt="" coords="486,135,685,177"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1TypedStoredFlowEntry.html" title="Represents a flow live type for a given flow entry. " alt="" coords="733,70,899,111"/>
+</map>

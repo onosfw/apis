@@ -1,0 +1,5 @@
+<map id="org.onosproject.cluster.ControllerNode.id" name="org.onosproject.cluster.ControllerNode.id">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1cluster_1_1impl_1_1StaticClusterMetadataStore.html#add70c7d2c32a2fd5d12628962553d3ed" title="org.onosproject.store.cluster.impl.\lStaticClusterMetadataStore.activate" alt="" coords="239,5,473,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleMastershipStore.html#a057088688880a705e1e94580bd694820" title="org.onosproject.store.trivial.\lSimpleMastershipStore.activate" alt="" coords="253,70,459,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1TopologyViewMessageHandlerBase.html#a27b7f7e495a1d1711f09ceebba8ab9ea" title="org.onosproject.ui.impl.\lTopologyViewMessageHandlerBase.instance\lMessage" alt="" coords="213,136,499,192"/>
+</map>

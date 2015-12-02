@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.AbstractModel.AbstractModel" name="org.onosproject.net.AbstractModel.AbstractModel">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1AbstractAnnotated.html#a2858b84119b1f766fd6222e79efa1b93" title="Returns the key/value annotations. " alt="" coords="240,5,427,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1AbstractModel.html#ac4418cd35f1fc5a00c070c2095d7ce0e" title="Returns the identifier of the provider which supplied the entity. " alt="" coords="240,70,427,111"/>
+</map>

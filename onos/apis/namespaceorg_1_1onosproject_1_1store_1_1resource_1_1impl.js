@@ -1,0 +1,5 @@
+var namespaceorg_1_1onosproject_1_1store_1_1resource_1_1impl =
+[
+    [ "ConsistentIntentSetMultimap", "classorg_1_1onosproject_1_1store_1_1resource_1_1impl_1_1ConsistentIntentSetMultimap.html", "classorg_1_1onosproject_1_1store_1_1resource_1_1impl_1_1ConsistentIntentSetMultimap" ],
+    [ "ConsistentLinkResourceStore", "classorg_1_1onosproject_1_1store_1_1resource_1_1impl_1_1ConsistentLinkResourceStore.html", "classorg_1_1onosproject_1_1store_1_1resource_1_1impl_1_1ConsistentLinkResourceStore" ]
+];

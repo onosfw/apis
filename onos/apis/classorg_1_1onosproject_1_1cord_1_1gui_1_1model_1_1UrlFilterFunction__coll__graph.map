@@ -1,0 +1,5 @@
+<map id="org.onosproject.cord.gui.model.UrlFilterFunction" name="org.onosproject.cord.gui.model.UrlFilterFunction">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cord_1_1gui_1_1model_1_1DefaultXosFunction.html" title="Default XOS function implementation, that does not have any parameters to tweak. " alt="" coords="321,34,525,75"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1cord_1_1gui_1_1model_1_1XosFunction.html" title="Designates a specific instance of an XOS function. " alt="" coords="6,5,210,46"/>
+<area shape="rect" id="node5" href="$enumorg_1_1onosproject_1_1cord_1_1gui_1_1model_1_1UrlFilterFunction_1_1Level.html" title="Denotes the URL filtering levels available. " alt="" coords="321,99,525,141"/>
+</map>

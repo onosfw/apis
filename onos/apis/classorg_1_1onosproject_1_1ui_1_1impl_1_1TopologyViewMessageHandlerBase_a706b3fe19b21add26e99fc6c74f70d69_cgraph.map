@@ -1,0 +1,5 @@
+<map id="org.onosproject.ui.impl.TopologyViewMessageHandlerBase.summmaryMessage" name="org.onosproject.ui.impl.TopologyViewMessageHandlerBase.summmaryMessage">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleService.html#a1704d6fc4f9b449321602f56aa61cdfc" title="Returns the number of flow rules in the system. " alt="" coords="355,5,589,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1IntentService.html#a38fa917064dc07d67e9bc03b085de233" title="Returns the number of intents currently in the system. " alt="" coords="377,70,567,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1TunnelService.html#a30e301be1b66305d8237e6a74ac54300" title="Returns all tunnels. " alt="" coords="355,135,589,177"/>
+</map>

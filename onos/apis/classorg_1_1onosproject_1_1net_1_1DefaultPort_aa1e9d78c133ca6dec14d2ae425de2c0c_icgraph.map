@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.DefaultPort.portSpeed" name="org.onosproject.net.DefaultPort.portSpeed">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1DefaultPort.html#ac6d96c368c80c8e41cdce822a1d20dd9" title="Creates a network element attributed to the specified provider. " alt="" coords="245,5,424,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1DefaultPort.html#a8d948f526bd11020c22df54e8ba255db" title="org.onosproject.net.Default\lPort.hashCode" alt="" coords="245,70,424,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1DevicePortsListCommand.html#a1177072da1f7e13db6992871ca658df5" title="org.onosproject.cli.net.\lDevicePortsListCommand.print\lDevice" alt="" coords="233,136,437,192"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1DefaultPort.html#ab3848c0f8fabf6fb7e872ad639e63b06" title="org.onosproject.net.Default\lPort.toString" alt="" coords="245,217,424,258"/>
+</map>

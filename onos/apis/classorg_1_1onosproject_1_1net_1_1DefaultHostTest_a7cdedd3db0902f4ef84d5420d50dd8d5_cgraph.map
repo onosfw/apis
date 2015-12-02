@@ -1,0 +1,8 @@
+<map id="org.onosproject.net.DefaultHostTest.basics" name="org.onosproject.net.DefaultHostTest.basics">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1Host.html#affddfa64e5416474b5f33939467d9834" title="Host identification. " alt="" coords="268,5,447,32"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1Host.html#aa276099a5417824b60aac8596ce01f0a" title="Returns set of IP addresses currently bound to the host MAC address. " alt="" coords="268,57,447,98"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1Host.html#aa63e16b9faea2fb8f8210ad092370b06" title="Returns the most recent host location where the host attaches to the network edge. " alt="" coords="250,123,465,149"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1Host.html#abf0c7949975a9d613c8ca2b757d30a13" title="Returns the host MAC address. " alt="" coords="260,173,455,200"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1Provided.html#abd36699116ebf3fe789f6b27b20c581b" title="Returns the identifier of the provider which supplied the entity. " alt="" coords="233,224,482,251"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1Host.html#af195a9e5be02239618650153efceab36" title="Returns the VLAN ID tied to this host. " alt="" coords="261,275,454,301"/>
+</map>

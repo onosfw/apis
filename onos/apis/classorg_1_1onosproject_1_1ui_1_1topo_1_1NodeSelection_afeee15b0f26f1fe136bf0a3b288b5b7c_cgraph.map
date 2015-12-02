@@ -1,0 +1,4 @@
+<map id="org.onosproject.ui.topo.NodeSelection.devicesWithHover" name="org.onosproject.ui.topo.NodeSelection.devicesWithHover">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1NodeSelection.html#aebbbbb53bf5fe4f385e60cb172f33f00" title="Returns a view of the selected devices (hover not included). " alt="" coords="273,5,431,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1NodeSelection.html#ac2656423ae7309f2980e553562b0661e" title="Returns the element (host or device) over which the mouse was hovering, or null. " alt="" coords="273,70,431,111"/>
+</map>

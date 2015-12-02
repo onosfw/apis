@@ -1,0 +1,6 @@
+<map id="org.onosproject.app.ApplicationService" name="org.onosproject.app.ApplicationService">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1app_1_1ApplicationAdminService.html" title="Service for managing network control applications. " alt="" coords="505,70,709,111"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1app_1_1ApplicationServiceAdapter.html" title="Adapter for testing against application service. " alt="" coords="505,5,709,46"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1app_1_1impl_1_1ApplicationManager.html" title="Implementation of the application management service. " alt="" coords="776,99,944,141"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1app_1_1ApplicationAdminServiceAdapter.html" title="Adapter for testing against application admin service. " alt="" coords="758,19,962,61"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.intent.PartitionService" name="org.onosproject.net.intent.PartitionService">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1PartitionServiceAdapter.html" title="Testing adapter for the partition service. " alt="" coords="500,5,673,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1intent_1_1impl_1_1PartitionManager.html" title="Manages the assignment of intent keyspace partitions to instances. " alt="" coords="481,70,693,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleClusterStore.html" title="Manages inventory of infrastructure devices using trivial in&#45;memory structures implementation. " alt="" coords="495,135,678,177"/>
+</map>

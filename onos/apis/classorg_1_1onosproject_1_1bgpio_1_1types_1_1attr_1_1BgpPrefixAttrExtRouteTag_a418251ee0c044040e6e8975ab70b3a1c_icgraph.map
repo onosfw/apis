@@ -1,0 +1,5 @@
+<map id="org.onosproject.bgpio.types.attr.BgpPrefixAttrExtRouteTag.BgpPrefixAttrExtRouteTag" name="org.onosproject.bgpio.types.attr.BgpPrefixAttrExtRouteTag.BgpPrefixAttrExtRouteTag">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpPrefixAttrExtRouteTag.html#aaa130345d1b84874d78e78cd2f3f6fcf" title="org.onosproject.bgpio.types.attr.\lBgpPrefixAttrExtRouteTag.equals" alt="" coords="312,5,531,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpPrefixAttrExtRouteTag.html#a7b0540b6bf45859f47f3ae27cbdfa984" title="Returns object of this class with specified values. " alt="" coords="317,70,526,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpPrefixAttrExtRouteTag.html#ad85479b1a95dc9b8a1a9d0f95b9a4280" title="Reads the Extended Tag. " alt="" coords="317,135,526,177"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.vtnrsc.FlowClassifier.tenantId" name="org.onosproject.vtnrsc.FlowClassifier.tenantId">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnweb_1_1web_1_1FlowClassifierCodecTest.html#a9ce67772b136ea0d5552f35f9d1e83d8" title="Checks that a simple flow classifier decodes properly. " alt="" coords="238,5,474,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1vtnweb_1_1web_1_1FlowClassifierCodec.html#a0077b79fe02bd214df63084d10b8bdc5" title="org.onosproject.vtnweb.web.\lFlowClassifierCodec.encode" alt="" coords="261,86,451,127"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultFlowClassifier.html#ac5ea3ceb667de1e7f4bf79cc84318978" title="Returns whether this Flow classifier is an exact match to the Flow classifier given in the argument..." alt="" coords="257,151,455,193"/>
+</map>

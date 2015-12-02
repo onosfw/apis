@@ -1,0 +1,9 @@
+<map id="org.onosproject.routing.bgp.BgpRouteEntryTest.testGetFields" name="org.onosproject.routing.bgp.BgpRouteEntryTest.testGetFields">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1routing_1_1bgp_1_1BgpRouteEntry.html#ab90829b4910148b7bab48e5a7b090113" title="Gets the route AS path. " alt="" coords="286,5,469,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1routing_1_1bgp_1_1BgpRouteEntry.html#a3df2647c4806427ac3d0e1b91cc54758" title="Gets the BGP Session the route was received on. " alt="" coords="276,70,479,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1routing_1_1bgp_1_1BgpRouteEntry.html#aed866b68d4219c7d01c65f2c3c62d544" title="Gets the route local preference. " alt="" coords="283,135,471,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1routing_1_1bgp_1_1BgpRouteEntry.html#a3d0e3fa0c2ec162bfe94b813be3680d9" title="Gets the route MED (Multi&#45;Exit Discriminator). " alt="" coords="272,201,483,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1routing_1_1bgp_1_1BgpRouteEntry.html#ad13f1f69d4f8c0894d5a99cb3d86c5ca" title="Gets the route origin: 0=IGP, 1=EGP, 2=INCOMPLETE. " alt="" coords="286,266,469,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1routing_1_1RouteEntry.html#abbde2b74e505a9d21409a6dd200cd38b" title="Returns the next hop IP address for the route. " alt="" coords="298,331,457,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1routing_1_1RouteEntry.html#a97a9f1568b7801b823a262b952661f5d" title="Returns the IP prefix of the route. " alt="" coords="298,397,457,438"/>
+</map>

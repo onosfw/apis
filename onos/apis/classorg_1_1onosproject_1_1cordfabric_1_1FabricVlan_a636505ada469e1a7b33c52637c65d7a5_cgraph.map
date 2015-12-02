@@ -1,0 +1,5 @@
+<map id="org.onosproject.cordfabric.FabricVlan.FabricVlan" name="org.onosproject.cordfabric.FabricVlan.FabricVlan">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cordfabric_1_1FabricVlan.html#abf4fdfe1be7277880a35b975a29e97c1" title="org.onosproject.cordfabric.\lFabricVlan.iptv" alt="" coords="229,5,405,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1cordfabric_1_1FabricVlan.html#a796e3c81e45b6434c9b36eecb611d890" title="org.onosproject.cordfabric.\lFabricVlan.ports" alt="" coords="229,70,405,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1cordfabric_1_1FabricVlan.html#acd0191c871ac7bf0b3f9330cce07144a" title="org.onosproject.cordfabric.\lFabricVlan.vlan" alt="" coords="229,135,405,177"/>
+</map>

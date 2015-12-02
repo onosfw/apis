@@ -1,0 +1,8 @@
+<map id="org.onosproject.ovsdb.rfc.table.Bridge.getPortsColumn" name="org.onosproject.ovsdb.rfc.table.Bridge.getPortsColumn">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ovsdb_1_1controller_1_1driver_1_1DefaultOvsdbClient.html#afbfd7031a3a45e4b3882dda940180a2f" title="Gets the Port uuid. " alt="" coords="259,103,506,145"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ovsdb_1_1controller_1_1driver_1_1DefaultOvsdbClient.html#a01755acc77b356eaa297f9784ed08b8d" title="Creates a port. " alt="" coords="555,5,802,46"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1ovsdb_1_1controller_1_1driver_1_1DefaultOvsdbClient.html#ab092ddc51f836e1d67685cf9d9019407" title="Creates the configuration for tunnel. " alt="" coords="555,70,802,111"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1ovsdb_1_1controller_1_1driver_1_1DefaultOvsdbClient.html#a25bcd56e4439fe8545d7edccdc1f13c8" title="Drops a port. " alt="" coords="555,135,802,177"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1ovsdb_1_1controller_1_1driver_1_1DefaultOvsdbClient.html#a4a3d17ad7e11f6ff63f0f4f296635e3e" title="Drops the configuration for tunnel. " alt="" coords="555,201,802,242"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ovsdb_1_1controller_1_1driver_1_1DefaultOvsdbClient.html#a17aee9e60f6c47372fa60482bb46ac00" title="Creates a bridge. " alt="" coords="851,5,1098,46"/>
+</map>

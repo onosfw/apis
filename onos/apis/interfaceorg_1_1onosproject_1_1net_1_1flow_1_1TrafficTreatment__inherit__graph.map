@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.TrafficTreatment" name="org.onosproject.net.flow.TrafficTreatment">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultTrafficTreatment.html" title="Default traffic treatment implementation. " alt="" coords="257,5,423,46"/>
+<area shape="rect" id="node4" title="Mock traffic treatment class used for satisfying API requirements. " alt="" coords="229,135,451,177"/>
+</map>

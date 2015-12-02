@@ -1,0 +1,7 @@
+<map id="org.onosproject.provider.of.packet.impl.OpenFlowPacketProvider" name="org.onosproject.provider.of.packet.impl.OpenFlowPacketProvider">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1AbstractProvider.html" title="Base provider implementation. " alt="" coords="355,5,541,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="51,37,237,78"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1packet_1_1PacketProvider.html" title="Abstraction of a packet provider capable of emitting packets. " alt="" coords="358,70,538,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1openflow_1_1controller_1_1OpenFlowController.html" title="Abstraction of an OpenFlow controller. " alt="" coords="334,135,562,177"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1packet_1_1PacketProviderRegistry.html" title="Abstraction of an infrastructure packet provider registry. " alt="" coords="358,201,538,242"/>
+</map>

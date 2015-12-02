@@ -1,0 +1,8 @@
+<map id="org.onosproject.ui.topo.LinkHighlight.Flavor.toString" name="org.onosproject.ui.topo.LinkHighlight.Flavor.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1LinkHighlight.html#ad20aa0fcc497dc770f2abee968a09126" title="Generates the CSS classes string from the flavor and any optional mods. " alt="" coords="240,135,411,177"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1LinkHighlightTest.html#a93992547f716acd3df5de251e94bcda7" title="org.onosproject.ui.topo.\lLinkHighlightTest.basic" alt="" coords="501,5,659,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1LinkHighlightTest.html#afdbf6361504f3f4a206fa343c429ca16" title="org.onosproject.ui.topo.\lLinkHighlightTest.customMod" alt="" coords="483,70,677,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1LinkHighlightTest.html#a8443e9f2a83663b9cff1641a7d352e0c" title="org.onosproject.ui.topo.\lLinkHighlightTest.primaryOptical" alt="" coords="475,135,685,177"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1LinkHighlightTest.html#ace76cf70e06e00005def3bfd9e1acd43" title="org.onosproject.ui.topo.\lLinkHighlightTest.secondaryAnimated\lWithLabel" alt="" coords="459,201,701,257"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1LinkHighlightTest.html#af5e7708d1b338bdb6733ed8d65e5908b" title="org.onosproject.ui.topo.\lLinkHighlightTest.severalMods" alt="" coords="479,282,681,323"/>
+</map>

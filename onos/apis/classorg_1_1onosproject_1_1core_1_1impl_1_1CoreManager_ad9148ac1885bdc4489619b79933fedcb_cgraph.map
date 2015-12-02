@@ -1,0 +1,4 @@
+<map id="org.onosproject.core.impl.CoreManager.activate" name="org.onosproject.core.impl.CoreManager.activate">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1core_1_1impl_1_1CoreManager.html#a52d10688c06a64ec6bb7a82d8a7ffad0" title="Registers a new application by its name, which is expected to follow the reverse DNS convention..." alt="" coords="227,5,437,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1core_1_1impl_1_1CoreManager.html#a6f5037343d908cb5a8374a8baf3d9d3e" title="Returns the product version. " alt="" coords="246,70,418,111"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="org.onosproject.store.mastership.impl.ConsistentDeviceMastershipStore.setStandby" name="org.onosproject.store.mastership.impl.ConsistentDeviceMastershipStore.setStandby">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cluster_1_1NodeId.html#a657d2f31051483200249c7d818bb0354" title="org.onosproject.cluster.\lNodeId.equals" alt="" coords="761,25,919,67"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1mastership_1_1impl_1_1ConsistentDeviceMastershipStore.html#a5b021f6bd79325d13fc0220b55e33873" title="Returns the master for a device. " alt="" coords="699,156,981,197"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1mastership_1_1impl_1_1ConsistentDeviceMastershipStore.html#a91a272d8b3eb2111dea3a7b88734ca84" title="Allows a controller instance to give up its current role for a device. " alt="" coords="344,28,651,69"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1store_1_1mastership_1_1impl_1_1ConsistentDeviceMastershipStore.html#acca7f8988e4484f260166d67ca0a3a63" title="Sets a device&#39;s role for a specified controller instance. " alt="" coords="356,93,639,135"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1cluster_1_1NodeId.html#ac2d1db824f1b7d1834a35658d6b93746" title="Creates a new cluster node identifier from the specified string. " alt="" coords="1030,25,1189,67"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1cluster_1_1LeadershipService.html#a8f245b9f2e33c2a493bbfd853399c862" title="Moves the specified nodeId to the top of the candidates list for the topic. " alt="" coords="717,91,963,132"/>
+</map>

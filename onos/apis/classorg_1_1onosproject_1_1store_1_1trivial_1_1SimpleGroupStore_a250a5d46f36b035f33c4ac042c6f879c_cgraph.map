@@ -1,0 +1,9 @@
+<map id="org.onosproject.store.trivial.SimpleGroupStore.pushGroupMetrics" name="org.onosproject.store.trivial.SimpleGroupStore.pushGroupMetrics">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleGroupStore.html#ae67aa055cd8f1639cddc988aed0a393e" title="Indicates the first group audit is completed. " alt="" coords="307,5,538,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleGroupStore.html#a625fe7d8ae34e6d8a1c2497b79a8c997" title="Retrieves the initial group audit status for a device. " alt="" coords="307,85,538,141"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleGroupStore.html#adfc0fe785dc49d5fc37683098e297294" title="Returns the extraneous groups associated with a device. " alt="" coords="293,166,552,207"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleGroupStore.html#af11720e3be2a8d009f920352c3aeac90" title="Returns the stored group entry. " alt="" coords="330,231,515,273"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleGroupStore.html#a3d76d07976646b3565264f20e4be47a1" title="Returns the groups associated with a device. " alt="" coords="327,297,519,338"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleGroupStore.html#a2de3deb699ef32e6b0411cd72dda4173" title="Remove the group entry from extraneous database. " alt="" coords="302,363,543,419"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupDescription.html#a5bcd16c2f5ae71674b75546e160c2dec" title="Returns device identifier on which this group object is created. " alt="" coords="600,370,776,411"/>
+</map>

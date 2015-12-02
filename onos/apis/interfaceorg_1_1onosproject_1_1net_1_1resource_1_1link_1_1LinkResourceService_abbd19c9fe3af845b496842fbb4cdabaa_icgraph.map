@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.resource.link.LinkResourceService.getAvailableResources" name="org.onosproject.net.resource.link.LinkResourceService.getAvailableResources">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1constraint_1_1LambdaConstraint.html#a13d024226143c204e3fa2c15f74f4d9c" title="Returns true if the specified link satisfies the constraint. " alt="" coords="339,5,573,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1constraint_1_1BandwidthConstraint.html#abf998958a4df5d1ee722a0d284527647" title="Returns true if the specified link satisfies the constraint. " alt="" coords="339,70,573,111"/>
+</map>

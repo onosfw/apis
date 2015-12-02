@@ -1,0 +1,4 @@
+<map id="org.onosproject.ui.impl.TopologyViewMessageHandlerBase.getTunnelCount" name="org.onosproject.ui.impl.TopologyViewMessageHandlerBase.getTunnelCount">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1OpticalTunnelEndPoint.html#a2b548c1d266f97b62ef071ed85de6c21" title="Returns the parent network element to which this tunnel point belongs. " alt="" coords="310,5,543,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1DeviceId.html#ae96cf6ecf89e5f84a4a35d8e5fd2c0e4" title="org.onosproject.net.Device\lId.toString" alt="" coords="337,70,516,111"/>
+</map>

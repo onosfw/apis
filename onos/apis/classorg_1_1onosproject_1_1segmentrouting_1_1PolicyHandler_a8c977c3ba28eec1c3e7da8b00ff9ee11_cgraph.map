@@ -1,0 +1,5 @@
+<map id="org.onosproject.segmentrouting.PolicyHandler.removePolicy" name="org.onosproject.segmentrouting.PolicyHandler.removePolicy">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1segmentrouting_1_1Tunnel.html#a1b9d75a6f6d5f26da2e0b839073b269f" title="Returns the group ID for the tunnel. " alt="" coords="261,5,469,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1segmentrouting_1_1Policy.html#af85409828c8087e77b63a62b82fc1922" title="Returns the policy ID. " alt="" coords="261,70,469,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1segmentrouting_1_1Policy.html#a2a87aefa7f799249adae2f4e724ca7ff" title="Returns the policy type. " alt="" coords="261,135,469,177"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="org.onosproject.common.DefaultTopology" name="org.onosproject.common.DefaultTopology">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1AbstractModel.html" title="Base implementation of a network model entity. " alt="" coords="9,171,196,213"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1AbstractAnnotated.html" title="Base abstraction of an annotated entity. " alt="" coords="9,81,196,122"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotated.html" title="Represents an entity that carries arbitrary annotations. " alt="" coords="5,5,200,32"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1Provided.html" title="Abstraction of an entity supplied by a provider. " alt="" coords="221,88,408,115"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1topology_1_1Topology.html" title="Represents a network topology computation snapshot. " alt="" coords="221,171,411,213"/>
+</map>

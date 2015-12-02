@@ -1,0 +1,10 @@
+<map id="org.onosproject.ovsdb.provider.tunnel.OvsdbTunnelProviderTest.testTunnelRemoved" name="org.onosproject.ovsdb.provider.tunnel.OvsdbTunnelProviderTest.testTunnelRemoved">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1ConnectPoint.html#a0de7f1e47e56dc632ec0a579da00bba9" title="Parse a device connect point from a string. " alt="" coords="373,37,560,78"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1AbstractProvider.html#adf404ab760ab777743c16d8a415899be" title="Returns the provider identifier. " alt="" coords="373,102,560,143"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1TunnelName.html#a8b43296bf2ef10a159caf977f5cdab21" title="Creates a tunnel name using the supplied URI string. " alt="" coords="350,167,583,209"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1TunnelId.html#a5df8d9eb5b4a46398d4768c8979741bf" title="Creates an tunnel identifier from the specified tunnel. " alt="" coords="350,233,583,274"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1ConnectPoint.html#ada4f70711f3cde5e5b2cbe33dfff091c" title="Creates a new connection point. " alt="" coords="632,5,819,46"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1DeviceId.html#acdda59a035899936c4b013de8015ba10" title="Creates a device id using the supplied URI. " alt="" coords="636,70,815,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1ConnectPoint.html#a71dbaeabb12421d31bac7c7ec8547535" title="Returns the network element identifier. " alt="" coords="867,5,1053,46"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1DeviceId.html#a769a9277e7bf995f33947e7c2136c3c2" title="org.onosproject.net.Device\lId.DeviceId" alt="" coords="871,70,1049,111"/>
+</map>

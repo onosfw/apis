@@ -1,0 +1,4 @@
+<map id="org.onosproject.incubator.net.virtual .NetworkId.NetworkId" name="org.onosproject.incubator.net.virtual .NetworkId.NetworkId">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1virtual_01_1_1NetworkId.html#a714b52c7ee595c7f882e663792300289" title="org.onosproject.incubator.net.virtual\l .NetworkId.equals" alt="" coords="283,5,512,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1virtual_01_1_1NetworkId.html#aa368d028859e7c3003139854ec799ee8" title="Creates a network id using the supplied backing id. " alt="" coords="283,70,512,111"/>
+</map>

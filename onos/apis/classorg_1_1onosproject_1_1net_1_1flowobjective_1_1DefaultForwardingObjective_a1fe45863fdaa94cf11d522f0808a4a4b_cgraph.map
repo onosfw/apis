@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.flowobjective.DefaultForwardingObjective.equals" name="org.onosproject.net.flowobjective.DefaultForwardingObjective.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flowobjective_1_1DefaultForwardingObjective.html#a3565c2bb7463997eaa52e9dd5970e87a" title="Obtain the traffic treatment for this objective. " alt="" coords="290,5,513,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flowobjective_1_1DefaultForwardingObjective.html#a4d24172ea7f642458966e6569ea13d2f" title="The priority for this objective. " alt="" coords="288,70,515,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1flowobjective_1_1DefaultForwardingObjective.html#af309889e9929c5c3b31981aeedd44a1a" title="Obtain the selector for this objective. " alt="" coords="285,135,518,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1flowobjective_1_1DefaultForwardingObjective.html#afe9c8a2be0260f2142e792365b8b966f" title="A traffic treatment for this forwarding objective. " alt="" coords="280,201,523,242"/>
+</map>

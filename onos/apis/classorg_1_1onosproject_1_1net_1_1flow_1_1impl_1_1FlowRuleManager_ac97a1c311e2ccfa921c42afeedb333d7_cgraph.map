@@ -1,0 +1,7 @@
+<map id="org.onosproject.net.flow.impl.FlowRuleManager.removeFlowRulesById" name="org.onosproject.net.flow.impl.FlowRuleManager.removeFlowRulesById">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1impl_1_1FlowRuleManager.html#a1771f8191646983d93126314e800c4c3" title="Returns a list of rules with this application id. " alt="" coords="318,70,557,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1impl_1_1FlowRuleManager.html#a011756bf5156fe120c637bca6ec2801c" title="Removes the specified flow rules from their respective devices. " alt="" coords="319,135,555,177"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html#adddfe5a01ed42c5094fec234c594fe67" title="Returns a collection of the currently known infrastructure devices. " alt="" coords="616,5,795,46"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleStore.html#a27972cb30ec7be22136b8faf210f32c5" title="Returns the flow entries associated with a device. " alt="" coords="606,70,805,111"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1impl_1_1FlowRuleManager.html#a1ad92006040100ce87e3aa6b94f497a8" title="Applies a batch operation of FlowRules. " alt="" coords="609,135,802,177"/>
+</map>

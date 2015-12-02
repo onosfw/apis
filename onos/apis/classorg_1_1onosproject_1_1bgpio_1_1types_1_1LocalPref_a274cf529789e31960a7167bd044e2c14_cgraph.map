@@ -1,0 +1,4 @@
+<map id="org.onosproject.bgpio.types.LocalPref.read" name="org.onosproject.bgpio.types.LocalPref.read">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1LocalPref.html#ac1f4a3ffcf09b788cc11b77afdf85e69" title="Constructor to initialize LocalPref. " alt="" coords="240,5,427,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1LocalPref.html#a560a35ea590189aae26a81e39440b4ab" title="Returns local preference value. " alt="" coords="475,34,661,75"/>
+</map>

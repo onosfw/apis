@@ -1,0 +1,6 @@
+<map id="org.onosproject.store.group.impl.DistributedGroupStore.storeGroupDescription" name="org.onosproject.store.group.impl.DistributedGroupStore.storeGroupDescription">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupDescription.html#a5bcd16c2f5ae71674b75546e160c2dec" title="Returns device identifier on which this group object is created. " alt="" coords="357,5,533,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1group_1_1impl_1_1DistributedGroupStore.html#a56102e18ce6e55b6f786c2f4e723c961" title="Returns the stored group entry. " alt="" coords="339,70,551,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipService.html#a988cc1b60a5b0569c7aaceb3e529a140" title="Returns the role of the local node for the specified device, without triggering master selection..." alt="" coords="340,135,551,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipService.html#ad393d01c3a58b67a4204d23f2e321365" title="Returns the current master for a given device. " alt="" coords="340,201,551,242"/>
+</map>

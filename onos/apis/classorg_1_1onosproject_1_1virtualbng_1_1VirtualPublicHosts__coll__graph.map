@@ -1,0 +1,6 @@
+<map id="org.onosproject.virtualbng.VirtualPublicHosts" name="org.onosproject.virtualbng.VirtualPublicHosts">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1virtualbng_1_1VbngConfigurationService.html" title="Provides information about the virtual BNG configuration. " alt="" coords="387,5,562,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1packet_1_1PacketService.html" title="Service for intercepting data plane packets and for emitting synthetic outbound packets. " alt="" coords="385,70,565,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="389,135,561,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="5,135,192,177"/>
+</map>

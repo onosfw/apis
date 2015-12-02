@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.device.impl.DeviceManagerTest.getPorts" name="org.onosproject.net.device.impl.DeviceManagerTest.getPorts">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html#a488d3ec427d2d4733c77832300cdbfb6" title="Returns the port with the specified number and hosted by the given device. " alt="" coords="287,5,465,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html#a3aa00dea557888f545668439498bdb08" title="Returns the list of ports associated with the device. " alt="" coords="287,70,465,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1device_1_1impl_1_1DeviceManagerTest.html#a07f7cd3bcf9980481e1bfd0532f8afc2" title="org.onosproject.net.device.impl.\lDeviceManagerTest.validateEvents" alt="" coords="261,135,491,177"/>
+</map>

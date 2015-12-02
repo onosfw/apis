@@ -1,0 +1,4 @@
+<map id="org.onosproject.ui.topo.LinkHighlight.cssClasses" name="org.onosproject.ui.topo.LinkHighlight.cssClasses">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1LinkHighlight.html#aa351e2b0daba71a4f9f03034ed95b25c" title="Returns the highlight flavor. " alt="" coords="238,5,397,46"/>
+<area shape="rect" id="node3" href="$enumorg_1_1onosproject_1_1ui_1_1topo_1_1LinkHighlight_1_1Flavor.html#a57de6601a2abcb2fd46b8e33c61bba00" title="org.onosproject.ui.topo.\lLinkHighlight.Flavor.toString" alt="" coords="224,70,411,111"/>
+</map>

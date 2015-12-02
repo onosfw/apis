@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.link.impl.LinkManager.removeLinks" name="org.onosproject.net.link.impl.LinkManager.removeLinks">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1ConnectPoint.html#ae26d775b79f3be42a1a2eafc0c0c51b6" title="Returns the identifier of the infrastructure device if the connection point belongs to a network elem..." alt="" coords="244,5,431,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1link_1_1impl_1_1LinkManager.html#a6607dd1a4c9cfaa43775546cc9538f11" title="Returns a collection of all known infrastructure links. " alt="" coords="243,70,432,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html#ab9216fea1d1974d1284e0813adc96b33" title="Returns the current mastership role for the specified device. " alt="" coords="248,135,427,177"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1ConnectPoint.html#a71dbaeabb12421d31bac7c7ec8547535" title="Returns the network element identifier. " alt="" coords="480,5,667,46"/>
+</map>

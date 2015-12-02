@@ -1,0 +1,5 @@
+<map id="org.onlab.stc.StepEvent.command" name="org.onlab.stc.StepEvent.command">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1stc_1_1StepEvent.html#ad161379abdfbf584ad4f64ec215b51cf" title="Creates a new step record. " alt="" coords="283,5,450,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1stc_1_1StepEvent.html#a0b5f462c36675a718c542d9a49ea1f56" title="org.onlab.stc.StepEvent.to\lString" alt="" coords="278,70,455,111"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1stc_1_1StepEvent.html#a46450bb9c79e72abc66793b45fea0a55" title="Returns a record parsed from the specified string. " alt="" coords="504,5,696,46"/>
+</map>

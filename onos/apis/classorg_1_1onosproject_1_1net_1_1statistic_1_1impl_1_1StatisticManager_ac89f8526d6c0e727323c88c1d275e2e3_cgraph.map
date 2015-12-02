@@ -1,0 +1,7 @@
+<map id="org.onosproject.net.statistic.impl.StatisticManager.highestHitter" name="org.onosproject.net.statistic.impl.StatisticManager.highestHitter">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1statistic_1_1impl_1_1StatisticManager.html#a7eb766d30ac249cd8a32bd9c338db7fd" title="Find the most loaded link along a path. " alt="" coords="270,57,485,98"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1Path.html#a61d44efe62b734cc390f7b347fa71b21" title="Returns sequence of links comprising the path. " alt="" coords="544,5,739,32"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1statistic_1_1impl_1_1StatisticManager.html#a21be34ef43642242d9cc871061dba84c" title="Obtain the load for a the ingress to the given link. " alt="" coords="534,57,749,98"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1statistic_1_1Load.html#acaf48ba9feb12b8fa80e1490af1e5f65" title="Obtain the current observed rate (in bytes/s) on a link. " alt="" coords="548,122,735,163"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1Link.html#a08627aabcd43982af8c20cb6c01ae02a" title="Returns the link source connection point. " alt="" coords="798,64,981,91"/>
+</map>

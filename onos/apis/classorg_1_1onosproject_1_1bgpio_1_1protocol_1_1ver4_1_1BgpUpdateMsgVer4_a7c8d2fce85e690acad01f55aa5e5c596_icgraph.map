@@ -1,0 +1,4 @@
+<map id="org.onosproject.bgpio.protocol.ver4.BgpUpdateMsgVer4.withdrawnRoutes" name="org.onosproject.bgpio.protocol.ver4.BgpUpdateMsgVer4.withdrawnRoutes">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1ver4_1_1BgpUpdateMsgVer4.html#aab09f085e4688b5ce451bdbe60c7d86d" title="Constructor to initialize parameters for BGP Update message. " alt="" coords="299,5,559,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1ver4_1_1BgpUpdateMsgVer4.html#a1410f3410abd44029cafe6a42f3139f3" title="org.onosproject.bgpio.protocol.ver4.\lBgpUpdateMsgVer4.toString" alt="" coords="315,70,544,111"/>
+</map>

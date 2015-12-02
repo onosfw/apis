@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceorg_1_1onosproject_1_1net_1_1statistic_1_1StatisticStore.html" title="Store to house the computed statistics. " alt="" coords="5,38,192,79"/>
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1statistic_1_1impl_1_1DistributedStatisticStore.html" title="Maintains statistics using RPC calls to collect stats from remote instances on demand. " alt="" coords="240,5,467,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleStatisticStore.html" title="Maintains statistics using RPC calls to collect stats from remote instances on demand. " alt="" coords="262,70,445,111"/>
+</map>

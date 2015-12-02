@@ -1,0 +1,6 @@
+<map id="org.onosproject.openflow.controller.WithTypedPorts" name="org.onosproject.openflow.controller.WithTypedPorts">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1openflow_1_1controller_1_1OpenFlowOpticalSwitch.html" title="A marker interface for optical switches, which require the ability to pass port information to a Devi..." alt="" coords="283,70,511,111"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1driver_1_1handshaker_1_1CalientFiberSwitchHandshaker.html" title="org.onosproject.driver.handshaker.\lCalientFiberSwitchHandshaker" alt="" coords="561,5,783,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1driver_1_1handshaker_1_1OFOpticalSwitch13.html" title="Open Flow Optical Switch handshaker &#45; for Open Flow 13. " alt="" coords="561,70,783,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1driver_1_1handshaker_1_1OfOpticalSwitchImplLinc13.html" title="LINC&#45;OE Optical Emulator switch class. " alt="" coords="561,135,783,177"/>
+</map>

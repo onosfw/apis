@@ -1,0 +1,7 @@
+<map id="org.onosproject.store.group.impl.DistributedGroupStore" name="org.onosproject.store.group.impl.DistributedGroupStore">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupStore.html" title="Manages inventory of groups per device; not intended for direct use. " alt="" coords="315,86,488,127"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="304,151,499,193"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="322,217,481,258"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipService.html" title="Service responsible for determining the controller instance mastership of a device in a clustered env..." alt="" coords="310,282,493,323"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1store_1_1cluster_1_1messaging_1_1ClusterCommunicationService.html" title="Service for assisting communications between controller cluster nodes. " alt="" coords="272,347,531,389"/>
+</map>

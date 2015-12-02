@@ -1,0 +1,14 @@
+<map id="org.onosproject.net.DefaultHostTest" name="org.onosproject.net.DefaultHostTest">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1TestDeviceParams.html" title="Provides a set of test DefaultDevice parameters for use with Host&#45; related tests. ..." alt="" coords="843,494,1005,535"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1PortNumber.html" title="Representation of a port number. " alt="" coords="566,146,727,187"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1DeviceId.html" title="Immutable representation of a device identity. " alt="" coords="552,251,741,277"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1ElementId.html" title="Immutable representation of a network element identity. " alt="" coords="243,309,439,336"/>
+<area shape="rect" id="node14" href="$classorg_1_1onosproject_1_1net_1_1HostId.html" title="Immutable representation of a host identity. " alt="" coords="559,340,735,367"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1NetworkResource.html" title="Representation of a network resource, e.g. " alt="" coords="5,302,192,343"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1net_1_1HostLocation.html" title="Representation of a network edge location where an end&#45;station host is connected. ..." alt="" coords="564,430,729,471"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1net_1_1ConnectPoint.html" title="Abstraction of a network connection point expressed as a pair of the network element identifier and p..." alt="" coords="248,430,435,471"/>
+<area shape="rect" id="node11" href="$classorg_1_1onlab_1_1packet_1_1IpAddress.html" title="A class representing an IP address. " alt="" coords="556,561,737,588"/>
+<area shape="rect" id="node13" href="$classorg_1_1onlab_1_1packet_1_1MacAddress.html" title="The class representing MAC address. " alt="" coords="549,680,744,707"/>
+<area shape="rect" id="node15" href="$classorg_1_1onlab_1_1packet_1_1VlanId.html" title="Representation of a VLAN ID. " alt="" coords="567,784,726,811"/>
+<area shape="rect" id="node16" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="553,874,740,915"/>
+</map>

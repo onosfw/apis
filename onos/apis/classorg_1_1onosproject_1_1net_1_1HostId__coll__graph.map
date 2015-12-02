@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.HostId" name="org.onosproject.net.HostId">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1ElementId.html" title="Immutable representation of a network element identity. " alt="" coords="5,99,200,125"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1NetworkResource.html" title="Representation of a network resource, e.g. " alt="" coords="9,6,196,47"/>
+</map>

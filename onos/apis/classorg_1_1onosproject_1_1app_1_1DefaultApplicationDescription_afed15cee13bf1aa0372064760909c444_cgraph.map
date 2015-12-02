@@ -1,0 +1,11 @@
+<map id="org.onosproject.app.DefaultApplicationDescription.toString" name="org.onosproject.app.DefaultApplicationDescription.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1app_1_1DefaultApplicationDescription.html#a1737646f41b78d3726fabd158a84de1b" title="Returns description of the application. " alt="" coords="264,5,483,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1app_1_1DefaultApplicationDescription.html#a6b2892676e6572cdf8e6df08d95f84ab" title="Returns the list of features comprising the application. " alt="" coords="272,70,475,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1app_1_1DefaultApplicationDescription.html#a2e8544049cdd9c9d535ec612900e6d73" title="Returns the feature repository URI. " alt="" coords="256,135,491,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1app_1_1DefaultApplicationDescription.html#af818f9b943286adf0a5ca9affad44eca" title="Returns the application name id. " alt="" coords="279,201,467,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1app_1_1DefaultApplicationDescription.html#a1cd01ccc4b8b11e4eb7548013e7ac81f" title="Returns the name of the application origin, group or company. " alt="" coords="280,266,467,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1app_1_1DefaultApplicationDescription.html#a736234ed49ff78c481726c468fbbc477" title="Returns the permissions requested by the application. " alt="" coords="260,331,487,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1app_1_1DefaultApplicationDescription.html#ad94cba79b4c973876eb37b428c4f5b55" title="Returns list of required application names. " alt="" coords="257,397,489,438"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1app_1_1DefaultApplicationDescription.html#aa5003e22c34314e11f420fc32a25f6f1" title="Returns the role of the application. " alt="" coords="282,462,465,503"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1app_1_1DefaultApplicationDescription.html#abb907d34ff88a886a9ec9c07d42f2041" title="Returns the application version. " alt="" coords="274,527,473,569"/>
+</map>

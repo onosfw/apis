@@ -1,0 +1,5 @@
+<map id="org.onosproject.store.cluster.messaging.ClusterCommunicationService" name="org.onosproject.store.cluster.messaging.ClusterCommunicationService">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1cluster_1_1messaging_1_1ClusterCommunicationServiceAdapter.html" title="Testing adapter for the cluster communication service. " alt="" coords="327,13,585,54"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1cluster_1_1messaging_1_1impl_1_1ClusterCommunicationManager.html" title="org.onosproject.store.cluster.messaging.impl.\lClusterCommunicationManager" alt="" coords="313,78,599,119"/>
+<area shape="rect" id="node3" title="ClusterCommunicationService implementation that the map&#39;s addSubscriber call will delegate to..." alt="" coords="648,5,875,61"/>
+</map>

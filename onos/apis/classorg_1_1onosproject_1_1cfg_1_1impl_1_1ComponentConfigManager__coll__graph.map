@@ -1,0 +1,4 @@
+<map id="org.onosproject.cfg.impl.ComponentConfigManager" name="org.onosproject.cfg.impl.ComponentConfigManager">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1cfg_1_1ComponentConfigService.html" title="Service for tracking system&#45;wide configurations for various software components. " alt="" coords="283,5,487,46"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1cfg_1_1ComponentConfigStore.html" title="Service for storing and distributing system&#45;wide configurations for various software components..." alt="" coords="283,122,487,163"/>
+</map>

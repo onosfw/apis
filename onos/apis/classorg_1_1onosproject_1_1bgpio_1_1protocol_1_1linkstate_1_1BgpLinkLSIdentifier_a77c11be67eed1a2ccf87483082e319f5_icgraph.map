@@ -1,0 +1,6 @@
+<map id="org.onosproject.bgpio.protocol.linkstate.BgpLinkLSIdentifier.localNodeDescriptors" name="org.onosproject.bgpio.protocol.linkstate.BgpLinkLSIdentifier.localNodeDescriptors">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1BgpLinkLSIdentifier.html#a38b64197130da1ab33d6674e140bf6ab" title="Constructors to initialize parameters. " alt="" coords="317,5,571,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1BgpLinkLSIdentifier.html#abd1e0c7edc0bcf80ed97781c180064a2" title="org.onosproject.bgpio.protocol.linkstate.\lBgpLinkLSIdentifier.hashCode" alt="" coords="317,70,571,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1BgpLinkLSIdentifier.html#a7d734478ac5ead3d10a91761df48a95f" title="Reads channel buffer and parses link identifier. " alt="" coords="317,135,571,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1BgpLinkLSIdentifier.html#a984c6b712e709e52f91cd2b47b8ed0d5" title="org.onosproject.bgpio.protocol.linkstate.\lBgpLinkLSIdentifier.toString" alt="" coords="317,201,571,242"/>
+</map>

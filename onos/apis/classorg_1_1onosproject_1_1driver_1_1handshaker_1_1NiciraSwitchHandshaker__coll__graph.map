@@ -1,0 +1,11 @@
+<map id="org.onosproject.driver.handshaker.NiciraSwitchHandshaker" name="org.onosproject.driver.handshaker.NiciraSwitchHandshaker">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1driver_1_1handshaker_1_1DefaultSwitchHandshaker.html" title="Default driver to fallback on if no other driver is available. " alt="" coords="1190,205,1413,246"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1openflow_1_1controller_1_1driver_1_1AbstractOpenFlowSwitch.html" title="An abstract representation of an OpenFlow switch. " alt="" coords="875,205,1139,246"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1AbstractHandlerBehaviour.html" title="Base implementation of device driver handler behaviour. " alt="" coords="554,30,729,71"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1AbstractBehaviour.html" title="Base implementation of device driver behaviour. " alt="" coords="257,5,431,46"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1Behaviour.html" title="Representation of a facet of device behaviour that can be used to talk about a device (in context of ..." alt="" coords="5,34,179,75"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1HandlerBehaviour.html" title="Representation of a facet of device behaviour that can be used to interact with a device (in context ..." alt="" coords="257,70,431,111"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1openflow_1_1controller_1_1driver_1_1OpenFlowSwitchDriver.html" title="Represents the driver side of an OpenFlow switch. " alt="" coords="509,95,773,137"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1openflow_1_1controller_1_1OpenFlowSwitch.html" title="Represents to provider facing side of a switch. " alt="" coords="230,135,458,177"/>
+<area shape="rect" id="node12" href="$enumorg_1_1onosproject_1_1openflow_1_1controller_1_1RoleState.html" title="The role of the controller as it pertains to a particular switch. " alt="" coords="527,263,755,305"/>
+</map>

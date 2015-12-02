@@ -1,0 +1,6 @@
+<map id="org.onosproject.store.trivial.SimpleGroupStore.updateGroupDescription" name="org.onosproject.store.trivial.SimpleGroupStore.updateGroupDescription">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupDescription.html#a5bcd16c2f5ae71674b75546e160c2dec" title="Returns device identifier on which this group object is created. " alt="" coords="340,5,516,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleGroupStore.html#af11720e3be2a8d009f920352c3aeac90" title="Returns the stored group entry. " alt="" coords="335,70,521,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupDescription.html#ae0195a1d05d4aae4d169bfe151b23441" title="Returns groupId passed in by caller. " alt="" coords="326,135,530,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1Group.html#ac596c275357bec9061f6577e8e8fc86a" title="Returns group identifier associated with a group object. " alt="" coords="341,201,515,242"/>
+</map>

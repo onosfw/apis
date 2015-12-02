@@ -1,0 +1,5 @@
+<map id="org.onosproject.store.group.impl.DistributedGroupStoreTest.testAddRemoveGroup" name="org.onosproject.store.group.impl.DistributedGroupStoreTest.testAddRemoveGroup">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupStore.html#a98b1ae484d1dc853628af91bf9cc2f09" title="Retrieves the initial group audit status for a device. " alt="" coords="365,5,595,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupStore.html#a92a26088bb43e80fa4f9ff5b3c3167e1" title="Returns the stored group entry. " alt="" coords="393,70,567,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupStore.html#a09f761070d6c2b5d7f8bfdb41b9d764e" title="Returns the number of groups for the specified device in the store. " alt="" coords="390,135,570,177"/>
+</map>

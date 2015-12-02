@@ -1,0 +1,11 @@
+<map id="org.onosproject.net.driver.DefaultDriverTest.merge" name="org.onosproject.net.driver.DefaultDriverTest.merge">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1Driver.html#a5dba0010475b00b2c9e26e52faaccecd" title="Returns the set of behaviours supported by this driver. " alt="" coords="261,5,435,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1Driver.html#a4eb4a8e4141b7044f65a2095f2c36b0d" title="Indicates whether or not the driver, or any of its parents, support the specified class of behaviour..." alt="" coords="261,70,435,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1Driver.html#aa8e3556cd6dc370491af69368159802c" title="Returns the device hardware version. " alt="" coords="261,135,435,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotations.html#adc684efa72fc50010ed162a20418c371" title="Returns the set of keys for available annotations. " alt="" coords="229,201,467,228"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1Driver.html#a0ac7afea73956155e611fe1d08d9c782" title="Returns the device manufacturer name. " alt="" coords="261,253,435,294"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1Driver.html#a040fc5a1b7259e6dcd6882bda793c205" title="Returns the driver name. " alt="" coords="261,318,435,359"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1Driver.html#abfbcdba22718c25d972b0dbf886825aa" title="Returns the set of annotations as map of key/value properties. " alt="" coords="261,383,435,425"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1Driver.html#af26b17414087d89c9414875ce9cd164e" title="Returns the device software version. " alt="" coords="261,449,435,490"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotations.html#a6681c97625ae3cdb29f3adbde418b155" title="Returns the value of the specified annotation. " alt="" coords="227,515,469,541"/>
+</map>

@@ -1,0 +1,7 @@
+var namespaceorg_1_1onosproject_1_1store_1_1serializers_1_1custom =
+[
+    [ "ClusterMessageSerializer", "classorg_1_1onosproject_1_1store_1_1serializers_1_1custom_1_1ClusterMessageSerializer.html", "classorg_1_1onosproject_1_1store_1_1serializers_1_1custom_1_1ClusterMessageSerializer" ],
+    [ "DistributedStoreSerializers", "classorg_1_1onosproject_1_1store_1_1serializers_1_1custom_1_1DistributedStoreSerializers.html", null ],
+    [ "MastershipBasedTimestampSerializer", "classorg_1_1onosproject_1_1store_1_1serializers_1_1custom_1_1MastershipBasedTimestampSerializer.html", "classorg_1_1onosproject_1_1store_1_1serializers_1_1custom_1_1MastershipBasedTimestampSerializer" ],
+    [ "MessageSubjectSerializer", "classorg_1_1onosproject_1_1store_1_1serializers_1_1custom_1_1MessageSubjectSerializer.html", "classorg_1_1onosproject_1_1store_1_1serializers_1_1custom_1_1MessageSubjectSerializer" ]
+];

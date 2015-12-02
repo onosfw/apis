@@ -1,0 +1,4 @@
+<map id="org.onosproject.ovsdb.controller.driver.OvsdbClientServiceAdapter" name="org.onosproject.ovsdb.controller.driver.OvsdbClientServiceAdapter">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1ovsdb_1_1controller_1_1OvsdbClientService.html" title="Represents to provider facing side of a node. " alt="" coords="23,97,233,138"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1jsonrpc_1_1OvsdbRPC.html" title="The following interface describe the RPC7047&#39;s methods that are supported. " alt="" coords="19,6,237,47"/>
+</map>

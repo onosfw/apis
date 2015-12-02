@@ -1,0 +1,4 @@
+<map id="org.onosproject.cli.CliComponent" name="org.onosproject.cli.CliComponent">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="26,113,197,154"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="19,6,205,47"/>
+</map>

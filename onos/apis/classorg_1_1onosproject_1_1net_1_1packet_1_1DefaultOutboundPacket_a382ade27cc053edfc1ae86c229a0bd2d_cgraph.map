@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.packet.DefaultOutboundPacket.equals" name="org.onosproject.net.packet.DefaultOutboundPacket.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1packet_1_1DefaultOutboundPacket.html#af9a7fa1353d19c86f728057b0364d2c2" title="Creates an immutable outbound packet. " alt="" coords="257,63,519,119"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1packet_1_1DefaultOutboundPacket.html#acb703d9ed29e906e8a00eeb9a7ba9f71" title="Returns immutable view of the raw data to be sent. " alt="" coords="593,5,783,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1packet_1_1DefaultOutboundPacket.html#aea915a6a5fa52fe41d54c1dc03f01224" title="Returns the identity of a device through which this packet should be sent. " alt="" coords="568,70,808,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1packet_1_1DefaultOutboundPacket.html#ad3305d1fffd604bf106d216a21bc5245" title="Returns how the outbound packet should be treated. " alt="" coords="578,135,798,177"/>
+</map>

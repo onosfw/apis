@@ -1,0 +1,5 @@
+<map id="org.onosproject.vtnrsc.flowclassifier.impl.FlowClassifierManagerTest.testRemoveFlowClassifier" name="org.onosproject.vtnrsc.flowclassifier.impl.FlowClassifierManagerTest.testRemoveFlowClassifier">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnrsc_1_1flowclassifier_1_1impl_1_1FlowClassifierManager.html#a088bbd91c11827201da91228a8837fa1" title="Remove Flow Classifier from store based on given Flow Classifier Id. " alt="" coords="415,5,700,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1vtnrsc_1_1flowclassifier_1_1impl_1_1FlowClassifierManagerTest.html#a1ac3a91af4c806e8f0761227512e0bda" title="Checks the operation of createFlowClassifier() method. " alt="" coords="393,70,722,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1vtnrsc_1_1flowclassifier_1_1impl_1_1FlowClassifierManager.html#ab876b1d499d3b9288a8f5fb1cb82814b" title="Store Flow Classifier. " alt="" coords="771,70,1050,111"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.onosproject.bgp.controller.impl.BgpControllerImpl.connectedPeers" name="org.onosproject.bgp.controller.impl.BgpControllerImpl.connectedPeers">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpControllerImpl_1_1BgpPeerManagerImpl.html#a9b99b56354847794a30c49039f70a04b" title="Add connected peer. " alt="" coords="280,5,560,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpControllerImpl.html#a75fcb24f3c23840013bfe8bac8230edb" title="Close all connected BGP peers. " alt="" coords="291,86,549,127"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpControllerImpl_1_1BgpPeerManagerImpl.html#ab3fbfe4ca5d75258106e6afd7f87c825" title="Validate wheather peer is connected. " alt="" coords="285,152,555,208"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpControllerImpl.html#aadebf3aa37163af321eb84c136045a67" title="org.onosproject.bgp.controller.impl.\lBgpControllerImpl.deactivate" alt="" coords="609,86,834,127"/>
+</map>

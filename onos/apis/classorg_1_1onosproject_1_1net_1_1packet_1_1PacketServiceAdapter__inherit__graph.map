@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.packet.PacketServiceAdapter" name="org.onosproject.net.packet.PacketServiceAdapter">
+<area shape="rect" id="node3" title="Keeps a reference to the PacketProcessor and saves the OutboundPackets. " alt="" coords="513,5,703,46"/>
+<area shape="rect" id="node4" title="Keeps a reference to the PacketProcessor and verifies the OutboundPackets. " alt="" coords="486,70,730,111"/>
+<area shape="rect" id="node7" title="Test PacketService implementation that simply stores OutboundPackets passed to emit(OutboundPacket) f..." alt="" coords="475,266,741,307"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1packet_1_1PacketService.html" title="Service for intercepting data plane packets and for emitting synthetic outbound packets. " alt="" coords="6,201,186,242"/>
+</map>

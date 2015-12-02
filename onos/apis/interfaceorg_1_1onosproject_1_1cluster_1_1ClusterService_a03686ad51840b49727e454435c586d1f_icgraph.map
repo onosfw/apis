@@ -1,0 +1,7 @@
+<map id="org.onosproject.cluster.ClusterService.getNodes" name="org.onosproject.cluster.ClusterService.getNodes">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cluster_1_1impl_1_1MastershipManager.html#a957ed783ef998622bb8f64bde28e3e8e" title="Balances the mastership to be shared as evenly as possibly by all online instances. " alt="" coords="244,5,463,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1DistributedLeadershipManager.html#ac3a7c8bc8d74c95137d0521024c2c411" title="org.onosproject.store.consistent.impl.\lDistributedLeadershipManager.deactivate" alt="" coords="222,70,485,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1cli_1_1MastersListCommand.html#a4c5519b94561808d649a314bdb239914" title="Executes this command. " alt="" coords="264,135,443,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1cli_1_1NodesListCommand.html#a5921d94ae160d62327b245bb2395b28a" title="Executes this command. " alt="" coords="268,201,439,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1store_1_1ecmap_1_1EventuallyConsistentMapImplTest.html#aff024ca2fcfccc0712853df2f374c48a" title="org.onosproject.store.ecmap.\lEventuallyConsistentMapImplTest.setUp" alt="" coords="223,266,484,307"/>
+</map>

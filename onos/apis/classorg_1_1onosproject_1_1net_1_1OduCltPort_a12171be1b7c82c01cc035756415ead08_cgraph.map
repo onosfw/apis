@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.OduCltPort.equals" name="org.onosproject.net.OduCltPort.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1AbstractAnnotated.html#a2858b84119b1f766fd6222e79efa1b93" title="Returns the key/value annotations. " alt="" coords="459,5,645,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1DefaultPort.html#ab5c1473ee5c0ddced5a8f2a51799d2a9" title="Indicates whether or not the port is currently up and active. " alt="" coords="232,34,411,75"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1OduCltPort.html#a12f73f84921d9415693364ecfed5dd2c" title="Creates an ODU client port in the specified network element. " alt="" coords="232,99,411,141"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1OduCltPort.html#acdc6fc2ad1984b60a22bbc4db79e2567" title="Returns ODU client signal type. " alt="" coords="463,99,641,141"/>
+</map>

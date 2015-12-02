@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.trivial.SimpleApplicationStore.remove" name="org.onosproject.store.trivial.SimpleApplicationStore.remove">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1core_1_1Application.html#affce3c47e8c478edca134277ecb0d3af" title="Returns the application name id. " alt="" coords="263,5,486,32"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1common_1_1app_1_1ApplicationArchive.html#abf130eed336eebcd45d734f3ce4048a6" title="Purges the application archive directory. " alt="" coords="259,57,490,98"/>
+</map>

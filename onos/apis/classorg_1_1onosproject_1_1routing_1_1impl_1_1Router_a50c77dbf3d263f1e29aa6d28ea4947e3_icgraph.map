@@ -1,0 +1,3 @@
+<map id="org.onosproject.routing.impl.Router.getRoutes6" name="org.onosproject.routing.impl.Router.getRoutes6">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1routing_1_1impl_1_1RouterTest.html#a0ea1217addf6c8ab9d900e6176a5ce62" title="Tests adding a IPv6 route whose next hop is the local BGP speaker. " alt="" coords="240,5,467,46"/>
+</map>

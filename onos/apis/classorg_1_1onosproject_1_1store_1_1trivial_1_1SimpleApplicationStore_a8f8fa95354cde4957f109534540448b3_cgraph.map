@@ -1,0 +1,8 @@
+<map id="org.onosproject.store.trivial.SimpleApplicationStore.create" name="org.onosproject.store.trivial.SimpleApplicationStore.create">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1app_1_1ApplicationDescription.html#ab27dccf40e61652ca185096d8e95be95" title="Returns the list of features comprising the application. " alt="" coords="262,5,466,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1app_1_1ApplicationDescription.html#aa25d22ff8c680e5d048433d3b649aed5" title="Returns the name of the application origin, group or company. " alt="" coords="262,70,466,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1app_1_1ApplicationDescription.html#a8df4b9e90ddf1c6db49dc8976ff2aab6" title="Returns the permissions requested by the application. " alt="" coords="262,135,466,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1common_1_1app_1_1ApplicationArchive.html#a3ac869742e1aca8138daa1ae9890ba90" title="Loads the application descriptor from the specified application archive stream and saves the stream i..." alt="" coords="251,201,477,242"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1app_1_1ApplicationDescription.html#ae08c043aa7fdfffa9754d84d1b9b623d" title="Returns the application version. " alt="" coords="262,266,466,307"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1app_1_1ApplicationDescription.html#a0c83dab97c94c8a2e8407ec8c513a529" title="Returns the application name id. " alt="" coords="526,201,730,242"/>
+</map>

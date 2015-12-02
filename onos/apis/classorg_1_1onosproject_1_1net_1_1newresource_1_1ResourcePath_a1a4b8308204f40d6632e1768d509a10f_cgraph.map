@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.newresource.ResourcePath.toString" name="org.onosproject.net.newresource.ResourcePath.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1newresource_1_1ResourcePath.html#a47b1fb2fce6d9d2de5999df2fa932cf8" title="Returns the last component of this instance. " alt="" coords="270,5,485,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1newresource_1_1ResourcePath.html#a41d6821a9b4f64de2dab5ba5213a5b84" title="Returns the parent resource path of this instance. " alt="" coords="270,70,485,111"/>
+</map>

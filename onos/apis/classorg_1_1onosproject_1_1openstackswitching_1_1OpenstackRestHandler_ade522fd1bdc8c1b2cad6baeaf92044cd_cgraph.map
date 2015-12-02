@@ -1,0 +1,6 @@
+<map id="org.onosproject.openstackswitching.OpenstackRestHandler.OpenstackRestHandler" name="org.onosproject.openstackswitching.OpenstackRestHandler.OpenstackRestHandler">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1openstackswitching_1_1OpenstackSwitchingConfig.html#a8bf7862263a16dbb848549ab6a04aa5c" title="Returns the Keystone server IP address. " alt="" coords="352,5,627,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1openstackswitching_1_1OpenstackSwitchingConfig.html#af685f5c2d8c37757c1be965e34c6719c" title="Returns the Neutron server IP address. " alt="" coords="357,70,622,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1openstackswitching_1_1OpenstackSwitchingConfig.html#a2b8ce86c2d53bb65cc790a44a6f42503" title="Returns the password for openstack. " alt="" coords="369,135,609,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1openstackswitching_1_1OpenstackSwitchingConfig.html#a4485495072d519ad276ffd1aa8b2c8d4" title="Returns the username for openstack. " alt="" coords="367,201,611,242"/>
+</map>

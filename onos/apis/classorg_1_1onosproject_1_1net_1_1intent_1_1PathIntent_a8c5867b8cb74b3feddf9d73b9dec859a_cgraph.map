@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.intent.PathIntent.PathIntent" name="org.onosproject.net.intent.PathIntent.PathIntent">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1Path.html#a61d44efe62b734cc390f7b347fa71b21" title="Returns sequence of links comprising the path. " alt="" coords="227,5,421,32"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1PathIntent.html#aaff0504fc05fa268553d0ce96850aabc" title="Returns the links which the traffic goes along. " alt="" coords="237,57,411,98"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1Intent.html#aed36b239b993ffca7966c93f52e5ab42" title="Returns the collection of resources required for this intent. " alt="" coords="237,122,411,163"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="org.onosproject.bgpio.protocol.linkstate.PathAttrNlriDetailsLocalRib.equals" name="org.onosproject.bgpio.protocol.linkstate.PathAttrNlriDetailsLocalRib.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1PathAttrNlriDetailsLocalRib.html#a36e8973fd330f6fd51ab067833d61a88" title="Gets the bgp session type updated in local rib. " alt="" coords="611,5,930,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1PathAttrNlriDetailsLocalRib.html#a812919c0fbaa6fe5bb6fe254ba99ebcc" title="Gets the autonomous system number updated in local rib. " alt="" coords="632,70,909,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1PathAttrNlriDetailsLocalRib.html#adac61ab240215ba9fbf32d571b38c6f3" title="Gets the indetifier updated in local rib. " alt="" coords="629,137,912,178"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1PathAttrNlriDetailsLocalRib.html#abd1c33c4337e87b535a77009abf1ec59" title="Gets the Ipaddress updated in local rib. " alt="" coords="625,205,917,246"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1PathAttrNlriDetailsLocalRib.html#ab3c0b32c64fa9a69bf4ccc964bd766dd" title="Returns local RIB Nlri details. " alt="" coords="625,275,916,317"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1PathAttrNlriDetailsLocalRib.html#a190d58de1e59d1a59738da10357361ec" title="Constructor to initialize parameter. " alt="" coords="307,112,562,168"/>
+</map>

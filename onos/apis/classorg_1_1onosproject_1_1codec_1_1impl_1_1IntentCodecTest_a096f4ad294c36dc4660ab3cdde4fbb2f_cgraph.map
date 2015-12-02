@@ -1,0 +1,4 @@
+<map id="org.onosproject.codec.impl.IntentCodecTest.setUpIntentService" name="org.onosproject.codec.impl.IntentCodecTest.setUpIntentService">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html#aaa10f7406ce9e3e1a863bb0c199f1b14" title="Returns an existing application id from a given id. " alt="" coords="306,5,478,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1core_1_1ApplicationId.html#abffffefc340b42fb77d246cac69dd185" title="Returns the applications supplied identifier. " alt="" coords="288,70,496,111"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="org.onosproject.incubator.store.tunnel.impl.DistributedTunnelStore" name="org.onosproject.incubator.store.tunnel.impl.DistributedTunnelStore">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1TunnelStore.html" title="Manages inventory of tunnel; not intended for direct use. " alt="" coords="423,86,657,127"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="443,151,637,193"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="454,217,626,258"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="19,213,205,254"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="461,282,619,323"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1store_1_1cluster_1_1messaging_1_1ClusterCommunicationService.html" title="Service for assisting communications between controller cluster nodes. " alt="" coords="411,347,669,389"/>
+</map>

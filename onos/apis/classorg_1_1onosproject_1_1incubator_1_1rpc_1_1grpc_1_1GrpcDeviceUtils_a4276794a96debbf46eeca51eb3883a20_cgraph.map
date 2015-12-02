@@ -1,0 +1,8 @@
+<map id="org.onosproject.incubator.rpc.grpc.GrpcDeviceUtils.translate" name="org.onosproject.incubator.rpc.grpc.GrpcDeviceUtils.translate">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1Description.html#a546df2cfe2e5a027f36ef24fdb0fc9f4" title="Returns the key/value annotations. " alt="" coords="277,5,552,32"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1incubator_1_1rpc_1_1grpc_1_1GrpcDeviceUtils.html#a2e553ef9cc2b2ab57295228a6d363c3e" title="Converts Annotations to Map of Strings. " alt="" coords="303,57,526,98"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1PortDescription.html#ad7a2bbf338aa10a2ea4f975110af15f5" title="Returns the port number. " alt="" coords="323,122,507,163"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1incubator_1_1rpc_1_1grpc_1_1GrpcDeviceUtils.html#aa35fdb027d4427914f912227f6680f29" title="Translates gRPC enum MastershipRole to ONOS enum. " alt="" coords="303,187,526,229"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1PortDescription.html#aaa267027823f95f70ee37940fb1aa0c8" title="Returns the port type. " alt="" coords="325,253,504,294"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotations.html#a6681c97625ae3cdb29f3adbde418b155" title="Returns the value of the specified annotation. " alt="" coords="601,64,842,91"/>
+</map>

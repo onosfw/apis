@@ -1,0 +1,14 @@
+<map id="org.onosproject.provider.pcep.topology.impl.PcepTopologyProvider" name="org.onosproject.provider.pcep.topology.impl.PcepTopologyProvider">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1AbstractProvider.html" title="Base provider implementation. " alt="" coords="333,5,520,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="51,70,237,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkProvider.html" title="Abstraction of an entity providing information about infrastructure links to the core. " alt="" coords="346,70,507,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceProvider.html" title="Abstraction of a device information provider. " alt="" coords="337,135,516,177"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="337,201,516,242"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkService.html" title="Service for interacting with the inventory of infrastructure links. " alt="" coords="346,266,507,307"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceProviderRegistry.html" title="Abstraction of a device provider registry. " alt="" coords="337,331,516,373"/>
+<area shape="rect" id="node12" href="$interfaceorg_1_1onosproject_1_1pcep_1_1api_1_1PcepController.html" title="Abstraction of an PCEP controller. " alt="" coords="343,397,511,438"/>
+<area shape="rect" id="node13" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipAdminService.html" title="Service for administering the inventory of device masterships. " alt="" coords="335,462,518,503"/>
+<area shape="rect" id="node14" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="347,527,506,569"/>
+<area shape="rect" id="node16" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipService.html" title="Service responsible for determining the controller instance mastership of a device in a clustered env..." alt="" coords="335,593,518,634"/>
+<area shape="rect" id="node18" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkProviderRegistry.html" title="Abstraction of an infrastructure link provider registry. " alt="" coords="346,665,507,706"/>
+</map>

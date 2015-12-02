@@ -1,0 +1,4 @@
+<map id="org.onosproject.bgpio.types.NextHop.read" name="org.onosproject.bgpio.types.NextHop.read">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1NextHop.html#a50a833b42a25f79c716bc26bd0d7bdbf" title="Constructor to initialize parameters. " alt="" coords="240,5,427,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1NextHop.html#aedcd3b5f9128a876c174ef6b97103934" title="Return nexthop address. " alt="" coords="475,34,661,75"/>
+</map>

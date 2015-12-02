@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.resource.link.LambdaResourceAllocation.lambda" name="org.onosproject.net.resource.link.LambdaResourceAllocation.lambda">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1LambdaResourceAllocation.html#a998e231b1b1debb6671657407bbf920f" title="org.onosproject.net.resource.link.\lLambdaResourceAllocation.hashCode" alt="" coords="302,5,546,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1LambdaResourceAllocation.html#a488868c91062f97d9117fce314ff7298" title="Creates a new LambdaResourceAllocation with LambdaResource object. " alt="" coords="281,71,567,127"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1LambdaResourceAllocation.html#aee800a066a75014fc829547053da90c6" title="org.onosproject.net.resource.link.\lLambdaResourceAllocation.toString" alt="" coords="309,151,539,193"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1LambdaResourceAllocation.html#af020a7fb0e01f4fd768337cb37896f88" title="org.onosproject.net.resource.link.\lLambdaResourceAllocation.equals" alt="" coords="617,78,839,119"/>
+</map>

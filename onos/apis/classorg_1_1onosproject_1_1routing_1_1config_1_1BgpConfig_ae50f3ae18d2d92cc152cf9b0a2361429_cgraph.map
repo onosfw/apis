@@ -1,0 +1,11 @@
+<map id="org.onosproject.routing.config.BgpConfig.getSpeakerFromPeer" name="org.onosproject.routing.config.BgpConfig.getSpeakerFromPeer">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1routing_1_1config_1_1BgpConfig.html#ac2e870ccf2cd3c8a46d475b0e29e13dd" title="Gets the set of configured BGP speakers. " alt="" coords="264,101,461,142"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1ConnectPoint.html#a0de7f1e47e56dc632ec0a579da00bba9" title="Parse a device connect point from a string. " alt="" coords="532,70,719,111"/>
+<area shape="rect" id="node8" href="$classorg_1_1onlab_1_1packet_1_1IpAddress.html#a0b0d63e17c5c299c2c91689b2e292891" title="Converts an integer into an IPv4 address. " alt="" coords="510,139,741,165"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1ConnectPoint.html#ada4f70711f3cde5e5b2cbe33dfff091c" title="Creates a new connection point. " alt="" coords="789,5,976,46"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1DeviceId.html#acdda59a035899936c4b013de8015ba10" title="Creates a device id using the supplied URI. " alt="" coords="793,70,972,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1ConnectPoint.html#a71dbaeabb12421d31bac7c7ec8547535" title="Returns the network element identifier. " alt="" coords="1044,5,1231,46"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1DeviceId.html#a769a9277e7bf995f33947e7c2136c3c2" title="org.onosproject.net.Device\lId.DeviceId" alt="" coords="1048,70,1227,111"/>
+<area shape="rect" id="node9" href="$classorg_1_1onlab_1_1packet_1_1IpAddress.html#a1b8ebe45cf8c00946754d68ad5d36293" title="Constructor for given IP address version and address octets. " alt="" coords="790,135,975,177"/>
+<area shape="rect" id="node10" href="$classorg_1_1onlab_1_1packet_1_1IpAddress.html#a5e049bb120d15e0ada504c2d48959ace" title="Returns the IP version of this address. " alt="" coords="1024,143,1251,169"/>
+</map>

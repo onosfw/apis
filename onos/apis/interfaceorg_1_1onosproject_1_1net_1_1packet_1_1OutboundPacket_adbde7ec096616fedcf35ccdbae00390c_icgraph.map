@@ -1,0 +1,3 @@
+<map id="org.onosproject.net.packet.OutboundPacket.treatment" name="org.onosproject.net.packet.OutboundPacket.treatment">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1provider_1_1of_1_1packet_1_1impl_1_1OpenFlowPacketProvider.html#a4e5b4e34f9f7d11f48c7f6bf83227f70" title="Emits the specified outbound packet onto the network. " alt="" coords="235,5,485,46"/>
+</map>

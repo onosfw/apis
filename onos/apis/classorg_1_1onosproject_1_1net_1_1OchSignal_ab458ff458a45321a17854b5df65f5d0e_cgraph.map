@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.OchSignal.toString" name="org.onosproject.net.OchSignal.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1OchSignal.html#a3b365a82d1e4b858698b689d6e5361f7" title="Returns channel spacing. " alt="" coords="269,5,515,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1OchSignal.html#a7b9ca5569fa9ce16bb742ea69ddbee04" title="Returns grid type. " alt="" coords="267,71,517,97"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1OchSignal.html#ad64891760467ae8a2b52f4b2b3b20e6a" title="Returns slow width granularity. " alt="" coords="281,122,503,163"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1OchSignal.html#a0118badc5048592d935f8e4ab1191de4" title="Returns spacing multiplier. " alt="" coords="269,187,515,229"/>
+</map>

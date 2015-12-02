@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.group.DefaultGroupBucket.packets" name="org.onosproject.net.group.DefaultGroupBucket.packets">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1group_1_1DefaultGroupBucket.html#a2dfbb693584964772142477749e1db66" title="Sets number of packets processed by this group bucket entry. " alt="" coords="245,5,456,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1group_1_1DefaultGroupBucket.html#a4eb7eb03f9d0ef05716413bf61aa9e40" title="org.onosproject.net.group.\lDefaultGroupBucket.toString" alt="" coords="256,70,445,111"/>
+</map>

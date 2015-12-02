@@ -1,0 +1,4 @@
+<map id="org.onosproject.ui.impl.TopologyViewMessageHandler" name="org.onosproject.ui.impl.TopologyViewMessageHandler">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1TopologyViewMessageHandlerBase.html" title="Facility for creating messages bound for the topology viewer. " alt="" coords="5,97,237,138"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1UiMessageHandler.html" title="Abstraction of an entity capable of processing JSON messages from the user interface client..." alt="" coords="24,6,219,47"/>
+</map>

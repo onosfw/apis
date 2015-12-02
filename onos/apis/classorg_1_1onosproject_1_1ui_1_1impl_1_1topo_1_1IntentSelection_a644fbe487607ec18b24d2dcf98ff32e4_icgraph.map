@@ -1,0 +1,9 @@
+<map id="org.onosproject.ui.impl.topo.IntentSelection.index" name="org.onosproject.ui.impl.topo.IntentSelection.index">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1topo_1_1IntentSelection.html#a5e99a5a23dd4e0223f6d3d188977baf8" title="Returns true if all intents in this select group are currently selected. " alt="" coords="247,63,433,105"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1topo_1_1IntentSelection.html#a187a5e3a8defd533cd09ce47c322e1a5" title="Returns the currently marked intent, or null if &quot;all&quot; intents are marked. " alt="" coords="488,5,675,46"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1topo_1_1IntentSelection.html#acc5c80721e88cec67815e51ae33fc7bf" title="Creates an intent selection group, based on selected nodes. " alt="" coords="240,129,440,170"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1topo_1_1IntentSelection.html#a26bf7b9b9e76c2147a6d78fbb03659a8" title="Marks and returns the next intent in this group. " alt="" coords="247,194,433,235"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1topo_1_1IntentSelection.html#ad84d1ecf521b61c978e3aa8365b1c45f" title="Marks and returns the previous intent in this group. " alt="" coords="247,259,433,301"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1topo_1_1IntentSelection.html#a22eb53d3cd6836fd0a6790d6830afa47" title="org.onosproject.ui.impl.topo.\lIntentSelection.toString" alt="" coords="247,325,433,366"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1topo_1_1IntentSelection.html#a96cd56a36b876c69873badb5b44d1385" title="Returns true if there is a single intent in this select group, or if a specific intent has been marke..." alt="" coords="488,70,675,111"/>
+</map>

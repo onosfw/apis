@@ -1,0 +1,5 @@
+<map id="org.onosproject.app.ApplicationStore" name="org.onosproject.app.ApplicationStore">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1app_1_1ApplicationStoreAdapter.html" title="Adapter for application testing against application store. " alt="" coords="494,5,698,46"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1app_1_1GossipApplicationStore.html" title="Manages inventory of applications in a distributed data store that uses optimistic replication and go..." alt="" coords="509,70,683,111"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleApplicationStore.html" title="Manages inventory of network control applications. " alt="" coords="505,135,687,177"/>
+</map>

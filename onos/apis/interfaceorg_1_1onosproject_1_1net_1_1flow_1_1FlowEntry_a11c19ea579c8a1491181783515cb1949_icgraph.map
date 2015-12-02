@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.flow.FlowEntry.life" name="org.onosproject.net.flow.FlowEntry.life">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1provider_1_1of_1_1flow_1_1impl_1_1NewAdaptiveFlowStatsCollector.html#a1e511da6ec31f2ef45cd63256a9946d6" title="add or update typed flow entry from flow entry into the internal flow table. " alt="" coords="219,13,546,54"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1codec_1_1impl_1_1FlowEntryCodec.html#a5a5a77477d658fe1066dfc63a540a84b" title="org.onosproject.codec.impl.\lFlowEntryCodec.encode" alt="" coords="291,78,474,119"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1provider_1_1of_1_1flow_1_1impl_1_1NewAdaptiveFlowStatsCollector.html#a28485da6c43ef51eeda0619bf3a280f9" title="add or update typed flow entry from flow entry into the internal flow table. " alt="" coords="595,5,866,61"/>
+</map>

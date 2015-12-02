@@ -1,0 +1,8 @@
+<map id="org.onosproject.store.intent.impl.PartitionManager" name="org.onosproject.store.intent.impl.PartitionManager">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1PartitionService.html" title="Service for interacting with the partition&#45;to&#45;instance assignments. " alt="" coords="281,23,455,65"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1cluster_1_1LeadershipService.html" title="Service for leader election. " alt="" coords="289,99,447,141"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="289,173,447,214"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1event_1_1EventDeliveryService.html" title="Abstraction of an entity capable of accepting events to be posted and then dispatching them to the ap..." alt="" coords="275,242,461,283"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1event_1_1EventDispatcher.html" title="Abstraction of a mechanism capable of accepting and dispatching events to appropriate event sinks..." alt="" coords="22,246,207,287"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1event_1_1EventSinkRegistry.html" title="Abstraction of an event sink registry capable of tracking sinks based on their event class..." alt="" coords="22,311,207,353"/>
+</map>

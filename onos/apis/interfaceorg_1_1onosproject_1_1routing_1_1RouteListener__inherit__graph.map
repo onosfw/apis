@@ -1,0 +1,4 @@
+<map id="org.onosproject.routing.RouteListener" name="org.onosproject.routing.RouteListener">
+<area shape="rect" id="node2" title="Dummy implementation for the RouteListener interface. " alt="" coords="213,5,467,61"/>
+<area shape="rect" id="node3" title="Listener for route events. " alt="" coords="245,86,435,127"/>
+</map>

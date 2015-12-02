@@ -1,0 +1,12 @@
+<map id="org.onosproject.vtnweb.web.FlowClassifierCodecTest.codecFlowClassifierTest" name="org.onosproject.vtnweb.web.FlowClassifierCodecTest.codecFlowClassifierTest">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1FlowClassifier.html#a597a066194fc71dc2952dc220470b662" title="Returns flow classifier description. " alt="" coords="294,5,477,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1FlowClassifier.html#a22fee5f5d1957fc2bacb12a7c2d60475" title="Returns flow classifier ID. " alt="" coords="294,70,477,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1FlowClassifier.html#abb70ef88a233433fe2069e9ec8302621" title="Returns maximum destination port range. " alt="" coords="291,135,480,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1FlowClassifier.html#ad755206bd1347da554b0fbb159ffc48d" title="Returns maximum source port range. " alt="" coords="291,201,479,242"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1FlowClassifier.html#ae23ab8e5e649073fc0b61f4dfb7058e9" title="Returns minimum destination port range. " alt="" coords="293,266,478,307"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1FlowClassifier.html#a5fb334da792dff017becf437d6f0b1e8" title="Returns minimum source port range. " alt="" coords="293,331,477,373"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1FlowClassifier.html#a3dbbab1d8911e3239c37185f67efb394" title="Returns flow classifier name. " alt="" coords="294,397,477,438"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1FlowClassifier.html#a6943cade4a6bd5d5e1910dbb3f11db20" title="Returns IP Protocol. " alt="" coords="294,462,477,503"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1FlowClassifier.html#a900a02d5950cc1537c3b5e772401fe28" title="Returns Tenant ID. " alt="" coords="294,527,477,569"/>
+<area shape="rect" id="node11" href="$classorg_1_1onosproject_1_1vtnrsc_1_1FlowClassifierId.html#a04bb19961852e061f27f0626aea4573c" title="org.onosproject.vtnrsc.Flow\lClassifierId.toString" alt="" coords="294,593,477,634"/>
+</map>

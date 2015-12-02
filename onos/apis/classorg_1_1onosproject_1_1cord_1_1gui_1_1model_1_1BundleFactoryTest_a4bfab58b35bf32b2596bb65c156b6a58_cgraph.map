@@ -1,0 +1,4 @@
+<map id="org.onosproject.cord.gui.model.BundleFactoryTest.familyBundle" name="org.onosproject.cord.gui.model.BundleFactoryTest.familyBundle">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1cord_1_1gui_1_1model_1_1BundleDescriptor.html#aebb6b45275602662f2187d92b343a48a" title="Bundle display name. " alt="" coords="265,5,469,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1cord_1_1gui_1_1model_1_1BundleDescriptor.html#a21c3e9b11e0f5677bd515c526dbf2580" title="Bundle internal identifier. " alt="" coords="265,70,469,111"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.onosproject.vtnrsc.floatingip.impl.FloatingIpManager.fixedIpIsUsed" name="org.onosproject.vtnrsc.floatingip.impl.FloatingIpManager.fixedIpIsUsed">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1IpAddress.html#a239c2a65bbba20405b277c4b01a8e16e" title="org.onlab.packet.IpAddress.equals" alt="" coords="302,41,525,68"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1vtnrsc_1_1floatingip_1_1impl_1_1FloatingIpManager.html#a4e6edea02af3caaebd044010acaafc12" title="Returns a collection of the currently known floating IP. " alt="" coords="294,93,533,134"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1IpAddress.html#a1b8ebe45cf8c00946754d68ad5d36293" title="Constructor for given IP address version and address octets. " alt="" coords="582,5,767,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1packet_1_1IpAddress.html#a5e049bb120d15e0ada504c2d48959ace" title="Returns the IP version of this address. " alt="" coords="816,41,1043,68"/>
+</map>

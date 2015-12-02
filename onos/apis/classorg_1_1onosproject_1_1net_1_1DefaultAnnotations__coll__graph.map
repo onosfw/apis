@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.DefaultAnnotations" name="org.onosproject.net.DefaultAnnotations">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1SparseAnnotations.html" title="Represents an set of sparse key/value string annotations capable of carrying annotation keys tagged f..." alt="" coords="19,83,197,125"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotations.html" title="Represents an set of simple key/value string annotations. " alt="" coords="5,5,211,32"/>
+</map>

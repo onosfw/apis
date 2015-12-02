@@ -1,0 +1,8 @@
+<map id="org.onosproject.routing.RouteEntry.nextHop" name="org.onosproject.routing.RouteEntry.nextHop">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1routing_1_1RouteEntry.html#a0ee48918af42bf7a7d71e375b7e3076c" title="org.onosproject.routing.\lRouteEntry.hashCode" alt="" coords="243,5,402,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1routing_1_1bgp_1_1BgpRouteEntryTest.html#ad4d31d4acd08cfbf4d4c1f8ecfc43a7d" title="Tests getting the fields of a BGP route entry. " alt="" coords="213,70,432,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1routing_1_1RouteEntry.html#af5b5c68bd404b8b89c49fe0664f42f02" title="org.onosproject.routing.\lRouteEntry.toString" alt="" coords="243,135,402,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1routing_1_1bgp_1_1BgpRouteEntry.html#aca73d0d4f215d321eaba0b429df36d42" title="org.onosproject.routing.bgp.\lBgpRouteEntry.toString" alt="" coords="231,201,414,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1routing_1_1bgp_1_1BgpRouteEntryTest.html#ad9a0b630e13e8264c744f1a18578ff59" title="Tests valid class constructor. " alt="" coords="481,167,711,209"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1routing_1_1bgp_1_1BgpRouteEntryTest.html#ad0d9936c204b41895c836baf36b4d066" title="Tests object string representation. " alt="" coords="490,233,702,274"/>
+</map>

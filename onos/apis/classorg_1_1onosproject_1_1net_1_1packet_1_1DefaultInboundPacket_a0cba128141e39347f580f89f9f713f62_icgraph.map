@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.packet.DefaultInboundPacket.receivedFrom" name="org.onosproject.net.packet.DefaultInboundPacket.receivedFrom">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1packet_1_1DefaultInboundPacket.html#a3e243fc077fd23da7c411c2c31e449be" title="Creates an immutable inbound packet. " alt="" coords="288,21,531,77"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1packet_1_1DefaultInboundPacket.html#a0e398041fbc990f9854b8cd1349cbe65" title="org.onosproject.net.packet.\lDefaultInboundPacket.hashCode" alt="" coords="302,102,517,143"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1packet_1_1DefaultInboundPacket.html#afb36848aa36bd162161f91afa1b1cac3" title="org.onosproject.net.packet.\lDefaultInboundPacket.toString" alt="" coords="309,167,509,209"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1packet_1_1DefaultInboundPacket.html#a0d927d53e2edbcafc10d866aa08d9eda" title="org.onosproject.net.packet.\lDefaultInboundPacket.equals" alt="" coords="579,29,773,70"/>
+</map>

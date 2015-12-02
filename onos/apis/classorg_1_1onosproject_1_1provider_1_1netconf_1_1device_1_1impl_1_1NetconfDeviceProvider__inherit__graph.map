@@ -1,0 +1,5 @@
+<map id="org.onosproject.provider.netconf.device.impl.NetconfDeviceProvider" name="org.onosproject.provider.netconf.device.impl.NetconfDeviceProvider">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1AbstractProvider.html" title="Base provider implementation. " alt="" coords="240,5,427,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="5,38,192,79"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceProvider.html" title="Abstraction of a device information provider. " alt="" coords="244,70,423,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.OchSignal.OchSignal" name="org.onosproject.net.OchSignal.OchSignal">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1util_1_1Frequency.html#a50f9042a5a9ca065b8d916f6fb8ec2bb" title="Return the value this instance represents as Hz. " alt="" coords="282,5,478,32"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1OchSignal.html#a3b365a82d1e4b858698b689d6e5361f7" title="Returns channel spacing. " alt="" coords="257,57,503,98"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1OchSignal.html#ad64891760467ae8a2b52f4b2b3b20e6a" title="Returns slow width granularity. " alt="" coords="269,122,491,163"/>
+</map>

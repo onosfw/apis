@@ -1,0 +1,5 @@
+<map id="org.onosproject.openflow.controller.driver.AbstractOpenFlowSwitch.setChannel" name="org.onosproject.openflow.controller.driver.AbstractOpenFlowSwitch.setChannel">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1openflow_1_1controller_1_1driver_1_1AbstractOpenFlowSwitch.html#ae2cbb1b4f270ab5ea7097cd293af5303" title="Identifies the channel used to communicate with the switch. " alt="" coords="317,5,581,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1IpAddress.html#abc66c472c6960c7f6941319edb154d2d" title="Tests whether the IP version of this address is IPv4. " alt="" coords="343,71,556,97"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1packet_1_1IpAddress.html#a5e049bb120d15e0ada504c2d48959ace" title="Returns the IP version of this address. " alt="" coords="629,71,856,97"/>
+</map>

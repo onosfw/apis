@@ -1,0 +1,6 @@
+<map id="org.onosproject.incubator.net.domain.IntentDomain.IntentDomain" name="org.onosproject.incubator.net.domain.IntentDomain.IntentDomain">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1domain_1_1IntentDomain.html#ad6a3739285ab2c48dec3a66630597980" title="Returns the set of edge ports for the intent domain. " alt="" coords="293,5,533,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1domain_1_1IntentDomain.html#a740ff0277db7d99287d0ca4bce17b0d7" title="Returns the id for the intent domain. " alt="" coords="293,70,533,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1domain_1_1IntentDomain.html#a6738acba99eeae9272b2537c65cce311" title="Returns the set of internal devices for the intent domain (devices under exclusive control of the int..." alt="" coords="293,135,533,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1domain_1_1IntentDomain.html#a4da331131ac064986a7bcdc418c5a5eb" title="Returns the friendly name for the intent domain. " alt="" coords="293,201,533,242"/>
+</map>

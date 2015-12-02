@@ -1,0 +1,9 @@
+<map id="org.onosproject.routing.impl.Router" name="org.onosproject.routing.impl.Router">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1routing_1_1RoutingService.html" title="Provides a way of interacting with the RIB management component. " alt="" coords="426,5,585,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1host_1_1HostService.html" title="Service for interacting with the inventory of end&#45;station hosts. " alt="" coords="422,70,589,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="419,135,591,177"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="12,159,199,201"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1routing_1_1BgpService.html" title="Provides a way of interacting with the BGP protocol component. " alt="" coords="426,201,585,242"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1intf_1_1InterfaceService.html" title="Service for interacting with interfaces. " alt="" coords="397,266,613,307"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1routing_1_1config_1_1RoutingConfigurationService.html" title="Provides information about the routing configuration. " alt="" coords="407,331,604,373"/>
+</map>

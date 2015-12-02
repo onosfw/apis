@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.device.OmsPortDescription.OmsPortDescription" name="org.onosproject.net.device.OmsPortDescription.OmsPortDescription">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1AbstractDescription.html#a9230f0f1b251f2cf963bc6dc9ec6be3d" title="Returns the key/value annotations. " alt="" coords="340,5,527,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1device_1_1OmsPortDescription.html#ac75cff7e4be63ce2ffc06dfdeeafb397" title="Returns grid spacing frequency. " alt="" coords="344,70,523,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1device_1_1OmsPortDescription.html#a251e8bc7f1bb1f17f8e67e3a551b42e5" title="Returns maximum frequency. " alt="" coords="318,135,549,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1device_1_1OmsPortDescription.html#a591f04dc1d913fe25b35b3d7ff69f406" title="Returns minimum frequency. " alt="" coords="320,201,547,242"/>
+</map>

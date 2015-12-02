@@ -1,0 +1,5 @@
+<map id="org.onosproject.netconf.NetconfDeviceInfo.getDeviceId" name="org.onosproject.netconf.NetconfDeviceInfo.getDeviceId">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1netconf_1_1NetconfDeviceInfo.html#adb24a03af18fec98ace82d6f22108558" title="Return the info about the device in a string. " alt="" coords="259,38,439,79"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1netconf_1_1NetconfDeviceInfo.html#abe6654e6035f33f85d7d7f9434af83b1" title="Exposes the name of the controller. " alt="" coords="489,5,655,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1netconf_1_1NetconfDeviceInfo.html#a791364ebc3ca25bc032de73fc9b0c3c7" title="Exposes the port of the controller. " alt="" coords="491,70,653,111"/>
+</map>

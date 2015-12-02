@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.device.DeviceDescription.deviceUri" name="org.onosproject.net.device.DeviceDescription.deviceUri">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1device_1_1DefaultDeviceDescriptionTest.html#a81d042a6a91eb8485b8706adf98d050d" title="org.onosproject.net.device.\lDefaultDeviceDescriptionTest.basics" alt="" coords="243,5,482,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1device_1_1impl_1_1BasicDeviceOperator.html#a244a00e41d8b6a11a103e89282e8b44f" title="Generates a DeviceDescription containing fields from a DeviceDescription and a DeviceConfig. " alt="" coords="259,70,466,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1incubator_1_1rpc_1_1grpc_1_1GrpcDeviceUtils.html#a5aeb7ddc0b3da705b5a26e5a46d70214" title="Translates DeviceDescription to gRPC DeviceDescription message. " alt="" coords="251,135,474,177"/>
+</map>

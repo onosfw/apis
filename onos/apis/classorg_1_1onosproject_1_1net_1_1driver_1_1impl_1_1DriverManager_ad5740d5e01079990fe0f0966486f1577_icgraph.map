@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.driver.impl.DriverManager.getDriver" name="org.onosproject.net.driver.impl.DriverManager.getDriver">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1impl_1_1DriverManager.html#afff4911d0401bb1a73520b067e2e3e72" title="Creates a new driver handler for interacting with the specified device. " alt="" coords="257,5,458,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1impl_1_1DriverManager.html#aa7c049d8689ae9bbee1810027d95ca98" title="Returns the driver for the specified device. " alt="" coords="257,70,458,111"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="org.onosproject.bgpio.protocol.linkstate.BgpLinkLSIdentifier.parseLinkIdendifier" name="org.onosproject.bgpio.protocol.linkstate.BgpLinkLSIdentifier.parseLinkIdendifier">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1BgpLinkLSIdentifier.html#a0dfe20f584de95a9a80a849ce4e0b394" title="Initialize fields. " alt="" coords="319,5,572,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1BgpLinkLSIdentifier.html#a77c11be67eed1a2ccf87483082e319f5" title="Returns local node descriptors. " alt="" coords="313,70,577,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1BgpLinkLSIdentifier.html#a7256c4f4c2e419d620b8ed7254000d3a" title="Parses link descriptors. " alt="" coords="314,135,577,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1BgpLinkLSIdentifier.html#a6e1b7a6c33414d2732904d029fac2c27" title="Parses Local/Remote node descriptors. " alt="" coords="311,201,580,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1BgpLinkLSIdentifier.html#a8e2ea5fd6f93fe84450879c830794f05" title="Returns remote node descriptors. " alt="" coords="307,266,584,307"/>
+</map>

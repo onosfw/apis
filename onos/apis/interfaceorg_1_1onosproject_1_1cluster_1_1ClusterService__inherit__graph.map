@@ -1,0 +1,6 @@
+<map id="org.onosproject.cluster.ClusterService" name="org.onosproject.cluster.ClusterService">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1cluster_1_1ClusterServiceAdapter.html" title="Test adapter for the cluster service. " alt="" coords="489,151,647,193"/>
+<area shape="rect" id="node11" href="$classorg_1_1onosproject_1_1cluster_1_1impl_1_1ClusterManager.html" title="Implementation of the cluster service. " alt="" coords="475,217,661,258"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1store_1_1cluster_1_1StaticClusterService.html" title="org.onosproject.store.cluster.\lStaticClusterService" alt="" coords="746,217,937,258"/>
+<area shape="rect" id="node10" title="ClusterService set up with a very simple cluster &#45; 3 nodes, one is the current node, one is a different active node, and one is an inactive node. " alt="" coords="710,282,973,323"/>
+</map>

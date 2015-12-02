@@ -1,0 +1,4 @@
+<map id="org.onosproject.core.impl.IdBlockAllocator" name="org.onosproject.core.impl.IdBlockAllocator">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1core_1_1impl_1_1DummyIdBlockAllocator.html" title="org.onosproject.core.impl.\lDummyIdBlockAllocator" alt="" coords="234,5,406,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1core_1_1impl_1_1StoreBasedIdBlockAllocator.html" title="org.onosproject.core.impl.\lStoreBasedIdBlockAllocator" alt="" coords="227,70,413,111"/>
+</map>

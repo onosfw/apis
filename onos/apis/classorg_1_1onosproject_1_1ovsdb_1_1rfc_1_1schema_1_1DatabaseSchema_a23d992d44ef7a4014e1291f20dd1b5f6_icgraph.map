@@ -1,0 +1,7 @@
+<map id="org.onosproject.ovsdb.rfc.schema.DatabaseSchema.tableSchemas" name="org.onosproject.ovsdb.rfc.schema.DatabaseSchema.tableSchemas">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1DatabaseSchema.html#a28c3d86a4e81ca6cff302ee7fe89772d" title="Constructs a DatabaseSchema object. " alt="" coords="285,5,520,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1DatabaseSchema.html#ac5b6b125919541a8706fceaa6fb0dbd6" title="generate initialization columns in each table namely _uuid and _version. " alt="" coords="278,71,527,127"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1DatabaseSchema.html#a2eed7e565b2691b58e85f77d9711af70" title="org.onosproject.ovsdb.rfc.schema.\lDatabaseSchema.hashCode" alt="" coords="291,151,514,193"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1DatabaseSchema.html#a1cf84f8304bb7a8c17351878a05a6540" title="org.onosproject.ovsdb.rfc.schema.\lDatabaseSchema.toString" alt="" coords="291,217,514,258"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1DatabaseSchema.html#ac15d2b2ea8891c5f06ab2561dc32a0fe" title="org.onosproject.ovsdb.rfc.schema.\lDatabaseSchema.equals" alt="" coords="577,5,799,46"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.bgpio.types.MpUnReachNlri.afi" name="org.onosproject.bgpio.types.MpUnReachNlri.afi">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1MpUnReachNlri.html#a6201c2fd227f893ba3cd39f717dff1a0" title="Constructor to initialize parameters. " alt="" coords="241,5,453,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1MpUnReachNlri.html#aa764d5532261baf508a62717c3cc702b" title="Reads from ChannelBuffer and parses MpUnReachNlri. " alt="" coords="501,34,688,75"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1MpUnReachNlri.html#a2ee16c872003752ca884bcebf2cf260d" title="org.onosproject.bgpio.types.\lMpUnReachNlri.toString" alt="" coords="253,122,440,163"/>
+</map>

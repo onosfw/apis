@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.OmsPort.OmsPort" name="org.onosproject.net.OmsPort.OmsPort">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1AbstractAnnotated.html#a2858b84119b1f766fd6222e79efa1b93" title="Returns the key/value annotations. " alt="" coords="264,5,451,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1OmsPort.html#ad57ef3994ff9afdccf69754337f248bd" title="Returns the grid spacing frequency. " alt="" coords="250,71,465,97"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1OmsPort.html#afdb9db49be1785f77a7267fefcca6e38" title="Returns the maximum frequency. " alt="" coords="248,122,467,163"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1OmsPort.html#a3cb028900ee68e0ae0a8b4e7e075d15a" title="Returns the minimum frequency. " alt="" coords="250,187,465,229"/>
+</map>

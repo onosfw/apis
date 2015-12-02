@@ -1,0 +1,5 @@
+<map id="org.onosproject.ovsdb.controller.driver.DefaultOvsdbClient.getPortUuid" name="org.onosproject.ovsdb.controller.driver.DefaultOvsdbClient.getPortUuid">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1table_1_1Bridge.html#aad1360dd04793b3ae40fa64b7928a467" title="Get the Column entity which column name is &quot;ports&quot; from the Row entity of attributes. " alt="" coords="323,5,528,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ovsdb_1_1controller_1_1driver_1_1DefaultOvsdbClient.html#a0b07d2f537269d28c7cbe9f41dfcdf6c" title="Gets the ovsdb row. " alt="" coords="302,70,549,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1table_1_1TableGenerator.html#a498a555b18cfdfc705291b593ab126da" title="Get table from Row. " alt="" coords="323,135,528,177"/>
+</map>

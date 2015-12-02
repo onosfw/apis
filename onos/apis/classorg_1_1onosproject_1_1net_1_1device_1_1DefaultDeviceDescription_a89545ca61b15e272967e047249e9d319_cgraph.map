@@ -1,0 +1,8 @@
+<map id="org.onosproject.net.device.DefaultDeviceDescription.hashCode" name="org.onosproject.net.device.DefaultDeviceDescription.hashCode">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1device_1_1DefaultDeviceDescription.html#a276f8ac71f7939df9671fe7474b6fc23" title="Returns a device chassis id. " alt="" coords="298,5,529,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1device_1_1DefaultDeviceDescription.html#aa56f61dc2a6a9989655ce7449ea9e2ab" title="Returns the device hardware version. " alt="" coords="295,70,531,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1device_1_1DefaultDeviceDescription.html#aebfc1411ce988bea86ad195065cd5e04" title="Returns the device manufacturer name. " alt="" coords="288,135,539,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1device_1_1DefaultDeviceDescription.html#a5fa020eab801ba3d21f038a7c9993d30" title="Returns the device serial number. " alt="" coords="310,201,517,257"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1device_1_1DefaultDeviceDescription.html#ad6ace8e9830471627b4467040a94d470" title="Returns the device software version. " alt="" coords="295,282,531,323"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1device_1_1DefaultDeviceDescription.html#a3888bf9831c6e25fda635192cac0153f" title="Returns the type of the infrastructure device. " alt="" coords="313,347,513,389"/>
+</map>

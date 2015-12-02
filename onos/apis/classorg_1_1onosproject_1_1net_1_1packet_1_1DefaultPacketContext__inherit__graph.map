@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.packet.DefaultPacketContext" name="org.onosproject.net.packet.DefaultPacketContext">
+<area shape="rect" id="node3" title="Mocks the DefaultPacketContext. " alt="" coords="497,5,687,46"/>
+<area shape="rect" id="node4" title="Mocks the DefaultPacket context. " alt="" coords="469,70,715,111"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1provider_1_1of_1_1packet_1_1impl_1_1OpenFlowCorePacketContext.html" title="Packet context used with the OpenFlow providers. " alt="" coords="467,282,717,323"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1packet_1_1PacketContext.html" title="Represents context for processing an inbound packet, and (optionally) emitting a corresponding outbou..." alt="" coords="6,143,186,185"/>
+</map>

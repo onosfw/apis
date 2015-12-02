@@ -1,0 +1,7 @@
+<map id="org.onosproject.ui.impl.TopologyViewMessageHandlerBase.instanceMessage" name="org.onosproject.ui.impl.TopologyViewMessageHandlerBase.instanceMessage">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1UiMessageHandler.html#aaf334e1c31cce2f4373597c2a4722b60" title="Returns a freshly minted array node. " alt="" coords="339,5,533,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html#ae7c51c0ebacae1433b5c4e814ec1c50a" title="Returns the local controller node. " alt="" coords="340,70,532,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ControllerNode.html#a9b867ba552f358c651fc1da9d31188ba" title="Returns the instance identifier. " alt="" coords="357,135,515,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ControllerNode.html#aaf83d7c30d2c57e9ab8e250ff57dc938" title="Returns the IP address of the controller instance. " alt="" coords="357,201,515,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1ui_1_1UiMessageHandler.html#af64452cb19bbbef28c4044ffdb606595" title="Returns a freshly minted object node. " alt="" coords="339,266,533,307"/>
+</map>

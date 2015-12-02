@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.criteria.IPDscpCriterion.toString" name="org.onosproject.net.flow.criteria.IPDscpCriterion.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1IPDscpCriterion.html#aac4ba00d3adbee91c83720039654dfcb" title="Gets the IP DSCP value to match. " alt="" coords="261,5,469,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1IPDscpCriterion.html#a71520b3209c70f4beb8ed4d4a80c17cd" title="Returns the type of criterion. " alt="" coords="261,70,469,111"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.openflow.controller.impl.OpenFlowControllerImplTest.testMasterSwitch" name="org.onosproject.openflow.controller.impl.OpenFlowControllerImplTest.testMasterSwitch">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1openflow_1_1controller_1_1impl_1_1OpenFlowControllerImpl.html#a9f3b7309da572bbbcad3b03c1fded361" title="Returns all equal switches known to this OF controller. " alt="" coords="354,5,625,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1openflow_1_1controller_1_1impl_1_1OpenFlowControllerImpl.html#ab592608abcb992f2e9ed389ec602cc4d" title="Returns all master switches known to this OF controller. " alt="" coords="350,70,629,111"/>
+</map>

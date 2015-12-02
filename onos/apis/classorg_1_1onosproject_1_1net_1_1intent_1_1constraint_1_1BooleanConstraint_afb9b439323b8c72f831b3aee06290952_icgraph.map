@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.intent.constraint.BooleanConstraint.validate" name="org.onosproject.net.intent.constraint.BooleanConstraint.validate">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1constraint_1_1ObstacleConstraintTest.html#ad3419e828bd5edaed74caa8eb85a5c0a" title="Tests the specified path avoids the specified obstacle. " alt="" coords="289,5,570,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1constraint_1_1ObstacleConstraintTest.html#a0bcd9c9e5717132793b181d5900f1496" title="Test the specified path does not avoid the specified obstacle. " alt="" coords="299,85,559,141"/>
+</map>

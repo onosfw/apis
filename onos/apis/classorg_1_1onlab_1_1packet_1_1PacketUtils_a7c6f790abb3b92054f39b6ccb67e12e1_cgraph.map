@@ -1,0 +1,4 @@
+<map id="org.onlab.packet.PacketUtils.checkInput" name="org.onlab.packet.PacketUtils.checkInput">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1PacketUtils.html#a02ef0a5315252071a1f323a6ad6cd759" title="Check the length of the input buffer is appropriate given the offset and length parameters. " alt="" coords="283,5,512,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1PacketUtils.html#a248fe675d75e3642338cd8af9198b8f7" title="Check that there are enough bytes in the buffer to read some number of bytes that we need to read a f..." alt="" coords="283,70,512,111"/>
+</map>

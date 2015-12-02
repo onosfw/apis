@@ -1,0 +1,4 @@
+<map id="org.onosproject.ui.topo.PropertyPanel.title" name="org.onosproject.ui.topo.PropertyPanel.title">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1PropertyPanel.html#aa3190ef7379dba65d99e6523a8d1ffec" title="Constructs a property panel model with the given title and type identifier (icon to display)..." alt="" coords="214,5,405,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1PropertyPanel.html#a96a955291543c17ea86a6bf866f80ad9" title="Sets the title text. " alt="" coords="230,70,389,111"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.onosproject.vtnrsc.portchain.impl.PortChainManagerTest.testRemovePortChain" name="org.onosproject.vtnrsc.portchain.impl.PortChainManagerTest.testRemovePortChain">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnrsc_1_1portchain_1_1impl_1_1PortChainManager.html#a25a3735d1718ee6d5743a1168107c1c2" title="Deletes portChain by given portChainId. " alt="" coords="364,5,604,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1vtnrsc_1_1portchain_1_1impl_1_1PortChainManagerTest.html#a21ac05d8d358d3c6c10a34faabb34ff4" title="Checks the operation of createPortChain() method. " alt="" coords="345,70,623,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1vtnrsc_1_1portchain_1_1impl_1_1PortChainManager.html#a131f0dd0db3d7b703220027a8604c642" title="Creates a PortChain in the store. " alt="" coords="672,70,912,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortChain.html#abd1bd2089d4372cda2d02b96c87d4885" title="Returns the ID of this port chain. " alt="" coords="960,70,1139,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.Link.state" name="org.onosproject.net.Link.state">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1codec_1_1impl_1_1LinkCodec.html#ad10e77b3b5ad0619d3ce6877eec4048a" title="org.onosproject.codec.impl.\lLinkCodec.encode" alt="" coords="285,5,467,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1TopologyViewMessageHandlerBase.html#a34a978efdf029f1a75439aa5d4e1a2a4" title="org.onosproject.ui.impl.\lTopologyViewMessageHandlerBase.link\lMessage" alt="" coords="248,71,504,127"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1LinksListCommand.html#a0363a26b802900000c52293068d9077f" title="Returns a formatted string representing the given link. " alt="" coords="280,151,472,193"/>
+</map>

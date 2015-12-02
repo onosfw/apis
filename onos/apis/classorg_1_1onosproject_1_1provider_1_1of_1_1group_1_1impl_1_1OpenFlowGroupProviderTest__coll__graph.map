@@ -1,0 +1,11 @@
+<map id="org.onosproject.provider.of.group.impl.OpenFlowGroupProviderTest" name="org.onosproject.provider.of.group.impl.OpenFlowGroupProviderTest">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupProviderRegistry.html" title="Abstraction for a group provider registry. " alt="" coords="348,267,521,309"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1provider_1_1of_1_1group_1_1impl_1_1OpenFlowGroupProvider.html" title="Provider which uses an OpenFlow controller to handle Group. " alt="" coords="699,158,943,199"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupProviderService.html" title="Service through which Group providers can inject information into the core. " alt="" coords="735,339,908,381"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1AbstractProvider.html" title="Base provider implementation. " alt="" coords="341,5,528,46"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="44,46,231,87"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupProvider.html" title="Abstraction of group provider. " alt="" coords="348,70,521,111"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1openflow_1_1controller_1_1OpenFlowController.html" title="Abstraction of an OpenFlow controller. " alt="" coords="321,135,549,177"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1DriverService.html" title="Service for obtaining drivers and driver behaviour implementations. " alt="" coords="348,201,521,242"/>
+<area shape="rect" id="node12" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1DriverResolver.html" title="Entity capable of resolving a driver using its name. " alt="" coords="51,198,224,239"/>
+</map>

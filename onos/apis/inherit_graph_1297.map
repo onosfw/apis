@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceorg_1_1onosproject_1_1store_1_1cluster_1_1messaging_1_1MessagingService.html" title="Interface for low level messaging primitives. " alt="" coords="5,38,264,79"/>
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1netty_1_1NettyMessaging.html" title="Implementation of MessagingService based on Netty framework. " alt="" coords="313,15,519,41"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1nio_1_1service_1_1IOLoopMessaging.html" title="MessagingService implementation based on IOLoop. " alt="" coords="322,67,510,109"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1cluster_1_1messaging_1_1impl_1_1NettyMessagingManager.html" title="Netty based MessagingService. " alt="" coords="569,5,855,46"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1cluster_1_1messaging_1_1impl_1_1IOLoopMessagingManager.html" title="IOLoop based MessagingService. " alt="" coords="569,70,855,111"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1Serializer.html" title="Interface for serialization of store artifacts. " alt="" coords="5,103,200,145"/>
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1InternalDeviceEventSerializer.html" title="Kryo Serializer for InternalDeviceEvent. " alt="" coords="255,5,473,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1InternalDeviceOfflineEventSerializer.html" title="Kryo Serializer for InternalDeviceOfflineEvent. " alt="" coords="248,70,480,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1InternalPortEventSerializer.html" title="Kryo Serializer for InternalPortEvent. " alt="" coords="255,135,473,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1InternalPortStatusEventSerializer.html" title="Kryo Serializer for InternalPortStatusEvent. " alt="" coords="255,201,473,242"/>
+</map>

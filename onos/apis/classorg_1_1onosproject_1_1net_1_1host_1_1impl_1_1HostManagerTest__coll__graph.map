@@ -1,0 +1,8 @@
+<map id="org.onosproject.net.host.impl.HostManagerTest" name="org.onosproject.net.host.impl.HostManagerTest">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1AbstractProvider.html" title="Base provider implementation. " alt="" coords="285,5,472,46"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="11,46,197,87"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1host_1_1HostProvider.html" title="Provider of information about hosts and their location on the network. " alt="" coords="295,70,462,111"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1host_1_1HostListener.html" title="Entity capable of receiving end&#45;station host related events. " alt="" coords="295,135,462,177"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1net_1_1host_1_1HostProviderRegistry.html" title="Abstraction of a host provider registry. " alt="" coords="630,270,797,311"/>
+<area shape="rect" id="node12" href="$interfaceorg_1_1onosproject_1_1net_1_1host_1_1HostProviderService.html" title="Means of conveying host information to the core. " alt="" coords="630,346,797,387"/>
+</map>

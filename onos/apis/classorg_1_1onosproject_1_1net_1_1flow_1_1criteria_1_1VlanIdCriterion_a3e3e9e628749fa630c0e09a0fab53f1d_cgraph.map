@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.criteria.VlanIdCriterion.toString" name="org.onosproject.net.flow.criteria.VlanIdCriterion.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1VlanIdCriterion.html#ae9411977b96cd2e6fd62a025649b765c" title="Returns the type of criterion. " alt="" coords="261,5,469,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1VlanIdCriterion.html#a8204ce6b3f096449e79dc21e841ea56d" title="Gets the VLAN ID to match. " alt="" coords="261,70,469,111"/>
+</map>

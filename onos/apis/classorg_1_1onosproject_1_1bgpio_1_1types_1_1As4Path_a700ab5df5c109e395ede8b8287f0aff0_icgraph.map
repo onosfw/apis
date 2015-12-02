@@ -1,0 +1,4 @@
+<map id="org.onosproject.bgpio.types.As4Path.As4Path" name="org.onosproject.bgpio.types.As4Path.As4Path">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1As4Path.html#ae37f9ed1a12948a5c6b16703d26c2e3f" title="org.onosproject.bgpio.types.\lAs4Path.equals" alt="" coords="240,5,427,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1As4Path.html#a1ec1e1581fa39e7dfca0f3165f8354c1" title="Reads from the channel buffer and parses As4Path. " alt="" coords="240,70,427,111"/>
+</map>

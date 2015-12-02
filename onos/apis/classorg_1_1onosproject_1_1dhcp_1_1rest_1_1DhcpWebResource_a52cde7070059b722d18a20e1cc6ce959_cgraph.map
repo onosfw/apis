@@ -1,0 +1,5 @@
+<map id="org.onosproject.dhcp.rest.DhcpWebResource.getConfigs" name="org.onosproject.dhcp.rest.DhcpWebResource.getConfigs">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1dhcp_1_1DhcpService.html#a55a75d90d5b82607e8e227a2768087e0" title="Returns the default lease time granted by the DHCP Server. " alt="" coords="256,5,435,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1dhcp_1_1DhcpService.html#a9c747724717296ea58984b66d393c9b7" title="Returns the default rebinding time granted by the DHCP Server. " alt="" coords="256,70,435,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1dhcp_1_1DhcpService.html#a975ed53be14b6ad9185604b9e94c7ebc" title="Returns the default renewal time granted by the DHCP Server. " alt="" coords="256,135,435,177"/>
+</map>

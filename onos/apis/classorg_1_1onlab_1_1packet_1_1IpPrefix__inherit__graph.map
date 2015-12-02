@@ -1,0 +1,4 @@
+<map id="org.onlab.packet.IpPrefix" name="org.onlab.packet.IpPrefix">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1Ip4Prefix.html" title="The class representing an IPv4 network address. " alt="" coords="5,80,179,107"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1Ip6Prefix.html" title="The class representing an IPv6 network address. " alt="" coords="203,80,377,107"/>
+</map>

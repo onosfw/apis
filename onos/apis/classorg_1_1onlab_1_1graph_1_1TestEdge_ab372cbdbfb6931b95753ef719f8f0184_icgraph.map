@@ -1,0 +1,6 @@
+<map id="org.onlab.graph.TestEdge.weight" name="org.onlab.graph.TestEdge.weight">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1graph_1_1TestEdge.html#a8b40e990d8d633b8afadd8897149560d" title="org.onlab.graph.TestEdge.hashCode" alt="" coords="267,5,501,32"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1graph_1_1TestEdge.html#a2f5fd88db4db3c7379b0d4e60ee15cc0" title="Creates a new edge between the specified source and destination vertexes. " alt="" coords="297,57,471,98"/>
+<area shape="rect" id="node5" href="$classorg_1_1onlab_1_1graph_1_1TestEdge.html#ab2c60453ab984ed0dbaabca241650e7a" title="org.onlab.graph.TestEdge.to\lString" alt="" coords="291,122,477,163"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1graph_1_1TestEdge.html#a9c60df2dd1cd5addeffc281a65bfbe91" title="org.onlab.graph.TestEdge.equals" alt="" coords="549,64,763,91"/>
+</map>

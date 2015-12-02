@@ -1,0 +1,8 @@
+<map id="org.onosproject.net.meter.Meter.id" name="org.onosproject.net.meter.Meter.id">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1incubator_1_1store_1_1meter_1_1impl_1_1DistributedMeterStore.html#ab8fddda3143d73f38d9710a7f147245c" title="Deletes a meter from the store. " alt="" coords="230,5,501,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1incubator_1_1store_1_1meter_1_1impl_1_1DistributedMeterStore.html#a98a849e974ab164a0767354874c7458a" title="Delete this meter immediately. " alt="" coords="230,70,501,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1incubator_1_1store_1_1meter_1_1impl_1_1DistributedMeterStore.html#ab6369f54e60fec341fb8de2de53978cb" title="Adds a meter to the store. " alt="" coords="230,135,501,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1meter_1_1impl_1_1MeterManagerTest.html#a7de08a6ca15368d71e62ca23ed153c93" title="org.onosproject.incubator.net.meter.impl.\lMeterManagerTest.testRemove" alt="" coords="236,201,495,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1incubator_1_1store_1_1meter_1_1impl_1_1DistributedMeterStore.html#ace372ac49690c2cc01927ba5878da2bf" title="Updates a meter whose meter id is the same as the passed meter. " alt="" coords="230,266,501,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1incubator_1_1store_1_1meter_1_1impl_1_1DistributedMeterStore.html#aaa324b5434dd9944b81bf012a3f33085" title="Updates a given meter&#39;s state with the provided state. " alt="" coords="230,331,501,373"/>
+</map>

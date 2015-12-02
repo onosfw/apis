@@ -1,0 +1,5 @@
+<map id="org.onosproject.rest.ApplicationsResourceTest.setUpMocks" name="org.onosproject.rest.ApplicationsResourceTest.setUpMocks">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1app_1_1ApplicationService.html#a7a55c5cb6f38ff3faa6586c49895ef94" title="Returns the application with the supplied application identifier. " alt="" coords="267,5,471,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1app_1_1ApplicationService.html#a9e8e2d40ae45504177309abb58c2650d" title="Returns the registered id of the application with the given name. " alt="" coords="267,70,471,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1app_1_1ApplicationService.html#ad999c6fc38951ae1cb13410de6faa8d5" title="Return the application state. " alt="" coords="267,135,471,177"/>
+</map>

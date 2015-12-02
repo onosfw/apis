@@ -1,0 +1,49 @@
+<map id="org.onosproject.codec.CodecContext" name="org.onosproject.codec.CodecContext">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cli_1_1AbstractShellCommand.html" title="Base abstraction of Karaf shell commands. " alt="" coords="251,1315,432,1357"/>
+<area shape="rect" id="node46" href="$classorg_1_1onosproject_1_1codec_1_1impl_1_1MockCodecContext.html" title="Mock codec context for use in codec unit tests. " alt="" coords="250,1381,433,1422"/>
+<area shape="rect" id="node48" href="$classorg_1_1onosproject_1_1rest_1_1AbstractWebResource.html" title="Abstract REST resource. " alt="" coords="246,1511,437,1553"/>
+<area shape="rect" id="node49" href="$classorg_1_1onosproject_1_1vtnweb_1_1web_1_1SfcCodecContext.html" title="Mock codec context for use in codec unit tests. " alt="" coords="247,1577,436,1618"/>
+<area shape="rect" id="node3" href="$classAppCommand.html" title="Sample Apache Karaf CLI command. " alt="" coords="553,5,658,32"/>
+<area shape="rect" id="node4" href="$classit_1_1pkg_1_1AppCommand.html" title="Sample Apache Karaf CLI command. " alt="" coords="535,56,676,83"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1cli_1_1app_1_1ApplicationCommand.html" title="Manages application inventory. " alt="" coords="527,107,684,149"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1cli_1_1app_1_1ApplicationIdListCommand.html" title="Lists application ID information. " alt="" coords="516,173,695,214"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1cli_1_1app_1_1ApplicationsListCommand.html" title="Lists application information. " alt="" coords="518,238,693,279"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1cli_1_1BalanceMastersCommand.html" title="Forces device mastership rebalancing. " alt="" coords="516,303,695,345"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1cli_1_1cfg_1_1ComponentConfigCommand.html" title="Manages component configuration. " alt="" coords="512,369,699,410"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1cli_1_1cfg_1_1NetworkConfigCommand.html" title="Manages network configuration. " alt="" coords="521,434,690,475"/>
+<area shape="rect" id="node11" href="$classorg_1_1onosproject_1_1cli_1_1cfg_1_1NetworkConfigRegistryCommand.html" title="Displays network configuration registry contents. " alt="" coords="496,499,715,541"/>
+<area shape="rect" id="node12" href="$classorg_1_1onosproject_1_1cli_1_1MastersListCommand.html" title="Lists device mastership information. " alt="" coords="516,565,695,606"/>
+<area shape="rect" id="node13" href="$classorg_1_1onosproject_1_1cli_1_1MetricsListCommand.html" title="Prints metrics in the system. " alt="" coords="518,630,693,671"/>
+<area shape="rect" id="node14" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1AddMeter.html" title="Add a meter. " alt="" coords="528,695,683,737"/>
+<area shape="rect" id="node15" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1AddTestFlowsCommand.html" title="Installs bulk flows. " alt="" coords="522,761,689,802"/>
+<area shape="rect" id="node16" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1AnnotateDeviceCommand.html" title="Annotates network device model. " alt="" coords="518,826,693,867"/>
+<area shape="rect" id="node17" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1ConnectivityIntentCommand.html" title="Base class for command line operations for connectivity based intents. " alt="" coords="511,891,699,933"/>
+<area shape="rect" id="node18" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1CountersListCommand.html" title="Command to list the various counters in the system. " alt="" coords="527,957,683,998"/>
+<area shape="rect" id="node19" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1DeviceControllersCommand.html" title="Sets role of the controller node for the given infrastructure device. " alt="" coords="512,1022,699,1063"/>
+<area shape="rect" id="node20" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1DeviceRemoveCommand.html" title="Removes an infrastructure device. " alt="" coords="519,1087,691,1129"/>
+<area shape="rect" id="node21" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1DeviceRoleCommand.html" title="Sets role of the controller node for the given infrastructure device. " alt="" coords="528,1153,683,1194"/>
+<area shape="rect" id="node22" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1DeviceSetControllersCommand.html" title="Sets role of the controller node for the given infrastructure device. " alt="" coords="502,1218,709,1259"/>
+<area shape="rect" id="node23" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1DevicesListCommand.html" title="Lists all infrastructure devices. " alt="" coords="528,1283,683,1325"/>
+<area shape="rect" id="node24" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1DriversListCommand.html" title="Lists device drivers. " alt="" coords="528,1349,683,1390"/>
+<area shape="rect" id="node25" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1EdgePortsListCommand.html" title="Lists all edge ports. " alt="" coords="523,1414,687,1455"/>
+<area shape="rect" id="node26" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1FlowObjectiveCompositionCommand.html" title="Manages FlowObjectiveComposition policy. " alt="" coords="486,1479,725,1521"/>
+<area shape="rect" id="node27" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1FlowsListCommand.html" title="Lists all currently&#45;known flows. " alt="" coords="528,1545,683,1586"/>
+<area shape="rect" id="node28" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1GetFlowStatistics.html" title="Fetches flow statistics with a flow type and instruction type. " alt="" coords="528,1610,683,1651"/>
+<area shape="rect" id="node29" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1GetStatistics.html" title="Fetches statistics. " alt="" coords="528,1675,683,1717"/>
+<area shape="rect" id="node30" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1GlobalLabelApplyCommand.html" title="org.onosproject.cli.net.\lGlobalLabelApplyCommand" alt="" coords="514,1741,697,1782"/>
+<area shape="rect" id="node31" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1GlobalLabelCommand.html" title="org.onosproject.cli.net.\lGlobalLabelCommand" alt="" coords="528,1806,683,1847"/>
+<area shape="rect" id="node32" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1GlobalLabelPoolCreateCommand.html" title="create label resource pool by specific device id. " alt="" coords="498,1871,713,1913"/>
+<area shape="rect" id="node33" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1GlobalLabelPoolDestoryCommand.html" title="org.onosproject.cli.net.\lGlobalLabelPoolDestoryCommand" alt="" coords="494,1937,717,1978"/>
+<area shape="rect" id="node34" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1GlobalLabelReleaseCommand.html" title="org.onosproject.cli.net.\lGlobalLabelReleaseCommand" alt="" coords="506,2002,705,2043"/>
+<area shape="rect" id="node35" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1GroupsListCommand.html" title="Lists all groups in the system. " alt="" coords="528,2067,683,2109"/>
+<area shape="rect" id="node36" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1HostRemoveCommand.html" title="Removes an end&#45;station host. " alt="" coords="526,2133,685,2174"/>
+<area shape="rect" id="node37" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1HostsListCommand.html" title="Lists all currently&#45;known hosts. " alt="" coords="528,2198,683,2239"/>
+<area shape="rect" id="node38" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1IntentCycleCommand.html" title="Installs point&#45;to&#45;point connectivity intents. " alt="" coords="528,2263,683,2305"/>
+<area shape="rect" id="node39" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1IntentPurgeCommand.html" title="Purges all WITHDRAWN intents. " alt="" coords="528,2329,683,2370"/>
+<area shape="rect" id="node40" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1IntentPushTestCommand.html" title="Installs bulk point&#45;to&#45;point connectivity intents between given ingress/egress devices. " alt="" coords="520,2394,691,2435"/>
+<area shape="rect" id="node41" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1IntentRemoveCommand.html" title="Removes an intent. " alt="" coords="523,2459,687,2501"/>
+<area shape="rect" id="node42" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1IntentsListCommand.html" title="Lists the inventory of intents and their states. " alt="" coords="528,2525,683,2566"/>
+<area shape="rect" id="node43" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1InterfaceAddCommand.html" title="Adds a new interface configuration. " alt="" coords="527,2590,683,2631"/>
+<area shape="rect" id="node44" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1InterfaceRemoveCommand.html" title="Removes an interface configuration. " alt="" coords="514,2655,697,2697"/>
+<area shape="rect" id="node45" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1InterfacesListCommand.html" title="Lists all configured interfaces. " alt="" coords="525,2721,686,2762"/>
+</map>

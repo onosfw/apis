@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.resource.impl.LinkResourceManager.requestResources" name="org.onosproject.net.resource.impl.LinkResourceManager.requestResources">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1LinkResourceRequest.html#a0e74b4065adb5366ecaf2c9719a9b2f4" title="Returns the set of target links. " alt="" coords="335,5,550,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1MplsLabelResourceRequest.html#a2c7a7f1ec65a805ccf7076377c5167ac" title="Returns the MPLS label this request expects. " alt="" coords="318,70,567,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1LinkResourceRequest.html#aa8eabae00267da85d4a09783872838a7" title="Returns the set of resource requests. " alt="" coords="335,135,550,177"/>
+</map>

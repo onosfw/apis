@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.consistent.impl.DatabasePartitioner" name="org.onosproject.store.consistent.impl.DatabasePartitioner">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1SimpleKeyHashPartitioner.html" title="A simple Partitioner for mapping keys to database partitions. " alt="" coords="472,5,712,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1SimpleTableHashPartitioner.html" title="A simple Partitioner that uses the map name hash to pick a partition. " alt="" coords="472,70,712,111"/>
+</map>

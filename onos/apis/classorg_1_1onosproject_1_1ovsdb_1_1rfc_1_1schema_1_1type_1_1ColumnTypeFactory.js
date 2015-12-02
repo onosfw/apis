@@ -1,0 +1,4 @@
+var classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1type_1_1ColumnTypeFactory =
+[
+    [ "Type", "enumorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1type_1_1ColumnTypeFactory_1_1Type.html", "enumorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1type_1_1ColumnTypeFactory_1_1Type" ]
+];

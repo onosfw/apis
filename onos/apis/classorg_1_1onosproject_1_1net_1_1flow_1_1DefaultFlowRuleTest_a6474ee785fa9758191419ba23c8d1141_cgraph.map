@@ -1,0 +1,8 @@
+<map id="org.onosproject.net.flow.DefaultFlowRuleTest.testCreationWithFlowId" name="org.onosproject.net.flow.DefaultFlowRuleTest.testCreationWithFlowId">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRule.html#a699157e2381e7455fa7463c513a83683" title="Returns the identity of the device where this rule applies. " alt="" coords="275,5,440,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRule.html#a985acb7a9cd38accdf3f185015f56068" title="Returns whether the flow is permanent i.e. " alt="" coords="275,70,440,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRule.html#a4f0ab1f9f8fdf014e72428d5b47fbab8" title="Returns the flow rule priority given in natural order; higher numbers mean higher priorities..." alt="" coords="275,135,440,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRule.html#a3b17ef174daf0f55c342e34f9e810365" title="Returns the traffic selector that identifies what traffic this rule should apply to. " alt="" coords="275,201,440,242"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRule.html#a84a428aece5ed7f2e407fcc1ec890e79" title="Returns the timeout for this flow requested by an application. " alt="" coords="275,266,440,307"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRule.html#a3532d0be025446d99fdffb630ee9417b" title="Returns the traffic treatment that applies to selected traffic. " alt="" coords="275,331,440,373"/>
+</map>

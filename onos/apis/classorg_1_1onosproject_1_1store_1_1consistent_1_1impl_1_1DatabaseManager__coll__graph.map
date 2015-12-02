@@ -1,0 +1,12 @@
+<map id="org.onosproject.store.consistent.impl.DatabaseManager" name="org.onosproject.store.consistent.impl.DatabaseManager">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="539,5,733,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageAdminService.html" title="Service for administering storage instances. " alt="" coords="539,70,733,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1app_1_1ApplicationService.html" title="Service for inspecting inventory of network control applications. " alt="" coords="534,135,738,177"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1cluster_1_1NodeId.html" title="Controller cluster identity. " alt="" coords="557,201,715,242"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1persistence_1_1PersistenceService.html" title="Service that allows for the creation of local disk backed map for instance specific values that persi..." alt="" coords="543,266,729,307"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1PartitionedDatabase.html" title="A database that partitions the keys across one or more database partitions. " alt="" coords="516,331,756,373"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1Database.html" title="Database. " alt="" coords="216,366,456,407"/>
+<area shape="rect" id="node13" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="557,461,715,502"/>
+<area shape="rect" id="node15" href="$interfaceorg_1_1onosproject_1_1store_1_1cluster_1_1messaging_1_1ClusterCommunicationService.html" title="Service for assisting communications between controller cluster nodes. " alt="" coords="507,526,765,567"/>
+<area shape="rect" id="node16" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterMetadataService.html" title="Service for obtaining metadata information about the cluster. " alt="" coords="555,591,717,633"/>
+</map>

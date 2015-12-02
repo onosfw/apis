@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.group.GroupStore" name="org.onosproject.net.group.GroupStore">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1group_1_1impl_1_1DistributedGroupStore.html" title="Manages inventory of group entries using trivial in&#45;memory implementation. " alt="" coords="491,5,703,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleGroupStore.html" title="Manages inventory of group entries using trivial in&#45;memory implementation. " alt="" coords="506,70,689,111"/>
+</map>

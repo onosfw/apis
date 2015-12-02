@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.flow.DefaultFlowRule.equals" name="org.onosproject.net.flow.DefaultFlowRule.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowRule.html#a8507720e8d8e25a10557b71681ede358" title="org.onosproject.net.flow.\lDefaultFlowRule.DefaultFlowRule" alt="" coords="219,5,439,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowRule.html#a568cfa61fd2cf01f69eee181e5ff076a" title="Returns the identity of the device where this rule applies. " alt="" coords="243,70,415,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowRule.html#a85688e4b85dd96ba67e723653af3431b" title="Returns the third party original flow rule. " alt="" coords="243,135,415,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultFlowRule.html#abf447db1d96bc58193673281d5dd1394" title="Returns the traffic selector that identifies what traffic this rule should apply to. " alt="" coords="245,201,414,242"/>
+</map>

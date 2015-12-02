@@ -1,0 +1,7 @@
+<map id="org.onosproject.ovsdb.rfc.schema.type.KeyValuedColumnType.equals" name="org.onosproject.ovsdb.rfc.schema.type.KeyValuedColumnType.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1type_1_1KeyValuedColumnType.html#ae115e6b720305c84280f645821af30f8" title="Constructs a KeyValuedColumnType object. " alt="" coords="307,103,607,145"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1type_1_1KeyValuedColumnType.html#a59485324dbbfd1dec1099d99d816d21f" title="Get keyType. " alt="" coords="657,5,909,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1type_1_1KeyValuedColumnType.html#afc588014db8c38393d3d4d7cc74c6cca" title="Get max. " alt="" coords="657,70,909,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1type_1_1KeyValuedColumnType.html#a7fc9559b2f6722bb6d916d453117d4f6" title="Get min. " alt="" coords="657,135,909,177"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1type_1_1KeyValuedColumnType.html#ad14d1dd9f7571a8defa4e23ac75f7c3c" title="Get valueType. " alt="" coords="657,201,909,242"/>
+</map>

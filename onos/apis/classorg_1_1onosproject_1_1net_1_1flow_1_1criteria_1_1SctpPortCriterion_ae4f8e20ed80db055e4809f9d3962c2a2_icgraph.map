@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.criteria.SctpPortCriterion.sctpPort" name="org.onosproject.net.flow.criteria.SctpPortCriterion.sctpPort">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1SctpPortCriterion.html#aa4ce8bc6d3996d011be971c3c3f4ade5" title="org.onosproject.net.flow.criteria.\lSctpPortCriterion.equals" alt="" coords="261,5,469,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1SctpPortCriterion.html#a11fde1e2b27dda225e0f58f3d459e3de" title="org.onosproject.net.flow.criteria.\lSctpPortCriterion.toString" alt="" coords="261,70,469,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.bgpio.protocol.linkstate.BgpPrefixLSIdentifier.parsePrefixIdendifier" name="org.onosproject.bgpio.protocol.linkstate.BgpPrefixLSIdentifier.parsePrefixIdendifier">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1BgpPrefixLSIdentifier.html#aea29614797ab96563ec5415d32ddb3e0" title="Resets parameters. " alt="" coords="343,5,615,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1BgpPrefixLSIdentifier.html#a7e445a7c6e5353812005f5a0b89d224f" title="Parse local node descriptors. " alt="" coords="323,70,634,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1BgpPrefixLSIdentifier.html#ab5ca4a7b8cfe444a3cd10fa425fa7abe" title="Parse list of prefix descriptors. " alt="" coords="337,135,620,177"/>
+</map>

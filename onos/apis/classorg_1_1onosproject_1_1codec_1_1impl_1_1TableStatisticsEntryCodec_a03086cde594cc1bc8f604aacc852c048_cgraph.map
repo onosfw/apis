@@ -1,0 +1,5 @@
+<map id="org.onosproject.codec.impl.TableStatisticsEntryCodec.encode" name="org.onosproject.codec.impl.TableStatisticsEntryCodec.encode">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1TableStatisticsEntry.html#ac5949aed005058841bee30f66a5208c2" title="Returns the number of active flow entries in this table. " alt="" coords="298,5,505,61"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1TableStatisticsEntry.html#a2d54b226678dcacc2900608c4603b00f" title="Returns the number of packets looked up in the table. " alt="" coords="278,86,525,127"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1TableStatisticsEntry.html#ad37b192e22ad8f71c2a902b12264a2b1" title="Returns the number of packets that successfully matched in the table. " alt="" coords="281,151,521,193"/>
+</map>

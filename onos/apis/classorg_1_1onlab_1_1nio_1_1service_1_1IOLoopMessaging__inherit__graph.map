@@ -1,0 +1,4 @@
+<map id="org.onlab.nio.service.IOLoopMessaging" name="org.onlab.nio.service.IOLoopMessaging">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1cluster_1_1messaging_1_1impl_1_1IOLoopMessagingManager.html" title="IOLoop based MessagingService. " alt="" coords="5,187,291,229"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1store_1_1cluster_1_1messaging_1_1MessagingService.html" title="Interface for low level messaging primitives. " alt="" coords="19,6,277,47"/>
+</map>

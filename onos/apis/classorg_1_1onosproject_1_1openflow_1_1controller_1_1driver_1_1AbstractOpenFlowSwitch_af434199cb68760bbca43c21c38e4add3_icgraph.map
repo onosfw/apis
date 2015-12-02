@@ -1,0 +1,6 @@
+<map id="org.onosproject.openflow.controller.driver.AbstractOpenFlowSwitch.factory" name="org.onosproject.openflow.controller.driver.AbstractOpenFlowSwitch.factory">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1driver_1_1handshaker_1_1DefaultSwitchHandshaker.html#a46b9c2b9649b39c548fc9f266374efd8" title="Fetches the ports of this switch. " alt="" coords="353,5,580,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1driver_1_1handshaker_1_1DefaultSwitchHandshaker.html#a1156c52d7b5f12295172947f713a59b7" title="Starts the driver specific handshake process. " alt="" coords="347,71,586,127"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1driver_1_1handshaker_1_1CorsaSwitchHandshaker.html#a7ce5a49e18826991b9d0e637af4d7320" title="Starts the driver specific handshake process. " alt="" coords="317,151,616,193"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1driver_1_1handshaker_1_1NiciraSwitchHandshaker.html#a3185f80ecd4bbdf94e9bf5322682d335" title="Does this switch support Nicira Role messages. " alt="" coords="338,217,595,258"/>
+</map>

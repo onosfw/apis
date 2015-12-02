@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.DefaultPort.DefaultPort" name="org.onosproject.net.DefaultPort.DefaultPort">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1AbstractAnnotated.html#a2858b84119b1f766fd6222e79efa1b93" title="Returns the key/value annotations. " alt="" coords="232,5,419,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1DefaultPort.html#a69c58b97d73524e1a036726ae85f203b" title="Returns the parent network element to which this port belongs. " alt="" coords="236,70,415,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1DefaultPort.html#ab5c1473ee5c0ddced5a8f2a51799d2a9" title="Indicates whether or not the port is currently up and active. " alt="" coords="236,135,415,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1DefaultPort.html#acbc4bf6758e18a65aab5b0c2e71e7453" title="Returns the port number. " alt="" coords="236,201,415,242"/>
+</map>

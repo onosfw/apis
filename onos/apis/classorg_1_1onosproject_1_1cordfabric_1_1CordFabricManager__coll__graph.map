@@ -1,0 +1,7 @@
+<map id="org.onosproject.cordfabric.CordFabricManager" name="org.onosproject.cordfabric.CordFabricManager">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1cordfabric_1_1FabricService.html" title="Service used to interact with fabric. " alt="" coords="429,5,605,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="428,70,607,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1flowobjective_1_1FlowObjectiveService.html" title="Service for programming data plane flow rules in manner independent of specific device table pipeline..." alt="" coords="409,135,626,177"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="431,201,603,242"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="17,201,204,242"/>
+</map>

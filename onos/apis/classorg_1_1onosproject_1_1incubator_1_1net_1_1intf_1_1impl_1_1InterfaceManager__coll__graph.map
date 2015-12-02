@@ -1,0 +1,5 @@
+<map id="org.onosproject.incubator.net.intf.impl.InterfaceManager" name="org.onosproject.incubator.net.intf.impl.InterfaceManager">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1intf_1_1InterfaceService.html" title="Service for interacting with interfaces. " alt="" coords="275,5,491,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1intf_1_1InterfaceAdminService.html" title="Provides a means to modify the interfaces configuration. " alt="" coords="275,70,491,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigService.html" title="Service for tracking network configurations which specify how the discovered network information shou..." alt="" coords="295,135,471,177"/>
+</map>

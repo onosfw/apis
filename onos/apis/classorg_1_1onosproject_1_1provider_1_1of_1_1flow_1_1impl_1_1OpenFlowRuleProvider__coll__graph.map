@@ -1,0 +1,10 @@
+<map id="org.onosproject.provider.of.flow.impl.OpenFlowRuleProvider" name="org.onosproject.provider.of.flow.impl.OpenFlowRuleProvider">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1AbstractProvider.html" title="Base provider implementation. " alt="" coords="325,5,512,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="36,37,223,78"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleProvider.html" title="Abstraction of a flow rule provider. " alt="" coords="336,70,501,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1cfg_1_1ComponentConfigService.html" title="Service for tracking system&#45;wide configurations for various software components. " alt="" coords="317,135,521,177"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1openflow_1_1controller_1_1OpenFlowController.html" title="Abstraction of an OpenFlow controller. " alt="" coords="305,201,533,242"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleProviderRegistry.html" title="Abstraction for a flow rule provider registry. " alt="" coords="331,266,506,307"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1DriverService.html" title="Service for obtaining drivers and driver behaviour implementations. " alt="" coords="332,335,505,377"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1DriverResolver.html" title="Entity capable of resolving a driver using its name. " alt="" coords="43,342,216,383"/>
+</map>

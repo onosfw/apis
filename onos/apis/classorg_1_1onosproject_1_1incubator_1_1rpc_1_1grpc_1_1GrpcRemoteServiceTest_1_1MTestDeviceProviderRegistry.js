@@ -1,0 +1,4 @@
+var classorg_1_1onosproject_1_1incubator_1_1rpc_1_1grpc_1_1GrpcRemoteServiceTest_1_1MTestDeviceProviderRegistry =
+[
+    [ "createProviderService", "classorg_1_1onosproject_1_1incubator_1_1rpc_1_1grpc_1_1GrpcRemoteServiceTest_1_1MTestDeviceProviderRegistry.html#a5c0560cb05c99a5a6ba0f8f84ad3687b", null ]
+];

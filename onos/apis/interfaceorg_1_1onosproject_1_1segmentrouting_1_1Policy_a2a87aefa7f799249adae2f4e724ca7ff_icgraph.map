@@ -1,0 +1,6 @@
+<map id="org.onosproject.segmentrouting.Policy.type" name="org.onosproject.segmentrouting.Policy.type">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1segmentrouting_1_1web_1_1PolicyWebResource.html#af6a9ea8ec3aa32ffa404bfd9afaaba57" title="Create a new segment routing policy. " alt="" coords="262,5,498,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1segmentrouting_1_1PolicyHandler.html#ac543bd2a141b7ced957628267d3f8a73" title="Creates a policy using the policy information given. " alt="" coords="276,70,484,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1segmentrouting_1_1web_1_1PolicyCodec.html#adf0a1344fb91fac1259cdc4125ac5cf5" title="org.onosproject.segmentrouting.web.\lPolicyCodec.encode" alt="" coords="262,135,498,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1segmentrouting_1_1PolicyHandler.html#a8c977c3ba28eec1c3e7da8b00ff9ee11" title="Removes the policy given. " alt="" coords="276,201,484,242"/>
+</map>

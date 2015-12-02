@@ -1,0 +1,4 @@
+<map id="org.onosproject.incubator.net.tunnel.TunnelProviderRegistry" name="org.onosproject.incubator.net.tunnel.TunnelProviderRegistry">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1impl_1_1TunnelManager.html" title="Provides implementation of the tunnel NB/SB APIs. " alt="" coords="623,5,884,46"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1provider_1_1pcep_1_1tunnel_1_1impl_1_1TunnelProviderRegistryAdapter.html" title="org.onosproject.provider.pcep.tunnel.impl.\lTunnelProviderRegistryAdapter" alt="" coords="621,135,885,177"/>
+</map>

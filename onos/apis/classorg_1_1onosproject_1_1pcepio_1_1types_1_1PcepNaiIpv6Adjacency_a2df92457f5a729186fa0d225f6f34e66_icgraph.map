@@ -1,0 +1,5 @@
+<map id="org.onosproject.pcepio.types.PcepNaiIpv6Adjacency.PcepNaiIpv6Adjacency" name="org.onosproject.pcepio.types.PcepNaiIpv6Adjacency.PcepNaiIpv6Adjacency">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1pcepio_1_1types_1_1PcepNaiIpv6Adjacency.html#a3866723e86b50ce1c76821ba6b7040a0" title="org.onosproject.pcepio.types.\lPcepNaiIpv6Adjacency.equals" alt="" coords="291,5,491,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1pcepio_1_1types_1_1PcepNaiIpv6Adjacency.html#af61776820c7c9065b4169e6daff628c3" title="Creates object of PcepNaiIpv6Adjacency with local ipv6 address and remote ipv6 address. " alt="" coords="294,70,487,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1pcepio_1_1types_1_1PcepNaiIpv6Adjacency.html#a79c432ea5cd218eddf81da06c5c967d4" title="Reads from channel buffer and returns object of PcepNAIIpv6AdjacencyVer1. " alt="" coords="294,135,487,177"/>
+</map>

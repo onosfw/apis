@@ -1,0 +1,4 @@
+<map id="org.onosproject.vtnrsc.service.impl.VtnRscManager.getSFToSFFMaping" name="org.onosproject.vtnrsc.service.impl.VtnRscManager.getSFToSFFMaping">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotated.html#a534add2e69d3fb4981cd63ad5f9cbf50" title="Returns the key/value annotations. " alt="" coords="291,5,557,32"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1VirtualPort.html#a9d9e6b484b0c630223e4d2d506d1510f" title="Returns the virtualPort identifier. " alt="" coords="328,57,520,98"/>
+</map>

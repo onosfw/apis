@@ -1,0 +1,7 @@
+<map id="org.onosproject.ui.impl.topo.IntentSelection.IntentSelection" name="org.onosproject.ui.impl.topo.IntentSelection.IntentSelection">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1NodeSelection.html#afeee15b0f26f1fe136bf0a3b288b5b7c" title="Returns a view of the selected devices, including the hovered device if there was one..." alt="" coords="253,37,472,78"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1topo_1_1IntentSelection.html#a644fbe487607ec18b24d2dcf98ff32e4" title="Returns the index of the currently selected intent. " alt="" coords="269,102,456,143"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1topo_1_1IntentSelection.html#a5a4ca69614f2e52d15b0806c910eee83" title="The list of intents in this selection group. " alt="" coords="269,167,456,209"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1NodeSelection.html#ac2656423ae7309f2980e553562b0661e" title="Returns the element (host or device) over which the mouse was hovering, or null. " alt="" coords="521,5,679,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1NodeSelection.html#aebbbbb53bf5fe4f385e60cb172f33f00" title="Returns a view of the selected devices (hover not included). " alt="" coords="521,70,679,111"/>
+</map>

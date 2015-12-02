@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.behaviour.TunnelDescription" name="org.onosproject.net.behaviour.TunnelDescription">
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1behaviour_1_1DefaultTunnelDescription.html" title="Default implementation of immutable tunnel description entity. " alt="" coords="77,246,275,287"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1Description.html" title="Base abstraction of a piece of information about network elements. " alt="" coords="5,80,208,107"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotated.html" title="Represents an entity that carries arbitrary annotations. " alt="" coords="78,5,273,32"/>
+</map>

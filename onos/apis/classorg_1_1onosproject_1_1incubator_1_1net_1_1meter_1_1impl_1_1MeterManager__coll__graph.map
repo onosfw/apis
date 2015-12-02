@@ -1,0 +1,6 @@
+<map id="org.onosproject.incubator.net.meter.impl.MeterManager" name="org.onosproject.incubator.net.meter.impl.MeterManager">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1meter_1_1MeterService.html" title="Service for add/updating and removing meters. " alt="" coords="331,115,506,157"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1meter_1_1MeterProviderRegistry.html" title="Abstraction for a meter provider registry. " alt="" coords="331,181,506,222"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="321,246,516,287"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1net_1_1meter_1_1MeterStore.html" title="Entity that stores and distributed meter objects. " alt="" coords="331,311,506,353"/>
+</map>

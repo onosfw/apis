@@ -1,0 +1,13 @@
+<map id="org.onosproject.store.device.impl.GossipDeviceStore.calcDeltaStats" name="org.onosproject.store.device.impl.GossipDeviceStore.calcDeltaStats">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1PortStatistics.html#a3caebd3cca62c1f5e3dbb83a73e28bc2" title="Returns the bytes received. " alt="" coords="293,5,485,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1PortStatistics.html#a1ade39bad464d9934d091d3631ef0422" title="Returns the bytes sent. " alt="" coords="300,70,479,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1PortStatistics.html#a29aad4fbc071804ff031034251262d14" title="Returns the time port has been alive in nano seconds. " alt="" coords="298,135,481,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1PortStatistics.html#afe04a092c0630b728f1dc667779f3b61" title="Returns the time port has been alive in seconds. " alt="" coords="300,201,479,242"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1PortStatistics.html#a4f147ac39c4fb6d9a3a1518d2bb56597" title="Returns the number of packets received. " alt="" coords="286,266,493,307"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1PortStatistics.html#a1ff4978d490130645fa2061243dbb33e" title="Returns the number of packets dropped by RX. " alt="" coords="281,331,498,373"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1PortStatistics.html#a5497ee47ffe4f561a699756e7136ebdb" title="Returns the number of transmit errors. " alt="" coords="288,397,491,438"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1PortStatistics.html#a799aefdf652fbb0cb7a5c40c91808679" title="Returns the number of packets sent. " alt="" coords="300,462,479,503"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1PortStatistics.html#a58fb5015700b1b40be2fadc5d87e4331" title="Returns the number of packets dropped by TX. " alt="" coords="282,527,497,569"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1PortStatistics.html#a5e0a85f30a181d7861029bc9021ed619" title="Returns the number of receive errors. " alt="" coords="289,593,490,634"/>
+<area shape="rect" id="node12" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1PortStatistics.html#a57ebed488e9c1ad3316f88717f2ac594" title="Returns the port number. " alt="" coords="300,658,479,699"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.cluster.messaging.impl.ClusterCommunicationManager" name="org.onosproject.store.cluster.messaging.impl.ClusterCommunicationManager">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1store_1_1cluster_1_1messaging_1_1ClusterCommunicationService.html" title="Service for assisting communications between controller cluster nodes. " alt="" coords="5,5,264,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1store_1_1cluster_1_1messaging_1_1MessagingService.html" title="Interface for low level messaging primitives. " alt="" coords="5,70,264,111"/>
+</map>

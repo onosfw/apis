@@ -1,0 +1,9 @@
+<map id="org.onlab.packet.IPv6Test.testDeserialize" name="org.onlab.packet.IPv6Test.testDeserialize">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1IPv6.html#a2458fe052f2057a8c676280bd9d90d5f" title="Gets destination address. " alt="" coords="256,5,427,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1IPv6.html#a1c725280b834c28e85df1f3f4300ed20" title="Gets flow label. " alt="" coords="256,70,427,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1packet_1_1IPv6.html#abcf487590bfe2fd6895fe1b2c146d743" title="Gets hop limit. " alt="" coords="256,135,427,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onlab_1_1packet_1_1IPv6.html#a762e89bb44357ed87075d173f4fcfc9a" title="Gets the type of next header. " alt="" coords="256,201,427,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onlab_1_1packet_1_1IPv6.html#a37fadf4b36dffd2131da1f02291d4a4f" title="Gets source address. " alt="" coords="256,266,427,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onlab_1_1packet_1_1IPv6.html#af66fccf8a725105bc0578e75e8ec8708" title="Gets traffic class. " alt="" coords="256,331,427,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1onlab_1_1packet_1_1IPv6.html#abee7c850f716b940ac74cd70d23559a8" title="Gets IP version. " alt="" coords="256,397,427,438"/>
+</map>

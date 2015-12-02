@@ -1,0 +1,4 @@
+<map id="org.onosproject.ovsdb.rfc.schema.ColumnSchema.toString" name="org.onosproject.ovsdb.rfc.schema.ColumnSchema.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1ColumnSchema.html#a606961beab650229263ee114cc169271" title="Returns the name of column. " alt="" coords="278,5,501,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ovsdb_1_1rfc_1_1schema_1_1ColumnSchema.html#a8d418774336b5bbfd6f00694cc69467b" title="Returns the type of column. " alt="" coords="278,70,501,111"/>
+</map>

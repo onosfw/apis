@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.intent.constraint.LatencyConstraint.cost" name="org.onosproject.net.intent.constraint.LatencyConstraint.cost">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1constraint_1_1LatencyConstraintTest.html#a0ab4036eb81436cd82f80e67206bb4a8" title="Tests the link latency is equal to &quot;latency&quot; annotated value. " alt="" coords="288,5,523,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1constraint_1_1LatencyConstraint.html#a5db85d0431f6413c3a597af95c217c69" title="Validates that the specified path satisfies the constraint. " alt="" coords="288,70,523,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1constraint_1_1LatencyConstraintTest.html#a1d128b63758d1cfd7f71c2ea6e5bb96b" title="Tests the path latency is less than the supplied constraint. " alt="" coords="572,37,855,78"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1constraint_1_1LatencyConstraintTest.html#a149c07b3cf0ea2c396ca5b2a857fd02e" title="Tests the path latency is more than the supplied constraint. " alt="" coords="571,102,855,143"/>
+</map>

@@ -1,0 +1,4 @@
+var interfaceorg_1_1onlab_1_1graph_1_1EdgeWeight_3_01V_01extends_01Vertex_00_01E_01extends_01Edge_3_01V_01_4_01_4 =
+[
+    [ "weight", "interfaceorg_1_1onlab_1_1graph_1_1EdgeWeight_3_01V_01extends_01Vertex_00_01E_01extends_01Edge_3_01V_01_4_01_4.html#a997aafc74c52a345a93e52a5a5e0e21b", null ]
+];

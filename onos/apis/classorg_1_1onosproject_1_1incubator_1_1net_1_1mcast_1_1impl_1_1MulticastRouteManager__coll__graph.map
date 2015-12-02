@@ -1,0 +1,4 @@
+<map id="org.onosproject.incubator.net.mcast.impl.MulticastRouteManager" name="org.onosproject.incubator.net.mcast.impl.MulticastRouteManager">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1mcast_1_1MulticastRouteService.html" title="A service interface for maintaining multicast information. " alt="" coords="87,86,265,127"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1core_1_1ApplicationId.html" title="Application identifier. " alt="" coords="67,152,285,179"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="org.onosproject.incubator.net.tunnel.DefaultOpticalTunnelEndPoint.equals" name="org.onosproject.incubator.net.tunnel.DefaultOpticalTunnelEndPoint.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1DefaultOpticalTunnelEndPoint.html#a88c1c9d576e9db549d430f84d155f9a6" title="Creates a optical tunnel point attributed to the specified provider (may be null). " alt="" coords="294,161,578,217"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1AbstractAnnotated.html#a2858b84119b1f766fd6222e79efa1b93" title="Returns the key/value annotations. " alt="" coords="667,5,853,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1DefaultOpticalTunnelEndPoint.html#aeb51fde403503302dc563fa283e9948d" title="Returns the parent network element to which this tunnel point belongs. " alt="" coords="631,70,889,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1DefaultOpticalTunnelEndPoint.html#aa87713c3c622b76d6bb702984717e014" title="Returns the identifier. " alt="" coords="643,135,877,177"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1DefaultOpticalTunnelEndPoint.html#a0dbf363fddbd0755940c1da255348c55" title="Indicates whether or not the port is global significant. " alt="" coords="636,201,884,242"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1DefaultOpticalTunnelEndPoint.html#a936ddd6d225fe71c4684f9d146479956" title="Returns the parent tunnel point to which this tunnel point belongs, optional. " alt="" coords="627,266,893,307"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1DefaultOpticalTunnelEndPoint.html#a2987df801f4c83d6588ee20b25fc5e33" title="Returns the tunnel point type. " alt="" coords="643,331,877,373"/>
+</map>

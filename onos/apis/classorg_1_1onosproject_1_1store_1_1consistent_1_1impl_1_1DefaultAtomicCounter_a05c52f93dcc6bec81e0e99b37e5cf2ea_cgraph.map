@@ -1,0 +1,3 @@
+<map id="org.onosproject.store.consistent.impl.DefaultAtomicCounter.get" name="org.onosproject.store.consistent.impl.DefaultAtomicCounter.get">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1AsyncAtomicCounter.html#a5acac2d5cb63f12862e90307e4a3c4b6" title="Returns the current value of the counter without modifying it. " alt="" coords="293,5,488,46"/>
+</map>

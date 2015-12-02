@@ -1,0 +1,4 @@
+<map id="org.onlab.nio.service.DefaultMessageStream.read" name="org.onlab.nio.service.DefaultMessageStream.read">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1IpAddress.html#a68de4ac7d43b7a2dd0f8a68b669ce22c" title="Computes the IP address byte length for a given IP version. " alt="" coords="243,5,453,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1IpAddress.html#a5e049bb120d15e0ada504c2d48959ace" title="Returns the IP version of this address. " alt="" coords="501,12,728,39"/>
+</map>

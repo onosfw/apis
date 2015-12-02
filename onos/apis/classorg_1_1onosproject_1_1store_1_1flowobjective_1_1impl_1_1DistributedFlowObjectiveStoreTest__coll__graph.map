@@ -1,0 +1,5 @@
+<map id="org.onosproject.store.flowobjective.impl.DistributedFlowObjectiveStoreTest" name="org.onosproject.store.flowobjective.impl.DistributedFlowObjectiveStoreTest">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1flowobjective_1_1impl_1_1DistributedFlowObjectiveStore.html" title="Manages the inventory of created next groups. " alt="" coords="621,85,877,126"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1flowobjective_1_1FlowObjectiveStore.html" title="The flow objective store. " alt="" coords="262,151,479,193"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="273,5,468,46"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="org.onosproject.net.resource.device.IntentSetMultimap" name="org.onosproject.net.resource.device.IntentSetMultimap">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1resource_1_1impl_1_1ConsistentIntentSetMultimap.html" title="A collection that maps Intent IDs as keys to values as Intent IDs, where each key may associated with..." alt="" coords="6,97,236,138"/>
+</map>

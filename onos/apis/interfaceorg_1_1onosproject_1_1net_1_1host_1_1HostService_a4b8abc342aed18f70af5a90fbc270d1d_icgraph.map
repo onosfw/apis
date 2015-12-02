@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.host.HostService.getHosts" name="org.onosproject.net.host.HostService.getHosts">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1HostsListCommand.html#aa4fce16e1fbed071c3caf7e518f08df4" title="Returns the list of devices sorted using the device ID URIs. " alt="" coords="222,5,455,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1rest_1_1HostResourceTest.html#a25abf318bef834049538b052067d4717" title="Initializes test mocks and environment. " alt="" coords="254,70,423,111"/>
+</map>

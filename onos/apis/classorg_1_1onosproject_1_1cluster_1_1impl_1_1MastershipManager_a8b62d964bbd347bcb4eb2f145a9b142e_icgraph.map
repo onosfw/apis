@@ -1,0 +1,4 @@
+<map id="org.onosproject.cluster.impl.MastershipManager.getDevicesOf" name="org.onosproject.cluster.impl.MastershipManager.getDevicesOf">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cluster_1_1impl_1_1MastershipManager.html#a957ed783ef998622bb8f64bde28e3e8e" title="Balances the mastership to be shared as evenly as possibly by all online instances. " alt="" coords="289,5,508,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1cluster_1_1impl_1_1MastershipManagerTest.html#a0f027d0ff220b836dc86e08a9f9d7132" title="org.onosproject.cluster.impl.\lMastershipManagerTest.getDevicesOf" alt="" coords="275,70,522,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.app.ApplicationService.getApplications" name="org.onosproject.app.ApplicationService.getApplications">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cli_1_1app_1_1ApplicationsListCommand.html#a0eb445cfe6db7045dcd30efcbb8e3599" title="Executes this command. " alt="" coords="283,5,507,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1rest_1_1ApplicationsResourceTest.html#a6f66d41ff840b4708fb28ff9da9715f8" title="Tests a GET of all applications when no applications are present. " alt="" coords="269,70,520,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1rest_1_1ApplicationsResourceTest.html#a10f07a592eb7bb1555b77436204ec8b2" title="Tests a GET of all applications with data. " alt="" coords="259,135,530,177"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.pcepio.types.TELinkDescriptorsTlv.TELinkDescriptorsTlv" name="org.onosproject.pcepio.types.TELinkDescriptorsTlv.TELinkDescriptorsTlv">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1pcepio_1_1types_1_1TELinkDescriptorsTlv.html#ad44edbafd7658b4ad8601b52a03f481e" title="org.onosproject.pcepio.types.\lTELinkDescriptorsTlv.equals" alt="" coords="334,5,527,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1pcepio_1_1types_1_1TELinkDescriptorsTlv.html#a1a5811e7f8fe7f4696530b1d52f1a56e" title="Returns object of TELinkDescriptorsTLV. " alt="" coords="334,70,527,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1pcepio_1_1types_1_1TELinkDescriptorsTlv.html#a6cce5c97f7a7d13c999b58612d682e34" title="Reads channel buffer and returns object of TELinkDescriptorsTLV. " alt="" coords="334,135,527,177"/>
+</map>

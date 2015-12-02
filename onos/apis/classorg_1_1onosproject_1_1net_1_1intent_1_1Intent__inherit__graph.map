@@ -1,0 +1,20 @@
+<map id="org.onosproject.net.intent.Intent" name="org.onosproject.net.intent.Intent">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1ConnectivityIntent.html" title="Abstraction of connectivity intent for traffic matching some criteria. " alt="" coords="239,266,412,307"/>
+<area shape="rect" id="node12" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1FlowRuleIntent.html" title="An intent that enables to tell flow level operation. " alt="" coords="239,429,412,470"/>
+<area shape="rect" id="node15" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1OpticalCircuitIntent.html" title="An optical layer intent for circuits between two OduClt ports. " alt="" coords="239,559,412,601"/>
+<area shape="rect" id="node16" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1OpticalConnectivityIntent.html" title="An optical layer intent for connectivity between two OCh ports. " alt="" coords="239,625,412,666"/>
+<area shape="rect" id="node17" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1OpticalPathIntent.html" title="An optical layer intent with explicitly selected path. " alt="" coords="239,690,412,731"/>
+<area shape="rect" id="node18" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1TestInstallableIntent.html" title="An installable intent used in the unit test. " alt="" coords="239,755,412,797"/>
+<area shape="rect" id="node20" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1TestIntent.html" title="An intent used in the unit test. " alt="" coords="239,821,412,862"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1HostToHostIntent.html" title="Abstraction of end&#45;station to end&#45;station bidirectional connectivity. " alt="" coords="515,5,688,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1LinkCollectionIntent.html" title="Abstraction of a connectivity intent that is implemented by a set of path segments. " alt="" coords="515,70,688,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1MplsIntent.html" title="Abstraction of MPLS label&#45;switched connectivity. " alt="" coords="515,135,688,177"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1MultiPointToSinglePointIntent.html" title="Abstraction of multiple source to single destination connectivity intent. " alt="" coords="504,201,699,242"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1PathIntent.html" title="Abstraction of explicitly path specified connectivity intent. " alt="" coords="515,266,688,307"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1PointToPointIntent.html" title="Abstraction of point&#45;to&#45;point connectivity. " alt="" coords="515,331,688,373"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1SinglePointToMultiPointIntent.html" title="Abstraction of single source, multiple destination connectivity intent. " alt="" coords="504,397,699,438"/>
+<area shape="rect" id="node11" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1TwoWayP2PIntent.html" title="Abstraction of bidirectional connectivity between two points in the network. " alt="" coords="515,462,688,503"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1MplsPathIntent.html" title="Abstraction of explicit MPLS label&#45;switched path. " alt="" coords="779,266,952,307"/>
+<area shape="rect" id="node19" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1TestSubclassInstallableIntent.html" title="An intent used in the unit test. " alt="" coords="504,755,699,797"/>
+<area shape="rect" id="node21" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1TestSubclassIntent.html" title="An intent used in the unit test. " alt="" coords="515,821,688,862"/>
+</map>

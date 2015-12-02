@@ -1,0 +1,10 @@
+<map id="org.onosproject.core.DefaultApplication.toString" name="org.onosproject.core.DefaultApplication.toString">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1core_1_1DefaultApplication.html#ab2495a3c17119ed04a057c749c2d33d7" title="Returns description of the application. " alt="" coords="240,5,427,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1core_1_1DefaultApplication.html#a5e77f1498c29996b8d9b58b8ad994e9f" title="Returns the list of features comprising the application. " alt="" coords="240,70,427,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1core_1_1DefaultApplication.html#a41e139006210fa38adce87cd405781bf" title="Returns the feature repository URI. " alt="" coords="240,135,427,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1core_1_1DefaultApplication.html#a4f32b9b0f63011b74b8a70bc0207e885" title="Returns the name of the application origin, group or company. " alt="" coords="240,201,427,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1core_1_1DefaultApplication.html#a91f46c28264ce465c330c3d8ef20e19e" title="Returns the permissions requested by the application. " alt="" coords="240,266,427,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1core_1_1DefaultApplication.html#a981d756806624ab235658257a8ad4922" title="Returns list of required application names. " alt="" coords="240,331,427,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1core_1_1DefaultApplication.html#a955cd14498a715f3d579e9844850e128" title="Returns the role of the application. " alt="" coords="240,397,427,438"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1core_1_1DefaultApplication.html#ac763eee44e536c91dfee19ce8cc183f6" title="Returns the application version. " alt="" coords="240,462,427,503"/>
+</map>

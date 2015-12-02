@@ -1,0 +1,6 @@
+<map id="org.onlab.nio.AcceptorLoop.loop" name="org.onlab.nio.AcceptorLoop.loop">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1nio_1_1AcceptorLoop.html#aecb2ef25d5b7ec9e4f7ab70dc86e9658" title="Hook to accept an inbound connection on the specified socket channel. " alt="" coords="262,5,485,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1nio_1_1SelectorLoop.html#a12ecb68c0acbc539cfbb53ce8055d9ae" title="Indicates that the loop is marked to run. " alt="" coords="278,70,469,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1nio_1_1SelectorLoop.html#ac301bf31372707cff5e6408406bd5795" title="Notifies observers waiting for loop to become ready. " alt="" coords="267,135,479,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onlab_1_1nio_1_1AcceptorLoop.html#af536bbe9488a69372b16893357e9a2aa" title="Opens a new server socket channel configured in non&#45;blocking mode and bound to the loop&#39;s listen addr..." alt="" coords="267,201,479,242"/>
+</map>

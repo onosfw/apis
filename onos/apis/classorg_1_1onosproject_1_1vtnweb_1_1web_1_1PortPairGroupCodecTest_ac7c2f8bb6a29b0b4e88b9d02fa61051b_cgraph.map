@@ -1,0 +1,8 @@
+<map id="org.onosproject.vtnweb.web.PortPairGroupCodecTest.codecPortPairGroupTest" name="org.onosproject.vtnweb.web.PortPairGroupCodecTest.codecPortPairGroupTest">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortPairGroup.html#a42f0ba1672575ca69fcee7a8de926449" title="Returns the description of this port pair group. " alt="" coords="285,5,464,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortPairGroup.html#a23701a944087647ad3b135334c44ebe5" title="Returns the name of this port pair group. " alt="" coords="285,70,464,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortPairGroup.html#ab9213a8a6a4ee9ed042e4d54a6c0c9ce" title="Returns the ID of this port pair group. " alt="" coords="285,135,464,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortPairGroup.html#a5e0521f6bb21b109875b77832698ff0c" title="Returns the list of port pairs associated with this port pair group. " alt="" coords="285,201,464,242"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortPairGroup.html#ab356901f064da2fe49f4add437eb73ed" title="Returns the tenant id of this port pair group. " alt="" coords="285,266,464,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1vtnrsc_1_1PortPairGroupId.html#a6b81583c5c48bb31f700db131eafa803" title="org.onosproject.vtnrsc.Port\lPairGroupId.toString" alt="" coords="285,331,464,373"/>
+</map>

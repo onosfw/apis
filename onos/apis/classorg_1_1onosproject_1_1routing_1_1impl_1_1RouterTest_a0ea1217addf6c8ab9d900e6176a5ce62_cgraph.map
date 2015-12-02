@@ -1,0 +1,7 @@
+<map id="org.onosproject.routing.impl.RouterTest.testIpv6LocalRouteAdd" name="org.onosproject.routing.impl.RouterTest.testIpv6LocalRouteAdd">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1routing_1_1impl_1_1Router.html#a50c77dbf3d263f1e29aa6d28ea4947e3" title="Gets all IPv6 routes from the RIB. " alt="" coords="327,5,513,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1routing_1_1config_1_1RoutingConfigurationService.html#ac929b714100d646a774481ed9534c74f" title="Evaluates whether an IP prefix belongs to local SDN network. " alt="" coords="281,70,559,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1packet_1_1Ip6Prefix.html#af80b8d191c8978efd3ee7b0d9d93aff5" title="Converts a byte array and a prefix length into an IPv6 prefix. " alt="" coords="309,136,531,163"/>
+<area shape="rect" id="node5" href="$classorg_1_1onlab_1_1packet_1_1IpPrefix.html#a0804680278fcde788563c7140039ab03" title="Returns the IP address prefix length. " alt="" coords="625,99,828,141"/>
+<area shape="rect" id="node6" href="$classorg_1_1onlab_1_1packet_1_1Ip6Address.html#a1226023d0426778f64d49e234400bb1f" title="Converts a byte array into an IPv6 address. " alt="" coords="608,165,845,192"/>
+</map>

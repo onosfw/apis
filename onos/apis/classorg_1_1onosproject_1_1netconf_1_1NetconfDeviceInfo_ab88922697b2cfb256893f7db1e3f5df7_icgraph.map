@@ -1,0 +1,4 @@
+<map id="org.onosproject.netconf.NetconfDeviceInfo.getDeviceId" name="org.onosproject.netconf.NetconfDeviceInfo.getDeviceId">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1netconf_1_1ctl_1_1NetconfControllerImpl.html#a7427e4d8e0d4035d243a8f18b32b939c" title="Tries to connect to a specific NETCONF device, if the connection is succesful it creates and adds the..." alt="" coords="259,5,499,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1netconf_1_1ctl_1_1NetconfControllerImpl.html#aeccc6f720b7b5741d859b53b38d11018" title="Removes a Netconf device. " alt="" coords="260,70,497,111"/>
+</map>

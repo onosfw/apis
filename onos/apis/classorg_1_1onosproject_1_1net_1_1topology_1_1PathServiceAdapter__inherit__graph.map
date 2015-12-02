@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.topology.PathServiceAdapter" name="org.onosproject.net.topology.PathServiceAdapter">
+<area shape="rect" id="node3" title="Mock path service for creating paths within the test. " alt="" coords="486,5,762,61"/>
+<area shape="rect" id="node4" title="Mock path service for creating paths within the test. " alt="" coords="507,86,741,127"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1topology_1_1PathService.html" title="Service for obtaining pre&#45;computed paths or for requesting computation of paths using the current top..." alt="" coords="6,50,197,91"/>
+</map>

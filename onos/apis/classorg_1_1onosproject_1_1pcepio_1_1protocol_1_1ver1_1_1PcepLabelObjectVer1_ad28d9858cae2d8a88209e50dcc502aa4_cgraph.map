@@ -1,0 +1,4 @@
+<map id="org.onosproject.pcepio.protocol.ver1.PcepLabelObjectVer1.read" name="org.onosproject.pcepio.protocol.ver1.PcepLabelObjectVer1.read">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1pcepio_1_1protocol_1_1ver1_1_1PcepLabelObjectVer1.html#abe37f5465af46a85958ea46ecb8b135c" title="Returns list of optional tlvs. " alt="" coords="305,5,556,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1pcepio_1_1protocol_1_1ver1_1_1PcepLabelObjectVer1.html#ac363f600f01ae776aa6332923f220fe5" title="Constructor to initialize parameters for PCEP label object. " alt="" coords="291,70,570,111"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.openflow.controller.impl.OpenFlowControllerImpl.OpenFlowSwitchAgent.validActivation" name="org.onosproject.openflow.controller.impl.OpenFlowControllerImpl.OpenFlowSwitchAgent.validActivation">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1openflow_1_1controller_1_1impl_1_1OpenFlowControllerImpl_1_1OpenFlowSwitchAgent.html#aeb2715ecfcc36aa866d2d42cef977a09" title="Called when a switch is activated, with this controller&#39;s role as EQUAL. " alt="" coords="385,5,709,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1openflow_1_1controller_1_1impl_1_1OpenFlowControllerImpl_1_1OpenFlowSwitchAgent.html#a0503ac8c082c45cfec7e4fbcb910df1c" title="Called when a switch is activated, with this controller&#39;s role as MASTER. " alt="" coords="385,85,709,141"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.incubator.net.config.basics.OpticalPortConfigTest.testBaseAttrs" name="org.onosproject.incubator.net.config.basics.OpticalPortConfigTest.testBaseAttrs">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1config_1_1basics_1_1OpticalPortConfig.html#a64c57ccffe220aae6a59e4fb08f0018e" title="Returns the port name associated with this port configuration. " alt="" coords="328,5,547,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1config_1_1basics_1_1OpticalPortConfig.html#acac88495ae36044c17e0fe354289e51e" title="Returns the Enum value representing the type of port. " alt="" coords="328,70,547,111"/>
+</map>

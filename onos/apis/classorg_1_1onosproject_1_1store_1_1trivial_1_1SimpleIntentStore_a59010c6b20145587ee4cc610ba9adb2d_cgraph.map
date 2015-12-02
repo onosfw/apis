@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.trivial.SimpleIntentStore.write" name="org.onosproject.store.trivial.SimpleIntentStore.write">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1IntentEvent.html#ae7aacc5d9622de24e9132106153a3c2a" title="Creates an IntentEvent based on the state contained in the given intent data. " alt="" coords="253,5,427,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1IntentData.html#aca59d00b0aeb03d90a4e2a2ce262d294" title="Determines whether an intent data update is allowed. " alt="" coords="238,70,442,111"/>
+</map>

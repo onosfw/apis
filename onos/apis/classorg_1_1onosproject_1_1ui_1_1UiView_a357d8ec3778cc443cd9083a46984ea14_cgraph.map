@@ -1,0 +1,5 @@
+<map id="org.onosproject.ui.UiView.UiView" name="org.onosproject.ui.UiView.UiView">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1UiView.html#a9a469d292054b0566672a3034fd75636" title="Returns the navigation category. " alt="" coords="230,5,455,32"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1UiView.html#a47ee32280b38478981090f4bddf924d4" title="Returns the view identifier. " alt="" coords="250,56,435,83"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ui_1_1UiView.html#a2339a61dd095279bb74cd02f402f3694" title="Returns the view label. " alt="" coords="241,107,444,133"/>
+</map>

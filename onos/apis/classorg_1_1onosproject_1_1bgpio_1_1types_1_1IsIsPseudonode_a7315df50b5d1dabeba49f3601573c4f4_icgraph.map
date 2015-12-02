@@ -1,0 +1,5 @@
+<map id="org.onosproject.bgpio.types.IsIsPseudonode.IsIsPseudonode" name="org.onosproject.bgpio.types.IsIsPseudonode.IsIsPseudonode">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IsIsPseudonode.html#aab8de4c72f01a8d079ef6babf092413f" title="Compares two objects. " alt="" coords="504,5,691,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IsIsPseudonode.html#ae9dfb04f198cc15b25fbd8cd57aa615c" title="org.onosproject.bgpio.types.\lIsIsPseudonode.equals" alt="" coords="269,34,456,75"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1IsIsPseudonode.html#a567b1dc3d568128d3a6519eb93efc31e" title="Returns object of this class with specified values. " alt="" coords="269,99,456,141"/>
+</map>

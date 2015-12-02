@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.intent.constraint.EncapsulationConstraint.equals" name="org.onosproject.net.intent.constraint.EncapsulationConstraint.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1constraint_1_1EncapsulationConstraint.html#a71abc5df2c1117d967a039fd654d7dc6" title="Creates a new encapsulation constraint. " alt="" coords="289,5,599,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1constraint_1_1EncapsulationConstraint.html#a038f11702e6e6d60e6ca0081704a0139" title="Returns the encapsulation type required by this constraint. " alt="" coords="648,5,883,46"/>
+</map>

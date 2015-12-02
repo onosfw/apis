@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.group.impl.DistributedGroupStore.getGroup" name="org.onosproject.store.group.impl.DistributedGroupStore.getGroup">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1group_1_1impl_1_1DistributedGroupStore.html#a49635a671a4a70d2bdca5d5ac7a85fcc" title="Submits the group metrics to store for a given device ID. " alt="" coords="279,5,540,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1group_1_1impl_1_1DistributedGroupStore.html#a5f571f7bd08c4d55828a7ba5c5ff8311" title="Stores a new group entry using the information from group description. " alt="" coords="267,70,552,111"/>
+</map>

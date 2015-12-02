@@ -1,0 +1,7 @@
+<map id="org.onosproject.incubator.net.tunnel.OpticalTunnelEndPoint" name="org.onosproject.incubator.net.tunnel.OpticalTunnelEndPoint">
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1DefaultOpticalTunnelEndPoint.html" title="Default optical tunnel point model implementation. " alt="" coords="571,89,805,130"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1TunnelEndPoint.html" title="Represents for source end point or destination end point of a tunnel. " alt="" coords="6,5,239,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotated.html" title="Represents an entity that carries arbitrary annotations. " alt="" coords="25,71,221,97"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1Provided.html" title="Abstraction of an entity supplied by a provider. " alt="" coords="29,121,217,148"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1NetworkResource.html" title="Representation of a network resource, e.g. " alt="" coords="29,173,216,214"/>
+</map>

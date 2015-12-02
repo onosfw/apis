@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.CompletedBatchOperation.CompletedBatchOperation" name="org.onosproject.net.flow.CompletedBatchOperation.CompletedBatchOperation">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1CompletedBatchOperation.html#a7440747153daf59b9d75471d50bb05ab" title="org.onosproject.net.flow.\lCompletedBatchOperation.deviceId" alt="" coords="297,5,525,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1CompletedBatchOperation.html#ad00c3a28299b555595ec37ee1a4fef4f" title="org.onosproject.net.flow.\lCompletedBatchOperation.failedIds" alt="" coords="297,70,525,111"/>
+</map>

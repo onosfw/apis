@@ -1,0 +1,5 @@
+<map id="org.onosproject.provider.pcep.tunnel.impl.PcepTunnelProvider.setupTunnel" name="org.onosproject.provider.pcep.tunnel.impl.PcepTunnelProvider.setupTunnel">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1Tunnel.html#aee54f608b17ebfbe02afa2ecf2f774a1" title="the terminal of a tunnel. " alt="" coords="318,5,551,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1Tunnel.html#a1f26f87f8db9efe0cd521d2a86ec1356" title="the origin of a tunnel. " alt="" coords="318,70,551,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1Tunnel.html#a5da807ff388b4935b39b4170ef1c93cc" title="Returns the tunnel type. " alt="" coords="318,135,551,177"/>
+</map>

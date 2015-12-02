@@ -1,0 +1,14 @@
+<map id="org.onlab.packet.Ip6Address.valueOf" name="org.onlab.packet.Ip6Address.valueOf">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1Ip6PrefixTest.html#acd9e6057769c82e3818236ba9096ae42" title="Tests returning the IP address value and IP address prefix length of an IPv6 prefix. " alt="" coords="291,5,536,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1Ip6PrefixTest.html#a30eb106e32329b57c2bf2a83d34521a8" title="Tests IP prefix contains IP address for IPv6. " alt="" coords="307,70,519,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1packet_1_1Ip6AddressTest.html#ad51ed3ec2533b3d68f8fab853af19c87" title="Tests equality of Ip6Address for IPv6. " alt="" coords="319,135,507,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1serializers_1_1KryoSerializerTest.html#a9c07d1c034f711e95bd3998f9012ffbe" title="org.onosproject.store.serializers.\lKryoSerializerTest.testIp6Address" alt="" coords="303,201,524,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onlab_1_1packet_1_1Ip6Prefix.html#af80b8d191c8978efd3ee7b0d9d93aff5" title="Converts a byte array and a prefix length into an IPv6 prefix. " alt="" coords="302,267,525,293"/>
+<area shape="rect" id="node13" href="$classorg_1_1onlab_1_1packet_1_1Ip6Address.html#ab013362668b8e3a980a74ae29dd6d1b6" title="Converts an IPv6 string literal (e.g., &quot;1111:2222::8888&quot;) into an IP address. " alt="" coords="295,317,532,344"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1routing_1_1impl_1_1RouterTest.html#a362f846621fc5830103edcf4f653c0fc" title="Tests updating a IPv6 route entry. " alt="" coords="590,95,805,137"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1routing_1_1impl_1_1RouterTest.html#aac0eca5f06cbc43632662e20df3d7e05" title="Tests deleting a IPv6 route entry. " alt="" coords="592,161,803,202"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1routing_1_1impl_1_1RouterTest.html#a0ea1217addf6c8ab9d900e6176a5ce62" title="Tests adding a IPv6 route whose next hop is the local BGP speaker. " alt="" coords="584,226,811,267"/>
+<area shape="rect" id="node10" href="$classorg_1_1onosproject_1_1store_1_1serializers_1_1KryoSerializerTest.html#a1389bf34b83a25cb93facad60c4b0c40" title="org.onosproject.store.serializers.\lKryoSerializerTest.testIp6Prefix" alt="" coords="592,291,803,333"/>
+<area shape="rect" id="node11" href="$classorg_1_1onlab_1_1packet_1_1Ip6PrefixTest.html#afc2408cd2b76f2824b36f6222a5790e2" title="Tests IP prefix contains another IP prefix for IPv6. " alt="" coords="598,357,797,398"/>
+<area shape="rect" id="node12" href="$classorg_1_1onlab_1_1packet_1_1Ip6PrefixTest.html#a4c42dfe9b403c74aca8e828309743f57" title="Tests equality of Ip6Prefix for IPv6. " alt="" coords="610,422,785,463"/>
+</map>

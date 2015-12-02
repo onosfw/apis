@@ -1,0 +1,11 @@
+<map id="org.onosproject.vtnrsc.portchain.impl.PortChainManagerTest" name="org.onosproject.vtnrsc.portchain.impl.PortChainManagerTest">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultFlowClassifier.html" title="Provides Default flow classifier. " alt="" coords="381,5,579,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1FlowClassifier.html" title="Abstraction of an entity which provides flow classifier for service function chain. " alt="" coords="21,5,203,46"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortChain.html" title="Abstraction of an entity providing Port Chain information. " alt="" coords="23,147,201,189"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultPortChain.html" title="Implementation of port chain. " alt="" coords="381,199,579,241"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1vtnrsc_1_1portchain_1_1impl_1_1PortChainManager.html" title="Provides implementation of the portChainService. " alt="" coords="360,265,600,306"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1portchain_1_1PortChainService.html" title="Service for interacting with the inventory of port chains. " alt="" coords="6,231,218,273"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="15,297,209,338"/>
+<area shape="rect" id="node11" href="$classorg_1_1onosproject_1_1vtnrsc_1_1TenantId.html" title="Immutable representation of a tenant identifier. " alt="" coords="377,396,583,423"/>
+<area shape="rect" id="node12" href="$classorg_1_1onosproject_1_1vtnrsc_1_1PortChainId.html" title="Representation of a Port Chain ID. " alt="" coords="391,447,569,489"/>
+</map>

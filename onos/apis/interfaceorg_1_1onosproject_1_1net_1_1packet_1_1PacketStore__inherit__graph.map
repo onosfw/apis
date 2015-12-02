@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.packet.PacketStore" name="org.onosproject.net.packet.PacketStore">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1packet_1_1impl_1_1DistributedPacketStore.html" title="Distributed packet store implementation allowing packets to be sent to remote instances. " alt="" coords="445,5,664,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimplePacketStore.html" title="Simple single instance implementation of the packet store. " alt="" coords="463,70,646,111"/>
+</map>

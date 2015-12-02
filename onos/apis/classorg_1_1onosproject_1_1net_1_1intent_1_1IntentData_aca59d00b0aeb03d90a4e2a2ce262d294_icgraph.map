@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.intent.IntentData.isUpdateAcceptable" name="org.onosproject.net.intent.IntentData.isUpdateAcceptable">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1IntentDataTest.html#ab2e707a9173a7ca963c2cedf86ff0f4e" title="org.onosproject.net.intent.\lIntentDataTest.testIsUpdateAcceptable" alt="" coords="259,5,512,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleIntentStore.html#a59010c6b20145587ee4cc610ba9adb2d" title="Writes an IntentData object to the store. " alt="" coords="294,70,477,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1intent_1_1impl_1_1GossipIntentStore.html#a76ce7563d0d62409e22c7a101c210311" title="Writes an IntentData object to the store. " alt="" coords="279,135,491,177"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleIntentStore.html#a334c1ec271580f9866ea7b3529a24121" title="Writes a batch of IntentData objects to the store. " alt="" coords="561,70,754,111"/>
+</map>

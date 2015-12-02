@@ -1,0 +1,6 @@
+<map id="org.onosproject.vtnweb.web.VirtualPortCodec.encode" name="org.onosproject.vtnweb.web.VirtualPortCodec.encode">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1VirtualPort.html#afad62c26ef6f795f72e8c1644da230d9" title="Returns the virtualPort bindingvifDetail. " alt="" coords="243,5,435,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1VirtualPort.html#aa0453e479bfc842a9ec1ecb9e7bc12fe" title="Returns the device identifier. " alt="" coords="243,70,435,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1VirtualPort.html#a7db051c75b105e23f4b9fbe481cc4a86" title="Returns the MAC address. " alt="" coords="243,135,435,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1VirtualPort.html#a5b93a7e2025ac7a545ab3e32c93d1607" title="Returns the network identifier. " alt="" coords="243,201,435,242"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="org.onosproject.net.Annotations.value" name="org.onosproject.net.Annotations.value">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cli_1_1AbstractShellCommand.html#a8699407088c1e3cc29c95f556a198b94" title="Produces a string image of the specified key/value annotations. " alt="" coords="345,5,527,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1incubator_1_1rpc_1_1grpc_1_1GrpcDeviceUtils.html#a2e553ef9cc2b2ab57295228a6d363c3e" title="Converts Annotations to Map of Strings. " alt="" coords="325,70,547,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1serializers_1_1KryoSerializerTest.html#aafb8eebf7c0f1f894257691fe21277a6" title="org.onosproject.store.serializers.\lKryoSerializerTest.assertAnnotationsEquals" alt="" coords="297,135,575,177"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1AnnotationsUtil.html#a7b7f48d95e45c4f51c3e6c3089a257bb" title="org.onosproject.net.Annotations\lUtil.isEqual" alt="" coords="333,201,539,242"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1DefaultDriverTest.html#a444d9fff20a19d57ab0209268c536674" title="org.onosproject.net.driver.\lDefaultDriverTest.merge" alt="" coords="349,266,523,307"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1incubator_1_1rpc_1_1grpc_1_1GrpcDeviceUtils.html#a5aeb7ddc0b3da705b5a26e5a46d70214" title="Translates DeviceDescription to gRPC DeviceDescription message. " alt="" coords="625,70,847,111"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1store_1_1serializers_1_1KryoSerializerTest.html#a7ab636fc19d134b0ea98bdb286e844ec" title="org.onosproject.store.serializers.\lKryoSerializerTest.testAnnotations" alt="" coords="624,135,848,177"/>
+</map>

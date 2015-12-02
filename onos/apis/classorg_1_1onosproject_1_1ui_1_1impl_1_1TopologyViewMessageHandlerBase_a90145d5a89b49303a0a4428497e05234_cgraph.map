@@ -1,0 +1,8 @@
+<map id="org.onosproject.ui.impl.TopologyViewMessageHandlerBase.deviceMessage" name="org.onosproject.ui.impl.TopologyViewMessageHandlerBase.deviceMessage">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotated.html#a534add2e69d3fb4981cd63ad5f9cbf50" title="Returns the key/value annotations. " alt="" coords="328,5,595,32"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1UiMessageHandler.html#aaf334e1c31cce2f4373597c2a4722b60" title="Returns a freshly minted array node. " alt="" coords="364,57,559,98"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1Device.html#a6fd9f6006eafd30a816e210b9c90d0d9" title="Returns the device identifier. " alt="" coords="365,123,557,149"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html#a5acd8e40c95caaa8e7b0fc59c30ac3ff" title="Indicates whether or not the device is presently online and available. " alt="" coords="372,174,551,215"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1ui_1_1UiMessageHandler.html#af64452cb19bbbef28c4044ffdb606595" title="Returns a freshly minted object node. " alt="" coords="364,239,559,281"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1Device.html#a55bd0437eeaa07c838dd0ab284c3b463" title="Returns the type of the infrastructure device. " alt="" coords="358,305,565,332"/>
+</map>

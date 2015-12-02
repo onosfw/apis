@@ -1,0 +1,6 @@
+<map id="org.onosproject.incubator.net.virtual .VirtualElement" name="org.onosproject.incubator.net.virtual .VirtualElement">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1virtual_01_1_1VirtualDevice.html" title="Abstraction of a virtual device. " alt="" coords="283,5,512,46"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1virtual_01_1_1VirtualHost.html" title="Abstraction of a virtual end&#45;station host. " alt="" coords="283,70,512,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1virtual_01_1_1VirtualLink.html" title="Abstraction of a virtual link. " alt="" coords="283,135,512,177"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1virtual_01_1_1DefaultVirtualDevice.html" title="Default representation of a virtual device. " alt="" coords="560,5,789,46"/>
+</map>

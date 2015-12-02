@@ -1,0 +1,14 @@
+<map id="org.onosproject.provider.nil.NullProviders" name="org.onosproject.provider.nil.NullProviders">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1host_1_1HostService.html" title="Service for interacting with the inventory of end&#45;station hosts. " alt="" coords="614,17,781,58"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkService.html" title="Service for interacting with the inventory of infrastructure links. " alt="" coords="617,86,778,127"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1cfg_1_1ComponentConfigService.html" title="Service for tracking system&#45;wide configurations for various software components. " alt="" coords="595,151,799,193"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRuleProviderRegistry.html" title="Abstraction for a flow rule provider registry. " alt="" coords="610,217,785,258"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1net_1_1host_1_1HostProviderRegistry.html" title="Abstraction of a host provider registry. " alt="" coords="614,282,781,323"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceAdminService.html" title="Service for administering the inventory of infrastructure devices. " alt="" coords="608,347,787,389"/>
+<area shape="rect" id="node12" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="316,347,495,389"/>
+<area shape="rect" id="node14" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceProviderRegistry.html" title="Abstraction of a device provider registry. " alt="" coords="608,413,787,454"/>
+<area shape="rect" id="node16" href="$interfaceorg_1_1onosproject_1_1net_1_1packet_1_1PacketProviderRegistry.html" title="Abstraction of an infrastructure packet provider registry. " alt="" coords="607,478,787,519"/>
+<area shape="rect" id="node18" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipAdminService.html" title="Service for administering the inventory of device masterships. " alt="" coords="606,543,789,585"/>
+<area shape="rect" id="node19" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="618,609,777,650"/>
+<area shape="rect" id="node21" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkProviderRegistry.html" title="Abstraction of an infrastructure link provider registry. " alt="" coords="617,678,778,719"/>
+</map>

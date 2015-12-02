@@ -1,0 +1,6 @@
+<map id="org.onosproject.cli.net.DevicesListCommand" name="org.onosproject.cli.net.DevicesListCommand">
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1DevicePortsListCommand.html" title="Lists all ports or all ports of a device. " alt="" coords="679,5,854,46"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1cli_1_1net_1_1DevicePortStatsCommand.html" title="Lists port statistic of all ports in the system. " alt="" coords="677,70,856,111"/>
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cli_1_1AbstractShellCommand.html" title="Base abstraction of Karaf shell commands. " alt="" coords="245,38,427,79"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1codec_1_1CodecContext.html" title="Context for codecs to use while encoding/decoding. " alt="" coords="5,67,197,109"/>
+</map>

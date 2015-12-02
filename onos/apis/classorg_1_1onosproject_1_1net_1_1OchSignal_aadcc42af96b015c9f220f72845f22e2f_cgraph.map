@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.OchSignal.OchSignal" name="org.onosproject.net.OchSignal.OchSignal">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1util_1_1Frequency.html#a50f9042a5a9ca065b8d916f6fb8ec2bb" title="Return the value this instance represents as Hz. " alt="" coords="265,5,461,32"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1util_1_1Frequency.html#ae394479b7a741b3dd4c1185c1306a5d7" title="Returns a Frequency whose value is (this &#45; value). " alt="" coords="257,56,469,83"/>
+</map>

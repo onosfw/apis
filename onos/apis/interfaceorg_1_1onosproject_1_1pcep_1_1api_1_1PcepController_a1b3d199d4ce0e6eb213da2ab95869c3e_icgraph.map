@@ -1,0 +1,3 @@
+<map id="org.onosproject.pcep.api.PcepController.updateTunnelBandwidth" name="org.onosproject.pcep.api.PcepController.updateTunnelBandwidth">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1provider_1_1pcep_1_1tunnel_1_1impl_1_1PcepTunnelProvider.html#ab75d879469d4698bc9bce4652d742c66" title="Signals that the a tunnel was changed (e.g., sensing changes of tunnel).It&#39;s used by producers..." alt="" coords="304,5,568,46"/>
+</map>

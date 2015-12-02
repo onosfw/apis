@@ -1,0 +1,4 @@
+var classorg_1_1onosproject_1_1store_1_1intent_1_1impl_1_1PartitionManagerTest_1_1TestLeadershipService =
+[
+    [ "addListener", "classorg_1_1onosproject_1_1store_1_1intent_1_1impl_1_1PartitionManagerTest_1_1TestLeadershipService.html#a25c3866e0f2421e1a480089fce660e21", null ]
+];

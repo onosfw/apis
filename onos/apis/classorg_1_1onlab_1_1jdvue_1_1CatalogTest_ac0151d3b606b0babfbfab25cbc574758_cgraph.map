@@ -1,0 +1,8 @@
+<map id="org.onlab.jdvue.CatalogTest.basics" name="org.onlab.jdvue.CatalogTest.basics">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1jdvue_1_1Catalog.html#a8d274f9dcd901f396406fbeae6cf685d" title="Returns the set of all Java package dependency cycles. " alt="" coords="297,5,479,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1jdvue_1_1Catalog.html#ab3dfd067a4bd902e6973a3ebaeaa03d4" title="Returns the set of all Java package dependency cycle segments. " alt="" coords="297,70,479,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1jdvue_1_1Catalog.html#ad693462c6e5ae0cb8f879641a97e24e7" title="Returns the set of dependency cycles which involve the specified package. " alt="" coords="297,135,479,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onlab_1_1jdvue_1_1Catalog.html#aed6898d06cbf2bffd1cafa489fb563d8" title="Returns the collection of all Java packages. " alt="" coords="297,201,479,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onlab_1_1jdvue_1_1JavaPackage.html#aa97b954316d19dd8e0b9ae5cbcf003b8" title="Returns the set of sources contained in this Java package. " alt="" coords="281,266,495,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onlab_1_1jdvue_1_1Catalog.html#a67817b217213694faa638508178355d7" title="Returns the collection of java sources. " alt="" coords="297,331,479,373"/>
+</map>

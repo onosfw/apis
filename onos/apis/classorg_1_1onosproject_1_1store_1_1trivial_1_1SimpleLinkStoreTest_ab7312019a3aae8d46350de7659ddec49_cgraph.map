@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.trivial.SimpleLinkStoreTest.testAncillaryVisible" name="org.onosproject.store.trivial.SimpleLinkStoreTest.testAncillaryVisible">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkStore.html#a2538eb8ea2d1661de658ef471bb118fe" title="Returns the link between the two end&#45;points. " alt="" coords="273,5,434,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkStore.html#a1dea9650a7bda67504bc98ce6db3062b" title="Returns the number of links in the store. " alt="" coords="273,70,434,111"/>
+</map>

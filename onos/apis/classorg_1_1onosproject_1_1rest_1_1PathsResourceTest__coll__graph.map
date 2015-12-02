@@ -1,0 +1,9 @@
+<map id="org.onosproject.rest.PathsResourceTest" name="org.onosproject.rest.PathsResourceTest">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1rest_1_1ResourceTest.html" title="Base class for REST API tests. " alt="" coords="467,5,690,32"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1Path.html" title="Representation of a contiguous directed path in a network. " alt="" coords="497,56,661,83"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1Link.html" title="Abstraction of a network infrastructure link. " alt="" coords="254,56,415,83"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotated.html" title="Represents an entity that carries arbitrary annotations. " alt="" coords="6,5,202,32"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1Provided.html" title="Abstraction of an entity supplied by a provider. " alt="" coords="10,56,198,83"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1net_1_1NetworkResource.html" title="Representation of a network resource, e.g. " alt="" coords="11,107,197,149"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1net_1_1topology_1_1PathService.html" title="Service for obtaining pre&#45;computed paths or for requesting computation of paths using the current top..." alt="" coords="483,173,674,214"/>
+</map>

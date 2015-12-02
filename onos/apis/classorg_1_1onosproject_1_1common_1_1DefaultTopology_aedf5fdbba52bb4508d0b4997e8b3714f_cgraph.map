@@ -1,0 +1,6 @@
+<map id="org.onosproject.common.DefaultTopology.isBroadcastPoint" name="org.onosproject.common.DefaultTopology.isBroadcastPoint">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1ConnectPoint.html#ae26d775b79f3be42a1a2eafc0c0c51b6" title="Returns the identifier of the infrastructure device if the connection point belongs to a network elem..." alt="" coords="276,5,463,46"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1topology_1_1TopologyCluster.html#ad2bf685d7b85a26ae5a32009a13009d2" title="Returns the cluster id. " alt="" coords="274,70,465,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1common_1_1DefaultTopology.html#a7cea948ba285609eb738870632b16f5e" title="Indicates whether the given point is an infrastructure link end&#45;point. " alt="" coords="264,135,475,177"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1ConnectPoint.html#a71dbaeabb12421d31bac7c7ec8547535" title="Returns the network element identifier. " alt="" coords="523,5,709,46"/>
+</map>

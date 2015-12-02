@@ -1,0 +1,9 @@
+<map id="org.onosproject.net.intent.Key.of" name="org.onosproject.net.intent.Key.of">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1rest_1_1resources_1_1IntentsWebResource.html#a7185510da777fb456b35b3a829aabfdf" title="Withdraw intent. " alt="" coords="227,5,471,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1rest_1_1resources_1_1IntentsWebResource.html#a5e21542e01aa310ba5056a4607b281c9" title="Get intent by application and key. " alt="" coords="236,70,463,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1Intent.html#a125bbffe9ee83964bc1d61b298ab68c0" title="Creates a new intent. " alt="" coords="263,135,436,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1rest_1_1IntentsResourceTest.html#ab3af9c0f606cd37700437fdbb2d25b60" title="Tests that a fetch of a non&#45;existent intent object throws an exception. " alt="" coords="259,201,440,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1rest_1_1IntentsResourceTest.html#a10227433cb65408c76f0b9ebd6a48677" title="Tests removal of a non existent intent with DELETE. " alt="" coords="248,266,451,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1rest_1_1IntentsResourceTest.html#a90290823180a0d688f89058830d4416e" title="Tests the result of a rest api GET for a single intent. " alt="" coords="246,331,453,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1rest_1_1IntentsResourceTest.html#a655b57250c8f58366c986979d0c47451" title="Tests removing an intent with DELETE. " alt="" coords="259,397,440,438"/>
+</map>

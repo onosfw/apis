@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.StoredFlowEntry" name="org.onosproject.net.flow.StoredFlowEntry">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowEntry.html" title="Represents a generalized match &amp; action pair to be applied to an infrastucture device. " alt="" coords="5,97,171,138"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRule.html" title="Represents a generalized match &amp; action pair to be applied to an infrastructure device. " alt="" coords="5,6,171,47"/>
+</map>

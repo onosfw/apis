@@ -1,0 +1,13 @@
+<map id="org.onosproject.provider.pcep.tunnel.impl.PcepSetupTunnelProviderTest" name="org.onosproject.provider.pcep.tunnel.impl.PcepSetupTunnelProviderTest">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1provider_1_1pcep_1_1tunnel_1_1impl_1_1PcepTunnelProvider.html" title="Provider which uses an PCEP controller to detect, update, create network tunnels. ..." alt="" coords="1227,330,1491,371"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1AbstractProvider.html" title="Base provider implementation. " alt="" coords="775,5,961,46"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="275,37,461,78"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1TunnelProvider.html" title="Abstraction of an entity providing tunnel setup/release services to the core. " alt="" coords="751,70,985,111"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1TunnelProviderService.html" title="APIs for tunnel provider to notify the tunnel subSystem. " alt="" coords="251,245,485,286"/>
+<area shape="rect" id="node15" href="$classorg_1_1onosproject_1_1provider_1_1pcep_1_1tunnel_1_1impl_1_1PcepTunnelApiMapper.html" title="Entity to provide tunnel DB and mapping for request/response between CORE to PCEP and PCEP to PCC..." alt="" coords="736,201,1000,242"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1cfg_1_1ComponentConfigService.html" title="Service for tracking system&#45;wide configurations for various software components. " alt="" coords="766,330,970,371"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1pcep_1_1controller_1_1PcepClientController.html" title="Abstraction of an Pcep client controller. " alt="" coords="766,395,970,437"/>
+<area shape="rect" id="node12" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1TunnelService.html" title="Service for interacting with the inventory of tunnels. " alt="" coords="751,542,985,583"/>
+<area shape="rect" id="node14" href="$interfaceorg_1_1onosproject_1_1pcep_1_1api_1_1PcepController.html" title="Abstraction of an PCEP controller. " alt="" coords="784,607,952,649"/>
+<area shape="rect" id="node17" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1TunnelProviderRegistry.html" title="Abstraction of an tunnel provider registry. " alt="" coords="751,673,985,714"/>
+</map>

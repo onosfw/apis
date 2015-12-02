@@ -1,0 +1,6 @@
+<map id="org.onosproject.store.device.impl.GossipDeviceStoreTest.testRemoveDevice" name="org.onosproject.store.device.impl.GossipDeviceStoreTest.testRemoveDevice">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceStore.html#a15f18a69ff727f206336cccfd386d686" title="Returns the device with the specified identifier. " alt="" coords="337,5,516,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceStore.html#a71a352098e140b29502822033798e9ae" title="Returns the number of devices known to the system. " alt="" coords="331,70,523,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceStore.html#ab34bdfd2f8b8d3bef9c15e5fe91564ac" title="Returns the specified device port. " alt="" coords="337,135,516,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceStore.html#ae0f553f54092d228977a4dfb245f1624" title="Returns the list of ports that belong to the specified device. " alt="" coords="337,201,516,242"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.intent.IntentData.equals" name="org.onosproject.net.intent.IntentData.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1IntentData.html#af719eed719764d8da5e3e62e75a416d6" title="org.onosproject.net.intent.\lIntentData.IntentData" alt="" coords="227,38,400,79"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1IntentData.html#af8cfe07fd53410e770ba1367c4fe0d62" title="Returns the intent this metadata references. " alt="" coords="448,5,621,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1IntentData.html#a3d179501cc3b3903d9d4ec4c42ec6bbc" title="org.onosproject.net.intent.\lIntentData.request" alt="" coords="448,70,621,111"/>
+</map>

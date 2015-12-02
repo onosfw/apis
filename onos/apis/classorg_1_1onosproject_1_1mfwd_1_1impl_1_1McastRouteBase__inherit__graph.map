@@ -1,0 +1,5 @@
+<map id="org.onosproject.mfwd.impl.McastRouteBase" name="org.onosproject.mfwd.impl.McastRouteBase">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1mfwd_1_1impl_1_1McastRouteGroup.html" title="The McastRouteGroup extends the McastRouteBase class and serves two purposes: first it represents a (..." alt="" coords="459,5,637,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1mfwd_1_1impl_1_1McastRouteSource.html" title="This class represents and specific multicast senders source address. " alt="" coords="459,70,637,111"/>
+<area shape="rect" id="node2" title="This McastRouteBase interface is implemented by the McastRouteBase class which in turn acts as the ba..." alt="" coords="5,38,184,79"/>
+</map>

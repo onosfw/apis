@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.host.DefaultHostDescription.equals" name="org.onosproject.net.host.DefaultHostDescription.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1host_1_1DefaultHostDescription.html#a10220e6799a0b9c5f2d2c0c14c85b75a" title="Creates a host description using the supplied information. " alt="" coords="254,63,458,119"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1AbstractDescription.html#a9230f0f1b251f2cf963bc6dc9ec6be3d" title="Returns the key/value annotations. " alt="" coords="517,5,704,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1host_1_1DefaultHostDescription.html#a29b7fc54dd03ee646bfe2eee99b55262" title="Returns the location of the host on the network edge. " alt="" coords="507,70,714,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1host_1_1DefaultHostDescription.html#aa5c1da5997503bb28aab3938292b4410" title="Returns the VLAN associated with this host. " alt="" coords="517,135,704,177"/>
+</map>

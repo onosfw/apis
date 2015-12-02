@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.flow.FlowRuleProvider" name="org.onosproject.net.flow.FlowRuleProvider">
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1provider_1_1netconf_1_1flow_1_1impl_1_1NetconfFlowRuleProvider.html" title="Netconf provider to accept any flow and report them. " alt="" coords="454,70,722,111"/>
+<area shape="rect" id="node5" title="Null provider to accept any flow and report them. " alt="" coords="497,135,679,177"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1provider_1_1of_1_1flow_1_1impl_1_1OpenFlowRuleProvider.html" title="Provider which uses an OpenFlow controller to detect network end&#45;station hosts. " alt="" coords="470,201,706,242"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="5,103,192,145"/>
+</map>

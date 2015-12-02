@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.resource.MplsObjectsTest" name="org.onosproject.net.resource.MplsObjectsTest">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1MplsLabel.html" title="Representation of MPLS label resource. " alt="" coords="273,46,487,87"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1LinkResource.html" title="Abstraction of link resource. " alt="" coords="6,46,221,87"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1resource_1_1link_1_1MplsLabelResourceAllocation.html" title="Representation of allocated MPLS label resource. " alt="" coords="273,150,487,191"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1resource_1_1ResourceAllocation.html" title="Abstraction of allocated resource. " alt="" coords="18,150,209,191"/>
+</map>

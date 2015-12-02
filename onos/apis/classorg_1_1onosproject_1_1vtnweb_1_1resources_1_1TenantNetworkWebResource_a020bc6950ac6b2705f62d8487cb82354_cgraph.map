@@ -1,0 +1,4 @@
+<map id="org.onosproject.vtnweb.resources.TenantNetworkWebResource.getNetworks" name="org.onosproject.vtnweb.resources.TenantNetworkWebResource.getNetworks">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1TenantNetwork.html#a1de5f0d008e366b1fd22c38c5957a79a" title="Returns the tenantNetwork identifier. " alt="" coords="325,5,520,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1TenantNetwork.html#ab64f1e9410cb1d9b8c2aaa11fe7d3a87" title="Returns the tenantNetwork name. " alt="" coords="325,70,520,111"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="org.onosproject.net.driver.DefaultDriverHandlerTest" name="org.onosproject.net.driver.DefaultDriverHandlerTest">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1DefaultDriver.html" title="Default implementation of extensible driver. " alt="" coords="899,5,1072,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1Driver.html" title="Representation of a specific family of device drivers. " alt="" coords="472,6,645,47"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotations.html" title="Represents an set of simple key/value string annotations. " alt="" coords="6,36,213,63"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1net_1_1MutableAnnotations.html" title="Represents an mutable set of simple key/value string annotations. " alt="" coords="265,65,447,106"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1DefaultDriverHandler.html" title="Default implementation of driver handler. " alt="" coords="1096,139,1269,181"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1DriverHandler.html" title="Representation of context for interacting with a device. " alt="" coords="685,138,859,179"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onlab_1_1osgi_1_1ServiceDirectory.html" title="Simple abstraction of a service directory where service implementations can be found by the class nam..." alt="" coords="670,204,874,231"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1net_1_1driver_1_1DefaultDriverData.html" title="Default implementation of driver data descriptor. " alt="" coords="1096,74,1269,115"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1net_1_1driver_1_1DriverData.html" title="Container for data about a device. " alt="" coords="685,67,859,109"/>
+</map>

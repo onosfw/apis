@@ -1,0 +1,4 @@
+<map id="org.onosproject.cli.net.IntentsListCommand.execute" name="org.onosproject.cli.net.IntentsListCommand.execute">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1IntentService.html#acd7e93fce428388e5221caf7665ab162" title="Returns an iterable of intents currently in the system. " alt="" coords="248,5,421,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1IntentService.html#ad8e4acbd1e7eeba1cd071ad8c47f0307" title="Returns the list of intent requests pending processing. " alt="" coords="248,70,421,111"/>
+</map>

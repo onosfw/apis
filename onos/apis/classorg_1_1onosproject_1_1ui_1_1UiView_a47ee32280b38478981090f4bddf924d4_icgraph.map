@@ -1,0 +1,7 @@
+<map id="org.onosproject.ui.UiView.id" name="org.onosproject.ui.UiView.id">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1UiView.html#abf6028406b9e4837cfbdffd45f16ea09" title="org.onosproject.ui.UiView.to\lString" alt="" coords="249,5,436,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1UiView.html#a357d8ec3778cc443cd9083a46984ea14" title="Creates a new user interface view descriptor. " alt="" coords="255,70,430,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1UiExtensionManager.html#afa15f75c15efffc1cfe6795d66650a15" title="Unregisters the specified user interface extension. " alt="" coords="241,135,445,177"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ui_1_1UiView.html#a2cab06925b0c9de297809d787a7cf6db" title="org.onosproject.ui.UiView.equals" alt="" coords="493,77,707,104"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1UiExtensionManager.html#a25454679ded094f56ab9be5c11869e75" title="org.onosproject.ui.impl.\lUiExtensionManager.deactivate" alt="" coords="497,135,703,177"/>
+</map>

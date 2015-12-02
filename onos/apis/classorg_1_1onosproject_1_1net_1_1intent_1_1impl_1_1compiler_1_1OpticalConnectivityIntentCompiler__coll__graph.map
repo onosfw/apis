@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.intent.impl.compiler.OpticalConnectivityIntentCompiler" name="org.onosproject.net.intent.impl.compiler.OpticalConnectivityIntentCompiler">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="301,86,480,127"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1topology_1_1TopologyService.html" title="Service for providing network topology information. " alt="" coords="295,203,486,245"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1net_1_1newresource_1_1ResourceService.html" title="Service for allocating/releasing resource(s) and retrieving allocation(s) and availability. " alt="" coords="283,269,498,310"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1net_1_1intent_1_1IntentExtensionService.html" title="Service for extending the capability of intent framework by adding additional compilers or/and instal..." alt="" coords="304,334,477,375"/>
+</map>

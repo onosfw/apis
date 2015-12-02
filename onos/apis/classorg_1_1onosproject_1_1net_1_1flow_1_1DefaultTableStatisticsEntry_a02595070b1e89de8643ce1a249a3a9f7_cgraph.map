@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.DefaultTableStatisticsEntry.DefaultTableStatisticsEntry" name="org.onosproject.net.flow.DefaultTableStatisticsEntry.DefaultTableStatisticsEntry">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultTableStatisticsEntry.html#ab94f526aab9e5d019d1fa38f5f1daaee" title="Returns the number of active flow entries in this table. " alt="" coords="285,5,507,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1DefaultTableStatisticsEntry.html#a3e0312c594cf6a042ed52b2233250dd5" title="Returns the table number. " alt="" coords="283,86,509,127"/>
+</map>

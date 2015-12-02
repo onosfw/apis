@@ -1,0 +1,8 @@
+<map id="org.onosproject.net.intent.LinkCollectionIntentTest" name="org.onosproject.net.intent.LinkCollectionIntentTest">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1IntentTest.html" title="Base facilities to test various intent tests. " alt="" coords="569,5,743,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1AbstractIntentTest.html" title="org.onosproject.net.intent.\lAbstractIntentTest" alt="" coords="339,5,512,46"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1core_1_1IdGenerator.html" title="A generalized interface for ID generation. " alt="" coords="6,12,218,39"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1IntentTestsMocks.html" title="Common mocks used by the intent framework tests. " alt="" coords="569,70,743,111"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1TrafficSelector.html" title="Abstraction of a slice of network traffic. " alt="" coords="573,135,739,177"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1net_1_1ConnectPoint.html" title="Abstraction of a network connection point expressed as a pair of the network element identifier and p..." alt="" coords="563,201,749,242"/>
+</map>

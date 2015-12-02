@@ -1,0 +1,4 @@
+<map id="org.onlab.packet.IPv6.deserialize" name="org.onlab.packet.IPv6.deserialize">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1IPv6.html#a08ffbd242844582b256cd0b9b1d2820e" title="Deserializer function for IPv6 packets. " alt="" coords="269,5,488,32"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1IPv6.html#ac08ff7fc87731e0e953e41e3245ebf09" title="Default constructor that sets the version to 6. " alt="" coords="537,5,717,32"/>
+</map>

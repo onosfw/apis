@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.group.DefaultGroupBucket" name="org.onosproject.net.group.DefaultGroupBucket">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupBucket.html" title="Group Bucket definition. " alt="" coords="5,5,179,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1StoredGroupBucketEntry.html" title="Generic group bucket entry representation that is stored in a group object. " alt="" coords="227,34,400,75"/>
+</map>

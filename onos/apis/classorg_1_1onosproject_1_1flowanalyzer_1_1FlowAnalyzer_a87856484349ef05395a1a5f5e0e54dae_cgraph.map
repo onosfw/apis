@@ -1,0 +1,4 @@
+<map id="org.onosproject.flowanalyzer.FlowAnalyzer.flowEntryRepresentation" name="org.onosproject.flowanalyzer.FlowAnalyzer.flowEntryRepresentation">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRule.html#a3b17ef174daf0f55c342e34f9e810365" title="Returns the traffic selector that identifies what traffic this rule should apply to. " alt="" coords="301,5,467,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1flow_1_1FlowRule.html#a3532d0be025446d99fdffb630ee9417b" title="Returns the traffic treatment that applies to selected traffic. " alt="" coords="301,70,467,111"/>
+</map>

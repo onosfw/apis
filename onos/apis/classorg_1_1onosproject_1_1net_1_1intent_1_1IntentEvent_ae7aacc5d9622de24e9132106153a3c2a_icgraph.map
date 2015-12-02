@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.intent.IntentEvent.getEvent" name="org.onosproject.net.intent.IntentEvent.getEvent">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleIntentStore.html#ace9b27c73b09523c2a4c72218435de78" title="Adds a new operation, which should be persisted and delegated. " alt="" coords="227,5,426,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleIntentStore.html#a59010c6b20145587ee4cc610ba9adb2d" title="Writes an IntentData object to the store. " alt="" coords="235,70,418,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleIntentStore.html#a334c1ec271580f9866ea7b3529a24121" title="Writes a batch of IntentData objects to the store. " alt="" coords="475,70,669,111"/>
+</map>

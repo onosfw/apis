@@ -1,0 +1,4 @@
+<map id="org.onlab.packet.IGMPQuery" name="org.onlab.packet.IGMPQuery">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1IGMPGroup.html" title="A class to represent Groups for membership query and reports. " alt="" coords="62,189,252,216"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1packet_1_1IpAddress.html" title="A class representing an IP address. " alt="" coords="196,91,377,117"/>
+</map>

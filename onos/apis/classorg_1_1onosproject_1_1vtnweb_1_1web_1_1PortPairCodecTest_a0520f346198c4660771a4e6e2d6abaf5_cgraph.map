@@ -1,0 +1,9 @@
+<map id="org.onosproject.vtnweb.web.PortPairCodecTest.codecPortPairTest" name="org.onosproject.vtnweb.web.PortPairCodecTest.codecPortPairTest">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortPair.html#a71db502e16370861f1a9db5c19c333d6" title="Returns the description of this port pair. " alt="" coords="299,5,477,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortPair.html#a0615dd9c40a0d0785b6f6a0c9703da8c" title="Returns the egress port of this port pair. " alt="" coords="299,70,477,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortPair.html#ae75bb3ff2827c20a419237c77684bdb4" title="Returns the ingress port of this port pair. " alt="" coords="299,135,477,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortPair.html#a9363b624bd02318f98a3904dac2a2cd0" title="Returns the description of this port pair. " alt="" coords="299,201,477,242"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortPair.html#ad1e7b9d14284b75b6d76b094ded3a4d4" title="Returns the ID of this port Pair. " alt="" coords="299,266,477,307"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1PortPair.html#a9765dba16b93c685d3c5e5c9243f0f6a" title="Returns the tenant id of this port pair. " alt="" coords="299,331,477,373"/>
+<area shape="rect" id="node8" href="$classorg_1_1onosproject_1_1vtnrsc_1_1PortPairId.html#a183a7c30dcb27ab6fc5d6cdbfcc4d6ff" title="org.onosproject.vtnrsc.Port\lPairId.toString" alt="" coords="299,397,477,438"/>
+</map>

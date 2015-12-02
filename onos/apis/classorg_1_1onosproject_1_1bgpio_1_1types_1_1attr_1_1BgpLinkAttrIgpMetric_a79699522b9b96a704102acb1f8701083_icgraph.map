@@ -1,0 +1,4 @@
+<map id="org.onosproject.bgpio.types.attr.BgpLinkAttrIgpMetric.BgpLinkAttrIgpMetric" name="org.onosproject.bgpio.types.attr.BgpLinkAttrIgpMetric.BgpLinkAttrIgpMetric">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpLinkAttrIgpMetric.html#ab002b763f19c0d96172b32347a5bb710" title="org.onosproject.bgpio.types.attr.\lBgpLinkAttrIgpMetric.equals" alt="" coords="326,5,535,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1attr_1_1BgpLinkAttrIgpMetric.html#a6680be2f4b8ff941a1c4b638cb228ea3" title="Returns object of this class with specified values. " alt="" coords="326,70,535,111"/>
+</map>

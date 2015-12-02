@@ -1,0 +1,4 @@
+<map id="org.onosproject.ui.impl.UiExtensionManager.deactivate" name="org.onosproject.ui.impl.UiExtensionManager.deactivate">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1UiExtensionManager.html#afa15f75c15efffc1cfe6795d66650a15" title="Unregisters the specified user interface extension. " alt="" coords="262,5,466,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1UiView.html#a47ee32280b38478981090f4bddf924d4" title="Returns the view identifier. " alt="" coords="515,12,701,39"/>
+</map>

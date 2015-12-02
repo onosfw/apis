@@ -1,0 +1,11 @@
+<map id="org.onosproject.vtnrsc.flowclassifier.impl.FlowClassifierManagerTest" name="org.onosproject.vtnrsc.flowclassifier.impl.FlowClassifierManagerTest">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnrsc_1_1FlowClassifierId.html" title="Flow classification identifier. " alt="" coords="422,5,605,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultFlowClassifier.html" title="Provides Default flow classifier. " alt="" coords="415,70,612,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1FlowClassifier.html" title="Abstraction of an entity which provides flow classifier for service function chain. " alt="" coords="31,105,214,146"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1vtnrsc_1_1TenantId.html" title="Immutable representation of a tenant identifier. " alt="" coords="410,199,617,225"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1vtnrsc_1_1flowclassifier_1_1impl_1_1FlowClassifierManager.html" title="Provides implementation of the Flow Classifier Service. " alt="" coords="382,250,645,291"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1flowclassifier_1_1FlowClassifierService.html" title="Provides Services for Flow Classifier. " alt="" coords="5,190,240,231"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="25,255,220,297"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1vtnrsc_1_1VirtualPortId.html" title="Immutable representation of a virtual port identifier. " alt="" coords="417,315,609,357"/>
+<area shape="rect" id="node10" href="$classorg_1_1onlab_1_1packet_1_1IpPrefix.html" title="A class representing an IP prefix. " alt="" coords="430,381,597,408"/>
+</map>

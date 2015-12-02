@@ -1,0 +1,4 @@
+<map id="org.onosproject.cluster.DefaultControllerNode.DefaultControllerNode" name="org.onosproject.cluster.DefaultControllerNode.DefaultControllerNode">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cluster_1_1DefaultControllerNode.html#a0df11d1ec42595b0a5158b45c9f7bb9f" title="Returns the IP address of the controller instance. " alt="" coords="267,5,432,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1cluster_1_1DefaultControllerNode.html#a1eb2d00ebd7c24406c78494955d60554" title="Returns the TCP port on which the node listens for connections. " alt="" coords="251,70,448,111"/>
+</map>

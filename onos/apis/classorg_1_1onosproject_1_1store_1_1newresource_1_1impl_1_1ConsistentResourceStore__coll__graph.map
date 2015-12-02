@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.newresource.impl.ConsistentResourceStore" name="org.onosproject.store.newresource.impl.ConsistentResourceStore">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1newresource_1_1ResourceStore.html" title="Service for storing resource and consumer information. " alt="" coords="235,86,450,127"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="245,151,440,193"/>
+</map>

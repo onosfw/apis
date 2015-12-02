@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.consistent.impl.CopycatCommunicationProtocol" name="org.onosproject.store.consistent.impl.CopycatCommunicationProtocol">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="319,57,478,98"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1store_1_1cluster_1_1messaging_1_1ClusterCommunicationService.html" title="Service for assisting communications between controller cluster nodes. " alt="" coords="269,122,528,163"/>
+</map>

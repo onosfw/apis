@@ -1,0 +1,7 @@
+<map id="org.onosproject.codec.impl.GroupCodec.encode" name="org.onosproject.codec.impl.GroupCodec.encode">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupDescription.html#abf9a74e758cd0fcb6ca4f1e03082590f" title="Returns application cookie associated with a group object. " alt="" coords="245,5,435,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupDescription.html#a5536c7debb696211c10ddf5da4cdef2d" title="Returns application identifier that has created this group object. " alt="" coords="253,70,427,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupDescription.html#a5bcd16c2f5ae71674b75546e160c2dec" title="Returns device identifier on which this group object is created. " alt="" coords="252,135,428,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1GroupDescription.html#ae0195a1d05d4aae4d169bfe151b23441" title="Returns groupId passed in by caller. " alt="" coords="238,201,442,242"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1group_1_1Group.html#a4e851b01a3a869395e50c33b2a85e4b9" title="Returns current state of a group object. " alt="" coords="253,266,427,307"/>
+</map>

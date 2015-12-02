@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.link.LinkListener" name="org.onosproject.net.link.LinkListener">
+<area shape="rect" id="node3" title="Inner Link Event Listener class. " alt="" coords="471,5,692,46"/>
+<area shape="rect" id="node5" title="An implementation of LinkListener registering links as resources. " alt="" coords="460,135,703,177"/>
+</map>

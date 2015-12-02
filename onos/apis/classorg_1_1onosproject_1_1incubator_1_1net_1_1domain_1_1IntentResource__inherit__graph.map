@@ -1,0 +1,4 @@
+<map id="org.onosproject.incubator.net.domain.IntentResource" name="org.onosproject.incubator.net.domain.IntentResource">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1domain_1_1DomainIntentResource.html" title="A variant of intent resource specialized for use on the intra&#45;domain level. " alt="" coords="293,5,533,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1incubator_1_1net_1_1domain_1_1NetworkIntentResource.html" title="A variant of intent resource specialized for use on the inter&#45;domain level. " alt="" coords="293,70,533,111"/>
+</map>

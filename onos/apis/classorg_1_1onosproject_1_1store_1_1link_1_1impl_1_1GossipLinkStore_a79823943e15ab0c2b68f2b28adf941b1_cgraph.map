@@ -1,0 +1,8 @@
+<map id="org.onosproject.store.link.impl.GossipLinkStore.removeOrDownLink" name="org.onosproject.store.link.impl.GossipLinkStore.removeOrDownLink">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1Link.html#a13f6d04f4d252bee19974a6c5398d726" title="Returns the link destination connection point. " alt="" coords="325,5,507,32"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1link_1_1impl_1_1GossipLinkStore.html#a486df08dd5ac049d12c8d9f1b1ba9775" title="Returns the link between the two end&#45;points. " alt="" coords="316,57,516,98"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1Link.html#a06b276b4ecd3abf1a93ee1df7e94fda2" title="Indicates if the link is to be considered durable. " alt="" coords="329,122,503,163"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1Provided.html#abd36699116ebf3fe789f6b27b20c581b" title="Returns the identifier of the provider which supplied the entity. " alt="" coords="291,188,541,215"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1store_1_1link_1_1impl_1_1GossipLinkStore.html#ab0efe48b2e0fb5d546c436aee925feac" title="Removes the link based on the specified information. " alt="" coords="316,239,516,281"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1Link.html#a08627aabcd43982af8c20cb6c01ae02a" title="Returns the link source connection point. " alt="" coords="325,305,507,332"/>
+</map>

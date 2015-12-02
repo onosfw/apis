@@ -1,0 +1,5 @@
+<map id="org.onosproject.store.trivial.SimpleMastershipStore.getMaster" name="org.onosproject.store.trivial.SimpleMastershipStore.getMaster">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleMastershipStoreTest.html#a6592ab98be5e2ce67ad93cdf35197d1d" title="org.onosproject.store.trivial.\lSimpleMastershipStoreTest.getMaster" alt="" coords="272,5,517,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleMastershipStore.html#a403fce8e210164a2e1bc774529f836f2" title="Requests role of the local node for the specified device. " alt="" coords="279,70,510,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleMastershipStoreTest.html#a5a835a2d5f0ebe962d143f041992ba13" title="org.onosproject.store.trivial.\lSimpleMastershipStoreTest.requestRole" alt="" coords="566,70,823,111"/>
+</map>

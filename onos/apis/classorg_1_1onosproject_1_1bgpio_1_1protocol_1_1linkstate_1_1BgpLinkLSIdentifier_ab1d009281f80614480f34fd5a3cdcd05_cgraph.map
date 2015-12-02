@@ -1,0 +1,8 @@
+<map id="org.onosproject.bgpio.protocol.linkstate.BgpLinkLSIdentifier.compareTo" name="org.onosproject.bgpio.protocol.linkstate.BgpLinkLSIdentifier.compareTo">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1BgpLinkLSIdentifier.html#a0dfe20f584de95a9a80a849ce4e0b394" title="Initialize fields. " alt="" coords="632,5,885,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1NodeDescriptors.html#ab6458f5ed01bc4235a0f07ce07676c82" title="org.onosproject.bgpio.protocol.linkstate.\lNodeDescriptors.compareTo" alt="" coords="319,99,572,141"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1BgpLinkLSIdentifier.html#a14a262d458bd029a2c9d7a50a68ab5dd" title="org.onosproject.bgpio.protocol.linkstate.\lBgpLinkLSIdentifier.equals" alt="" coords="319,34,572,75"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1BgpLinkLSIdentifier.html#a8e2ea5fd6f93fe84450879c830794f05" title="Returns remote node descriptors. " alt="" coords="307,165,584,206"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1NodeDescriptors.html#a35eb64b266804d36c10661ad17e9990d" title="org.onosproject.bgpio.protocol.linkstate.\lNodeDescriptors.equals" alt="" coords="632,70,885,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1bgpio_1_1protocol_1_1linkstate_1_1NodeDescriptors.html#a5772e11abf4803fdac903849de082805" title="Resets parameters. " alt="" coords="933,99,1187,141"/>
+</map>

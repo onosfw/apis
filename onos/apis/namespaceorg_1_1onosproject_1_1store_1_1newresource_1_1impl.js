@@ -1,0 +1,4 @@
+var namespaceorg_1_1onosproject_1_1store_1_1newresource_1_1impl =
+[
+    [ "ConsistentResourceStore", "classorg_1_1onosproject_1_1store_1_1newresource_1_1impl_1_1ConsistentResourceStore.html", "classorg_1_1onosproject_1_1store_1_1newresource_1_1impl_1_1ConsistentResourceStore" ]
+];

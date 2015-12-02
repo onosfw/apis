@@ -1,0 +1,5 @@
+<map id="org.onosproject.bgp.controller.impl.BgpControllerImpl.deactivate" name="org.onosproject.bgp.controller.impl.BgpControllerImpl.deactivate">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpControllerImpl.html#a75fcb24f3c23840013bfe8bac8230edb" title="Close all connected BGP peers. " alt="" coords="280,38,539,79"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpControllerImpl.html#a3c0ff9aff113c08317d70f882e92a4c8" title="Return BGP connected peers. " alt="" coords="587,5,813,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpControllerImpl.html#af8fe189fb027ca1c55e6b7fba24fbab0" title="Returns the actual bgp peer for the given ip address. " alt="" coords="587,70,813,111"/>
+</map>

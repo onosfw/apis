@@ -1,0 +1,5 @@
+<map id="org.onosproject.routing.cli.BgpRoutesListCommand.execute" name="org.onosproject.routing.cli.BgpRoutesListCommand.execute">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1routing_1_1bgp_1_1BgpSession.html#a730ed22249ac80ef87fde334f67bdccf" title="Gets the IPv4 BGP RIB&#45;IN routing entries. " alt="" coords="286,5,469,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1routing_1_1bgp_1_1BgpInfoService.html#aea3d3cef6e94d2e3297816c3753f8bef" title="Gets the selected IPv4 BGP routes among all BGP sessions. " alt="" coords="275,70,480,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1routing_1_1bgp_1_1BgpInfoService.html#a69cdc8d7d3fa16c749195ec8d29dd905" title="Gets the BGP sessions. " alt="" coords="272,135,483,177"/>
+</map>

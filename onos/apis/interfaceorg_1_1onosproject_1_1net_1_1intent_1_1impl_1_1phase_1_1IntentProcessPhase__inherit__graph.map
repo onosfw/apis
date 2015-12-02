@@ -1,0 +1,12 @@
+<map id="org.onosproject.net.intent.impl.phase.IntentProcessPhase" name="org.onosproject.net.intent.impl.phase.IntentProcessPhase">
+<area shape="rect" id="node2" title="Represents a phase where an intent is being compiled or recompiled. " alt="" coords="293,103,533,145"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1impl_1_1phase_1_1FinalIntentProcessPhase.html" title="Represents a final phase of processing an intent. " alt="" coords="293,169,533,210"/>
+<area shape="rect" id="node10" title="Represents a phase where intent installation has been requested. " alt="" coords="293,234,533,275"/>
+<area shape="rect" id="node11" title="Represents a phase of requesting a withdraw of an intent. " alt="" coords="293,299,533,341"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1impl_1_1phase_1_1Corrupt.html" title="A class representing errors removing or installing intents. " alt="" coords="581,5,821,46"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1impl_1_1phase_1_1Failed.html" title="Represents a phase where the compile has failed. " alt="" coords="581,70,821,111"/>
+<area shape="rect" id="node6" title="Represents a phase where an intent is being installed. " alt="" coords="581,135,821,177"/>
+<area shape="rect" id="node7" title="Represents a phase of requesting a purge of an intent. " alt="" coords="581,201,821,242"/>
+<area shape="rect" id="node8" title="Represents a phase where an intent is withdrawing. " alt="" coords="581,266,821,307"/>
+<area shape="rect" id="node9" title="Represents a phase where an intent has been withdrawn. " alt="" coords="581,331,821,373"/>
+</map>

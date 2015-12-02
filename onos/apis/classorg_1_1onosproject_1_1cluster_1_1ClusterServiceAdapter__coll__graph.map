@@ -1,0 +1,4 @@
+<map id="org.onosproject.cluster.ClusterServiceAdapter" name="org.onosproject.cluster.ClusterServiceAdapter">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="31,113,189,154"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ControllerNode.html" title="Represents a controller instance as a member in a cluster. " alt="" coords="214,113,372,154"/>
+</map>

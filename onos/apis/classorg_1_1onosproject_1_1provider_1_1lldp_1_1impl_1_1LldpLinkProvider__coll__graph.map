@@ -1,0 +1,17 @@
+<map id="org.onosproject.provider.lldp.impl.LldpLinkProvider" name="org.onosproject.provider.lldp.impl.LldpLinkProvider">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1AbstractProvider.html" title="Base provider implementation. " alt="" coords="767,5,953,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="303,33,489,74"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkProvider.html" title="Abstraction of an entity providing information about infrastructure links to the core. " alt="" coords="779,70,941,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="771,135,949,177"/>
+<area shape="rect" id="node7" href="$classorg_1_1onosproject_1_1provider_1_1lldp_1_1impl_1_1SuppressionRules.html" title="org.onosproject.provider.lldp.impl.\lSuppressionRules" alt="" coords="751,201,969,242"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1cfg_1_1ComponentConfigService.html" title="Service for tracking system&#45;wide configurations for various software components. " alt="" coords="758,266,962,307"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkService.html" title="Service for interacting with the inventory of infrastructure links. " alt="" coords="779,331,941,373"/>
+<area shape="rect" id="node11" href="$interfaceorg_1_1onosproject_1_1net_1_1packet_1_1PacketService.html" title="Service for intercepting data plane packets and for emitting synthetic outbound packets. " alt="" coords="770,397,950,438"/>
+<area shape="rect" id="node14" href="$interfaceorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigRegistry.html" title="Service for tracking network configuration factories. " alt="" coords="772,609,948,650"/>
+<area shape="rect" id="node15" href="$interfaceorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigService.html" title="Service for tracking network configurations which specify how the discovered network information shou..." alt="" coords="308,554,484,595"/>
+<area shape="rect" id="node17" href="$interfaceorg_1_1onosproject_1_1cluster_1_1ClusterService.html" title="Service for obtaining information about the individual nodes within the controller cluster..." alt="" coords="781,674,939,715"/>
+<area shape="rect" id="node19" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="774,739,946,781"/>
+<area shape="rect" id="node20" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="303,739,489,781"/>
+<area shape="rect" id="node21" href="$interfaceorg_1_1onosproject_1_1mastership_1_1MastershipService.html" title="Service responsible for determining the controller instance mastership of a device in a clustered env..." alt="" coords="769,809,951,850"/>
+<area shape="rect" id="node23" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkProviderRegistry.html" title="Abstraction of an infrastructure link provider registry. " alt="" coords="779,885,941,926"/>
+</map>

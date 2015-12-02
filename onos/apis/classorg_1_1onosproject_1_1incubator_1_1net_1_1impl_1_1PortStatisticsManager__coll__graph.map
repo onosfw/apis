@@ -1,0 +1,4 @@
+<map id="org.onosproject.incubator.net.impl.PortStatisticsManager" name="org.onosproject.incubator.net.impl.PortStatisticsManager">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1PortStatisticsService.html" title="Service for obtaining statistic information about device ports. " alt="" coords="267,5,461,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="275,70,453,111"/>
+</map>

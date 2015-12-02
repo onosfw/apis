@@ -1,0 +1,8 @@
+<map id="org.onosproject.net.link.impl.LinkManager" name="org.onosproject.net.link.impl.LinkManager">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkService.html" title="Service for interacting with the inventory of infrastructure links. " alt="" coords="291,121,453,162"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkAdminService.html" title="Service for administering the inventory of infrastructure links. " alt="" coords="561,166,722,207"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkProviderRegistry.html" title="Abstraction of an infrastructure link provider registry. " alt="" coords="561,231,722,273"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="552,297,731,338"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkStore.html" title="Manages inventory of infrastructure links; not intended for direct use. " alt="" coords="561,366,722,407"/>
+<area shape="rect" id="node12" href="$interfaceorg_1_1onosproject_1_1net_1_1config_1_1NetworkConfigService.html" title="Service for tracking network configurations which specify how the discovered network information shou..." alt="" coords="553,442,729,483"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.ui.topo.HighlightsTest.highlightRetrieval" name="org.onosproject.ui.topo.HighlightsTest.highlightRetrieval">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1Highlights.html#a9db3ccfcaa9598783947d4c1450fe189" title="Returns the device highlight for the given device identifier, or null if no match. " alt="" coords="265,5,423,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1Highlights.html#ab18112bc52674d01afb4e5daec3ceedc" title="Returns the host highlight for the given host identifier, or null if no match. " alt="" coords="265,70,423,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1Highlights.html#a965f8e8cb86ee9dbd550d25a1d77c68b" title="Returns the node highlight (device or host) for the given element identifier, or null if no match..." alt="" coords="265,135,423,177"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.newresource.impl.ResourceManager.release" name="org.onosproject.net.newresource.impl.ResourceManager.release">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1newresource_1_1impl_1_1ResourceManager.html#a80fa19de390e3f150670d761df6bcc4d" title="Transactionally releases the specified resource allocations. " alt="" coords="296,38,539,79"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1newresource_1_1ResourceAllocation.html#a79a6750da2c98da861c773f17797d168" title="Returns the consumer of this resource. " alt="" coords="587,5,802,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1newresource_1_1ResourceAllocation.html#a9199462a50bb21568bb016368cca558b" title="Returns the specifier of the resource this allocation uses. " alt="" coords="587,70,802,111"/>
+</map>

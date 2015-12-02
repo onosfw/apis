@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.meter.DefaultMeter" name="org.onosproject.net.meter.DefaultMeter">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1meter_1_1Meter.html" title="Represents a generalized meter to be deployed on a device. " alt="" coords="5,6,179,47"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1meter_1_1MeterEntry.html" title="Represents a stored meter. " alt="" coords="67,97,241,138"/>
+</map>

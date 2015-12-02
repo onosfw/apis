@@ -1,0 +1,7 @@
+<map id="org.onosproject.net.DefaultEdgeLink.createEdgeLink" name="org.onosproject.net.DefaultEdgeLink.createEdgeLink">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1DefaultEdgeLink.html#ae7c3d1489506fc2e315cdd6c91de1ff3" title="Creates an edge link using the supplied information. " alt="" coords="251,37,429,78"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1Host.html#affddfa64e5416474b5f33939467d9834" title="Host identification. " alt="" coords="251,103,429,129"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1Host.html#aa63e16b9faea2fb8f8210ad092370b06" title="Returns the most recent host location where the host attaches to the network edge. " alt="" coords="233,153,447,180"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1AbstractAnnotated.html#a2858b84119b1f766fd6222e79efa1b93" title="Returns the key/value annotations. " alt="" coords="496,5,683,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1DefaultEdgeLink.html#a0c2fdbe9ab5814cf36b1a87f2eeaea41" title="Returns the connection point where the host attaches to the network infrastructure. " alt="" coords="500,70,679,111"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.onosproject.bgpio.util.Validation.getLength" name="org.onosproject.bgpio.util.Validation.getLength">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1MpUnReachNlri.html#aa764d5532261baf508a62717c3cc702b" title="Reads from ChannelBuffer and parses MpUnReachNlri. " alt="" coords="224,5,411,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1Origin.html#a752de386b97edc0d0c7796369cab1b87" title="Reads from ChannelBuffer and parses Origin. " alt="" coords="224,70,411,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1MpReachNlri.html#a7a6eb8dad2b8fe0bb36727f2861a96dd" title="Reads from ChannelBuffer and parses MpReachNlri. " alt="" coords="224,135,411,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1bgpio_1_1types_1_1LinkStateAttributes.html#a68824c71d28e36bc4a0feb6c25ba9e0f" title="Reads the Link state attribute TLVs. " alt="" coords="224,201,411,242"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="org.onosproject.provider.of.meter.impl.OpenFlowMeterProvider" name="org.onosproject.provider.of.meter.impl.OpenFlowMeterProvider">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1AbstractProvider.html" title="Base provider implementation. " alt="" coords="480,5,667,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1provider_1_1Provider.html" title="Abstraction of a provider of information about network environment. " alt="" coords="43,37,229,78"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1meter_1_1MeterProvider.html" title="Abstraction of a Meter provider. " alt="" coords="486,70,661,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1openflow_1_1controller_1_1OpenFlowController.html" title="Abstraction of an OpenFlow controller. " alt="" coords="459,135,687,177"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1meter_1_1MeterProviderRegistry.html" title="Abstraction for a meter provider registry. " alt="" coords="486,201,661,242"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1core_1_1CoreService.html" title="Service for interacting with the core system of the controller. " alt="" coords="487,271,659,313"/>
+<area shape="rect" id="node9" href="$classorg_1_1onosproject_1_1net_1_1provider_1_1ProviderId.html" title="External identity of a org.onosproject.net.provider.Provider family. " alt="" coords="43,306,229,347"/>
+</map>

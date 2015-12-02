@@ -1,0 +1,5 @@
+<map id="org.onosproject.store.resource.impl.ConsistentIntentSetMultimap" name="org.onosproject.store.resource.impl.ConsistentIntentSetMultimap">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1resource_1_1device_1_1IntentSetMultimap.html" title="org.onosproject.net.resource.device.\lIntentSetMultimap" alt="" coords="267,5,501,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="295,70,473,111"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="287,135,481,177"/>
+</map>

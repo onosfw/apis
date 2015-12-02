@@ -1,0 +1,11 @@
+<map id="org.onosproject.app.DefaultApplicationDescriptionTest.basics" name="org.onosproject.app.DefaultApplicationDescriptionTest.basics">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1app_1_1ApplicationDescription.html#afa27394895d7987ef5e6faf9472f5fef" title="Returns description of the application. " alt="" coords="275,5,479,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1app_1_1ApplicationDescription.html#ab27dccf40e61652ca185096d8e95be95" title="Returns the list of features comprising the application. " alt="" coords="275,70,479,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1app_1_1ApplicationDescription.html#aab4176c84264d507f7237e3a341662f3" title="Returns the feature repository URI. " alt="" coords="275,135,479,177"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1app_1_1ApplicationDescription.html#a0c83dab97c94c8a2e8407ec8c513a529" title="Returns the application name id. " alt="" coords="275,201,479,242"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1app_1_1ApplicationDescription.html#aa25d22ff8c680e5d048433d3b649aed5" title="Returns the name of the application origin, group or company. " alt="" coords="275,266,479,307"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1app_1_1ApplicationDescription.html#a8df4b9e90ddf1c6db49dc8976ff2aab6" title="Returns the permissions requested by the application. " alt="" coords="275,331,479,373"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1app_1_1ApplicationDescription.html#a05cec7d544bd24a257ea05a06c8d9179" title="Returns list of required application names. " alt="" coords="275,397,479,438"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1app_1_1ApplicationDescription.html#a0eb13938138be8df7d7306c3d1b8b3e1" title="Returns the role of the application. " alt="" coords="275,462,479,503"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1onosproject_1_1app_1_1ApplicationDescription.html#ae08c043aa7fdfffa9754d84d1b9b623d" title="Returns the application version. " alt="" coords="275,527,479,569"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.service.Transaction.state" name="org.onosproject.store.service.Transaction.state">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1consistent_1_1impl_1_1TransactionManager.html#a29b539f2080ccc50c72fa17c70894f9d" title="Executes the specified transaction by employing a two phase commit protocol. " alt="" coords="248,5,488,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1Transaction.html#a167209f6adc4383d88ff84dcef674ca9" title="Returns true if this transaction has completed execution. " alt="" coords="271,70,465,111"/>
+</map>

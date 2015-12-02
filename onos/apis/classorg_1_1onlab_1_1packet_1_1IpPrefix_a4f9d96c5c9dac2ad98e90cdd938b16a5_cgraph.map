@@ -1,0 +1,4 @@
+<map id="org.onlab.packet.IpPrefix.contains" name="org.onlab.packet.IpPrefix.contains">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1IpPrefix.html#a0804680278fcde788563c7140039ab03" title="Returns the IP address prefix length. " alt="" coords="280,5,483,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1IpPrefix.html#a324cbbae277ac8ac45da17d1d73b8bd7" title="Returns the IP version of the prefix. " alt="" coords="275,71,488,97"/>
+</map>

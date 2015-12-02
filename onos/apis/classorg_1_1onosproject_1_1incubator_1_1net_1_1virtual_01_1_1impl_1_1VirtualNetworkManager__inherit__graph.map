@@ -1,0 +1,5 @@
+<map id="org.onosproject.incubator.net.virtual .impl.VirtualNetworkManager" name="org.onosproject.incubator.net.virtual .impl.VirtualNetworkManager">
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1virtual_01_1_1VirtualNetworkService.html" title="Service for querying virtual network inventory. " alt="" coords="5,145,235,186"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1virtual_01_1_1VirtualNetworkAdminService.html" title="Service for managing the inventory of virtual networks. " alt="" coords="296,181,525,222"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1virtual_01_1_1VirtualNetworkProviderRegistry.html" title="Abstraction of a virtual network provider registry. " alt="" coords="296,246,525,287"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.DefaultAnnotations.builder" name="org.onosproject.net.DefaultAnnotations.builder">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1DefaultDeviceTest.html#aab2147ad64af88c5e27b950bbf21a9b8" title="org.onosproject.net.Default\lDeviceTest.annotations" alt="" coords="271,5,449,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1provider_1_1lldp_1_1impl_1_1LldpLinkProviderTest.html#ae19ddc97136a3ddf729779178ef1e54d" title="Checks that discovery on reconfigured switch are properly restarted. " alt="" coords="233,71,487,127"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1provider_1_1lldp_1_1impl_1_1LldpLinkProviderTest.html#a43b8dc36d4d80f2e24e023f25270cbad" title="Checks that discovery on reconfigured port are properly restarted. " alt="" coords="233,151,487,207"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1provider_1_1lldp_1_1impl_1_1LldpLinkProviderTest.html#a3b3dac5c6eb219cee993776421ee30d3" title="Checks that links on a reconfigured switch are properly removed. " alt="" coords="233,231,487,287"/>
+</map>

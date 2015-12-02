@@ -1,0 +1,5 @@
+<map id="org.onosproject.net.flow.instructions.ExtensionTreatmentType.equals" name="org.onosproject.net.flow.instructions.ExtensionTreatmentType.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1driver_1_1extensions_1_1NiciraExtensionTreatmentInterpreter.html#ac056d8fd39387903673a358a5adbd474" title="Gets an extension instruction instance of the specified type, if supported by the driver..." alt="" coords="310,5,565,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1driver_1_1extensions_1_1NiciraExtensionTreatmentInterpreter.html#ac8dcba6958f183f772c61f3339ac4379" title="Maps an extension instruction to an OpenFlow action. " alt="" coords="307,85,568,141"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1driver_1_1extensions_1_1NiciraExtensionTreatmentInterpreter.html#aedaf577d36649f8dcbed1c92859c4373" title="Returns true if the given extension instruction is supported by this driver. " alt="" coords="291,166,584,207"/>
+</map>

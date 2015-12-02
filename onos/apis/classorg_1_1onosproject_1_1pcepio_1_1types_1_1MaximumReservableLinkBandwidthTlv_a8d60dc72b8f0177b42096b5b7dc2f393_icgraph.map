@@ -1,0 +1,4 @@
+<map id="org.onosproject.pcepio.types.MaximumReservableLinkBandwidthTlv.MaximumReservableLinkBandwidthTlv" name="org.onosproject.pcepio.types.MaximumReservableLinkBandwidthTlv.MaximumReservableLinkBandwidthTlv">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1pcepio_1_1types_1_1MaximumReservableLinkBandwidthTlv.html#a19e92432af0c1a418349246b67c62219" title="org.onosproject.pcepio.types.\lMaximumReservableLinkBandwidthTlv.equals" alt="" coords="307,5,597,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1pcepio_1_1types_1_1MaximumReservableLinkBandwidthTlv.html#a0d3a483abc7269d708cfca8ebb3fbeb5" title="Returns newly created MaximumReservableLinkBandwidth object. " alt="" coords="321,70,583,111"/>
+</map>

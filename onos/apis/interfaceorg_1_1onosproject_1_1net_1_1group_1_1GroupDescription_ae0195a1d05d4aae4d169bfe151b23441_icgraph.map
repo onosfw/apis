@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.group.GroupDescription.givenGroupId" name="org.onosproject.net.group.GroupDescription.givenGroupId">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1codec_1_1impl_1_1GroupCodec.html#a8febf72f79ba8b33b0af9730129643f3" title="org.onosproject.codec.impl.\lGroupCodec.encode" alt="" coords="303,5,486,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleGroupStore.html#afe5bd74ca52cb543a26033ba9e37d38b" title="Updates the existing group entry with the information from group description. " alt="" coords="259,70,531,111"/>
+</map>

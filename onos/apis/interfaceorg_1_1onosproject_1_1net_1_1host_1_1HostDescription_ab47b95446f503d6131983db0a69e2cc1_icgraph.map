@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.host.HostDescription.location" name="org.onosproject.net.host.HostDescription.location">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1host_1_1DefaultHostDecriptionTest.html#ad0874004fa85cd8e4bd59ef25bf4292a" title="org.onosproject.net.host.\lDefaultHostDecriptionTest.basics" alt="" coords="244,5,463,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1host_1_1impl_1_1BasicHostOperator.html#acdc8055fc6281d11632c72a9f7faa8f7" title="Generates a HostDescription containing fields from a HostDescription and a HostConfig. " alt="" coords="256,70,451,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1provider_1_1host_1_1impl_1_1HostLocationProviderTest.html#a5976484f64069bb8350ab4001af2513b" title="When receiving IPv6 unicast packet, updates location only. " alt="" coords="230,136,477,192"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1provider_1_1host_1_1impl_1_1HostLocationProviderTest.html#a2a88a41fc1ae0c9032017e14417f549c" title="When receiving NeighborAdvertisement, updates location and IP. " alt="" coords="221,217,485,258"/>
+</map>

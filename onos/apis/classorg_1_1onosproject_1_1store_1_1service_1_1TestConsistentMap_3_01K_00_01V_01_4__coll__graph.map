@@ -1,0 +1,4 @@
+<map id="org.onosproject.store.service.TestConsistentMap&lt; K, V &gt;" name="org.onosproject.store.service.TestConsistentMap&lt; K, V &gt;">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1service_1_1ConsistentMapAdapter_3_01K_00_01V_01_4.html" title="Testing adapter for the consistent map. " alt="" coords="5,97,211,138"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1ConsistentMap_3_01K_00_01V_01_4.html" title="A distributed, strongly consistent key&#45;value map. " alt="" coords="11,6,205,47"/>
+</map>

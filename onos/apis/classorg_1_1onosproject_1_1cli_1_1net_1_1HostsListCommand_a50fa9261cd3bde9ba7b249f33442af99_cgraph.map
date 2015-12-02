@@ -1,0 +1,6 @@
+<map id="org.onosproject.cli.net.HostsListCommand.printHost" name="org.onosproject.cli.net.HostsListCommand.printHost">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotated.html#a534add2e69d3fb4981cd63ad5f9cbf50" title="Returns the key/value annotations. " alt="" coords="248,5,515,32"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1Host.html#affddfa64e5416474b5f33939467d9834" title="Host identification. " alt="" coords="292,56,471,83"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1Host.html#aa63e16b9faea2fb8f8210ad092370b06" title="Returns the most recent host location where the host attaches to the network edge. " alt="" coords="274,107,489,133"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1Host.html#af195a9e5be02239618650153efceab36" title="Returns the VLAN ID tied to this host. " alt="" coords="285,157,478,184"/>
+</map>

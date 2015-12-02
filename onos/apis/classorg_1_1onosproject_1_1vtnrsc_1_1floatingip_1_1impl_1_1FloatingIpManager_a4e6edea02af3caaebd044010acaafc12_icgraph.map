@@ -1,0 +1,4 @@
+<map id="org.onosproject.vtnrsc.floatingip.impl.FloatingIpManager.getFloatingIps" name="org.onosproject.vtnrsc.floatingip.impl.FloatingIpManager.getFloatingIps">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnrsc_1_1floatingip_1_1impl_1_1FloatingIpManager.html#a74367eb385b572b71eeeca4908182394" title="Returns is used or not of specific fixed IP address. " alt="" coords="294,5,533,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1vtnrsc_1_1floatingip_1_1impl_1_1FloatingIpManager.html#a92ba254f2181a1e03725b13639156b02" title="Returns is used or not of specific floating IP address. " alt="" coords="294,70,533,111"/>
+</map>

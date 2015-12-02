@@ -1,0 +1,4 @@
+<map id="org.onlab.packet.IpPrefix.getIp6Prefix" name="org.onlab.packet.IpPrefix.getIp6Prefix">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1IpPrefix.html#a40959918dc847c18e26e1db6fa4b6713" title="Tests whether the IP version of this prefix is IPv6. " alt="" coords="245,5,443,32"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1IpPrefix.html#a0804680278fcde788563c7140039ab03" title="Returns the IP address prefix length. " alt="" coords="243,57,445,98"/>
+</map>

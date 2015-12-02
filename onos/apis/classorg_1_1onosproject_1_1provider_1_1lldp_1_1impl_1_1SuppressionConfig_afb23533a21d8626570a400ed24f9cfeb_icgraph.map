@@ -1,0 +1,4 @@
+<map id="org.onosproject.provider.lldp.impl.SuppressionConfig.annotation" name="org.onosproject.provider.lldp.impl.SuppressionConfig.annotation">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1provider_1_1lldp_1_1impl_1_1SuppressionConfig.html#a44b8ec6be1b38a23b590f9cc62ee11e9" title="Sets annotation of Ports on which LinkDiscovery is suppressed. " alt="" coords="307,5,525,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1provider_1_1lldp_1_1impl_1_1SuppressionConfigTest.html#aea5c73ac191d40a0a4986ed2bdb6a751" title="org.onosproject.provider.lldp.impl.\lSuppressionConfigTest.testDeviceAnnotation" alt="" coords="273,70,559,111"/>
+</map>

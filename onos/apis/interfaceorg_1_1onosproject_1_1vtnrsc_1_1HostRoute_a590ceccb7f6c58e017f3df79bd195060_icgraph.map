@@ -1,0 +1,4 @@
+<map id="org.onosproject.vtnrsc.HostRoute.destination" name="org.onosproject.vtnrsc.HostRoute.destination">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnweb_1_1web_1_1HostRoutesCodec.html#aca7c9e7a264b058c705affbd35874821" title="org.onosproject.vtnweb.web.\lHostRoutesCodec.encode" alt="" coords="248,5,437,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1vtnrsc_1_1DefaultHostRouteTest.html#a97dd207c616c81541acebe3117e94505" title="Checks the construction of a DefaultHostRoute object. " alt="" coords="237,70,448,111"/>
+</map>

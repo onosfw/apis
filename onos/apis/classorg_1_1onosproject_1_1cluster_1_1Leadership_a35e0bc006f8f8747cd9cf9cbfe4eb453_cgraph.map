@@ -1,0 +1,7 @@
+<map id="org.onosproject.cluster.Leadership.equals" name="org.onosproject.cluster.Leadership.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1cluster_1_1Leadership.html#af0f068937a5aed9fe48cd55de02ed0f0" title="org.onosproject.cluster.\lLeadership.Leadership" alt="" coords="214,103,373,145"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1cluster_1_1Leadership.html#a2fe16bcbd0033ed889b1323f67192b79" title="The system time when the term started. " alt="" coords="421,5,581,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1cluster_1_1Leadership.html#ad4483bb53411392cd664b8843367acc3" title="The epoch when the leadership was assumed. " alt="" coords="422,70,581,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1cluster_1_1Leadership.html#abb1f0530e390e8a86b93367b9f64fbf1" title="The nodeId of leader for this topic. " alt="" coords="422,135,581,177"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1cluster_1_1Leadership.html#a4bbfb845d7eb487f29abef924614ab7f" title="The topic for which this leadership applies. " alt="" coords="422,201,581,242"/>
+</map>

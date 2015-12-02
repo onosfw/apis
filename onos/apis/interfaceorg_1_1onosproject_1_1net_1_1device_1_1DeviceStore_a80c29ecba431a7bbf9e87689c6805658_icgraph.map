@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.device.DeviceStore.createOrUpdateDevice" name="org.onosproject.net.device.DeviceStore.createOrUpdateDevice">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleDeviceStoreTest.html#a4a68824333c5c658dc68e8194a36ebe5" title="org.onosproject.store.trivial.\lSimpleDeviceStoreTest.testCreate\lOrUpdateDevice" alt="" coords="334,5,559,61"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStoreTest.html#ae7a96a4d0878f2969445b4fc803e7a6c" title="org.onosproject.store.device.impl.\lGossipDeviceStoreTest.testCreateOrUpdateDevice" alt="" coords="285,86,608,127"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleDeviceStoreTest.html#aee91fff5db66120c52f11a1a4afb1b35" title="org.onosproject.store.trivial.\lSimpleDeviceStoreTest.testCreate\lOrUpdateDeviceAncillary" alt="" coords="334,152,559,208"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1store_1_1device_1_1impl_1_1GossipDeviceStoreTest.html#a40337dab00408dbd8d65f99cf0824172" title="org.onosproject.store.device.impl.\lGossipDeviceStoreTest.testCreateOrUpdate\lDeviceAncillary" alt="" coords="305,232,588,288"/>
+</map>

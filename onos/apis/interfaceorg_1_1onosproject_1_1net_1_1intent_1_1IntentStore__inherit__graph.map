@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.intent.IntentStore" name="org.onosproject.net.intent.IntentStore">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1intent_1_1impl_1_1GossipIntentStore.html" title="Manages inventory of Intents in a distributed data store that uses optimistic replication and gossip ..." alt="" coords="430,5,642,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1trivial_1_1SimpleIntentStore.html" title="Simple single&#45;instance implementation of the intent store. " alt="" coords="445,70,627,111"/>
+</map>

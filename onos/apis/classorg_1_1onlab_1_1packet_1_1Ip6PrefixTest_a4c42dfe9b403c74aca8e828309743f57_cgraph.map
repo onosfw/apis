@@ -1,0 +1,5 @@
+<map id="org.onlab.packet.Ip6PrefixTest.testEqualityIPv6" name="org.onlab.packet.Ip6PrefixTest.testEqualityIPv6">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1Ip6Prefix.html#af80b8d191c8978efd3ee7b0d9d93aff5" title="Converts a byte array and a prefix length into an IPv6 prefix. " alt="" coords="230,41,453,68"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1IpPrefix.html#a0804680278fcde788563c7140039ab03" title="Returns the IP address prefix length. " alt="" coords="519,5,721,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1packet_1_1Ip6Address.html#a1226023d0426778f64d49e234400bb1f" title="Converts a byte array into an IPv6 address. " alt="" coords="501,71,739,97"/>
+</map>

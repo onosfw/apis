@@ -1,0 +1,4 @@
+<map id="org.onosproject.segmentrouting.config.SegmentRoutingConfig.AdjacencySid.getAsid" name="org.onosproject.segmentrouting.config.SegmentRoutingConfig.AdjacencySid.getAsid">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1segmentrouting_1_1config_1_1DeviceConfiguration.html#afb6362b9b621b6b5dc6e66268556bd4f" title="Returns the ports corresponding to the adjacency Sid given. " alt="" coords="345,5,637,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1segmentrouting_1_1config_1_1DeviceConfiguration.html#a34d4896d9c7b114f89798d0c9c0665d6" title="Check if the Sid given is whether adjacency Sid of the router device or not. " alt="" coords="367,70,614,111"/>
+</map>

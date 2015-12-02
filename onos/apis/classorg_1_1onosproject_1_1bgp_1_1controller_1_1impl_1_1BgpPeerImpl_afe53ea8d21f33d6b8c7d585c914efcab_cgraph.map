@@ -1,0 +1,5 @@
+<map id="org.onosproject.bgp.controller.impl.BgpPeerImpl.setChannel" name="org.onosproject.bgp.controller.impl.BgpPeerImpl.setChannel">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpPeerImpl.html#ab7a2c31da30e2b7542190a2fbe35e9ac" title="Identifies the channel used to communicate with the bgp peer. " alt="" coords="281,5,506,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1IpAddress.html#abc66c472c6960c7f6941319edb154d2d" title="Tests whether the IP version of this address is IPv4. " alt="" coords="287,71,500,97"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1packet_1_1IpAddress.html#a5e049bb120d15e0ada504c2d48959ace" title="Returns the IP version of this address. " alt="" coords="555,71,781,97"/>
+</map>

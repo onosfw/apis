@@ -1,0 +1,4 @@
+<map id="org.onosproject.ui.impl.topo.IntentSelection.all" name="org.onosproject.ui.impl.topo.IntentSelection.all">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1topo_1_1IntentSelection.html#a187a5e3a8defd533cd09ce47c322e1a5" title="Returns the currently marked intent, or null if &quot;all&quot; intents are marked. " alt="" coords="240,5,427,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1impl_1_1topo_1_1IntentSelection.html#a96cd56a36b876c69873badb5b44d1385" title="Returns true if there is a single intent in this select group, or if a specific intent has been marke..." alt="" coords="240,70,427,111"/>
+</map>

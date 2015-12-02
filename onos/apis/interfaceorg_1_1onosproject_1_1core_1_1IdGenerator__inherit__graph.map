@@ -1,0 +1,6 @@
+<map id="org.onosproject.core.IdGenerator" name="org.onosproject.core.IdGenerator">
+<area shape="rect" id="node2" title="Mock id generator for testing. " alt="" coords="268,5,476,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1core_1_1impl_1_1BlockAllocatorBasedIdGenerator.html" title="Base class of IdGenerator implementations which use IdBlockAllocator as backend. " alt="" coords="267,70,477,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1MockIdGenerator.html" title="Mock id generator for testing. " alt="" coords="285,135,459,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1vtn_1_1util_1_1DataPathIdGenerator.html" title="org.onosproject.vtn.util.\lDataPathIdGenerator" alt="" coords="293,201,451,242"/>
+</map>

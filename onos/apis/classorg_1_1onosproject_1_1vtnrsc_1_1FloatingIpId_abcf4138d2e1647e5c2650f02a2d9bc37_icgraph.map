@@ -1,0 +1,4 @@
+<map id="org.onosproject.vtnrsc.FloatingIpId.of" name="org.onosproject.vtnrsc.FloatingIpId.of">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1vtnrsc_1_1cli_1_1floatingip_1_1FloatingIpCreateCommand.html#a674cc68c90861fc8b0dc400262b41672" title="Executes this command. " alt="" coords="263,5,491,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1vtnweb_1_1resources_1_1FloatingIpWebResource.html#ab34cd144b9014af6194a7925f5794e29" title="org.onosproject.vtnweb.resources.\lFloatingIpWebResource.getFloatingIp" alt="" coords="257,70,498,111"/>
+</map>

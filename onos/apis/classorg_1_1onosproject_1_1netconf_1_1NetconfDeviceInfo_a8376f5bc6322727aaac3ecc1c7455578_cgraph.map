@@ -1,0 +1,7 @@
+<map id="org.onosproject.netconf.NetconfDeviceInfo.equals" name="org.onosproject.netconf.NetconfDeviceInfo.equals">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1netconf_1_1NetconfDeviceInfo.html#aa6d0a7c410b83a0ae1ed64695a11873f" title="Exposes the ip address of the controller. " alt="" coords="268,5,431,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1netconf_1_1NetconfDeviceInfo.html#abe6654e6035f33f85d7d7f9434af83b1" title="Exposes the name of the controller. " alt="" coords="533,69,699,110"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1netconf_1_1NetconfDeviceInfo.html#a41ea4cbfcbe0f1ae75bc211e4f1989ce" title="Information for contacting the controller. " alt="" coords="227,173,471,214"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1netconf_1_1NetconfDeviceInfo.html#a8c1a7290d377a62c7eb700d497eb2811" title="Exposes the password of the controller. " alt="" coords="521,138,711,179"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1netconf_1_1NetconfDeviceInfo.html#a791364ebc3ca25bc032de73fc9b0c3c7" title="Exposes the port of the controller. " alt="" coords="535,213,697,254"/>
+</map>

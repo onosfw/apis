@@ -1,0 +1,4 @@
+<map id="org.onlab.packet.ndp.RouterSolicitationTest.testSerialize" name="org.onlab.packet.ndp.RouterSolicitationTest.testSerialize">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1ndp_1_1RouterSolicitation.html#ac01f372c795f654cfca0bcb6086ec61a" title="Sets all payloads parent packet if applicable, then serializes this packet and all payloads..." alt="" coords="243,5,429,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1ndp_1_1NeighborDiscoveryOptions.html#aeeb492759b1d3b7092d43fb231834623" title="Checks whether any options are included. " alt="" coords="478,5,677,46"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.device.DeviceServiceAdapter" name="org.onosproject.net.device.DeviceServiceAdapter">
+<area shape="rect" id="node8" title="Mocks the device service so that a device appears available in the test. " alt="" coords="723,283,999,339"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html" title="Service for interacting with the inventory of infrastructure devices. " alt="" coords="264,254,443,295"/>
+</map>

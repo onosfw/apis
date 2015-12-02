@@ -1,0 +1,5 @@
+<map id="org.onosproject.acl.AclWebResourceTest" name="org.onosproject.acl.AclWebResourceTest">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1rest_1_1ResourceTest.html" title="Base class for REST API tests. " alt="" coords="145,5,367,32"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1acl_1_1AclService.html" title="Service interface exported by ACL application. " alt="" coords="157,123,355,149"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1acl_1_1AclStore.html" title="Service interface exported by ACL distributed store. " alt="" coords="163,173,349,200"/>
+</map>

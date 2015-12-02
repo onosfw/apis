@@ -1,0 +1,4 @@
+<map id="org.onosproject.routing.RoutingService" name="org.onosproject.routing.RoutingService">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1routing_1_1impl_1_1Router.html" title="This class processes route updates and maintains a Routing Information Base (RIB). " alt="" coords="5,97,192,138"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1routing_1_1impl_1_1StaticRouter.html" title="Static router maintains handle to FIB listener. " alt="" coords="216,97,403,138"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.flow.criteria.Icmpv6TypeCriterion.icmpv6Type" name="org.onosproject.net.flow.criteria.Icmpv6TypeCriterion.icmpv6Type">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1Icmpv6TypeCriterion.html#aca5abe880128546e82d4e4b3fb101992" title="org.onosproject.net.flow.criteria.\lIcmpv6TypeCriterion.equals" alt="" coords="272,5,480,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1flow_1_1criteria_1_1Icmpv6TypeCriterion.html#a51b6a794f63ad99a7e2b3adedd818b80" title="org.onosproject.net.flow.criteria.\lIcmpv6TypeCriterion.toString" alt="" coords="272,70,480,111"/>
+</map>

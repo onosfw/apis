@@ -1,0 +1,3 @@
+<map id="org.onosproject.cfg.impl.ComponentConfigManager.unregisterProperties" name="org.onosproject.cfg.impl.ComponentConfigManager.unregisterProperties">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1cfg_1_1ComponentConfigStore.html#aa59bd3f1a9930fb1250f4e81d07f2df7" title="Clears the value of the specified configuration property thus making the property take on its default..." alt="" coords="294,13,498,54"/>
+</map>

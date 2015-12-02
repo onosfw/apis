@@ -1,0 +1,4 @@
+<map id="org.onosproject.ovsdb.rfc.table.Port.getInterfacesColumn" name="org.onosproject.ovsdb.rfc.table.Port.getInterfacesColumn">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ovsdb_1_1controller_1_1driver_1_1DefaultOvsdbClient.html#a181568d295c938f65f36125402ddab8f" title="Gets the Interface uuid. " alt="" coords="259,5,506,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ovsdb_1_1controller_1_1driver_1_1DefaultOvsdbClient.html#ab092ddc51f836e1d67685cf9d9019407" title="Creates the configuration for tunnel. " alt="" coords="555,5,802,46"/>
+</map>

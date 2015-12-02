@@ -1,0 +1,10 @@
+<map id="org.onosproject.net.DefaultEdgeLink" name="org.onosproject.net.DefaultEdgeLink">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1DefaultLink.html" title="Default infrastructure link model implementation. " alt="" coords="723,71,925,97"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1AbstractModel.html" title="Base implementation of a network model entity. " alt="" coords="488,55,675,97"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1AbstractAnnotated.html" title="Base abstraction of an annotated entity. " alt="" coords="252,5,439,46"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotated.html" title="Represents an entity that carries arbitrary annotations. " alt="" coords="6,67,202,93"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1onosproject_1_1net_1_1Link.html" title="Abstraction of a network infrastructure link. " alt="" coords="501,121,662,148"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1onosproject_1_1net_1_1Provided.html" title="Abstraction of an entity supplied by a provider. " alt="" coords="251,71,439,97"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1onosproject_1_1net_1_1EdgeLink.html" title="Abstraction of a link between an end&#45;station host and the network infrastructure. ..." alt="" coords="729,121,919,148"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1onosproject_1_1net_1_1NetworkResource.html" title="Representation of a network resource, e.g. " alt="" coords="252,173,439,214"/>
+</map>

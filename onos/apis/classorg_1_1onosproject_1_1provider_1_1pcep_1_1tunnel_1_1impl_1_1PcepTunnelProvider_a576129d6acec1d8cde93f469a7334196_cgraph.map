@@ -1,0 +1,5 @@
+<map id="org.onosproject.provider.pcep.tunnel.impl.PcepTunnelProvider.tunnelAdded" name="org.onosproject.provider.pcep.tunnel.impl.PcepTunnelProvider.tunnelAdded">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1TunnelDescription.html#a4b1c110821f74c0d34289463f4dc1dee" title="Returns the connection point destination. " alt="" coords="318,5,551,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1OpticalTunnelEndPoint.html#a2b548c1d266f97b62ef071ed85de6c21" title="Returns the parent network element to which this tunnel point belongs. " alt="" coords="318,70,551,111"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1incubator_1_1net_1_1tunnel_1_1TunnelDescription.html#adad14ab1e0c6742ef2ef06a35f3df47a" title="Returns the tunnel type. " alt="" coords="318,135,551,177"/>
+</map>

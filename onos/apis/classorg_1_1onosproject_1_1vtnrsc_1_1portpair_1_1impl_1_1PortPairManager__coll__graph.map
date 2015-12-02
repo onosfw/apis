@@ -1,0 +1,4 @@
+<map id="org.onosproject.vtnrsc.portpair.impl.PortPairManager" name="org.onosproject.vtnrsc.portpair.impl.PortPairManager">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1vtnrsc_1_1portpair_1_1PortPairService.html" title="Service for interacting with the inventory of port pairs. " alt="" coords="5,5,208,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1store_1_1service_1_1StorageService.html" title="Storage service. " alt="" coords="9,70,204,111"/>
+</map>

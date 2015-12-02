@@ -1,0 +1,5 @@
+<map id="org.onosproject.ui.topo.NodeHighlight" name="org.onosproject.ui.topo.NodeHighlight">
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1DeviceHighlight.html" title="Denotes the highlighting to be applied to a device. " alt="" coords="5,187,163,229"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1HostHighlight.html" title="Denotes the highlighting to apply to a host. " alt="" coords="187,187,345,229"/>
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1ui_1_1topo_1_1AbstractHighlight.html" title="Partial implementation of the highlighting to apply to topology view elements. " alt="" coords="95,6,253,47"/>
+</map>

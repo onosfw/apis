@@ -1,0 +1,6 @@
+<map id="org.onlab.packet.ipv6.FragmentTest.testDeserialize" name="org.onlab.packet.ipv6.FragmentTest.testDeserialize">
+<area shape="rect" id="node2" href="$classorg_1_1onlab_1_1packet_1_1ipv6_1_1Fragment.html#a918d6064cd50c72a7b4f08a371381749" title="Gets the fragment offset of this header. " alt="" coords="259,5,485,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onlab_1_1packet_1_1ipv6_1_1Fragment.html#aea0a32c8dccd8b67853493e6515a4ec5" title="Gets the identification of this header. " alt="" coords="259,70,485,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onlab_1_1packet_1_1ipv6_1_1Fragment.html#a32bf09aa10418efee5f778c007213564" title="Gets the more fragment flag of this header. " alt="" coords="259,135,485,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onlab_1_1packet_1_1ipv6_1_1Fragment.html#ac8e17a6f4700738c8b04d41195ba5330" title="Gets the type of next header. " alt="" coords="259,201,485,242"/>
+</map>

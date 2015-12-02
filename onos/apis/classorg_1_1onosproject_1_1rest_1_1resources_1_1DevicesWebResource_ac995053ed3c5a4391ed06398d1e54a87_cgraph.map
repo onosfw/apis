@@ -1,0 +1,4 @@
+<map id="org.onosproject.rest.resources.DevicesWebResource.getDevicePorts" name="org.onosproject.rest.resources.DevicesWebResource.getDevicePorts">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html#a1d0a9294ac76b293cba4dd77009f539f" title="Returns the device with the specified identifier. " alt="" coords="301,5,480,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1device_1_1DeviceService.html#a3aa00dea557888f545668439498bdb08" title="Returns the list of ports associated with the device. " alt="" coords="301,70,480,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="org.onosproject.store.intent.impl.GossipIntentStore.getIntentCount" name="org.onosproject.store.intent.impl.GossipIntentStore.getIntentCount">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1store_1_1intent_1_1impl_1_1GossipIntentStoreTest.html#a5f88a9588c7367147461e29e367b999f" title="Tests adding and withdrawing an Intent. " alt="" coords="273,5,586,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1store_1_1intent_1_1impl_1_1GossipIntentStoreTest.html#a822db6e45f43f1cbb2ffaf1c680a5f8b" title="Tests the batch add API. " alt="" coords="311,70,547,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1store_1_1intent_1_1impl_1_1GossipIntentStoreTest.html#a87bc7c664850e2d3df9c5905af7dcb37" title="Tests the intent count APIs. " alt="" coords="295,135,563,177"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.newresource.ResourceAllocation.resource" name="org.onosproject.net.newresource.ResourceAllocation.resource">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1newresource_1_1ResourceAllocation.html#ae27b27a90e7e647cfb0108ae325e292d" title="org.onosproject.net.newresource.\lResourceAllocation.hashCode" alt="" coords="283,5,498,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1newresource_1_1impl_1_1ResourceManager.html#a80fa19de390e3f150670d761df6bcc4d" title="Transactionally releases the specified resource allocations. " alt="" coords="269,70,512,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1newresource_1_1ResourceAllocation.html#af2355081b627e3e78d0c97f53b468330" title="org.onosproject.net.newresource.\lResourceAllocation.toString" alt="" coords="283,135,498,177"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1newresource_1_1impl_1_1ResourceManager.html#a72f9e053f58732d610df4227faa798ea" title="Transactionally releases the resources allocated to the specified consumer. " alt="" coords="560,70,803,111"/>
+</map>

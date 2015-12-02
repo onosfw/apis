@@ -1,0 +1,6 @@
+<map id="org.onosproject.net.link.impl.BasicLinkOperator.descriptionOf" name="org.onosproject.net.link.impl.BasicLinkOperator.descriptionOf">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1link_1_1impl_1_1BasicLinkOperator.html#aa18f83a1fefb29be026b0e01b0ed448a" title="Generates a LinkDescription containing fields from a LinkDescription and a LinkConfig. " alt="" coords="264,59,453,101"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1config_1_1basics_1_1BasicLinkConfig.html#a1f3954a57dd0d5661093ae9cb35a3a91" title="Returns the link type. " alt="" coords="529,122,748,163"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1Description.html#a546df2cfe2e5a027f36ef24fdb0fc9f4" title="Returns the key/value annotations. " alt="" coords="501,5,776,32"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1onosproject_1_1net_1_1link_1_1LinkDescription.html#a6a60a97374d0e2ab53ef065e56bb77fe" title="Returns the link source. " alt="" coords="558,57,719,98"/>
+</map>

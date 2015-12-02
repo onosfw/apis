@@ -1,0 +1,4 @@
+<map id="org.onosproject.bgp.controller.impl.BgpConfig.setRouterId" name="org.onosproject.bgp.controller.impl.BgpConfig.setRouterId">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpConfig.html#a843d8946a9f62d370918facd674799bb" title="Returns the status of the configuration based on this state certain operations like connection is han..." alt="" coords="281,5,506,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpConfig.html#a137fe214b9e3d135fb084d4427deff1f" title="org.onosproject.bgp.controller.impl.\lBgpConfig.setState" alt="" coords="281,70,506,111"/>
+</map>

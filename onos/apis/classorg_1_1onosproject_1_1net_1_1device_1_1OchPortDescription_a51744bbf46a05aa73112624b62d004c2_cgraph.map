@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.device.OchPortDescription.OchPortDescription" name="org.onosproject.net.device.OchPortDescription.OchPortDescription">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1device_1_1OchPortDescription.html#aca69b8481bf685bff49480e5154402e3" title="Returns true if port is wavelength tunable. " alt="" coords="313,5,509,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1device_1_1OchPortDescription.html#a5e9bb901c343e9fb58352c90cc0784fc" title="Returns ODU signal type. " alt="" coords="309,70,512,111"/>
+</map>

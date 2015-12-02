@@ -1,0 +1,4 @@
+<map id="org.onosproject.codec.impl.HostCodec.encode" name="org.onosproject.codec.impl.HostCodec.encode">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1Host.html#aa276099a5417824b60aac8596ce01f0a" title="Returns set of IP addresses currently bound to the host MAC address. " alt="" coords="245,5,424,46"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1Host.html#abf0c7949975a9d613c8ca2b757d30a13" title="Returns the host MAC address. " alt="" coords="237,71,432,97"/>
+</map>

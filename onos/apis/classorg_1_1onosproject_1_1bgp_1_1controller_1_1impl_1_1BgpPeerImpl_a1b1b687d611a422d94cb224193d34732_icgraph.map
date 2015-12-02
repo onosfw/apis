@@ -1,0 +1,4 @@
+<map id="org.onosproject.bgp.controller.impl.BgpPeerImpl.setPathAttrDetails" name="org.onosproject.bgp.controller.impl.BgpPeerImpl.setPathAttrDetails">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpPeerImpl.html#a35457da44d201bab09b1439bb69afe43" title="Updates NLRI identifier node in a tree separately based on afi and safi. " alt="" coords="281,5,506,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1bgp_1_1controller_1_1impl_1_1BgpPeerImpl.html#a7ce71e433ab05c8ad28dd8d0eeffb0fc" title="Maintaining Adj&#45;RIB&#45;In separately for each peer. " alt="" coords="555,5,781,46"/>
+</map>

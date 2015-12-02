@@ -1,0 +1,24 @@
+<map id="core/api/src/main/java/org/onosproject/net" name="core/api/src/main/java/org/onosproject/net">
+<area shape="rect" id="node2" href="dir_c80c5a3e21d6a74a10d9231587e85e28.html" title="behaviour" alt="" coords="1913,63,1991,111"/>
+<area shape="rect" id="node3" href="dir_4c69a4c7f5b0e2fbd82fed9579a28247.html" title="config" alt="" coords="1816,63,1888,111"/>
+<area shape="rect" id="node4" href="dir_11eef297767308edfda8fb72a6767b34.html" title="device" alt="" coords="1720,63,1792,111"/>
+<area shape="rect" id="node5" href="dir_74bd63f98e2db1d13d9096e71e646329.html" title="driver" alt="" coords="1624,63,1696,111"/>
+<area shape="rect" id="node6" href="dir_8fbf89d2155cdd487f56025a817e1738.html" title="edge" alt="" coords="1528,63,1600,111"/>
+<area shape="rect" id="node7" href="dir_3a608e11c0f4c16505e55b538daa2145.html" title="flow" alt="" coords="1432,63,1504,111"/>
+<area shape="rect" id="node8" href="dir_2fd5b2576d22f1e4d438697c90181db4.html" title="flowobjective" alt="" coords="1309,63,1408,111"/>
+<area shape="rect" id="node9" href="dir_daf10900e40fdf8ac849d7f4549bc1ff.html" title="group" alt="" coords="1213,63,1285,111"/>
+<area shape="rect" id="node10" href="dir_5eef8e6c2e7fe6a77318aec2b098f4c4.html" title="host" alt="" coords="1117,63,1189,111"/>
+<area shape="rect" id="node11" href="dir_e13741f9e429b386130c69698840b16d.html" title="intent" alt="" coords="1021,63,1093,111"/>
+<area shape="rect" id="node12" href="dir_c40b636920a63ab853d2b1b22123ff94.html" title="link" alt="" coords="925,63,997,111"/>
+<area shape="rect" id="node13" href="dir_8ab36889fc0dbaf45017db50e84e7e9b.html" title="mcast" alt="" coords="829,63,901,111"/>
+<area shape="rect" id="node14" href="dir_5a8b3231abb7297de09e7d21e23e76c3.html" title="meter" alt="" coords="733,63,805,111"/>
+<area shape="rect" id="node15" href="dir_d408b38016553b7a8d3e4636c6a5aae9.html" title="newresource" alt="" coords="613,63,709,111"/>
+<area shape="rect" id="node16" href="dir_587ea58e4ed8ae3d3f2c11980769cc86.html" title="packet" alt="" coords="517,63,589,111"/>
+<area shape="rect" id="node17" href="dir_2f9a626fbe53a8965c0a2fc25c136d54.html" title="provider" alt="" coords="421,63,493,111"/>
+<area shape="rect" id="node18" href="dir_c7004c7ffc729f7cb58e27df5eec7bd4.html" title="proxyarp" alt="" coords="325,63,397,111"/>
+<area shape="rect" id="node19" href="dir_30f93563aae1c457f8f54f03f5360750.html" title="resource" alt="" coords="229,63,301,111"/>
+<area shape="rect" id="node20" href="dir_df3c607f6eb4d96b87f6500c324db0bf.html" title="statistic" alt="" coords="133,63,205,111"/>
+<area shape="rect" id="node21" href="dir_80757eb0922d357de298692c53723369.html" title="topology" alt="" coords="37,63,109,111"/>
+<area shape="rect" id="clust2" href="dir_01ac89391a25db04fbdd9149a8f52556.html" alt="" coords="27,52,2099,121"/>
+<area shape="rect" id="clust1" href="dir_b0dd512fcbb763d13f8db7f2f298f321.html" title="onosproject" alt="" coords="16,16,2109,132"/>
+</map>

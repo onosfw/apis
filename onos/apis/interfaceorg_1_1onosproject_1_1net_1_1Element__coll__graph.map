@@ -1,0 +1,4 @@
+<map id="org.onosproject.net.Element" name="org.onosproject.net.Element">
+<area shape="rect" id="node2" href="$interfaceorg_1_1onosproject_1_1net_1_1Annotated.html" title="Represents an entity that carries arbitrary annotations. " alt="" coords="5,5,200,32"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1onosproject_1_1net_1_1Provided.html" title="Abstraction of an entity supplied by a provider. " alt="" coords="225,5,412,32"/>
+</map>

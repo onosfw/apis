@@ -1,0 +1,7 @@
+<map id="org.onosproject.codec.impl.IntentCodecTest.decodePointToPointIntent" name="org.onosproject.codec.impl.IntentCodecTest.decodePointToPointIntent">
+<area shape="rect" id="node2" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1ConnectivityIntent.html#a46beafa19039b20ca0de6c96f4f4c028" title="Returns the set of connectivity constraints. " alt="" coords="294,5,490,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1onosproject_1_1net_1_1PortNumber.html#af4b74e15d508cb9820ffea4fba13890e" title="Returns the port number representing the specified long value. " alt="" coords="311,70,473,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1Intent.html#a4f0242ba0f6aa662534da31fcc9fe9d8" title="Returns the priority of the intent. " alt="" coords="305,135,479,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1ConnectivityIntent.html#aef4be7678fbfa88b9d130630c14ceecd" title="Returns the match specifying the type of traffic. " alt="" coords="303,201,481,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1onosproject_1_1net_1_1intent_1_1ConnectivityIntent.html#a01f1e0a2278429c1d252c243f1d103da" title="Returns the action applied to the traffic. " alt="" coords="299,266,485,307"/>
+</map>
